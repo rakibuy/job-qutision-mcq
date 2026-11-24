@@ -1,0 +1,250 @@
+{
+  "examSlug": "ict_mailoperator_2023-05-27",
+  "examTitle": "ict_mailoperator_2023-05-27",
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_mailoperator_2023-05-27",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "৯০° কোণের সম্পূরক কোণ কত ডিগ্রি?",
+      "options": [
+        "০°",
+        "৯০°",
+        "২৮০°",
+        "১৮০°"
+      ],
+      "correctIndex": 1,
+      "explanation": "আমরা জানি দুটি কোণের পরিমাপের সমষ্টি \\$(180^^\\circ$\\) বা দুই সমকোণ হলে একটিকে অপরটির সম্পূরক কোণ বলে । ধরি \\$(90^^\\circ$\\) কোণের সম্পূরক কোণটি হলো \\(x\\)। সম্পূরক কোণের সংজ্ঞানুসারে: \\$[90^^\\circ + x = 180^^\\circ$\\] বা \\$(x = 180^^\\circ - 90^^\\circ$\\) অতএব \\$(x = 90^^\\circ$\\) সুতরাং \\$(90^^\\circ$\\) কোণের সম্পূরক কোণ হলো \\$(90^^\\circ$\\)। - সঠিক উত্তর: অপশন ৩: ৯০° সোর্সঃ খাইরুল বেসিক গণিত",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 2,
+      "question": "কোন পরীক্ষায় বাংলায় ৬০%, গণিতে ৫০% এবং ৪০% উভয় বিষয়ে পাস করে। উভয় বিষয়ে ৬০জন ফেল করলে মোট পরীক্ষার্থীর সংখ্যা কত?",
+      "options": [
+        "১৭০",
+        "২২০",
+        "২০০",
+        "২৩০"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: ২০০।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 3,
+      "question": "x + y x + x - y y - x 2 - y 2 x y = ?",
+      "options": [
+        "y x",
+        "2 x y",
+        "x y",
+        "2 y x"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: 2 y x।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "x + y = 8 , x - y = 6 হলে, x 2 + y 2 এর মান কত?",
+      "options": [
+        "45",
+        "46",
+        "50",
+        "49"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: 50।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 5,
+      "question": "একটি কোণের পরিমাণ ৮০ ডিগ্রি হলে একে কি কোণ বলে?",
+      "options": [
+        "স্থুল কোণ",
+        "সূক্ষ্ম কোণ",
+        "সমকোণ",
+        "সরলকোণ"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: সূক্ষ্ম কোণ।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 6,
+      "question": "x + 1 x = 4 হলে, x 4 + 1 x 4 এর মান কত?",
+      "options": [
+        "79",
+        "194",
+        "192",
+        "193"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: 194।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 7,
+      "question": "Where do the following lines occur in? “Alone alone, all, all alone, Alone on a wide, wide sea”...",
+      "options": [
+        "The Rime of the Ancient Mariner",
+        "Kubla Khan",
+        "The Nightingale",
+        "The Dungeon"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘The Rime of the Ancient Mariner’ কবিতাটি Lyrical Ballads এর অন্তর্ভুক্ত যা S.T.Coleridge রচিত।প্রশ্নের চরণগুলো ‘The Rime of the Ancient Mariner’ কবিতা থেকে নেয়া হয়েছে।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "Imperialism, the Highest Stage of Capitalism --Who wrote?",
+      "options": [
+        "Thomas Hobbes",
+        "V. Lenin",
+        "Karl Marx",
+        "Plato"
+      ],
+      "correctIndex": 1,
+      "explanation": "রচয়িতা: V. Lenin।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 9,
+      "question": "Which is the correct sentence?",
+      "options": [
+        "He is compared with a Lion",
+        "He is compared to a Lion.",
+        "He is compared of a Lion.",
+        "He is compared on a Lion."
+      ],
+      "correctIndex": 1,
+      "explanation": "'He is a perfect judge' — প্রশ্নমতো শুদ্ধ।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "Once in a ‘blue moon’ means --.",
+      "options": [
+        "always",
+        "very rarely",
+        "nearly",
+        "hourly"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: very rarely।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "সঠিক বানান কোনটি?",
+      "options": [
+        "প্রতিযোগীতা",
+        "ভৌগোলিক",
+        "গুনীজন",
+        "মধ্যাহ্ন"
+      ],
+      "correctIndex": 3,
+      "explanation": "শুদ্ধ বানান: \"মধ্যাহ্ন\"।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 12,
+      "question": "'আভাসিত' শব্দটির প্রত্যয় কোনটি?",
+      "options": [
+        "বাংলা কৃৎ",
+        "সংস্কৃত কৃৎ",
+        "বাংলা তদ্বিত",
+        "সংস্কৃত তদ্বিত"
+      ],
+      "correctIndex": 1,
+      "explanation": "প্রত্যয়: সংস্কৃত কৃৎ।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 13,
+      "question": "সাংবাদিক শব্দে “ইক\" অংশটুকু কি?",
+      "options": [
+        "উপসর্গ",
+        "চলক",
+        "প্রত্যয়",
+        "নির্দেশক"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: প্রত্যয়।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 14,
+      "question": "কুইনাইন কোন গাছ থেকে তৈরি হয়?",
+      "options": [
+        "সিনকোনা",
+        "কালমেঘ",
+        "বাসক",
+        "ফনিমনষা"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: সিনকোনা।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 15,
+      "question": "পৃথিবীর কোন শহর দুই মহাদেশে অবস্থিত?",
+      "options": [
+        "আংকারা",
+        "কাজাখাস্থান",
+        "ইস্তাম্বুল",
+        "লিসবন"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: ইস্তাম্বুল।",
+      "appearedIn": [
+        "বাংলাদেশ ডাক বিভাগ; মেট্রোপলিটন সার্কেল —  মেইল অপারেটর 2023-05-27"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    }
+  ]
+}

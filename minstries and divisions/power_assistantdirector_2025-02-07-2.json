@@ -1,0 +1,250 @@
+{
+  "examSlug": "power_assistantdirector_2025-02-07-2",
+  "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07",
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantdirector_2025-02-07-2",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য যদি 'ক' হয়, তবে ক্ষেত্রফল কত হবে?",
+      "options": [
+        "৩ ৪ ক ২",
+        "৩ ২ ক ৩",
+        "৩ ৫ ক ৩",
+        "৩ ২ ক ৫"
+      ],
+      "correctIndex": 0,
+      "explanation": "ধরি, ∆ABC এর $AB = BC = AC$= ক A বিন্দু থেকে BC এর উপর AD লম্ব অঙ্কন করি। অর্থাৎ AD ⊥ BC আঁকি। ∴ BD = ½ BC = ½ ক সমকোণী ত্রিভুজ ABD হতে পাই,$AD^{2} = AB^{2} - BD^{2}$= ক$^{2}$-(ক$/2)^{2} = (4$ক$^{2}$- ক$^{2})/4 = 3$ক$^{2}/4$= ক$^{2}$-(ক$^{2}/4)$ ∴ $AD = (\\sqrt{3}/2)$ ক ∆ABC এর ক্ষেত্রফল = ½ $BC \\times AD$= ½ ক $\\times (\\sqrt{3}/2)$ ক =$(\\sqrt{3}/4)$ ক$^{2}$ সুতরাং, সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য 'ক' হলে ক্ষেত্রফল হবে $(\\sqrt{3}/4)$ ক$^{2}$।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 2,
+      "question": "একজন দোকানদার প্রতি হালি ডিম ২৫ টাকা দরে ক্রয় করে প্রতি ২ হালি ৫৬ টাকা দরে বিক্রি করলে শতকরা কত টাকা লাভ হয়?",
+      "options": [
+        "১০%",
+        "১১%",
+        "১২%",
+        "১১.৫%"
+      ],
+      "correctIndex": 2,
+      "explanation": "১ হালি ডিমের ক্রয়মূল্য = ২৫ টাকা ১ হালি ডিমের বিক্রয়মূল্য = ৫৬/২ টাকা = ২৮ টাকা ∴ লাভ = ২৮ - ২৫ = ৩ টাকা তাহলে, শতকরা লাভ = (৩/২৫)$\\times$ ১০০% = ১২%",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 3,
+      "question": "সূত্রের সাহায্যে ( x 2 + 2 ) ( x 4 - 2 x 2 + 4 ) এর গুণফল কত?",
+      "options": [
+        "x 2 + 8",
+        "x 3 + 8",
+        "x 4 - 8",
+        "x 6 - 8"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$(x^{2} + 2) (x^{4} - 2x^{2} + 4) = x^{2}(x^{4} - 2x^{2} + 4) + 2(x^{4} - 2x^{2} + 4) = x^{6} - 2x^{4} + 4x^{2} + 2x^{4} - 4x^{2} + 8 = x^{6} + 8$",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 4,
+      "question": "a 2 - 1 2 = 51 হয়, তবে a - 1 a এর মান কত?",
+      "options": [
+        "±a",
+        "±7",
+        "±5",
+        "±3"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: ±7।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 5,
+      "question": "একটি সোনার গহণার ওজন ১৬ গ্রাম। গহণাটিতে কতটুকু সোনা মিশ্রিত করলে সোনা ও তামার অনুপাত ৪ : ১ হবে?",
+      "options": [
+        "৩ গ্রাম",
+        "২ গ্রাম",
+        "২.৫ গ্রাম",
+        "৪ গ্রাম"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: ৪ গ্রাম।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 6,
+      "question": "১ ৫ $\\div$ ১ ৫ $\\times$ ১ ৫ ১ ৫ $\\div$ ১ ৫ এ র ১ ৫ = কত?",
+      "options": [
+        "১০",
+        "২২৫",
+        "১ ২ ২ ৫",
+        "২৫"
+      ],
+      "correctIndex": 1,
+      "explanation": "(১৫ $\\div$ ১৫ $\\times$ ১৫) / (১৫ $\\div$ ১৫ এর ১৫) = (১৫ $\\div$ ১৫ $\\times$ ১৫) / (১৫ $\\div$ ২২৫) = (১ $\\times$ ১৫) / (১৫ $\\div$ ২২৫) = ১৫ / (১৫ $\\div$ ২২৫) = ১৫ / (১৫/২২৫) = ১৫ $\\times$(২২৫/১৫) = ২২৫",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 7,
+      "question": "বাগযন্ত্রের মধ্যে সবচেয়ে সচল ও সক্রিয় প্রত্যঙ্গ কোনটি?",
+      "options": [
+        "দাঁত",
+        "মুর্ধা",
+        "দন্তমূল",
+        "জিভ"
+      ],
+      "correctIndex": 3,
+      "explanation": "জিভ — সবচেয়ে সচল প্রত্যঙ্গ।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 8,
+      "question": "উচ্চারণের স্থান ও প্রকৃতি অনুয়ায়ী বর্ণ কয়ভাগে বিভক্ত?",
+      "options": [
+        "২",
+        "৩",
+        "৪",
+        "৫"
+      ],
+      "correctIndex": 3,
+      "explanation": "উচ্চারণ অনুযায়ী বর্ণ ৫ ভাগ।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 9,
+      "question": "The art of cooking ____ in ancient India",
+      "options": [
+        "is perfected",
+        "will perfected",
+        "were perfected",
+        "was perfected"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"was perfected\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "The word 'electrifying' means-",
+      "options": [
+        "Very exciting",
+        "Electric fire",
+        "Electric change",
+        "Illuminating"
+      ],
+      "correctIndex": 0,
+      "explanation": "electrifying = very exciting।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Adulterate means-",
+      "options": [
+        "Adult",
+        "to make impure",
+        "Pollute",
+        "contaminate"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: to make impure।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "Find the correctly spelt words-",
+      "options": [
+        "Condemen",
+        "Condemn",
+        "Condamn",
+        "Condeme"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক বানান Condemn।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "Oncology : Tumor : :",
+      "options": [
+        "Theology : Tenet",
+        "Oral : Sound",
+        "Chronology : Time",
+        "Taxonomy : Classification"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: Taxonomy : Classification।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "A person who thinks only of himself",
+      "options": [
+        "Eccentric",
+        "Boaster",
+        "Proud",
+        "Egoist"
+      ],
+      "correctIndex": 3,
+      "explanation": "Egoist — আত্মকেন্দ্রিক ব্যক্তি।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 15,
+      "question": "What is meaning of \"face of music",
+      "options": [
+        "run away from a problem",
+        "create a problem",
+        "deal with a problem",
+        "hide the truth"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"face the music\" — সমস্যার মুখোমুখি হওয়া।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

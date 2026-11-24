@@ -1,0 +1,250 @@
+{
+  "examSlug": "food_auditor_2022-01-28",
+  "examTitle": "food_auditor_2022-01-28",
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_auditor_2022-01-28",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Find out this text in your text book. The underlined word is-",
+      "options": [
+        "Adjective and Noun",
+        "Noun and Adverb",
+        "Noun and Adverb‌",
+        "Noun and Adjective"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: Noun and Adjective।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 2,
+      "question": "Identify the sentence that is correct.",
+      "options": [
+        "It is I who am responsible for this",
+        "One of the boys are absent",
+        "The pious is happy",
+        "A pair of shoes are on the table"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: It is I who am responsible for this।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 3,
+      "question": "\"Nero fiddles while Rome burns\"- প্রবাদটির অর্থ-",
+      "options": [
+        "What is sport to the cat is death for the rat.",
+        "None but fools is always right.",
+        "No smoke without fire",
+        "Make hay when the sun shines."
+      ],
+      "correctIndex": 0,
+      "explanation": "বাগধারার অর্থ: What is sport to the cat is death for the rat.।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "২টা ১৫ মিনিটের সময়ের ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ হয়-",
+      "options": [
+        "২২.৫ ডিগ্রি",
+        "২৩.৫ ডিগ্রি",
+        "২০.৫ ডিগ্রি",
+        "২০ ডিগ্রি"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: ২২.৫ ডিগ্রি।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 5,
+      "question": "একটি সংখ্যার বর্গমূলের সাথে 1 যোগ করলে সংখ্যাটি হয় 9 । সংখ্যাটি কত?",
+      "options": [
+        "9",
+        "10",
+        "4",
+        "16"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: 4।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 6,
+      "question": "জামাল সাহেব একটি ব্যাংকে চক্রবৃদ্ধি মুনাফার বিনিময়ে কিছু টাকা বিনিয়োগ করেন। তিনি মুনাফা হিসাব করবেন নীচের কোন সূত্র দিয়ে?",
+      "options": [
+        "p = c ( 1 + r ) r",
+        "c = p ( 1 + r ) n",
+        "c = p ( 1 + n ) r",
+        "c = p ( 1 + r n )"
+      ],
+      "correctIndex": 1,
+      "explanation": "সূত্র: c = p ( 1 + r ) n।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 7,
+      "question": "সৈয়দ মুজতবা আলীর ভ্রমণ বিষয়ক গ্রন্থ কোনটি?",
+      "options": [
+        "দেশে-বিদেশে",
+        "ময়ূরকণ্ঠী",
+        "শবনম",
+        "পঞ্চতন্ত্র"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: দেশে-বিদেশে।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 8,
+      "question": "“আমায় বামুনদি বলো না খোকা। শুধু দিদি বলো” এ উক্তিতে মমতাদির দরিদ্রের কোন বৈশিষ্ট্য ফুটে উঠেছে?",
+      "options": [
+        "স্নেহশীলতা",
+        "সঙ্কোচভাব",
+        "সরলতা",
+        "আত্মমর্যাদাবোধ"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: আত্মমর্যাদাবোধ।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 9,
+      "question": "\"মাকে নিয়ে নদীর চড়ায় পুঁতে ফেল গে যা”-এখানে প্রকাশিত হয়েছে |",
+      "options": [
+        "ঘৃণা",
+        "অমানবিকতা",
+        "নিষ্ঠুরতা",
+        "অস্পৃশ্যতা"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: ঘৃণা।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 10,
+      "question": "\"অন্ন বস্ত্রের প্রাচুর্যের চেয়ে মুক্তি বড়\"-এটি মানুষের কিসের পরিচায়ক?",
+      "options": [
+        "মুক্তির",
+        "শিক্ষার",
+        "সাফল্যের",
+        "মনুষ্যত্বের"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: মনুষ্যত্বের।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 11,
+      "question": "চরমপত্র' বলতে কী বোঝায়?",
+      "options": [
+        "আদেশ",
+        "অনুরোধ",
+        "উপদেশ",
+        "জিজ্ঞাসা"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: আদেশ।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 12,
+      "question": "কোনটি জাতিসংঘের সহযোগী সংস্থা নয়?",
+      "options": [
+        "ASEAN",
+        "UNESCO",
+        "ILO",
+        "WHO"
+      ],
+      "correctIndex": 0,
+      "explanation": "International Labour Organization (ILO) আর World Health Organization (WHO) জাতিসংঘের সহযোগী সংস্থা, অন্যদিকে Association of South-East Asian Nations বা ASEAN দক্ষিণ–পূর্ব এশিয়ার একটি আঞ্চলিক সংস্থা।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 13,
+      "question": "আকাবা কোন দেশের সমুদ্র বন্দর?",
+      "options": [
+        "মায়ানমার",
+        "জর্ডান",
+        "ইরাক",
+        "ইসরাইল"
+      ],
+      "correctIndex": 1,
+      "explanation": "আকাবা জর্ডানের সমুদ্রবন্দর।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 14,
+      "question": "ঐতিহাসিক আবুল ফজল নববর্ষকে কী বলে উল্লেখ করেছেন?",
+      "options": [
+        "নওরোজ",
+        "জাতীয় উৎসব",
+        "সার্বজনীন উৎসব",
+        "বর্ষবরণ উৎসব"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: নওরোজ।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 15,
+      "question": "বিশ্বে উষ্ণায়নের লক্ষণ-",
+      "options": [
+        "সবগুলোই",
+        "অতিবৃষ্টি",
+        "অনাবৃষ্টি",
+        "মরুকরণ"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: সবগুলোই।",
+      "appearedIn": [
+        "খাদ্য অধিদপ্তর  —  অডিটর 2022-01-28"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    }
+  ]
+}

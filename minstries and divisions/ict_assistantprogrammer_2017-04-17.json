@@ -1,0 +1,250 @@
+{
+  "examSlug": "ict_assistantprogrammer_2017-04-17",
+  "examTitle": "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17",
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_assistantprogrammer_2017-04-17",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who is the author of \"Macbeth\"?",
+      "options": [
+        "Jonathan Swift",
+        "John Milton",
+        "William Shakespeare",
+        "Ben Jonson"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: William Shakespeare।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 2,
+      "question": "What kind of sentence is the following one: How far is the train station?",
+      "options": [
+        "Assertive",
+        "Optative",
+        "Exclamatory",
+        "Interrogative"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: Interrogative।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "The synonym of the word \"poor\" is :",
+      "options": [
+        "Unfortunate",
+        "Destitute",
+        "Unlucky",
+        "Poverty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Envoy = Ambassador (দূত)।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "Which one is a correct sentence?",
+      "options": [
+        "They had arrived before we left",
+        "They arrived before we left",
+        "They have arrived before we had left",
+        "They arrived after we left"
+      ],
+      "correctIndex": 0,
+      "explanation": "স্বাস্থ্যের উন্নতি বোঝাতে today-এর সাথে better: He is better today.",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "Today is ---- than yesterday. Fill in the blank with -",
+      "options": [
+        "more sunny",
+        "sunniest",
+        "sunnier",
+        "most sunny"
+      ],
+      "correctIndex": 2,
+      "explanation": "শূন্যস্থানে \"sunnier\" বসবে।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "An adjective modifies ----",
+      "options": [
+        "a noun",
+        "a verb",
+        "an adverb",
+        "none of the above"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: a noun।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "বঙ্গদর্শন সাহিত্য পত্রিকার প্রতিষ্ঠাতা সম্পাদক কে ছিলেন?",
+      "options": [
+        "রবীন্দ্রনাথ ঠাকুর",
+        "ঈশ্বরচন্দ্র গুপ্ত",
+        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "প্রমথ চৌধুরী"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: বঙ্কিমচন্দ্র চট্টোপাধ্যায়।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 8,
+      "question": "নিম্নের কোনটি তৎসম শব্দ নয়?",
+      "options": [
+        "ভবন",
+        "ধর্ম",
+        "পাত্র",
+        "চামার"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: চামার।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 9,
+      "question": "বিদেশী উপসর্গ কোনটি?",
+      "options": [
+        "অনা",
+        "আব",
+        "গর",
+        "অজ"
+      ],
+      "correctIndex": 2,
+      "explanation": "উপসর্গ: গর।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 10,
+      "question": "কোনটি কন্যার সমার্থ নয়?",
+      "options": [
+        "আত্মজা",
+        "স্বজা",
+        "সুতা",
+        "অংশু"
+      ],
+      "correctIndex": 3,
+      "explanation": "সমার্থক: অংশু।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 11,
+      "question": "ধ্বনিতত্ত্ব ভেদে নিম্নের কোন শব্দটি অন্যগুলো থেকে আলাদা?",
+      "options": [
+        "জিহ্বা",
+        "হাত",
+        "তালু",
+        "ঠোঁট"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: হাত।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 12,
+      "question": "”রোগকে ঘৃণা করা যায় রোগীকে কেন”?-- একথা কে বলেছে?",
+      "options": [
+        "জহির রায়হান",
+        "আলমগীর কবির",
+        "হুমায়ূন আহমেদ",
+        "হুমায়ুন আজাদ"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: হুমায়ূন আহমেদ।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 13,
+      "question": "”বুকের রক্তে লিখেছি একটি নাম বাংলাদেশ” কোন কবি লিখেছেন?",
+      "options": [
+        "মোহাম্মদ মনিরুজ্জামান",
+        "আসাদ চৌধুরী",
+        "কামাল চৌধুরী",
+        "আল মাহমুদ"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: মোহাম্মদ মনিরুজ্জামান।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 14,
+      "question": "”বাংলার মুখ” কবিতাটি কোন কাব্যের অন্তর্গত?",
+      "options": [
+        "মহাপৃথিবী",
+        "মাল্যদান",
+        "রূপসী বাংলা",
+        "ঝরা পালক"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: রূপসী বাংলা।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 15,
+      "question": "মাইকেল মধুসূদন দত্তের “বঙ্গভাষা” কবিতাটি কোন ছন্দে রচিত?",
+      "options": [
+        "স্বরবৃত্ত",
+        "অক্ষরবৃত্ত",
+        "মাত্রাবৃত্ত",
+        "অমিত্রাক্ষর ছন্দ"
+      ],
+      "correctIndex": 1,
+      "explanation": "ছন্দ: অক্ষরবৃত্ত।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17"
+      ],
+      "subject": "গণিত"
+    }
+  ]
+}

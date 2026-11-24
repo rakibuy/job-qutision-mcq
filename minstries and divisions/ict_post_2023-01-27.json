@@ -1,0 +1,250 @@
+{
+  "examSlug": "ict_post_2023-01-27",
+  "examTitle": "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27",
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_post_2023-01-27",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A train traveled p km in 40 minutes and completed the remaining 200 km of the trip in q minutes. What was its average speed, in km per hour for the entire trip?",
+      "options": [
+        "$$60\\frac{p+200}{40+ q}$",
+        "240/(p+q)",
+        "4/(p+q)",
+        "None"
+      ],
+      "correctIndex": 0,
+      "explanation": "মোট দূরত্ব p+200 কিমি; মোট সময় (40+q)/60 ঘণ্টা ⇒ গড় গতি $60\\frac{p+200}{40+q}$",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 2,
+      "question": "শুদ্ধ বানান নির্ণয় করুন?",
+      "options": [
+        "ভস্মীভূত",
+        "ভস্মীভুত",
+        "ভস্মিভুত",
+        "ভস্মিভ্যুত"
+      ],
+      "correctIndex": 0,
+      "explanation": "শুদ্ধ বানান: \"ভস্মীভূত\"।",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 3,
+      "question": "শুদ্ধ বানান নির্ণয় করুন?",
+      "options": [
+        "দুষ্কৃতকারি",
+        "দুষ্কৃতিকারি",
+        "দুষ্কৃতিকারী",
+        "দুষ্কৃতকারী"
+      ],
+      "correctIndex": 3,
+      "explanation": "শুদ্ধ বানান: \"দুষ্কৃতকারী\"।",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 4,
+      "question": "শুদ্ধ বানান নির্ণয় করুন?",
+      "options": [
+        "অস্তমান",
+        "অস্তমাণ",
+        "অস্তায়মান",
+        "অস্তায়মাণ"
+      ],
+      "correctIndex": 2,
+      "explanation": "শুদ্ধ বানান: \"অস্তায়মান\"।",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 5,
+      "question": "শব্দের অর্থ নির্ণয় করুন 'অহর্নিশ''?",
+      "options": [
+        "দিনরাত্রি",
+        "তেঁতো",
+        "সূর্য",
+        "কালো"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: দিনরাত্রি।",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 6,
+      "question": "Exonerate",
+      "options": [
+        "Believe",
+        "Credence",
+        "Ardent",
+        "Acquit"
+      ],
+      "correctIndex": 3,
+      "explanation": "Exonerate = Acquit।",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "Perturb",
+      "options": [
+        "Porous",
+        "Anticipate",
+        "Deviant",
+        "Worry"
+      ],
+      "correctIndex": 3,
+      "explanation": "Perturb = Worry।",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "Estrange",
+      "options": [
+        "Alienate",
+        "Endanger",
+        "Complex",
+        "Puzzling"
+      ],
+      "correctIndex": 0,
+      "explanation": "Estrange = Alienate।",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "Squander",
+      "options": [
+        "Remorse",
+        "Blitz",
+        "Roam",
+        "Waste"
+      ],
+      "correctIndex": 3,
+      "explanation": "Squander = Waste।",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "Accolade",
+      "options": [
+        "Fruit",
+        "Flower",
+        "Honor",
+        "Garland"
+      ],
+      "correctIndex": 2,
+      "explanation": "Accolade = Honor।",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "You can only do it........ my dead body.",
+      "options": [
+        "on",
+        "over",
+        "upon",
+        "under"
+      ],
+      "correctIndex": 1,
+      "explanation": "“Over my dead body” একটি স্থির idiom; অর্থ আমার প্রবল আপত্তি থাকা সত্ত্বেও নয়",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "I did not do it intentionally; it was totally.",
+      "options": [
+        "inadvertent",
+        "indeliberate",
+        "incendiary",
+        "inevitable"
+      ],
+      "correctIndex": 0,
+      "explanation": "Inadvertent = অনিচ্ছাকৃত বা অসাবধানতাবশত ঘটে যাওয়া",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "The present.........area is a far cry from the dirty, foul smelling landfill that it was a decade ago.",
+      "options": [
+        "complete",
+        "beautiful",
+        "quiet",
+        "lush"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"lush\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "Please do not intrude.......my privacy.",
+      "options": [
+        "on",
+        "in",
+        "into",
+        "upon"
+      ],
+      "correctIndex": 2,
+      "explanation": "উৎসের উত্তরসূচিতে “into” দেওয়া আছে; তবে “intrude on/upon my privacy” রীতিও প্রচলিত। প্রশ্নটি ভাষাগতভাবে দ্ব্যর্থক",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "Today student should be reconciled...........the way things are changing.",
+      "options": [
+        "for",
+        "at",
+        "with",
+        "to"
+      ],
+      "correctIndex": 3,
+      "explanation": "“Be reconciled with” = পরিবর্তিত অবস্থার সঙ্গে মানিয়ে নেওয়া",
+      "appearedIn": [
+        "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

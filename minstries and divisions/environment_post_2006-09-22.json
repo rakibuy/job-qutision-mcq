@@ -1,0 +1,250 @@
+{
+  "examSlug": "environment_post_2006-09-22",
+  "examTitle": "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22",
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_post_2006-09-22",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "যদি $x > 2$ এবং $y > 1$ হয়, তবে কোনটি সঠিক?",
+      "options": [
+        "$$x > - 2$",
+        "- x 2 y",
+        "$$x > - 2$‌",
+        "-$x > 2 y$"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$x>2, y>1$ ⇒ $x>2>...$; $x>-2y$ সর্বদা সত্য।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 2,
+      "question": "১৪ জন লোক একটি কাজ ১৫দিনে করতে পারে। ঐ কাজটি ১০দিনে শেষ করতে হলে কতজন লোক নিয়োগ দিতে হবে?",
+      "options": [
+        "২৭ জন",
+        "২৪ জন",
+        "২১ জন",
+        "১৮ জন"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$\\frac{14\\times15}{10}=21$ জন।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 3,
+      "question": "কোন ভাষা থেকে বাংলা ভাষার উদ্ভব হয়েছে বলে ড. মুহম্মদ শহীদুল্লাহ মনে করেন?",
+      "options": [
+        "সংস্কৃত",
+        "প্রাকৃত",
+        "পালি",
+        "গৌড় অপভ্রংশ"
+      ],
+      "correctIndex": 3,
+      "explanation": "ড. শহীদুল্লাহ মতে — গৌড় অপভ্রংশ... কী-অনুযায়ী।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 4,
+      "question": "”ময়নামতীর চর” কোন ধরনের রচনা?",
+      "options": [
+        "নৃত্যনাট্য",
+        "কথা সাহিত্য",
+        "কাব্য",
+        "আঞ্চলিক উপন্যাস"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"ময়নামতীর চর\" — কাব্য।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 5,
+      "question": "ভাষা আন্দোলনের প্রথম পর্যায়ে পূর্ববঙ্গের মূখ্যমন্ত্রী কে ছিলেন?",
+      "options": [
+        "আতাউর রহমান খান",
+        "নুরুল আমীন",
+        "খাজা নাজিমুদ্দিন",
+        "আবু হোসেন সরকার"
+      ],
+      "correctIndex": 2,
+      "explanation": "খাজা নাজিমুদ্দিন — মুখ্যমন্ত্রী।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 6,
+      "question": "গীতগোবিন্দ কোন ভাষায় রচিত?",
+      "options": [
+        "প্রাচীন বাংলা",
+        "সংস্কৃত",
+        "ব্রজবুলি",
+        "অবহটঠ"
+      ],
+      "correctIndex": 1,
+      "explanation": "গীতগোবিন্দ — সংস্কৃত ভাষায়।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 7,
+      "question": "শুদ্ধ বানানে লিখিত শব্দগুচ্ছ দেখান-",
+      "options": [
+        "সমিচিন, হরিতকি, বাল্মিকি",
+        "সমীচিন, হরিতকি, বাল্মীকি",
+        "সমীচীন, হরীতকী, বাল্মীকি",
+        "সমিচীন, হরীতকী, বাল্মিকী"
+      ],
+      "correctIndex": 2,
+      "explanation": "সমীচীন, হরীতকী, বাল্মীকি — সব শুদ্ধ।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 8,
+      "question": "It rains cats and dogs - বাক্যের সঠিক অনুবাদ কোনটি?",
+      "options": [
+        "মুষলধারে বৃষ্টি হচ্ছে",
+        "বিড়ালে-কুকুরে বৃষ্টি হচ্ছে",
+        "মুষলধারে বিষ্টি হইতেছে",
+        "মুষলধারে বৃষ্টি হইতেছে"
+      ],
+      "correctIndex": 0,
+      "explanation": "মুষলধারে বৃষ্টি হচ্ছে।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 9,
+      "question": "A modest man does not boast ---- his merit.",
+      "options": [
+        "of",
+        "on",
+        "for",
+        "with"
+      ],
+      "correctIndex": 0,
+      "explanation": "boast of — গর্ব করা।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "He has an antipathy ----- smoking.",
+      "options": [
+        "for",
+        "with",
+        "to",
+        "in"
+      ],
+      "correctIndex": 2,
+      "explanation": "antipathy to — বিতৃষ্ণা।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "I am fatigued ----- wide travelling.",
+      "options": [
+        "in",
+        "for",
+        "by",
+        "with"
+      ],
+      "correctIndex": 3,
+      "explanation": "fatigued with — ক্লান্ত।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "You should be repentant ----- your misdeeds.",
+      "options": [
+        "on",
+        "of",
+        "for",
+        "by"
+      ],
+      "correctIndex": 2,
+      "explanation": "repentant for — অনুতপ্ত।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "The licence of ----- drivers should be banned.",
+      "options": [
+        "drinking",
+        "drank",
+        "drunk",
+        "drunked"
+      ],
+      "correctIndex": 2,
+      "explanation": "drunk drivers — মাতাল চালক।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "My friend bought me a ----- of spectacles.",
+      "options": [
+        "couple",
+        "brace",
+        "group",
+        "pair"
+      ],
+      "correctIndex": 3,
+      "explanation": "a pair of spectacles।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "I have no kith and kin in this town.",
+      "options": [
+        "Noun phrase",
+        "Prepositional phrase",
+        "Adjective phrase",
+        "conjunctional phrase"
+      ],
+      "correctIndex": 0,
+      "explanation": "kith and kin — Noun phrase।",
+      "appearedIn": [
+        "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

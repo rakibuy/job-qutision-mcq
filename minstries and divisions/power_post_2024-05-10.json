@@ -1,0 +1,154 @@
+{
+  "examSlug": "power_post_2024-05-10",
+  "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড —  সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/ইএন্ডসি /পি... 2024-05-10",
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2024-05-10",
+  "questionCount": 9,
+  "questions": [
+    {
+      "id": 1,
+      "question": "One Angstrom of wavelength (1 A deg) equals",
+      "options": [
+        "10 - 8 m",
+        "10 - 10 m",
+        "10 - 12 m",
+        "10 - 6 m"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: 10 - 10 m।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড —  সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/ইএন্ডসি /পি... 2024-05-10"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 2,
+      "question": "Which one of the following function is strictly bounded?",
+      "options": [
+        "x - 2",
+        "e x",
+        "x 2",
+        "e - x 2"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: e - x 2।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড —  সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/ইএন্ডসি /পি... 2024-05-10"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "If & is the loss angle of the cable, its + power factor is",
+      "options": [
+        "sinδ",
+        "cosδ",
+        "δ",
+        "δ 2"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: sinδ।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড —  সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/ইএন্ডসি /পি... 2024-05-10"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "The device that exhibits negative resistance region is _____",
+      "options": [
+        "BJT",
+        "triac",
+        "transistor",
+        "UJT"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"UJT\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড —  সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/ইএন্ডসি /পি... 2024-05-10"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "Which is the following use least power?",
+      "options": [
+        "TTL",
+        "ECL",
+        "CMOS",
+        "All use same power"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: CMOS।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড —  সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/ইএন্ডসি /পি... 2024-05-10"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "The breakdown torque of a synchronous motor varies as",
+      "options": [
+        "1/V",
+        "1 / ( V 2 )",
+        "V",
+        "V 2"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: V।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড —  সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/ইএন্ডসি /পি... 2024-05-10"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "A transistor is basically an amplifying device for",
+      "options": [
+        "current",
+        "voltage",
+        "power",
+        "signal"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: signal।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড —  সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/ইএন্ডসি /পি... 2024-05-10"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "An XOR gate produces an output only when its two inputs are",
+      "options": [
+        "high",
+        "low",
+        "different",
+        "same"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: different।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড —  সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/ইএন্ডসি /পি... 2024-05-10"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "The book 'Harry Potter' is written by -",
+      "options": [
+        "J. K. Rowling",
+        "Homer",
+        "James Joyce",
+        "Arthur Miller"
+      ],
+      "correctIndex": 0,
+      "explanation": "রচয়িতা: J. K. Rowling।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড —  সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/ইএন্ডসি /পি... 2024-05-10"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

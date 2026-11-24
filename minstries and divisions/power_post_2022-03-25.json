@@ -1,0 +1,250 @@
+{
+  "examSlug": "power_post_2022-03-25",
+  "examTitle": "power_post_2022-03-25",
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2022-03-25",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "একটি সংখ্যা ৬৫০ থেকে যত বড় ৮২০ থেকে তত ছোট।",
+      "options": [
+        "৭৩০",
+        "৭৩৫",
+        "৮০০",
+        "৭৮০"
+      ],
+      "correctIndex": 1,
+      "explanation": "সংখ্যাটি 'ক' হলে, প্রশ্নমতে, ৮২০ - ক = ক - ৬৫০ বা, ২ক = ৮২০ + ৬৫০ বা, ক = ১৪৭০$\\div$২ ∴ ক = ৭৩৫",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 2,
+      "question": "যদি তেলের মূল্য ২৫% বৃদ্ধি পায় তাহলে তেলের ব্যবহার শতকরা কত কমালে তেল বাবদ খরচ বৃদ্ধি পাবে না?",
+      "options": [
+        "৯%",
+        "১১%",
+        "১৬%",
+        "২০%"
+      ],
+      "correctIndex": 3,
+      "explanation": "২৫% বৃদ্ধিতে তেলের মূল্য হয় ১২৫ টাকা ১২৫ টাকায় কমাতে হবে = ২৫ টাকা ১ টাকায় কমাতে হবে = (২৫)/(১২৫) টাকা ১০০ টাকায় কমাতে হবে = (২৫$\\times$১০০)/(১২৫) টাকা = ২০ টাকা",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 3,
+      "question": "বেতার তরঙ্গ প্রতিফলিত হয় বায়ুমণ্ডলের কোন স্তরে?",
+      "options": [
+        "আয়নোস্ফিয়ার",
+        "স্ট্রাটোস্ফিয়ার",
+        "ট্রপোস্ফিয়ার",
+        "ওজোন স্তর"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: আয়নোস্ফিয়ার।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 4,
+      "question": "কোনটি বিদ্যুৎ পরিবাহী নয়?",
+      "options": [
+        "সিলিকন",
+        "তমা",
+        "লোহা",
+        "সীসা"
+      ],
+      "correctIndex": 0,
+      "explanation": "যেসব পদার্থের ভিতর দিয়ে সহজে তড়িৎ চলাচল করতে পারে তাদেরকে পরিবাহী বলে। যেমন- রূপা, তামা, লোহা, ধাতব পদার্থ, কার্বন, মানবদেহ, কয়লা, এসিড মিশ্রিত পানি, মাটি, পারদ ইত্যাদি। যেসব পদার্থের ভিতর দিয়ে তড়িৎ একেবারে চলাচল করতে পারে না তাদেরকে অপরিবাহী পদার্থ বলে। যেমন- রাবার, শুকনা বায়ু, পার্সেলিন, কাচ, কাগজ, কাঠ, গন্ধক, ইবোনাইট, রঞ্জন, রেশম ইত্যাদি।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct sentence-",
+      "options": [
+        "If he works hard, he succeeds",
+        "If he works hard, he will succeed",
+        "If he would work hard, he succeeded",
+        "If he worked hard, he succeeded"
+      ],
+      "correctIndex": 1,
+      "explanation": "- শুদ্ধ বাক্য: I know what he wants. - কারণ, embedded question এর নিয়ম অনুযায়ী বাক্যের শুরুতে auxiliary verb থাকলে বাক্যের শেষে প্রশ্নবোধক (?) চিহ্ন বসে। অন্যথায় বাক্যের শেষে ফুলস্টপ (.) বসে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "Catch a tartar means-",
+      "options": [
+        "People of Turkey",
+        "A cruel man",
+        "Friendly atmosphere",
+        "Meet a very powerful opponent"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: Meet a very powerful opponent।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "What is the meaning of the words 'Red Letter Day'?",
+      "options": [
+        "Bright Day",
+        "Memorable day",
+        "Miserable day",
+        "Burning day"
+      ],
+      "correctIndex": 1,
+      "explanation": "অর্থ: Memorable day।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "What is the synonym of ' hospitality'?",
+      "options": [
+        "Pharmacy",
+        "Hospital",
+        "Welcome",
+        "Sick"
+      ],
+      "correctIndex": 2,
+      "explanation": "সমার্থক: Welcome।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "The opposite word of ' Fascinated' is-",
+      "options": [
+        "distressed",
+        "disinterested",
+        "disappointed",
+        "disgusted"
+      ],
+      "correctIndex": 1,
+      "explanation": "বিপরীত শব্দ: disinterested।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "Choose the best translation of this sentence in Bengali . They were at daggers drawn'",
+      "options": [
+        "তারা ছুরি বের করেছিল",
+        "তারা উন্মুক্ত ছুরির কাছে ছিল",
+        "তারা ঘোর বিবাদমান ছিল",
+        "তারা শক্র ছিল"
+      ],
+      "correctIndex": 2,
+      "explanation": "অনুবাদ: তারা ঘোর বিবাদমান ছিল।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 11,
+      "question": "কোন দেশটি ASEAN জোটভুক্ত নয়?",
+      "options": [
+        "জাপান",
+        "ফিলিপাইন",
+        "মায়ানমার",
+        "সিঙ্গাপুর"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: জাপান।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 12,
+      "question": "বাংলাদেশ ও ভারতকে বিভক্তকারী নদী কোনটি?",
+      "options": [
+        "যমুনা",
+        "হাড়িয়াভাঙ্গা",
+        "নাফ",
+        "হালদা"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: হাড়িয়াভাঙ্গা।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 13,
+      "question": "স্কান্ডিনেভিয়া অঞ্চলের দেশ নয় কোনটি?",
+      "options": [
+        "নরওয়ে",
+        "সুইডেন",
+        "ডেনমার্ক",
+        "ফ্রান্স"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: ফ্রান্স।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 14,
+      "question": "ময়নাতদন্ত শব্দের ‘ময়না’ কোন ভাষায় শব্দ?",
+      "options": [
+        "খাঁটি বাংলা",
+        "সংস্কৃত",
+        "আরবি",
+        "ফারসি"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: আরবি।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 15,
+      "question": "সত্যসুন্দর দাস কার ছদ্মনাম?",
+      "options": [
+        "চারুচন্দ্র মুখোপাধ্যায়",
+        "মোহিতলাল মজুমদার",
+        "কালীকানন্দ",
+        "বিমল ঘোষ"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"সত্য সুন্দর দাস\" — মোহিত লাল মজুমদার।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — জেনারেল ম্যানেজার 2022-03-25"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    }
+  ]
+}

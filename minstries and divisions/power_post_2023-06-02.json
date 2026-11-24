@@ -1,0 +1,218 @@
+{
+  "examSlug": "power_post_2023-06-02",
+  "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02",
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2023-06-02",
+  "questionCount": 13,
+  "questions": [
+    {
+      "id": 1,
+      "question": "একাদশ জাতীয় সংসদের বর্তমান উপনেতা কে?",
+      "options": [
+        "বেগম মন্নুজান সুফিয়ান",
+        "বেগম মতিয়া চৌধুরী",
+        "বেগম রওশন এরশাদ",
+        "বেগম আখতার বানু"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: বেগম মতিয়া চৌধুরী।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 2,
+      "question": "আলট্রা সুপারক্রিটিক্যাল প্রযুক্তি ব্যবহার করে বিদ্যুৎ উৎপাদনে বাংলাদেশ বিশ্বের কততম?",
+      "options": [
+        "১৫ তম",
+        "১৩ তম",
+        "১৬ তম",
+        "১২ তম"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: ১৩ তম।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 3,
+      "question": "SCADA stands for",
+      "options": [
+        "supervisory control and data acquiring",
+        "supervisory control and data acquisition",
+        "supplementary control and data acquisition",
+        "supplementary counting and data acquisition"
+      ],
+      "correctIndex": 1,
+      "explanation": "পূর্ণরূপ: supervisory control and data acquisition।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "পায়রা তাপবিদ্যুৎ কেন্দ্রে ব্যবহৃত কায়লা আমদানি করা হয় কোন দেশ থেকে?",
+      "options": [
+        "ইন্দোনেশিয়া",
+        "ভারত",
+        "ব্রাজিল",
+        "বেলজিয়াম"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: ইন্দোনেশিয়া।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 5,
+      "question": "বর্তমানে কত শতাংশ জনগোষ্ঠী বিদ্যুৎ সুবিধাপ্রাপ্ত?",
+      "options": [
+        "১০০%",
+        "৯৯%",
+        "৯৮%",
+        "৯৫%"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: ১০০%।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 6,
+      "question": "প্যারিস জলবায়ু চুক্তিতে বাংলাদেশ স্বাক্ষর করে কত তারিখে?",
+      "options": [
+        "৪ মার্চ ২০১৭",
+        "২৩ মার্চ ২০২০",
+        "২২ এপ্রিল ২০১৬",
+        "কোনটিই নয়"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: ২২ এপ্রিল ২০১৬।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 7,
+      "question": "চট্টগ্রামের বাশখালিতে বেসরকারি খাতে নির্মিত দেশের সবচেয়ে বড় বিদ্যুৎ কেন্দ্র এসএস পাওয়ার প্ল্যান্টের প্রকৃত উৎপাদন ক্ষমতা কত মেঃওঃ?",
+      "options": [
+        "১৩২০",
+        "১২৪০",
+        "১৩৫০",
+        "১২৬০"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: ১৩২০।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 8,
+      "question": "ঢাকা শহরে প্রথম বিদ্যুৎ ব্যবহৃত হয় কত সালে?",
+      "options": [
+        "১৯০১",
+        "১৯১২",
+        "১৩৫০",
+        "১২৬০"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: ১৯০১।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 9,
+      "question": "Which one is a correct sentence?",
+      "options": [
+        "Guard against mispellings",
+        "Guard against mis-spellings",
+        "Guard against miss-spellings",
+        "Guard against misspellings"
+      ],
+      "correctIndex": 3,
+      "explanation": "স্বাস্থ্যের উন্নতি বোঝাতে today-এর সাথে better: He is better today.",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "Which spelling is correct?",
+      "options": [
+        "Diarrhoea",
+        "Antithesis",
+        "Euphemissm",
+        "Exhaustends"
+      ],
+      "correctIndex": 1,
+      "explanation": "Secretariat — প্রধান সচিবালয়; শুদ্ধ বানানে a-r-i-a-t ক্রম।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "\"I impressed the lesson upon him. 'What does 'impressed\" mean here?",
+      "options": [
+        "An impact cast upon one's mind",
+        "A learning sent to someone",
+        "An idea shared to someone",
+        "A lesson conveyed to someone"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: A lesson conveyed to someone।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "‘Deceitful’ means-",
+      "options": [
+        "Full of tricks",
+        "Full of tacts",
+        "Full of intrigues",
+        "Full of tracks"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: Full of tricks।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "একটি বেলনের ভূমির ব্যাসার্ধ ও উচ্চতার প্রতিটিকে দ্বিগুন করা হলে এর আয়তন পূর্বের আয়তনের কতগুণ হবে?",
+      "options": [
+        "দ্বিগুণ",
+        "তিনগুণ",
+        "চারগুণ",
+        "আটগুণ"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: আটগুণ।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    }
+  ]
+}

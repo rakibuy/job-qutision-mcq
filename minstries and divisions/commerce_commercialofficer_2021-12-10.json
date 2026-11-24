@@ -1,0 +1,1034 @@
+{
+  "examSlug": "commerce_commercialofficer_2021-12-10",
+  "examTitle": "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১",
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "url": "https://dreamsintodeeds.me/questions/ministry-admin/commerce_commercialofficer_2021-12-10",
+  "questionCount": 64,
+  "questions": [
+    {
+      "id": 1,
+      "question": "'Google's Language Translator' is an example of the application of-",
+      "options": [
+        "machine learning",
+        "computer simulations",
+        "debugging",
+        "internet"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Goggle's Language Translator' একধরণের বহুভাষিক যান্ত্রিক অনুবাদব্যবস্থা । মেশিন লার্নিংয়ের জন্য বা এক ভাষা থেকে অন্য ভাষায় টেক্সট অনুবাদের জন্য 'Goggle's Language Translator' বর্তমানে বেশ জনপ্রিয় একটি অ্যাপ্লিকেশন",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 2,
+      "question": "Which one of the following is not a computer language?",
+      "options": [
+        "PASCAL",
+        "UNIX",
+        "FORTRAN",
+        "COBOL"
+      ],
+      "correctIndex": 1,
+      "explanation": "UNIX কোনো computer language নয় বরং এটি একটি Operating System সর্বাপেক্ষা পুরাতন অপারেটিং সিস্টেম হিসেবে ইউনিক্স পরিচিত । ১৯৬৯ সালে যুক্তরাষ্ট্রের বেল ল্যাবরেটরিতে কিন টমসন এবং Dennis Ritchie প্রথম ইউনিক্স অপারেটিং সিস্টেম তৈরি করেন। কিছু গুরুত্তপুর্ণ অপারেটিং সিস্টেমের নামঃ - Microsoft Windows - macOS - Linux (Ubuntu, Fedora, CentOS, Debian, etc.) - Android - iOS - Chrome OS - Unix - IBM's z/OS - FreeBSD - Solaris",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "Most World Wide Web page contains commands in the language of",
+      "options": [
+        "NIH",
+        "HTML",
+        "URL",
+        "IRC"
+      ],
+      "correctIndex": 1,
+      "explanation": "-HTML: হাইপার টেক্সট মার্কআপ ল্যাঙ্গুয়েজ হলো একটি মার্ক আপ ল্যাঙ্গুয়েজ। -এইচটিএমএল এর মার্ক আপ ট্যাগ সমূহ ব্যবহার করে ওয়েবপেজ এর বেসিক কাঠামো তৈরি করা হয়। -প্রকৃত অর্থে এটি কোনো প্রোগ্রামিং ল্যাংগুয়েজ নয় বরং একটি মার্কআপ ল্যাংগুয়েজ যা একসারি মার্কআপ ট্যাগ এর সমন্বয় গঠিত। -১৯৮৯ সালে, বার্নার্স-লি একটি ইন্টারনেট ভিত্তিক হাইপারটেক্সট সিস্টেম প্রস্তাবে একটি মেমো লিখেন। -১৯৯০ সালে বার্নার্স-লি ব্রাউজার এবং সার্ভারের সফ্টওয়্যারে এইচটিএমএল (HTML) এর উল্লেখ করেন ।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "What is the full from of ALU?",
+      "options": [
+        "Arithmetic logic Unit",
+        "Allowed logic unit.",
+        "Ascii logic unit",
+        "Arithmetic least unit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Arithmetic Logic Unit (ALU) বা গাণিতিক যুক্তি অংশঃ Data processing এর সময় সিপিইউ যে সমস্ত instruction execute করে তা সম্পন্ন হয় এই Arithmetic Logic Unit (ALU) বা গাণিতিক যুক্তি অংশ এর মধ্যে। যখন control unit কোনরকম instruction এর সম্মুখীন হয় যার মধ্যে অ্যারিথমেটিক অপারেশন (arithmetic operation) (যেমন add, subtraction, multiply, divide) অথবা লজিক্যাল অপারেশন ( logic operation) ( যেমন less than, grater than) সম্পন্ন করার প্রয়োজন আছে, তখন কন্ট্রোল ইউনিট অ্যারিথমেটিক লজিক ইউনিট এর কাছে control transfer করে দেয় ।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "Which level language is Assembly Language?",
+      "options": [
+        "high-level programming language",
+        "medium-level programming language",
+        "low-level programming language",
+        "machine language"
+      ],
+      "correctIndex": 2,
+      "explanation": "১৯৪৫ সাল থেকে শুরু করে এ পর্যন্ত কয়েকশত প্রোগ্রামিং ল্যাংগুয়েজ বা ভাষা আবিষ্কৃত হয়েছে । এ সকল ভাষাকে বৈশিষ্ট্য অনুযায়ী পাঁচটি স্তর বা প্রজন্মে ভাগ করা যায় । যথাঃ ০১. প্রথম প্রজন্ম বা ফাস্ট জেনাররেশন ভাষা ( ১৯৪৫ ): মেশিন ভাষা ( Machine Language ) ০২. দ্বিতীয় প্রজন্ম বা সেকেন্ড জেনারেশন ভাষা ( ১৯৫০ ) : অ্যাসেম্বলি ভাষা ( Assembly Language ) ০৩. তৃতীয় প্রজন্ম বা থার্ড জেনারেশন ভাষা ( ১৯৬০ ) : উচ্চতর বা হাই লেভেল ভাষা ( high level ) ০৪. চতুর্থ প্রজন্ম বা ফোর্থ জেনারেশন ভাষা ( ১৯৭০ ) : অতি উচ্চতর ভাষা ( very High level ) ০৫. পঞ্চম প্রজন্ম বা ফিফথ জেনারেশন ভাষা ( ১৯৮০ ) : স্বাভাবিক বা ন্যাচারাল ভাষা ( natural ) মেশিন ভাষা অ অ্যাসেম্বলি ভাষাকে লো লেভেল ভাষা বলে । এ দুটি ভাষাকে লো লেভেল ভাষা বলার কারণ হল এগুলো কম্পিউটারের ভাষা ( ০ থেকে ১ ) কিংবা এর কাছাকাছি । অন্যদিকে উচ্চতর বা হাই লেভেলের ভাষা মানুষের ভাষা যেমন ইংরেজির কাছাকাছি ।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "Gogland Island belongs to which country?",
+      "options": [
+        "Estonia",
+        "Sweden",
+        "Russia",
+        "Finland"
+      ],
+      "correctIndex": 2,
+      "explanation": "গোগল্যান্ড দ্বীপ, যা গোগল্যান্ড বা সুরসারি নামেও পরিচিত, ফিনল্যান্ড এবং রাশিয়ার মধ্যে অবস্থিত ফিনল্যান্ডের পূর্ব উপসাগরের একটি দ্বীপ। দ্বীপটি বর্তমানে লেনিনগ্রাদ ওব্লাস্টের অংশ হিসাবে রাশিয়া দ্বারা পরিচালিত হয়, তবে এর সার্বভৌমত্ব ফিনল্যান্ড দ্বারা বিতর্কিত, যা ঐতিহাসিক এবং চুক্তি-ভিত্তিক ভিত্তির ভিত্তিতে মালিকানা দাবি করে। দ্বীপটির একটি সমৃদ্ধ ইতিহাস রয়েছে এবং এটি বিভিন্ন সময়ে সুইডেন, রাশিয়া এবং ফিনল্যান্ড দ্বারা নিয়ন্ত্রিত হয়েছে।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "The currency of Ecuador is-",
+      "options": [
+        "Pound",
+        "Peso",
+        "US Dollar",
+        "Lira"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: US Dollar।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "The creator of the popular numbers puzzle Sudoku?",
+      "options": [
+        "Hiroko Akutso",
+        "Shinzo Teng",
+        "Marni Suzuki",
+        "Maki Kaji"
+      ],
+      "correctIndex": 3,
+      "explanation": "- Sudoku Puzzle খেলা আবিষ্কৃত হয় ১৯৮৪ সালে। -এটি আবিষ্কার করেন 'ম্যাকি কাঝি' -তিনি ছিলেন জাপানের নিকোলী কোম্পানির সভাপতি -'সুডোকু' শব্দেটি জাপানি শব্দ ।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "Mojave Desert is located in-",
+      "options": [
+        "Afghanistan",
+        "India",
+        "Africa",
+        "USA"
+      ],
+      "correctIndex": 3,
+      "explanation": "মোজাভ মরুভূমি উত্তর আমেরিকার সবচেয়ে শুধ মরুভূমি। এটি যুক্তরাষ্ট্রের দক্ষিণ-পূর্ব ক্যালিফোর্নিয়া এবং দক্ষিণ নেভাদার মধ্যে অবস্থিত। এর আয়তন ৪৭৮৭৭ বর্গ মাইল।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "How many US states border the Pacific Ocean?",
+      "options": [
+        "Four",
+        "Three",
+        "Five",
+        "Seven"
+      ],
+      "correctIndex": 2,
+      "explanation": "প্রশান্ত মহাসাগরের সাথে যুক্তরাষ্ট্রের পাঁচটি অঙ্গরাজ্যের (আলাস্কা, ওয়াশিংটন, ওরেগন, ক্যালিফোর্নিয়া ও হাওয়াই) সীমানা আছে।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Which Asian country is home to the most nuclear power plants?",
+      "options": [
+        "China",
+        "South Korea",
+        "Taiwan",
+        "India"
+      ],
+      "correctIndex": 0,
+      "explanation": "এশিয়া মহাদেশের মধ্যে সবচেয়ে বেশি পারমাণবিক বিদ্যুৎ উৎপাদন কেন্দ্র আছে চীনের। দেশটিতে বর্তমানে ৫১টি কেন্দ্র চালু আছে। আর ১৮টি নির্মাণাধীন।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "US Journalist Danny Fenster released from Myanmar prison and will be allowed to leave country just days after getting how many years sentence?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "20"
+      ],
+      "correctIndex": 1,
+      "explanation": "অভিবাসন আইন লঙ্ঘন, অবৈধ হস্তক্ষেপ ও জি মতাবলম্বীদের আন্দোলনে উদ্বুদ্ধ করার দায়ে মিয়ানমার ভিত্তিক ‘ফ্রন্টিয়ার মিয়ানমার' নামের সংবাদ মাধ্যমের সাংবাদিক মার্কিন নাগরিক ড্যানি ফেনস্টারকে মিয়ানমারের সামরিক আদালত ১১ বছরের কারাদন্ড দেয়। তবে এ রায়ের তিনদিনের মাথায় ২০ নভেম্বর, ২০২১ সালে যুক্তরাষ্ট্রের চাপে মিয়ানমারের কারাগার থেকে মুক্তি দেয়া হয়।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "'Hispaniola' is the old name of",
+      "options": [
+        "Iran",
+        "Cuba",
+        "Fiji",
+        "Haiti"
+      ],
+      "correctIndex": 3,
+      "explanation": "হাইতি পশ্চিম গোলার্ধে ক্যারিবীয় অঞ্চলের হিস্পানিওলা দ্বীপপুঞ্জের একটি রাষ্ট্র। এর সরকারি নাম রিপাবলিক অব হাইতি এবং রাজধানী পোর্ট অব প্রিন্স। ৫ ডিসেম্বর, ১৪৯২ সালে ক্রিস্টোফার কলম্বাস এখানে অবতরণ করেন এবং এটিকে স্পেনের ভূ-খন্ড দাবি করে নাম দেন হিস্পানিওলা। ১৯৬৭ সালে রাইসওইক চুক্তির মাধ্যমে স্পেন তার অধিকৃত হিস্পানিওলার পশ্চিমের কিছু অংশ ফ্রান্সের কাছে দিয়ে দেয়। পরবর্তীতে ফ্রান্স এর নাম দেন সেন্ট ডোমিনিক। আর হিস্পানিওলার বাকি অংশ স্পেনের নিয়ন্ত্রণে থেকে যায়। যার বর্তমান নাম ডোমিনিকান রিপাবলিক। ১৮০৪ সালে ফ্রান্সের নিকট থেকে সেন্ট ডোমিনিক স্বাধীনতা লাভ করে হাইতি নামকরণ করে।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "Which nation always speaks first at the UN General Assembly?",
+      "options": [
+        "US",
+        "UK",
+        "Brazil",
+        "None of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "জাতিসংঘের সাধারণ পরিষদে, ঐতিহ্যগতভাবে প্রথম স্পিকার হলেন ব্রাজিলের প্রতিনিধি, তারপরে মার্কিন যুক্তরাষ্ট্রের প্রতিনিধি। এই ঐতিহ্য ১৯৫৫ সালে শুরু হয়েছিল, যখন ব্রাজিলের প্রতিনিধি, অসভালদো আরানহা, সাধারণ পরিষদের ১০ তম অধিবেশনের সভাপতি হিসাবে দায়িত্ব পালন করেছিলেন এবং মার্কিন যুক্তরাষ্ট্রের প্রতিনিধি জাতিসংঘ সদর দফতরের আয়োজক দেশ হিসাবে দ্বিতীয় বক্তব্য রাখেন। তারপর থেকে, এই কথা বলার ক্রম একটি প্রথাগত অভ্যাস হয়ে উঠেছে এবং অন্যান্য দেশগুলি তাদের দেশের ইংরেজি ভাষার নামের উপর ভিত্তি করে বর্ণানুক্রমিক ক্রম অনুসরণ করে। যাইহোক, এই অভ্যাসটি জাতিসংঘের কোন নিয়ম বা রেজুলেশনে আনুষ্ঠানিক নয় এবং সদস্য রাষ্ট্রগুলি এটি করতে সম্মত হলে এটি পরিবর্তন করা যেতে পারে।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "The capital of Iraq's autonomous Kurdish region is-",
+      "options": [
+        "Tikrit",
+        "Erbil",
+        "Mosul",
+        "Hamza"
+      ],
+      "correctIndex": 1,
+      "explanation": "ইরাকের স্বায়ত্তশাসিত অঞ্চল কুর্দিস্তানের রাজধানী ইরবিল।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 16,
+      "question": "Capital of Malawi is",
+      "options": [
+        "Lilongwe",
+        "Cape town",
+        "Jaitu",
+        "Milan"
+      ],
+      "correctIndex": 0,
+      "explanation": "মালাউই পূর্ব আফ্রিকার একটি রাষ্ট্র। এর রাজধানী লিলংগো।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 17,
+      "question": "The perimeter of a rectangle is 60 meters. If its length is twice its breadth, then its are (in m 2 ) is:",
+      "options": [
+        "160",
+        "200",
+        "220",
+        "180"
+      ],
+      "correctIndex": 1,
+      "explanation": "আয়তকার ক্ষেত্রের প্রস্থ = x দৈর্ঘ্য =$2x$ ক্ষেত্রফল =$2x x x = 2x 2$ প্রশ্নমতে,$2 (2x + x) = 60 2 x 3x = 60 x = 10 .$: ক্ষেত্রফল =$2 \\times 10 = 2 x 100 = 200$ বর্গ মিটার",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 18,
+      "question": "A rectangular field will be fenced on three side leaving one side of 20 feet uncovered. If the area of the field 680 square feet. How many feet of fencing is required?",
+      "options": [
+        "88",
+        "34",
+        "40",
+        "68"
+      ],
+      "correctIndex": 0,
+      "explanation": "মনে করি, আয়তক্ষেত্রটির প্রস্থ =$20$ মিটার \" দৈর্ঘ্য =$680/20$ মিটার =$34$ মিটার .: প্রস্থের একপাশের 20 মিটারকে ফাঁকা রেখে আয়তকার মাঠের অবশিষ্ট 3 পাশের মোট পরিসীমা =$34+20+ 34 = 88$ মিটার .: মাঠে ৪৪ মিটার বেড়া প্রয়োজন।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 19,
+      "question": "The 2 nd angle of a right triangle is 30 degrees. Then how many degrees is the 3 rd angle?",
+      "options": [
+        "50",
+        "60",
+        "70",
+        "80"
+      ],
+      "correctIndex": 1,
+      "explanation": "৩য় কোণ =$180^\\circ - (90^\\circ + 309 = 180^\\circ - 120^\\circ = 60^\\circ$",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 20,
+      "question": "Idrak buys 80 kg sugar at taka 40 per kg. and 40 kg rice at taka 50 per kg. At what price approximately in taka per kg should he sell to make profit 10% of cost?",
+      "options": [
+        "42.3",
+        "44.3",
+        "47.7",
+        "49.2"
+      ],
+      "correctIndex": 2,
+      "explanation": "মনে করি , প্রতি কেজি x টাকা দরে বিক্রয় করা হয় । 80⨯40+40⨯50=x(80⨯40)⨯100/110 বা,$3200+2000=(x$⨯120⨯100)/110 বা,$32+20= (x$⨯12)/11 বা,$53 =(x$⨯12)/11 বা,(52⨯11)/12=x বা,$47.67 =x$ বা,$x =47.7$(প্রায় )",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 21,
+      "question": "A man's regular pay is Taka 30 per hour up to 40 hours. Overtime is twice the payment for regular time. If he was paid taka 1680, how many hours overtime did he work?",
+      "options": [
+        "48",
+        "28",
+        "16",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "মনেকরি, ওভারটাইম = x ঘণ্টা প্রশ্নমতে,$30 \\times 40 + 60 x x = 1680 \\Rightarrow 1200 + 60x = 1680 \\Rightarrow 60x = 480 \\Rightarrow x = 8$",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 22,
+      "question": "In 10 years A will be twice old as B was 10 years ago. If A is now 9 years older than B. the present age of B?",
+      "options": [
+        "19",
+        "39",
+        "29",
+        "49"
+      ],
+      "correctIndex": 1,
+      "explanation": "মনেকরি, B এর বর্তমান বয়স = x বছর A \" \" \"=$x + 9$ \" আবার, 10 বছর পরে A এর বয়স হবে =$x + 9 + 10 = (x + 19)$ প্রশ্নমতে,$x + 19 = 2 (x-10) \\Rightarrow x + 19 = 2x - 20 \\Rightarrow x - 2x = -20-19 \\Rightarrow x=-39 \\Rightarrow x=39$",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 23,
+      "question": "A boat goes 8 km in one hour along the stream and 2 km in one hour against the stream. The speed in km/hr. of the stream is:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 1,
+      "explanation": "ধরি, নৌকার প্রকৃত বেগ ( স্থির পানিতে ) = u স্রোতের বেগ = v শর্তমতে,$u + v = 8 ...........(i) u-v = 2 ..........(ii) (-) (+) (-) (i) - (ii)$ করি,$2v = 8 -2 => v = 8 - 2/2 = 3 km/hr$ ∴ স্রোতের বেগ =$3 km/hr$ লক্ষ করুনঃ এই ধরনের সমস্যার ক্ষেত্রে বিকল্প সূত্র, স্রোতের বেগ = অনুকূলের বেগ - প্রতিকূলের বেগ/2 = a-b/2 = 8-2/2 = 6/2 = 3",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 24,
+      "question": "The sum of the ages of the son and father is 120 years. The father age is 3 times than the son. What is the age of father?",
+      "options": [
+        "75",
+        "80",
+        "90",
+        "85"
+      ],
+      "correctIndex": 2,
+      "explanation": "মনে করি , পুত্রের বয়স =x বছর পিতার বয়স =$3x$ বছর প্রশ্নমতে,$x + x = 120 4x = 120 x = 30 .$: পিতার বয়স =$3 x 30 = 90$ বছর।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 25,
+      "question": "The average mark obtained by 15 students was 10 and the average mark obtained by 10 students was 15. What was the average mark obtained by all students?",
+      "options": [
+        "10",
+        "12.5",
+        "15",
+        "12"
+      ],
+      "correctIndex": 3,
+      "explanation": "এখানে, 15 জন ছাত্রের মোট নম্বর =$15 \\times 10 = 150$ এবং10 \" \" \" \" =$10 \\times 15 = 150 ________________________________________________ 25$ জন ছাত্রের মোট নম্বর=$300$ : গড় নম্বর =$300/25= 12$",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 26,
+      "question": "Sam ranked ninth from the top and thirty-eight from the bottom in a class. How many students are there in the class?",
+      "options": [
+        "45",
+        "46",
+        "47",
+        "48"
+      ],
+      "correctIndex": 1,
+      "explanation": "মোট ছাত্র-ছাত্রী =$8+1+37 = 9+37 = 46$",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 27,
+      "question": "An amount of Tk. 735 was divided between A, B and C. If each of them had received Tk. 25 less, their shares would have been in the ratio of 1 : 3 : 2. The money received by C was :",
+      "options": [
+        "195",
+        "200",
+        "225",
+        "245"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: 245।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 28,
+      "question": "In a club 50% of the male voters and 80% of the female voters voted for candidate A. If candidate A received 70% of the total votes, what is the ratio of male to female voters?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "correctIndex": 0,
+      "explanation": "উত্তর: 1/2।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 29,
+      "question": "What is the next number in the series 1, 4, 9, 16.......?",
+      "options": [
+        "25",
+        "23",
+        "21",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "লক্ষ্য করো এখানে যে ধারাটি বা সিরিজটি দেওয়া আছে তার প্রতিটি সংখ্যা কীভাবে পরিবর্তন হচ্ছে তা আমাদের বুঝতে হবে। চলো আমরা ধারার সংখ্যাগুলোর দিকে মনোযোগ দিই: - প্রথম সংখ্যাটি হলো: 1 - দ্বিতীয় সংখ্যাটি হলো: $\\frac{1}{2}$(এটি প্রথম সংখ্যা 1-কে 2 দিয়ে ভাগ করে পাওয়া গেছে। অর্থাৎ $1 \\div 2 = \\frac{1}{2})$- তৃতীয় সংখ্যাটি হলো: $\\frac{1}{4}$(এটি দ্বিতীয় সংখ্যা $\\frac{1}{2}$-কে আবার 2 দিয়ে ভাগ করে পাওয়া গেছে। অর্থাৎ $\\frac{1}{2} \\div 2 = \\frac{1}{4})$ তাহলে আমরা খুব সহজেই বুঝতে পারছি এই ধারার নিয়মে প্রতিবার পূর্ববর্তী সংখ্যাকে 2 দিয়ে ভাগ করে তার পরের সংখ্যাটি বের করা হচ্ছে । - ঠিক একই নিয়মে আমাদের পরবর্তী বা চতুর্থ সংখ্যাটি বের করতে হলে তৃতীয় সংখ্যাটিকে 2 দিয়ে ভাগ করতে হবে। - অর্থাৎ $\\frac{1}{4} \\div 2 = \\frac{1}{4} \\times \\frac{1}{2} = \\frac{1}{8}$ তাই শূন্যস্থানে সঠিক উত্তরটি হবে $\\frac{1}{8}$ । সোর্সঃ খাইরুল মানসিক দক্ষতা।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 30,
+      "question": "How many prime number are in between 45 to 72?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: 6।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 31,
+      "question": "The idiom 'by and large' means-",
+      "options": [
+        "Very large",
+        "Mostly",
+        "Everywhere",
+        "Far away"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"by and large\" এর অর্থ: Mostly।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 32,
+      "question": "Translate the following sentence into English : তার মেয়েটি ভাল গান গায়, তাই নয় কি?",
+      "options": [
+        "His daughter sings well, isn't it so?",
+        "His daughter sings well, doesn't she?",
+        "His daughter sings well, doesn't it?",
+        "His daughter sings well, isn't she?"
+      ],
+      "correctIndex": 1,
+      "explanation": "অনুবাদ: His daughter sings well, doesn't she?।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 33,
+      "question": "Find out the correct spelt word:",
+      "options": [
+        "Gragarious",
+        "Gragerious",
+        "Gregarious",
+        "Gregareous"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক বানানটি হলো Reminiscence, যার বাংলা অর্থ হলো স্মৃতিচারণ।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 34,
+      "question": "Shield : Soldier ::",
+      "options": [
+        "Helmet : rider",
+        "Stethoscope: doctor",
+        "Advocate: court",
+        "Book: author"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: Helmet : rider।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 35,
+      "question": "Heart : Cardiology ::",
+      "options": [
+        "Brain : psychology",
+        "History : histology",
+        "Fossil : Paleontology",
+        "Civics : polity"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: Fossil : Paleontology।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 36,
+      "question": "Multiplication : Division ::",
+      "options": [
+        "Zero : Infinity",
+        "Increase : Decrease",
+        "Calculate : Estimate",
+        "Digit : Series"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: Increase : Decrease।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 37,
+      "question": "The meaning of the phrase 'to smell a rat' is",
+      "options": [
+        "To see signs of plague epidemic.",
+        "To suspect foul dealing",
+        "To get bad smell of a dead rat.",
+        "To be in a bad moral."
+      ],
+      "correctIndex": 1,
+      "explanation": "অর্থ: To suspect foul dealing।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 38,
+      "question": "Passive voice of 'Open the window'.",
+      "options": [
+        "Let the window be opened.",
+        "Let the window should be opened.",
+        "Let the window open.",
+        "The window is opened."
+      ],
+      "correctIndex": 0,
+      "explanation": "পরিবর্তিত রূপ: Let the window be opened.।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 39,
+      "question": "Passive voice of 'you can help us'.",
+      "options": [
+        "We can be help by you.",
+        "We could be helped by you.",
+        "We can be helped by you.",
+        "We are helped by you."
+      ],
+      "correctIndex": 2,
+      "explanation": "পরিবর্তিত রূপ: We can be helped by you.।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 40,
+      "question": "Antonym of MUNDANE is",
+      "options": [
+        "Sufficient",
+        "Exotic",
+        "Perfect",
+        "Agile"
+      ],
+      "correctIndex": 1,
+      "explanation": "বিপরীত শব্দ: Exotic।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 41,
+      "question": "The antonym of ADHERE is",
+      "options": [
+        "Detach",
+        "Engulf",
+        "Contain",
+        "Cleanse"
+      ],
+      "correctIndex": 0,
+      "explanation": "বিপরীত শব্দ: Detach।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 42,
+      "question": "To lay up",
+      "options": [
+        "To be confined to bed",
+        "To tolerate",
+        "Live peacefully",
+        "To be cooperative"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: To be confined to bed।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 43,
+      "question": "The affection of his wife bore him up in the midst of all his problems.",
+      "options": [
+        "To humble down",
+        "To sustain",
+        "To deceive",
+        "To play way"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: To sustain।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 44,
+      "question": "He applied for and was ____ legal aid by the Labor Ministry.",
+      "options": [
+        "offered",
+        "granted",
+        "allowed",
+        "awarded"
+      ],
+      "correctIndex": 1,
+      "explanation": "শূন্যস্থানে \"granted\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 45,
+      "question": "You will see signs of ____ everywhere, which speak well for the ____ of these people.",
+      "options": [
+        "decoration - senses",
+        "industry - prosperity",
+        "beauty - careful",
+        "clear - debris"
+      ],
+      "correctIndex": 1,
+      "explanation": "শূন্যস্থানে \"industry - prosperity\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 46,
+      "question": "They selected me for the job only ____ merit.",
+      "options": [
+        "with",
+        "along",
+        "on",
+        "in"
+      ],
+      "correctIndex": 2,
+      "explanation": "শূন্যস্থানে \"on\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 47,
+      "question": "The lion rushed _____ the rabbit.",
+      "options": [
+        "at",
+        "with",
+        "on",
+        "to"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"at\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 48,
+      "question": "My boss wants the work ____ before long.",
+      "options": [
+        "finish",
+        "finished",
+        "finishing",
+        "finishes"
+      ],
+      "correctIndex": 1,
+      "explanation": "শূন্যস্থানে \"finished\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 49,
+      "question": "দ্বিস্বরধ্বনিযুক্ত শব্দ-",
+      "options": [
+        "তৈল",
+        "রক্ষক",
+        "স্বর্ণ",
+        "আবরণ"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: তৈল।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 50,
+      "question": "শওকত আলীর ত্রয়ী উপন্যাস 'দক্ষিণায়নের দিনে'র শেষখণ্ড কোনটি?",
+      "options": [
+        "দক্ষিণায়ণের দিন",
+        "কুলায় কালস্রোত",
+        "পূর্বরাত্রি পূর্বদিন",
+        "পিঙ্গল আকাশ"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: পূর্বরাত্রি পূর্বদিন।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 51,
+      "question": "'তাতারী' কোন উপন্যাসের চরিত্র?",
+      "options": [
+        "চিলেকোঠার সেপাই",
+        "ক্রীতদাসের হাসি",
+        "লালসালু",
+        "চাঁদের অমাবস্যা"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: ক্রীতদাসের হাসি।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 52,
+      "question": "সামন্তবাদ ও পুজিবাদের দ্বন্দ্ব দেখা যায় কোন গল্পে?",
+      "options": [
+        "রাইকমল",
+        "জলসাঘর",
+        "কালিন্দী",
+        "অগ্রদানী"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: জলসাঘর।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 53,
+      "question": "রবীন্দ্রনাথের 'মেঘদূত' কাব্যগ্রন্থে প্রকাশিত?",
+      "options": [
+        "কালান্তর",
+        "কড়িও কোমল",
+        "ক্ষণিক",
+        "মানসী"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: মানসী।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 54,
+      "question": "শহীদ কাদরীর 'সঙ্গতি' কবিতাটি কোন কবির সংগতি কবিতার প্যারোডি?",
+      "options": [
+        "বুদ্ধদেব বসু",
+        "অমিয় চক্রবর্তী",
+        "শামসুর রাহমান",
+        "আল মাহমুদ"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: অমিয় চক্রবর্তী।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 55,
+      "question": "'নেমেসিস' নাটকের পটভূমি-",
+      "options": [
+        "মন্বন্তর",
+        "দেশভাগ",
+        "ভাষা আন্দোলন",
+        "গণ- অভ্যুত্থান"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: মন্বন্তর।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 56,
+      "question": "'প্রথম >পরথম' কি ধরনের ধ্বনি পরিবর্তন?",
+      "options": [
+        "অসমীকরণ",
+        "অপিনিহিত",
+        "বিপ্রকর্ষ",
+        "স্বরসাম্য"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: বিপ্রকর্ষ।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 57,
+      "question": "কোন বাক্য অশুদ্ধ?",
+      "options": [
+        "আপনি সপরিবারে আমন্ত্রিত।",
+        "গতকালের সভায় সকল শিক্ষক ও অভিভাবক উপস্থিত ছিলেন।",
+        "লোকটি নিরপরাধী।",
+        "অন্ধজনে দেহ আলো।"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: লোকটি নিরপরাধী।।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 58,
+      "question": "দীনেশচন্দ্র সেন সম্পাদিত 'পূর্ব্ববঙ্গ-গীতিকা'র কোন খণ্ড 'মৈমনসিংহ-গীতিকা' নামে প্রকাশিত?",
+      "options": [
+        "প্রথম খণ্ড",
+        "দ্বিতীয় খণ্ড",
+        "তৃতীয় খণ্ড",
+        "চতুর্থ খণ্ড"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: প্রথম খণ্ড।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 59,
+      "question": "'বড়ু চন্ডীদাসের কাব্য' গ্রন্থের সম্পাদক-",
+      "options": [
+        "মুহম্মদ শহীদুল্লাহ",
+        "মুহম্মদ আব্দুল হাই ও আহমদ শরীফ",
+        "মুহম্মদ আব্দুল হাই ও সৈয়দ আলী আহসান",
+        "মুহম্মদ আব্দুল হাই ও আনোয়ার পাশা"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: মুহম্মদ আব্দুল হাই ও আনোয়ার পাশা।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 60,
+      "question": "'নলি' অর্থ কি?",
+      "options": [
+        "নল",
+        "লগি-বৈঠা",
+        "অনুমতি পত্র",
+        "দিকনির্দেশক"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"নলি\" এর অর্থ: নল।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "মানসিক দক্ষতা"
+    },
+    {
+      "id": 61,
+      "question": "শামসুর রাহমানের প্রথম কবিতা কোন পত্রিকায় প্রকাশিত হয়?",
+      "options": [
+        "দৈনিক পাকিস্তান",
+        "নতুন কবিতা",
+        "সোনার বাংলা",
+        "মর্নিং নিউজ"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: সোনার বাংলা।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 62,
+      "question": "'আলালের ঘরে দুলাল' উপন্যাস প্রথমে কোন পত্রিকায় ধারাবাহিকভাবে প্রকাশিত হয়?",
+      "options": [
+        "বিধিধার্থ সংগ্রহ",
+        "মাসিক পত্রিকা",
+        "সংবাদ প্রভাকর",
+        "বঙ্গদর্শন"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: মাসিক পত্রিকা।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 63,
+      "question": "পাদচ্ছেদ বলা হয় কোন যতিচিহ্নকে?",
+      "options": [
+        "দাঁড়ি",
+        "সেমিকোলন",
+        "কমা",
+        "বিন্দুচিহ্ন"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: কমা।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 64,
+      "question": "জীবনানন্দ দাশ রচিত নয়-",
+      "options": [
+        "মহাপৃথিবী",
+        "মাল্যবান",
+        "অদ্ভুত এক আধার",
+        "কবিতার কথা"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: অদ্ভুত এক আধার।",
+      "appearedIn": [
+        "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১"
+      ],
+      "subject": "বাংলা"
+    }
+  ]
+}

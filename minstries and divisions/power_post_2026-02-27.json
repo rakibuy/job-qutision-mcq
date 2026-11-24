@@ -1,0 +1,1290 @@
+{
+  "examSlug": "power_post_2026-02-27",
+  "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬",
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2026-02-27",
+  "questionCount": 80,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Wien bridge oscillator is useful -",
+      "options": [
+        "at low frequencies",
+        "at high frequencies",
+        "with LC tank circuits",
+        "at small input signals"
+      ],
+      "correctIndex": 0,
+      "explanation": "- Wien bridge oscillator মূলত low frequencies বা অডিও ফ্রিকোয়েন্সি তৈরি এবং পরিমাপ করতে ব্যাপকভাবে ব্যবহৃত হয়। - এটি সাধারণত 100 Hz থেকে 100 kHz রেঞ্জের মধ্যে কাজ করে, যা অডিও বা লো-মিডিয়াম ফ্রিকোয়েন্সি পাল্লার অন্তর্ভুক্ত। - উইন ব্রিজ মূলত Capacitance এবং Frequency পরিমাপ করতেও ব্যবহৃত হয়। - উচ্চ ফ্রিকোয়েন্সির জন্য সাধারণত LC অসিলেটর ব্যবহৃত হয়, কিন্তু RC অসিলেটর হিসেবে উইন ব্রিজ লো ফ্রিকোয়েন্সিতে অত্যন্ত নির্ভুল ফলাফল প্রদান করে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 2,
+      "question": "RC coupling is generally confined to low power applications because of -",
+      "options": [
+        "large value of coupling capacitor",
+        "low efficiency",
+        "large number of components",
+        "none of the above"
+      ],
+      "correctIndex": 1,
+      "explanation": "- RC coupling সাধারণত অডিও ভোল্টেজ এমপ্লিফায়ারে ব্যবহৃত হয়, তবে হাই পাওয়ার অ্যাপ্লিকেশনে এটি ব্যবহার করা হয় না। - এর প্রধান কারণ হলো এর লো এফিসিয়েন্সি (low efficiency) । - RC কাপল সার্কিটে কালেক্টর লোড রেজিস্টরে (Collector load resistor) প্রচুর পরিমাণে ডিসি পাওয়ার (DC power) তাপ হিসেবে অপচয় হয়। - ফলে মোট সাপ্লাই পাওয়ারের খুব সামান্য অংশই দরকারি এসি আউটপুট পাওয়ার হিসেবে পাওয়া যায়, যার কারণে এর দক্ষতা ২৫% এরও কম হয়।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "The gain of an amplifier is expressed in dB because -",
+      "options": [
+        "it is a simple unit",
+        "calculations become easy",
+        "human ear response is logarithmic",
+        "none of the above"
+      ],
+      "correctIndex": 2,
+      "explanation": "- ადამიანের কান (Human ear) শব্দের তীব্রতা বা পরিবর্তনের প্রতি লগারিদমিক (logarithmic) ভাবে সাড়া দেয়। - অর্থাৎ, আমরা শব্দের মাত্রাকে রৈখিকভাবে নয়, বরং লগারিদমিক স্কেলে অনুভব করি। - এই কারণে এমপ্লিফায়ারের গেইন (Gain), অডিও লেভেল এবং নয়েজ পরিমাপের জন্য ডেসিবেল (dB) ইউনিট ব্যবহার করা হয়, যা একটি লগারিদমিক স্কেল।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "The disadvantage of base-bias is that -",
+      "options": [
+        "it is very complex",
+        "it produces low gain",
+        "it is too much β dependent",
+        "it produces high leakage current"
+      ],
+      "correctIndex": 2,
+      "explanation": "- বেস-বায়াস বা ফিক্সড বায়াস (Base-bias) সার্কিটের প্রধান অসুবিধা হলো এটি ট্রানজিস্টরের কারেন্ট গেইন β (Beta) এর ওপর খুব বেশি নির্ভরশীল । - আমরা জানি কালেক্টর কারেন্ট I_C = β I_B। - তাপমাত্রা পরিবর্তনের সাথে সাথে বা একই মডেলের অন্য ট্রানজিস্টর ব্যবহার করলে β এর মান ব্যাপকভাবে পরিবর্তিত হয়। - ফলে ট্রানজিস্টরের অপারেটিং পয়েন্ট বা Q-point অস্থিতিশীল হয়ে পড়ে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "If you are checking a 50 Hz full-wave bridge rectifier and observe that output has a 50 Hz ripple, then -",
+      "options": [
+        "circuit is working properly",
+        "transformer secondary is shorted",
+        "there is an open diode",
+        "the filter capacitor is leaky"
+      ],
+      "correctIndex": 2,
+      "explanation": "- একটি ফুল ওয়েভ ব্রিজ রেকটিফায়ারের (Full-wave bridge rectifier) ক্ষেত্রে আউটপুট রিপল ফ্রিকোয়েন্সি ইনপুট ফ্রিকোয়েন্সির দ্বিগুণ হয় (f_{out} = 2 imes f_{in})। - ইনপুট ফ্রিকোয়েন্সি ৫০ হার্জ (50 Hz) হলে আউটপুট রিপল হওয়া উচিত 100 Hz । - কিন্তু যদি আউটপুটে 50 Hz রিপল পাওয়া যায় এর অর্থ হলো সার্কিটটি হাফ ওয়েভ রেকটিফায়ারের মতো কাজ করছে। - ব্রিজ রেকটিফায়ারের চারটির মধ্যে একটি ডায়োড ওপেন (open diode) বা নষ্ট হয়ে গেলে এমনটি ঘটে কারণ তখন শুধুমাত্র একটি হাফ সাইকেল রেকটিফাই হতে পারে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "The resistivity of a semiconductor depends upon its -",
+      "options": [
+        "shape",
+        "length",
+        "both (a) and (b)",
+        "atomic structure"
+      ],
+      "correctIndex": 3,
+      "explanation": "রেজিস্টিভিটি (Resistivity) পদার্থের একটি অন্তর্নিহিত বা নিজস্ব বৈশিষ্ট্য। - কোনো পরিবাহী বা অর্ধপরিবাহীর (semiconductor) রেজিস্টিভিটি এর আকার (shape), দৈর্ঘ্য (length) বা প্রস্থচ্ছেদের ক্ষেত্রফলের ওপর নির্ভর করে না। - এটি মূলত পদার্থের পারমাণবিক গঠন (atomic structure) এবং তাপমাত্রার ওপর নির্ভর করে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "Under voltage relays are mostly used for -",
+      "options": [
+        "transformer protection",
+        "bus-bar protection",
+        "motor protection",
+        "feeder protection"
+      ],
+      "correctIndex": 2,
+      "explanation": "- Under voltage relays প্রধানত motor protection -এর জন্য ব্যবহৃত হয়। - সাপ্লাই ভোল্টেজ নির্দিষ্ট সীমার নিচে নেমে গেলে, লোড সামলাতে গিয়ে মোটরের কারেন্ট গ্রহণ বেড়ে যায়। এর ফলে অতিরিক্ত তাপ সৃষ্টি হয়ে মোটরের ওয়াইন্ডিং পুড়ে যেতে পারে। - যখন ভোল্টেজ একটি নিরাপদ সীমার চেয়ে কমে যায়, তখন এই রিলে স্বয়ংক্রিয়ভাবে সার্কিট ব্রেকারকে সিগন্যাল দিয়ে মোটরকে বৈদ্যুতিক সরবরাহ থেকে বিচ্ছিন্ন করে দেয়। - এর ফলে মোটরটি লো-ভোল্টেজ জনিত মারাত্মক ক্ষতির হাত থেকে রক্ষা পায়।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "The rating of a circuit breaker is usually determined on the basis of -",
+      "options": [
+        "symmetrical fault",
+        "line-to-line fault",
+        "single line-to-ground fault",
+        "double line-to-ground fault"
+      ],
+      "correctIndex": 0,
+      "explanation": "- একটি circuit breaker -এর রেটিং সাধারণত symmetrical fault (যেমন 3-phase short circuit)-এর ওপর ভিত্তি করে নির্ধারণ করা হয়। - পাওয়ার সিস্টেমে সিমেট্রিক্যাল ফল্ট হলো সবচেয়ে মারাত্মক অবস্থা এবং এই সময়ে সিস্টেমে সর্বোচ্চ পরিমাণ ফল্ট কারেন্ট প্রবাহিত হয়। - সার্কিট ব্রেকারটিকে যেহেতু সবচেয়ে চরম অবস্থাটি নিরাপদে সামলাতে হবে, তাই সিস্টেমের সর্বোচ্চ সম্ভাব্য ফল্ট কারেন্ট হিসাব করেই এর রেটিং (ব্রেকিং এবং মেকিং ক্যাপাসিটি) নির্ধারণ করা হয়।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "The transient voltage that appears across the contacts of the circuit breaker at the instant of arc extinction is known as -",
+      "options": [
+        "re-striking voltage",
+        "recovery voltage",
+        "breaking voltage",
+        "supply voltage"
+      ],
+      "correctIndex": 0,
+      "explanation": "- সার্কিট ব্রেকারের কন্টাক্টগুলো খোলার সময় যে ক্ষণস্থায়ী বা ট্রানজিয়েন্ট ভোল্টেজ তৈরি হয়, তাকে re-striking voltage বলা হয়। - আর্ক নেভানোর ঠিক মুহূর্তেই (instant of arc extinction) কন্টাক্টগুলোর আড়াআড়িতে এই উচ্চ কম্পাঙ্কের ভোল্টেজ দেখা যায়। - এটি প্রধানত সিস্টেমের ক্যাপাসিট্যান্স এবং ইনডাকট্যান্সের কারণে সৃষ্টি হয়। - যদি re-striking voltage কন্টাক্টগুলোর মধ্যবর্তী ডাই-ইলেকট্রিক শক্তির চেয়ে দ্রুত বৃদ্ধি পায়, তবে কন্টাক্টগুলোর মাঝে পুনরায় আর্ক তৈরি হতে পারে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "For the interruption of high voltage and low current, the circuit breaker prefered is -",
+      "options": [
+        "vacuum CB",
+        "air blast CB",
+        "oil CB",
+        "all are correct"
+      ],
+      "correctIndex": 0,
+      "explanation": "- Vacuum Circuit Breaker (VCB) সাধারণত উচ্চ ভোল্টেজ (high voltage) এবং নিম্ন কারেন্ট (low current) সার্কিট ইন্টারাপ্ট করার জন্য সবচেয়ে বেশি পছন্দ করা হয়। - ভ্যাকিউমের (শূন্যস্থান) ডাই-ইলেকট্রিক শক্তি অত্যন্ত বেশি, যা অত্যন্ত দ্রুত আর্ক নেভাতে (arc quenching) সাহায্য করে। - এটি অন্যান্য ব্রেকারের তুলনায় দ্রুত কাজ করে এবং ক্যাপাসিটর ব্যাংক সুইচিং-এর মতো নিম্ন কারেন্ট অ্যাপ্লিকেশনে চমৎকার কাজ করে। - এই ব্রেকারগুলো অত্যন্ত নির্ভরযোগ্য এবং এদের জন্য তুলনামূলকভাবে খুব কম রক্ষণাবেক্ষণের প্রয়োজন হয়।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "An isolator is designed to open a circuit under -",
+      "options": [
+        "full-load",
+        "normal conditions",
+        "no-load",
+        "none of the above"
+      ],
+      "correctIndex": 2,
+      "explanation": "- Isolator হলো একটি মেকানিক্যাল সুইচিং ডিভাইস, যা বৈদ্যুতিক সরবরাহ থেকে একটি সার্কিট বা সরঞ্জামকে সম্পূর্ণ বিচ্ছিন্ন করতে ব্যবহৃত হয়। - এটি মূলত রক্ষণাবেক্ষণ বা নিরাপত্তার উদ্দেশ্যে ব্যবহৃত হয়। - Isolator -এর কোনো আর্ক-কোয়েনচিং (arc-quenching) ক্ষমতা থাকে না, তাই এটি কেবল no-load বা যখন সার্কিটে কোনো কারেন্ট প্রবাহিত হচ্ছে না, তখনই অপারেট করার জন্য ডিজাইন করা হয়েছে। - লোড অবস্থায় এটি বিচ্ছিন্ন করলে বিপজ্জনক বৈদুতিক আর্ক তৈরি হতে পারে, তাই নিরাপত্তার জন্য এটি কারেন্ট না থাকা অবস্থায় ব্যবহার করা হয়।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "The zero sequence impedance of different elements of power system is generally -",
+      "options": [
+        "zero",
+        "equal",
+        "different",
+        "none of the above"
+      ],
+      "correctIndex": 2,
+      "explanation": "পাওয়ার সিস্টেমের বিভিন্ন উপাদানের (যেমন- জেনারেটর, ট্রান্সফর্মার, ট্রান্সমিশন লাইন) zero sequence impedance সাধারণত different বা আলাদা হয়। - ব্যালান্সড সিস্টেমে পজিটিভ বা নেগেটিভ সিকোয়েন্স ইম্পিডেন্স সমান হতে পারলেও, জিরো সিকোয়েন্স ইম্পিডেন্স মূলত কারেন্টের রিটার্ন পাথ এবং গ্রাউন্ডিং (grounding/neutral connection)-এর ওপর নির্ভর করে। - স্টার বা ডেল্টা কানেকশনের ভিন্নতার কারণে প্রতিটি উপাদানের জন্য এই মান ভিন্ন হয়।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "A 3-phase transmission line operating at 10 kV has a resistance of 1 Ω. The percentage resistance of the line at 10,000 kVA base is -",
+      "options": [
+        "20%",
+        "10%",
+        "5%",
+        "40%"
+      ],
+      "correctIndex": 1,
+      "explanation": "দেওয়া আছে, লাইন ভোল্টেজ,$V = 10 kV$ বেস পাওয়ার,$S base = 10,000 kVA = 10 MVA$ প্রকৃত রোধ,$R = 1$ Ω বেস রোধ (Base Impedance), Z base = (kV) 2 / MVA Z base = 10 2 / 10 = 100 / 10 = 10 Ω Percentage Resistance, %$R = (R / Z base ) \\times 100$% %$R = (1 / 10) \\times 100$% =$10$% শর্টকাট: %$R = \\frac{kVA base \\times R}{10 \\times kV 2} = \\frac{10000 \\times 1}{10 \\times 10 2} = 10000 / 1000 = 10$%।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "In a thermal power plant, the feed water coming to the economiser is heated using -",
+      "options": [
+        "H.P. steam",
+        "I.P. steam",
+        "direct heat in the furnace",
+        "flue gases"
+      ],
+      "correctIndex": 3,
+      "explanation": "থার্মাল পাওয়ার প্ল্যান্টে Economiser এমন একটি ডিভাইস যা চিমনির মাধ্যমে বাইরে যাওয়ার আগে flue gases (exhaust) এর বর্জ্য তাপ ব্যবহার করে বয়লারে প্রবেশ করা feed water কে গরম করে। - এর ফলে বয়লারের দক্ষতা (efficiency) উল্লেখযোগ্যভাবে বৃদ্ধি পায় এবং প্ল্যান্টের সামগ্রিক জ্বালানি সাশ্রয় হয়।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "The minimum dielectric stress in a cable is at -",
+      "options": [
+        "conductor surface",
+        "centre of conductor",
+        "lead sheath",
+        "none of above"
+      ],
+      "correctIndex": 2,
+      "explanation": "একটি ক্যাবলে ডাইইলেকট্রিক স্ট্রেস কন্ডাক্টরের কেন্দ্র থেকে দূরত্বের উপর নির্ভর করে। - Maximum stress: কন্ডাক্টরের পৃষ্ঠে (conductor surface) ডাইইলেকট্রিক স্ট্রেস সবচেয়ে বেশি থাকে। - Minimum stress: কন্ডাক্টর থেকে সবচেয়ে দূরে বা ইনসুলেশনের বাইরের অংশে অর্থাৎ lead sheath -এ ডাইইলেকট্রিক স্ট্রেস সবচেয়ে কম (minimum) থাকে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 16,
+      "question": "The bulk power consumers are supplied at -",
+      "options": [
+        "66 kV",
+        "11 kV",
+        "230 kV",
+        "33 kV"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bulk power consumers বা বড় শিল্প কারখানাগুলোতে সাধারণত 33 kV ভোল্টেজে বিদ্যুৎ সরবরাহ করা হয়। এর কারণ হলো: - উচ্চ ভোল্টেজে পাওয়ার ট্রান্সমিট করলে লাইনের কারেন্ট কমে যায়, ফলে line loss কম হয়। - ইন্ডাস্ট্রিয়াল সাব-ট্রান্সমিশন লেভেল হিসেবে 33 kV বেশ সাশ্রয়ী এবং নির্ভরযোগ্য। উল্লেখ্য, 33 KV পর্যন্ত ভোল্টেজের ক্ষেত্রে সাধারণত Pin Insulators ব্যবহৃত হয় এবং এর উপরের ভোল্টেজে অন্যান্য ইনসুলেটর ব্যবহৃত হয়।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 17,
+      "question": "Transposition of transmission line is done to -",
+      "options": [
+        "reduce line loss",
+        "balance line voltage drop",
+        "reduce skin effect",
+        "reduce corona"
+      ],
+      "correctIndex": 1,
+      "explanation": "ট্রান্সমিশন লাইনে Transposition করা হয় মূলত তিনটি ফেজের ইনডাকট্যান্স এবং ক্যাপাসিট্যান্স সমান করার জন্য। এর ফলে প্রতিটি ফেজে ভোল্টেজ ড্রপ সমান হয় এবং line voltage drop balance হয়। এছাড়া এটি টেলিকমিউনিকেশন লাইনের সাথে ম্যাগনেটিক ইন্টারফারেন্স কমাতেও সাহায্য করে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 18,
+      "question": "The effect of increase in temperature of overhead line is to -",
+      "options": [
+        "increase the stress and length",
+        "decrease the stress but to increase length",
+        "decrease the stress and length",
+        "none of above"
+      ],
+      "correctIndex": 1,
+      "explanation": "- ওভারহেড লাইনে পরিবাহীর তাপমাত্রা (temperature) বৃদ্ধির ফলে পদার্থের স্বাভাবিক ধর্ম অনুযায়ী তারের প্রসারণ ঘটে। - এই প্রসারণের ফলে তারের দৈর্ঘ্য বৃদ্ধি (increase length) পায়। - তারের দৈর্ঘ্য বৃদ্ধি পাওয়ার কারণে লাইনের Sag বা ঝুলের পরিমাণ স্বাভাবিকভাবেই বেড়ে যায়। - Sag বেড়ে যাওয়ার ফলে তারের উপর প্রযুক্ত টান বা stress প্রশমিত হয়ে কমে যায় (decrease the stress) । - বিপরীতভাবে, তাপমাত্রা কমে গেলে তার সংকুচিত হয়, ফলে দৈর্ঘ্য কমে এবং stress বেড়ে যায়।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 19,
+      "question": "Sag is provided in overhead lines so that -",
+      "options": [
+        "safe tension is not exceeded",
+        "repair can be made",
+        "conductor material is saved",
+        "none of the above"
+      ],
+      "correctIndex": 0,
+      "explanation": "- ওভারহেড ট্রান্সমিশন লাইনে দুটি খুঁটি বা টাওয়ারের সাপোর্ট পয়েন্ট এবং তারের সবচেয়ে নিচু বিন্দুর মধ্যকার উলম্ব দূরত্বকে Sag (ঝুল) বলা হয়। - ওভারহেড লাইনে পরিমিত Sag রাখা হয় যাতে তারের উপর অতিরিক্ত টান বা safe tension লিমিট অতিক্রম না করে। - ঋতু পরিবর্তনের কারণে (যেমন শীতকালে তার সংকুচিত হলে) তারের টান অনেক বেড়ে যেতে পারে। - একদম টানটান করে তার বাঁধা হলে ঠান্ডা আবহাওয়া বা প্রবল বাতাসে অতিরিক্ত টানের (tension) কারণে তার ছিঁড়ে যেতে পারে বা পোল ভেঙে যেতে পারে, তাই তার সুরক্ষিত রাখতে Sag প্রদান করা হয়।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 20,
+      "question": "Suspension type insulators are used for voltages beyond -",
+      "options": [
+        "400 V",
+        "11 KV",
+        "33 KV",
+        "800 V"
+      ],
+      "correctIndex": 2,
+      "explanation": "- সাসপেনশন ইনসুলেটর (Suspension Insulator) সাধারণত উচ্চ ভোল্টেজের ওভারহেড ট্রান্সমিশন লাইনে ব্যবহার করা হয়। - 33 KV এর বেশি ভোল্টেজের ক্ষেত্রে পিন টাইপ ইনসুলেটরের ব্যবহার অলাভজনক ও ঝুঁকিপূর্ণ হয়ে যায়, তাই সেখানে সাসপেনশন ইনসুলেটর ব্যবহৃত হয়। - সাসপেনশন ইনসুলেটরগুলো অনেকগুলো ডিস্ক (disc) নিয়ে গঠিত হয়, যা স্ট্রং টেকসই চেইন বা সাসপেনশনের মাধ্যমে লাইন ও টাওয়ারের সাথে যুক্ত থাকে। - ভোল্টেজ বেশি হলে প্রয়োজন অনুযায়ী ডিস্কের সংখ্যা বাড়িয়ে নেওয়া যায়, ফলে এটি 33 KV এর ওপরের ভোল্টেজ সহজে সহ্য করতে পারে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 21,
+      "question": "If we want to connect a few computers in a small office, all the computers in one building, or all the computers in several building in close proximity, which type of network is repaired?",
+      "options": [
+        "PAN",
+        "LAN",
+        "MAN",
+        "SAN"
+      ],
+      "correctIndex": 1,
+      "explanation": "- একই ভবনের বিভিন্ন তলায়, অফিস-আদালত, স্কুল-কলেজ, ছোট-বড় ব্যবসা প্রতিষ্ঠানের বা কাছাকাছি ভবনের কম্পিউটারগুলোর মধ্যে সংযোগ স্থাপনের জন্য লোকাল এরিয়া নেটওয়ার্ক (LAN) ব্যবহার করা হয়। - সাধারণত ১ কিলোমিটারের মধ্যে এই নেটওয়ার্ক খুব ভালোভাবে কাজ করে। - ছোট পরিসরে ডেটা শেয়ারিং ও কমিউনিকেশন নিশ্চিত করতে LAN সবচেয়ে কার্যকর। - লোকাল এরিয়া নেটওয়ার্ক ব্যবস্থায় কমিউনিকেশন মিডিয়া হিসেবে সাধারণত ক্যাবল ব্যবহার করা হয় এবং এর স্ট্যান্ডার্ড হলো IEEE 802 ।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 22,
+      "question": "What is ACID properties of Transactions?",
+      "options": [
+        "Atomicity, Consistency, Isolation, Database",
+        "Atomicity, Consistency, Isolation, Durability",
+        "Atomicity, Consistency, Inconsistent, Durability",
+        "Automatically, Concurrency, Isolation, Durability"
+      ],
+      "correctIndex": 1,
+      "explanation": "- ডেটাবেস ট্রানজ্যাকশনের ACID প্রপার্টি হলো চারটি মূল বৈশিষ্ট্যের সমষ্টি, যা ডেটাবেসের নির্ভরযোগ্যতা ও স্থায়িত্ব নিশ্চিত করে। - ACID এর পূর্ণরূপ হলো: ১. Atomicity (অ্যাটোমিসিটি) : একটি ট্রানজ্যাকশনের সব কাজ সম্পূর্ণভাবে সম্পন্ন হবে, নতুবা কোনো কাজই সম্পন্ন হবে না (All or Nothing)। ২. Consistency (কনসিস্টেন্সি) : ট্রানজ্যাকশনের আগে ও পরে ডেটাবেস একটি সঠিক ও রুলস অনুযায়ী বৈধ (valid) অবস্থায় থাকবে。 ৩. Isolation (আইসোলেশন) : একাধিক ট্রানজ্যাকশন একসাথে চললেও একটির কাজ অন্যটিকে প্রভাবিত করবে না। ৪. Durability (ডিউরেবিলিটি) : ট্রানজ্যাকশন সফলভাবে সম্পন্ন হওয়ার পর ডেটা স্থায়ীভাবে সংরক্ষিত হবে, সিস্টেম ফেল করলেও তা নষ্ট হবে না।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 23,
+      "question": "Which of the following operating system reads and reacts in actual time?",
+      "options": [
+        "Quick Response System",
+        "Real Time System",
+        "Time sharing System",
+        "Batch Processing System"
+      ],
+      "correctIndex": 1,
+      "explanation": "- একটি Real Time Operating System (RTOS) ইনপুট ডেটা নেওয়ার সাথে সাথে অত্যন্ত দ্রুত এবং নির্দিষ্ট সময়ের মাঝে (actual time) আউটপুট বা রিয়্যাক্ট প্রদান করে। - এই ধরনের সিস্টেমে টাইম ডেডলাইন খুব কঠোরভাবে মেনে চলা হয়, যেমন: এয়ার ট্রাফিক কন্ট্রোল, রোবোটিক্স বা মিসাইল সিস্টেমে। - অন্যদিকে Batch Processing বা Time sharing সিস্টেমে এমন তাৎক্ষণিক রেসপন্সের নিশ্চয়তা থাকে না। - তাই যে সিস্টেম actual time-এ read এবং react করে থাকে, তাকে Real Time System বলা হয়।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 24,
+      "question": "In a circuit containing an inductance of zero resistance, the current leads the applied a.c. voltage by a phase angle of-",
+      "options": [
+        "-90°",
+        "90°",
+        "0°",
+        "180°"
+      ],
+      "correctIndex": 0,
+      "explanation": "- একটি Pure Inductive Circuit (যাতে রেজিস্ট্যান্স শূন্য), কারেন্ট সবসময় অ্যাপ্লায়েড এসি ভোল্টেজ থেকে 90° এঙ্গেলে পিছিয়ে (lags) থাকে। - প্রশ্নে যেহেতু জানতে চাওয়া হয়েছে কারেন্ট কত ডিগ্রি লিড (leads) করে, তাই পিছনের দিকে থাকা বা ল্যাগিং অবস্থাকে নেগেটিভ দিয়ে বোঝানো হয়। - অর্থাৎ, কারেন্ট ভোল্টেজের তুলনায় -90° লিড (leads) করে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 25,
+      "question": "Two lamps of 100W and 220W rated for 220V are placed in series and a 440V applied across them. Then",
+      "options": [
+        "only 100W lamp will fuse",
+        "only 200W lamp will fuse",
+        "both the lamps will fuse",
+        "no lamps will fuse"
+      ],
+      "correctIndex": 0,
+      "explanation": "- ল্যাম্পের রেজিস্ট্যান্স বের করার সূত্র হলো: $R = V^{2} / P - 100W$ ল্যাম্পের রেজিস্ট্যান্স: $R1 = (220^{2}) / 100 = 484$ Ω - 220W ল্যাম্পের রেজিস্ট্যান্স: $R2 = (220^{2}) / 220 = 220$ Ω - প্রাপ্ত মান থেকে দেখা যায়, কম পাওয়ারের (100W) ল্যাম্পের রেজিস্ট্যান্স বেশি । - সিরিজে সংযুক্ত কারেন্ট সমান থাকায়, যে ল্যাম্পের রেজিস্ট্যান্স বেশি তার আড়াআড়িতে ভোল্টেজ ড্রপ বেশি হয় (V = IR)। - সিরিজে 440V সাপ্লাই দিলে 100W ল্যাম্পটির এক্রসে ভোল্টেজ তার রেটেড ভোল্টেজের (220V) চেয়ে অনেক বেশি হয়ে যায়, যার ফলে অতিরিক্ত পাওয়ার ডেসপেশনের কারণে 100W ল্যাম্পটি ফিউজ হয়ে যাবে ।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 26,
+      "question": "The capacitive reactance of a circuit is ………. frequency.",
+      "options": [
+        "independent of",
+        "inversely proportional to",
+        "directly proportional to",
+        "none of the above"
+      ],
+      "correctIndex": 1,
+      "explanation": "- Capacitive reactance এর গাণিতিক সূত্র হলো,$X_c = 1 / (2\\pi fC)$- সূত্র থেকে দেখা যায়, X_c এর মান ফ্রিকোয়েন্সি (f) এবং ক্যাপাসিট্যান্স (C) উভয়ের সাথেই ব্যস্তানুপাতিক (inversely proportional) । - তাই ফ্রিকোয়েন্সি বৃদ্ধি পেলে ক্যাপাসিটিভ রিঅ্যাক্ট্যান্স কমে যায় এবং ফ্রিকোয়েন্সি কমলে ক্যাপাসিটিভ রিঅ্যাক্ট্যান্স বৃদ্ধি পায়।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 27,
+      "question": "The temperature rise of a transformer is directly proportional to ………….",
+      "options": [
+        "apparent power",
+        "reactive power",
+        "leakage reactance",
+        "none of the above"
+      ],
+      "correctIndex": 0,
+      "explanation": "- ট্রান্সফরমারের তাপমাত্রা বৃদ্ধি মূলত এর লস বা ক্ষতির উপর নির্ভরশীল । - একটি ট্রান্সফরমারের মোট ক্ষতি দুটি অংশের সমষ্টি: কপার লস (Active power loss) এবং আয়রন লস (Reactive power related) । - ট্রান্সফরমারের রেটিং সবসময় অ্যাপারেন্ট পাওয়ার (kVA বা MVA) এককে প্রকাশ করা হয়, কিলোওয়াটে নয়। - কারণ ট্রান্সফরমারের কপার লস কারেন্টের সাথে এবং আয়রন লস ভোল্টেজের সাথে সম্পর্কিত, কিন্তু পাওয়ার ফ্যাক্টরের উপর নির্ভর করে না। - এই দুটি লস বা ক্ষতির সমষ্টিই ট্রান্সফরমারের তাপমাত্রা বৃদ্ধির প্রধান কারণ । - যেহেতু অ্যাপারেন্ট পাওয়ার (Apparent power) ভোল্টেজ এবং কারেন্টের গুণফলকে নির্দেশ করে, তাই ট্রান্সফরমারের তাপমাত্রা বৃদ্ধি সরাসরি অ্যাপারেন্ট পাওয়ারের সমানুপাতিক হয়।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 28,
+      "question": "A transformer will have zero efficiency at …......",
+      "options": [
+        "full-load",
+        "no-load",
+        "half full-load",
+        "none of the above"
+      ],
+      "correctIndex": 1,
+      "explanation": "- ট্রান্সফরমারে যখন কোনো লোড সংযুক্ত থাকে না, তখন তাকে নো-লোড (No-load) অবস্থা বলা হয়। - ট্রান্সফরমারের দক্ষতার সূত্র হলো: $Efficiency = (Output Power / Input Power) \\times 100$% । - নো-লোড অবস্থায় ট্রান্সফরমার কোনো আউটপুট পাওয়ার বা শক্তি সরবরাহ করে না, অর্থাৎ আউটপুট পাওয়ার শূন্য থাকে। - সেকেন্ডারিতে কোনো লোড না থাকার কারণে আউটপুট পাওয়ার শূন্য হওয়ায়, উপরের সূত্র অনুযায়ী ট্রান্সফরমারের দক্ষতা বা Efficiency শূন্য হবে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 29,
+      "question": "A transformer has an efficiency of 80% and works at 100V, 4kW. If the secondary voltage is 240V, find the primary current.",
+      "options": [
+        "40 A",
+        "30 A",
+        "20 A",
+        "10 A"
+      ],
+      "correctIndex": 0,
+      "explanation": "দেওয়া আছে, ইনপুট পাওয়ার,$P = 4 kW = 4000 W$ প্রাইমারি ভোল্টেজ,$V p = 100 V$ আমরা জানি,$P = V p \\times I p$ বা,$I p = P / V p$ বা,$I p = 4000 / 100$ বা,$I p = 40 A$ সুতরাং, প্রাইমারি কারেন্ট 40 A।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 30,
+      "question": "A transformer will work on ………….",
+      "options": [
+        "a.c. only",
+        "d.c. only",
+        "a.c. as well as d.c.",
+        "none of the above"
+      ],
+      "correctIndex": 0,
+      "explanation": "- ট্রান্সফরমার ফ্যারাডের তড়িৎচৌম্বকীয় আবেশ (Electromagnetic induction) নীতির উপর ভিত্তি করে কাজ করে, যার জন্য পরিবর্তনশীল চৌম্বকীয় ফ্লাক্স প্রয়োজন। - এসি (AC) প্রবাহ সময়ের সাথে দিক ও মান পরিবর্তন করে, যা পরিবর্তনশীল চৌম্বকীয় ফ্লাক্স তৈরি করে। তাই ট্রান্সফরমার শুধুমাত্র a.c. only তে কাজ করে। - ডিসি (DC) তে কারেন্টের মান স্থির থাকে, তাই ট্রান্সফরমারের কোরে কোনো পরিবর্তনশীল ফ্লাক্স উৎপন্ন হয় না। - ট্রান্সফরমারে ডিসি সাপ্লাই দিলে প্রাইমারি কয়েলের ইম্পিডেন্স কমে যায়, ফলে অতিরিক্ত কারেন্ট প্রবাহিত হয়ে কয়েল পুড়ে যাওয়ার সম্ভাবনা থাকে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 31,
+      "question": "The deciding factor in the selection of a d.c. motor for a particular application is its ……… characteristic.",
+      "options": [
+        "speed-torque",
+        "speed-armature current",
+        "torque-armature current",
+        "none of the above"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: speed-torque।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 32,
+      "question": "The nature of armature winding of a d.c. machine is decided by ………..",
+      "options": [
+        "front pitch",
+        "commutator pitch",
+        "back pitch",
+        "none of the above"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: commutator pitch।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 33,
+      "question": "The armature of a d.c. machine is laminated in order to reduce .........",
+      "options": [
+        "eddy current loss",
+        "hysteresis loss",
+        "copper loss",
+        "frictional loss"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"eddy current loss\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 34,
+      "question": "For the same rating, the size of a 3-phase motor will be -- single phase motor.",
+      "options": [
+        "less than that of",
+        "more than that of",
+        "same as that of",
+        "none of the above"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: less than that of।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 35,
+      "question": "If the admittance of a parallel a.c. circuit is increased, the circuit current..........",
+      "options": [
+        "remains constant",
+        "is decreased",
+        "is increased",
+        "none of the above"
+      ],
+      "correctIndex": 2,
+      "explanation": "শূন্যস্থানে \"is increased\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 36,
+      "question": "A pure conductor is connected to an alternating voltage source. If both the voltage and the frequency are doubled, the circuit current",
+      "options": [
+        "becomes double",
+        "is halved",
+        "becomes three times",
+        "remains unchanged"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: becomes double।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 37,
+      "question": "It is required to convert a galvanometer of current range 15 mA and voltage range 750 mV into an ammeter of range 2.5A. What is the value of shunt resistance required?",
+      "options": [
+        "0.3 Ω",
+        "1.5 Ω",
+        "3.4 Ω",
+        "0.5 Ω"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: 0.3 Ω।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 38,
+      "question": "Two capacitors have capacitance 25 µF when in parallel and 6 µF when in series. Their individual capacitances are -",
+      "options": [
+        "12 µF and 13 µF",
+        "15µF and 10 µF",
+        "10 µF and 8 µF",
+        "none of the above"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: 15µF and 10 µF।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 39,
+      "question": "Electrical appliances are not connected in series because",
+      "options": [
+        "series circuit is complicated",
+        "power loss is none",
+        "appliances have different current ratings",
+        "none of the above"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: appliances have different current ratings।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 40,
+      "question": "If the number of valence electrons of an atom is less than 4, the substance is usually -",
+      "options": [
+        "a conductor",
+        "an insulator",
+        "a semiconductor",
+        "none of the above"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: a conductor।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 41,
+      "question": "Sheaths are used in power in cables to -",
+      "options": [
+        "provide adequate insulation",
+        "increase the strength of the cable",
+        "prevent moisture from entering the cable",
+        "none of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: prevent moisture from entering the cable।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 42,
+      "question": "In a power transmission line, the sag depends on -",
+      "options": [
+        "conductor material alone",
+        "tension in conductors alone",
+        "span of transmission line",
+        "all of these"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: all of these।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 43,
+      "question": "Breakdown of insulation of a cable can be avoided economically by the used of -",
+      "options": [
+        "insulating material with different dielectric",
+        "intersheath",
+        "both (ক) and (খ) above",
+        "none the these"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: both (ক) and (খ) above।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 44,
+      "question": "Use of bundle conductors causes the critical voltage for corona formation -",
+      "options": [
+        "to decrease",
+        "to increase",
+        "to remain unaltered",
+        "does not existent"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: to increase।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 45,
+      "question": "The current coil of single phase energy meter is wounded -",
+      "options": [
+        "one limb of the laminated core",
+        "both the limbs of the laminated core with different turns",
+        "both the limbs of the laminated core with same number of turns",
+        "the centre of the limb on the laminated core"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: both the limbs of the laminated core with same num...।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 46,
+      "question": "Pure semiconductors are poor conductor because -",
+      "options": [
+        "they have no valence electrons",
+        "all valence electrons are in electron pairs",
+        "they have a number of holes",
+        "there are fewer electrons than protons"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: all valence electrons are in electron pairs।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 47,
+      "question": "The temperature at which a conductor becomes a superpower is called -",
+      "options": [
+        "Curie temperature",
+        "transition temperature",
+        "Onne's temperature",
+        "Neel temperature"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: transition temperature।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 48,
+      "question": "In a synchronous machine, all of the following losses are fixed except -",
+      "options": [
+        "core loss",
+        "copper loss",
+        "bearing friction loss",
+        "windage loss"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: copper loss।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 49,
+      "question": "When a D.C. series motor is connected to A.C. supply, the power factor will be low because of -",
+      "options": [
+        "high inductance of field and armature circuits",
+        "induced current in rotor due to variations of flux",
+        "fine copper wire winding",
+        "none of the above"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: high inductance of field and armature circuits।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 50,
+      "question": "The frame of an induction motor is made of -",
+      "options": [
+        "carbon",
+        "closed grained cast iron",
+        "aluminum",
+        "stainless steel"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: closed grained cast iron।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 51,
+      "question": "During open circuit test of a transformer -",
+      "options": [
+        "primary is supplied rated voltage",
+        "primary is supplied full-load current",
+        "primary is supplied current at reduced voltage",
+        "primary is supplied rated kVA"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: primary is supplied rated voltage।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 52,
+      "question": "The power factor in a transformer -",
+      "options": [
+        "is always unit",
+        "is always leading",
+        "is always lagging",
+        "depends on the power factor of load"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: depends on the power factor of load।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 53,
+      "question": "The back emf of a dc motor-",
+      "options": [
+        "adds to the supply voltage",
+        "regulates its armature voltage",
+        "helps in energy conversion",
+        "usually exceeds the supply voltage"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: helps in energy conversion।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 54,
+      "question": "The function of commutator in a dc machine -",
+      "options": [
+        "to improve commutation",
+        "to change de voltage into de voltage",
+        "to change ac voltage into de voltage",
+        "to provide easy speed control"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: to change ac voltage into de voltage।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 55,
+      "question": "A wave-trap is used at the termination of a HVAC overhead line to a station switchyard to -",
+      "options": [
+        "prevent the transformer magnetizing harmonics from reaching the overhead line",
+        "damp the incoming surge waves from the overhead lines",
+        "attenuate sub-harmonic oscillations",
+        "provide for carrier communication."
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: provide for carrier communication.।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 56,
+      "question": "While drawing vector diagram for a series circuit, the reference vector is -",
+      "options": [
+        "voltage",
+        "current",
+        "power",
+        "phase angle"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: current।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 57,
+      "question": "Power factor of an inductive circuit is usually improved by connecting capacitor to it in -",
+      "options": [
+        "parallel",
+        "parallel‌",
+        "either (ক) or (খ)",
+        "none of the above."
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: parallel।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 58,
+      "question": "A material for good magnetic memory should have -",
+      "options": [
+        "low hysteresis loss",
+        "high permeability",
+        "low retentivity",
+        "high retentivity"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: high retentivity।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 59,
+      "question": "The total excess or deficiency of electrons in a body is called the -",
+      "options": [
+        "current",
+        "voltage",
+        "charge",
+        "potential gradient"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: charge।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 60,
+      "question": "In an electrical network, connection of elements between two nodes is called -",
+      "options": [
+        "branch",
+        "loop",
+        "mesh",
+        "tree branch"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: branch।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 61,
+      "question": "The tariff of electricity in Bangladesh is fixed by -",
+      "options": [
+        "MPEMR",
+        "BERC",
+        "BTRC",
+        "BCSIR"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: BERC।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 62,
+      "question": "On-grid installed Power generation capacity in Bangladesh is -",
+      "options": [
+        "27,504 MW",
+        "28,504 MW",
+        "29,504 MW",
+        "30,504 MW"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: 27,504 MW।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 63,
+      "question": "Highest Power Generation in Bangladesh Comes from -",
+      "options": [
+        "Coal",
+        "Gas",
+        "Oil",
+        "Hydro"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: Gas।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 64,
+      "question": "According to Grid code allowable Frequency Variation is -",
+      "options": [
+        "49 Hz-51 Hz",
+        "49.50 Hz -50.50 Hz",
+        "49.75 Hz -50.75 Hz",
+        "None of Above"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: 49.50 Hz -50.50 Hz।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 65,
+      "question": "The Highest Voltage for Transmitting Electrical Power In Bangladesh is -",
+      "options": [
+        "132 KV",
+        "230 KV",
+        "400 KV",
+        "765 KV"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: 400 KV।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 66,
+      "question": "বাংলাদেশের প্রথম সরকারি সৌরবিদ্যুৎ কেন্দ্রটি কোথায় অবস্থিত?",
+      "options": [
+        "কর্ণফুলী, চট্টগ্রাম",
+        "ঘোড়াশাল, নরসিংদী",
+        "কাপ্তাই, রাঙামাটি",
+        "চন্দ্রঘোনা, খুলনা"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: কাপ্তাই, রাঙামাটি।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 67,
+      "question": "স্বাধীন বাংলা ফুটবল দলের অধিনায়ক কে ছিলেন?",
+      "options": [
+        "কাজী সালাউদ্দিন",
+        "জাকারিয়া পিন্টু",
+        "সাইদুর রহমান প্যাটেল",
+        "অমলেশ সেন"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: জাকারিয়া পিন্টু।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 68,
+      "question": "কোভিড-১৯ এর ভ্যাক্সিন আবিষ্কারক বিজ্ঞানী সারা গিলবার্ট কোন বিশ্ববিদ্যালয়ের অধ্যাপক?",
+      "options": [
+        "হার্ভার্ড",
+        "ক্যামব্রিজ",
+        "অক্সফোর্ড",
+        "ক্যালিফোর্নিয়া"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: অক্সফোর্ড।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 69,
+      "question": "আন্তর্জাতিক নারী দিবস পালিত হয় প্রতি বছর-",
+      "options": [
+        "৮ ফেব্রুয়ারি",
+        "৮ মার্চ",
+        "৮ এপ্রিল",
+        "৮ আগস্ট"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: ৮ মার্চ।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 70,
+      "question": "বাংলাদেশের দ্বাদশ জাতীয় সংসদ নির্বাচনে অংশগ্রহণকারী মোট রাজনৈতিক দলের সংখ্যা কয়টি?",
+      "options": [
+        "৪০",
+        "৪১",
+        "৫০",
+        "৫১"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: ৪০।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 71,
+      "question": "What is the antonym of 'Dexterity'?",
+      "options": [
+        "skill",
+        "knack",
+        "adroitness",
+        "clumbsiness"
+      ],
+      "correctIndex": 3,
+      "explanation": "বিপরীত শব্দ: clumbsiness।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 72,
+      "question": "The correct translation of 'টাকা কি গাছে ধরে?'",
+      "options": [
+        "Is money grown on trees?",
+        "Does a tree bear money?",
+        "Does money grow on trees?",
+        "Money does not grow in the tree."
+      ],
+      "correctIndex": 2,
+      "explanation": "অনুবাদ: Does money grow on trees?।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 73,
+      "question": "'Paradise lost' attempted to ______",
+      "options": [
+        "justify the ways of man to God.",
+        "show that Satan and God have equal power",
+        "justify the ways of God to man",
+        "explain why both good and evil are necessary"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Paradise Lost' 1667 সালে প্রকাশিত $John Milton (1608-1674)$-এর একটি বিখ্যাত epic poem। এ মহাকাব্যের মূল বিষয় হলো Justify the ways of God to man। Blank verse-এ লেখা মহাকাব্যটিতে Adam ও Eve-এর স্বর্গ থেকে বিতাড়নের কাহিনী বর্ণিত হয়েছে, যেখানে Satan (শয়তান)-কে protagonist হিসেবে দেখানো হয়েছে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 74,
+      "question": "The changes in Bangladesh ______",
+      "options": [
+        "has occurred in rapid ways",
+        "have been occurred fasty",
+        "have occurred in rapid ways",
+        "have occurred rapidly"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"have occurred rapidly\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 75,
+      "question": "Neither of the boys was present. Here the word 'neither' is-",
+      "options": [
+        "a reciprocal pronoun",
+        "a distributive pronoun",
+        "a demonstrative pronoun",
+        "a relative pronoun"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: a distributive pronoun।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 76,
+      "question": "\"ফুল\" শব্দের সমার্থক কি?",
+      "options": [
+        "পুষ্পপুত্র",
+        "পুষ্পকুঞ্জ",
+        "পুষ্পধনু",
+        "পুষ্পদাম"
+      ],
+      "correctIndex": 3,
+      "explanation": "সমার্থক: পুষ্পদাম।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 77,
+      "question": "বাক্যের মধ্যকার একাধিক শব্দকে সংযুক্ত করতে কোন যতিচিহ্ন ব্যবহৃত হয়?",
+      "options": [
+        "কমা",
+        "দাঁড়ি",
+        "সেমিকোলন",
+        "হাইফেন"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: হাইফেন।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 78,
+      "question": "বাংলাদেশ ছাড়াও নিচের কোন অঞ্চলের মানুষের ভাষা বাংলা?",
+      "options": [
+        "উড়িষ্যা",
+        "তামিল",
+        "নাগপুর",
+        "মিজোরাম"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: উড়িষ্যা।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 79,
+      "question": "কোন কো বিষয়ের উপর বাংলা একাডেমি প্রতি বছর পুরস্কার প্রদান করে থাকে?",
+      "options": [
+        "শিক্ষা",
+        "সাংবাদিকতা",
+        "সাহিত্য",
+        "শিল্পকলা"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: সাহিত্য।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 80,
+      "question": "প্রাচীনতম বাঙালী মুসলমান কবি কে?",
+      "options": [
+        "আশরাফ",
+        "সৈয়দ সুলতান",
+        "শাহ মুহম্মদ সগীর",
+        "মুহম্মদ খান"
+      ],
+      "correctIndex": 2,
+      "explanation": "প্রাচীনতম বাঙালি মুসলিম কবি শাহ মুহম্মদ সগীর।",
+      "appearedIn": [
+        "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    }
+  ]
+}

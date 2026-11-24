@@ -1,0 +1,1718 @@
+{
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/ministry-admin",
+  "totalExams": 244,
+  "totalQuestions": 8982,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "agriculture_accountsofficer_2022-03-05",
+      "examTitle": "বাংলাদেশ কৃষি উন্নয়ন কর্পোরেশন (সহকারী হিসাবরক্ষণ কর্মকর্তা) - ০৫.০৩.২০২২",
+      "questionCount": 40,
+      "file": "agriculture_accountsofficer_2022-03-05.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/agriculture_accountsofficer_2022-03-05"
+    },
+    {
+      "examSlug": "agriculture_administrativeofficer_2020-12-04",
+      "examTitle": "বাংলাদেশ কৃষি উন্নয়ন কর্পোরেশনের সহকারী প্রশাসনিক কর্মকর্তা (২৭.১০.১৭)",
+      "questionCount": 76,
+      "file": "agriculture_administrativeofficer_2020-12-04.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/agriculture_administrativeofficer_2020-12-04"
+    },
+    {
+      "examSlug": "agriculture_assistantdirector_2020-12-05",
+      "examTitle": "agriculture_assistantdirector_2020-12-05",
+      "questionCount": 31,
+      "file": "agriculture_assistantdirector_2020-12-05.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/agriculture_assistantdirector_2020-12-05"
+    },
+    {
+      "examSlug": "agriculture_assistantengineer_2022-05-28",
+      "examTitle": "বাংলাদেশ কৃষি উন্নয়ন কর্পোরেশন — সহকারী প্রকৌশলী  2022-05-28",
+      "questionCount": 14,
+      "file": "agriculture_assistantengineer_2022-05-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/agriculture_assistantengineer_2022-05-28"
+    },
+    {
+      "examSlug": "agriculture_assistantengineer_2022-08-26",
+      "examTitle": "agriculture_assistantengineer_2022-08-26",
+      "questionCount": 15,
+      "file": "agriculture_assistantengineer_2022-08-26.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/agriculture_assistantengineer_2022-08-26"
+    },
+    {
+      "examSlug": "agriculture_asstagriofficer_2014-12-12",
+      "examTitle": "কৃষি সম্প্রসারণ অধিদপ্তর — উপসহকারী কৃষি কর্মকর্তা 2014-12-12",
+      "questionCount": 14,
+      "file": "agriculture_asstagriofficer_2014-12-12.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/agriculture_asstagriofficer_2014-12-12"
+    },
+    {
+      "examSlug": "agriculture_asstagriofficer_2016-02-05",
+      "examTitle": "কৃষি সম্প্রসারণ অধিদপ্তর — সহকারী কৃষি কর্মকর্তা 2016-02-05",
+      "questionCount": 14,
+      "file": "agriculture_asstagriofficer_2016-02-05.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/agriculture_asstagriofficer_2016-02-05"
+    },
+    {
+      "examSlug": "agriculture_officeassistant_2018",
+      "examTitle": "কৃষি সম্প্রসারণ অধিদপ্তর (অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক) -২০১৮",
+      "questionCount": 70,
+      "file": "agriculture_officeassistant_2018.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/agriculture_officeassistant_2018"
+    },
+    {
+      "examSlug": "agriculture_officeassistant_2022-11-18",
+      "examTitle": "বাংলাদেশ কৃষি উন্নয়ন কর্পোরেশন - অফিস সহকারী কাম কম্পিউটার অপারেটর 2022-11-18",
+      "questionCount": 15,
+      "file": "agriculture_officeassistant_2022-11-18.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/agriculture_officeassistant_2022-11-18"
+    },
+    {
+      "examSlug": "agriculture_post_2023-05-06",
+      "examTitle": "বাংলাদেশ কৃষি উন্নয়ন কর্পোরেশন —   ড্রাইভার 2023-05-06",
+      "questionCount": 15,
+      "file": "agriculture_post_2023-05-06.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/agriculture_post_2023-05-06"
+    },
+    {
+      "examSlug": "agriculture_subasstagriofficer_2021-12-10",
+      "examTitle": "বাংলাদেশ কৃষি উন্নয়ন কর্পোরেশন (উপ-সহকারী কৃষি কর্মকর্তা) - ১০.১২.২০২১",
+      "questionCount": 90,
+      "file": "agriculture_subasstagriofficer_2021-12-10.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/agriculture_subasstagriofficer_2021-12-10"
+    },
+    {
+      "examSlug": "agriculture_subasstagriofficer_2021-12-10-2",
+      "examTitle": "কৃষি সম্প্রসারণ অধিদপ্তর — উপ-সহকারী কৃষি কর্মকর্তা 2021-12-10",
+      "questionCount": 15,
+      "file": "agriculture_subasstagriofficer_2021-12-10-2.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/agriculture_subasstagriofficer_2021-12-10-2"
+    },
+    {
+      "examSlug": "agriculture_subasstagriofficer_2025-07-11",
+      "examTitle": "বাংলাদেশ সরকারী কর্ম কমিশন - বাংলাদেশ কৃষি অধিদপ্তর - উপ-সহকারী কৃষি কর্মকর্তা 2025-07-11",
+      "questionCount": 12,
+      "file": "agriculture_subasstagriofficer_2025-07-11.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/agriculture_subasstagriofficer_2025-07-11"
+    },
+    {
+      "examSlug": "cabinet_computeroperator_2026-08-28",
+      "examTitle": "মন্ত্রিপরিষদ বিভাগ (কম্পিউটার অপারেটর) - ২৮.০৮.২০২৬",
+      "questionCount": 68,
+      "file": "cabinet_computeroperator_2026-08-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/cabinet_computeroperator_2026-08-28"
+    },
+    {
+      "examSlug": "cabinet_officeassistant_2023-03-10",
+      "examTitle": "মন্ত্রিপরিষদ বিভাগ  —  অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক 2023-03-10",
+      "questionCount": 14,
+      "file": "cabinet_officeassistant_2023-03-10.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/cabinet_officeassistant_2023-03-10"
+    },
+    {
+      "examSlug": "cabinet_officeassistant_2026-08-28",
+      "examTitle": "মন্ত্রিপরিষদ বিভাগ (অফিস সহায়ক) - ২৮.০৮.২০২৬",
+      "questionCount": 69,
+      "file": "cabinet_officeassistant_2026-08-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/cabinet_officeassistant_2026-08-28"
+    },
+    {
+      "examSlug": "commerce_commercialofficer_2021-12-10",
+      "examTitle": "বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন (বাণিজ্যিক কর্মকর্তা) - ১০.১২.২০২১",
+      "questionCount": 64,
+      "file": "commerce_commercialofficer_2021-12-10.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/commerce_commercialofficer_2021-12-10"
+    },
+    {
+      "examSlug": "commerce_commercialofficer_2025-07-19",
+      "examTitle": "বাংলাদেশ পর্যটন কর্পোরেশন - সহকারী বাণিজ্যিক কর্মকর্তা/ সহকারী প্রশিক্ষণ কর্মকর্... 2025-07-19",
+      "questionCount": 14,
+      "file": "commerce_commercialofficer_2025-07-19.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/commerce_commercialofficer_2025-07-19"
+    },
+    {
+      "examSlug": "commerce_officeassistant_2020-03-06",
+      "examTitle": "আমদানি ও রপ্তানি প্রধান নিয়ন্ত্রকের দপ্তরের অফিস সহায়ক (০৬.০৩.২০২০)",
+      "questionCount": 89,
+      "file": "commerce_officeassistant_2020-03-06.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/commerce_officeassistant_2020-03-06"
+    },
+    {
+      "examSlug": "commerce_officeassistant_2023-08-18",
+      "examTitle": "বাণিজ্য মন্ত্রণালয় (অফিস সহায়ক)- ১৮.০৮.২০২৩",
+      "questionCount": 39,
+      "file": "commerce_officeassistant_2023-08-18.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/commerce_officeassistant_2023-08-18"
+    },
+    {
+      "examSlug": "commerce_post_2007-02-02",
+      "examTitle": "বাণিজ্য মন্ত্রণালয় — আমদানি-রপ্তানি অধিদপ্তর — নির্বাহী অফিসার 2007-02-02",
+      "questionCount": 15,
+      "file": "commerce_post_2007-02-02.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/commerce_post_2007-02-02"
+    },
+    {
+      "examSlug": "commerce_post_2019",
+      "examTitle": "commerce_post_2019",
+      "questionCount": 85,
+      "file": "commerce_post_2019.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/commerce_post_2019"
+    },
+    {
+      "examSlug": "environment_assistantdirector_2011-05-06",
+      "examTitle": "environment_assistantdirector_2011-05-06",
+      "questionCount": 83,
+      "file": "environment_assistantdirector_2011-05-06.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_assistantdirector_2011-05-06"
+    },
+    {
+      "examSlug": "environment_computeroperator_2020-03-06",
+      "examTitle": "পরিবেশ অধিদপ্তর — কম্পিউটার অপারেটর 2020-03-06",
+      "questionCount": 15,
+      "file": "environment_computeroperator_2020-03-06.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_computeroperator_2020-03-06"
+    },
+    {
+      "examSlug": "environment_forestguard_2023-04-28",
+      "examTitle": "বন অধিদপ্তর (রংপুর ও রাজশাহী) (বন প্রহরী) - ২৮.০৪.২০২৩",
+      "questionCount": 59,
+      "file": "environment_forestguard_2023-04-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_forestguard_2023-04-28"
+    },
+    {
+      "examSlug": "environment_forestguard_2025-04-25",
+      "examTitle": "environment_forestguard_2025-04-25",
+      "questionCount": 69,
+      "file": "environment_forestguard_2025-04-25.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_forestguard_2025-04-25"
+    },
+    {
+      "examSlug": "environment_officeassistant_2023-04-28",
+      "examTitle": "বন অধিদপ্তর (অফিস সহায়ক) - ২৮.০৪.২০২৩",
+      "questionCount": 68,
+      "file": "environment_officeassistant_2023-04-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_officeassistant_2023-04-28"
+    },
+    {
+      "examSlug": "environment_officeassistant_2023-08-11",
+      "examTitle": "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11",
+      "questionCount": 14,
+      "file": "environment_officeassistant_2023-08-11.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_officeassistant_2023-08-11"
+    },
+    {
+      "examSlug": "environment_officeassistant_2026-06-12",
+      "examTitle": "পরিবেশ অধিদপ্তর (অফিস সহায়ক) - ১২.০৬.২০২৬",
+      "questionCount": 89,
+      "file": "environment_officeassistant_2026-06-12.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_officeassistant_2026-06-12"
+    },
+    {
+      "examSlug": "environment_post_2006-09-22",
+      "examTitle": "পরিবেশ ও বন মন্ত্রণালয় — রিসার্স অফিসার 2006-09-22",
+      "questionCount": 15,
+      "file": "environment_post_2006-09-22.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_post_2006-09-22"
+    },
+    {
+      "examSlug": "environment_post_2020-03-13",
+      "examTitle": "environment_post_2020-03-13",
+      "questionCount": 66,
+      "file": "environment_post_2020-03-13.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_post_2020-03-13"
+    },
+    {
+      "examSlug": "environment_samplecollector_2026-06-19",
+      "examTitle": "পরিবেশ অধিদপ্তর (নমুনা সংগ্রহকারী - ১৯.০৬.২০২৬",
+      "questionCount": 88,
+      "file": "environment_samplecollector_2026-06-19.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_samplecollector_2026-06-19"
+    },
+    {
+      "examSlug": "environment_samplecollector_2026-06-19-2",
+      "examTitle": "পরিবেশ অধিদপ্তর — নমুনা সংগ্রহকারী 2026-06-19",
+      "questionCount": 15,
+      "file": "environment_samplecollector_2026-06-19-2.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_samplecollector_2026-06-19-2"
+    },
+    {
+      "examSlug": "environment_variousposts_2022-02-04",
+      "examTitle": "বন অধিদপ্তর — বিভিন্ন পদ 2022-02-04",
+      "questionCount": 15,
+      "file": "environment_variousposts_2022-02-04.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_variousposts_2022-02-04"
+    },
+    {
+      "examSlug": "food_auditor_2022-01-28",
+      "examTitle": "food_auditor_2022-01-28",
+      "questionCount": 15,
+      "file": "food_auditor_2022-01-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_auditor_2022-01-28"
+    },
+    {
+      "examSlug": "food_foodinspector_2009-04-24",
+      "examTitle": "খাদ্য অধিদপ্তর — খাদ্য পরিদর্শক/উপখাদ্য পরিদর্শক/উচ্চমান সহকারী/অডিটর/সুপারভাইজা... 2009-04-24",
+      "questionCount": 13,
+      "file": "food_foodinspector_2009-04-24.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_foodinspector_2009-04-24"
+    },
+    {
+      "examSlug": "food_foodinspector_2011-12-23",
+      "examTitle": "খাদ্য অধিদপ্তর (খাদ্য/উপ-খাদ্য পরিদর্শক)- ২৩-১২-২০১১",
+      "questionCount": 85,
+      "file": "food_foodinspector_2011-12-23.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_foodinspector_2011-12-23"
+    },
+    {
+      "examSlug": "food_foodinspector_2012-01-27",
+      "examTitle": "খাদ্য অধিদপ্তর (সহকারী উপ-খাদ্য পরিদর্শক/অফিস সহকারী) কাম কম্পিউটার মুদ্রাক্ষরিক - ২৭.০১.২০১২",
+      "questionCount": 88,
+      "file": "food_foodinspector_2012-01-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_foodinspector_2012-01-27"
+    },
+    {
+      "examSlug": "food_foodinspector_2012-05-25",
+      "examTitle": "খাদ্য অধিদপ্তর (উপ-খাদ্য পরিদর্শক) - ২৫.০৫.২০১২",
+      "questionCount": 85,
+      "file": "food_foodinspector_2012-05-25.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_foodinspector_2012-05-25"
+    },
+    {
+      "examSlug": "food_foodinspector_2012-05-25-2",
+      "examTitle": "খাদ্য অধিদপ্তর — উপ-খাদ্য পরিদর্শক 2012-05-25",
+      "questionCount": 15,
+      "file": "food_foodinspector_2012-05-25-2.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_foodinspector_2012-05-25-2"
+    },
+    {
+      "examSlug": "food_foodinspector_2021-11-19",
+      "examTitle": "খাদ্য অধিদপ্তরের উপ-খাদ্য পরিদর্শক-১৯.১১.২০২১",
+      "questionCount": 87,
+      "file": "food_foodinspector_2021-11-19.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_foodinspector_2021-11-19"
+    },
+    {
+      "examSlug": "food_foodinspector_2025-10-25",
+      "examTitle": "খাদ্য অধিদপ্তর - উপ-খাদ্য পরিদর্শক - ২৫.১০.২০২৫",
+      "questionCount": 49,
+      "file": "food_foodinspector_2025-10-25.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_foodinspector_2025-10-25"
+    },
+    {
+      "examSlug": "food_foodinspector_2025-11-29",
+      "examTitle": "খাদ্য অধদপ্তর (সহকারী উপ-খাদ্য পরিদর্শক) - ২৯.১১.২০২৫",
+      "questionCount": 48,
+      "file": "food_foodinspector_2025-11-29.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_foodinspector_2025-11-29"
+    },
+    {
+      "examSlug": "food_officeassistant_2013-02-17",
+      "examTitle": "food_officeassistant_2013-02-17",
+      "questionCount": 15,
+      "file": "food_officeassistant_2013-02-17.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_officeassistant_2013-02-17"
+    },
+    {
+      "examSlug": "food_officeassistant_2021-11-05",
+      "examTitle": "খাদ্য অধিদপ্তর, অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক - ০৫.১১.২০২১",
+      "questionCount": 88,
+      "file": "food_officeassistant_2021-11-05.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_officeassistant_2021-11-05"
+    },
+    {
+      "examSlug": "food_officeassistant_2025-09-26",
+      "examTitle": "খাদ্য অধিদপ্তর (অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক) - ২৬.০৯.২০২৫",
+      "questionCount": 51,
+      "file": "food_officeassistant_2025-09-26.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_officeassistant_2025-09-26"
+    },
+    {
+      "examSlug": "food_post_2006-04-14",
+      "examTitle": "খাদ্য ও দুর্যোগ ব্যবস্থাপনা মন্ত্রণালয়  —  প্রকল্প বাস্তবায়ন কর্মকর্তা 2006-04-14",
+      "questionCount": 15,
+      "file": "food_post_2006-04-14.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_post_2006-04-14"
+    },
+    {
+      "examSlug": "food_post_2017-06-13",
+      "examTitle": "খাদ্য অধিদপ্তর  —  ওয়ার্ক অ্যাসিস্ট্যান্ট  2017-06-13",
+      "questionCount": 15,
+      "file": "food_post_2017-06-13.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_post_2017-06-13"
+    },
+    {
+      "examSlug": "food_post_2026-06-09",
+      "examTitle": "বাংলাদেশ সরকারী কর্ম কমিশন সচিবালয় — খাদ্য অধিদপ্তর — আঞ্চলিক রক্ষণাবেক্ষণ কর্ম... 2026-06-09",
+      "questionCount": 14,
+      "file": "food_post_2026-06-09.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_post_2026-06-09"
+    },
+    {
+      "examSlug": "food_serang_2022-01-14",
+      "examTitle": "খাদ্য অধিদপ্তর, স্প্রেম্যান - ১৪.০১.২০২২",
+      "questionCount": 38,
+      "file": "food_serang_2022-01-14.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_serang_2022-01-14"
+    },
+    {
+      "examSlug": "food_upperassistant_2021-12-31",
+      "examTitle": "খাদ্য অধিদপ্তর (উচ্চমান সহকারী) - ৩১.১২.২০২১",
+      "questionCount": 87,
+      "file": "food_upperassistant_2021-12-31.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_upperassistant_2021-12-31"
+    },
+    {
+      "examSlug": "food_variousposts_2019-06-28",
+      "examTitle": "নিরাপদ খাদ্য অধিদপ্তর (বিভিন্ন পদ) - ২৮.০৬.২০১৯",
+      "questionCount": 29,
+      "file": "food_variousposts_2019-06-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/food_variousposts_2019-06-28"
+    },
+    {
+      "examSlug": "foreignministry_administrativeofficer_2004-03-05",
+      "examTitle": "foreignministry_administrativeofficer_2004-03-05",
+      "questionCount": 14,
+      "file": "foreignministry_administrativeofficer_2004-03-05.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/foreignministry_administrativeofficer_2004-03-05"
+    },
+    {
+      "examSlug": "foreignministry_administrativeofficer_2019",
+      "examTitle": "foreignministry_administrativeofficer_2019",
+      "questionCount": 87,
+      "file": "foreignministry_administrativeofficer_2019.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/foreignministry_administrativeofficer_2019"
+    },
+    {
+      "examSlug": "foreignministry_administrativeofficer_2025-11-09",
+      "examTitle": "ফরেন সার্ভিস একাডেমি (পররাষ্ট্র মন্ত্রণালয়) - প্রশাসনিক কর্মকর্তা - ০৯.১১.২০২৫",
+      "questionCount": 87,
+      "file": "foreignministry_administrativeofficer_2025-11-09.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/foreignministry_administrativeofficer_2025-11-09"
+    },
+    {
+      "examSlug": "foreignministry_personalofficer_2019",
+      "examTitle": "foreignministry_personalofficer_2019",
+      "questionCount": 89,
+      "file": "foreignministry_personalofficer_2019.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/foreignministry_personalofficer_2019"
+    },
+    {
+      "examSlug": "foreignministry_personalofficer_2025-11-11",
+      "examTitle": "বাংলাদেশ সরকারী কর্ম কমিশন - পররাষ্ট্র মন্ত্রণালয় - ব্যক্তিগত কর্মকর্তা 2025-11-11",
+      "questionCount": 15,
+      "file": "foreignministry_personalofficer_2025-11-11.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/foreignministry_personalofficer_2025-11-11"
+    },
+    {
+      "examSlug": "foreignministry_personalofficer_2026-10-14",
+      "examTitle": "পররাষ্ট্র মন্ত্রনালয় (ব্যক্তিগত কর্মকর্তা) - ১৪.১০.২০২৬",
+      "questionCount": 89,
+      "file": "foreignministry_personalofficer_2026-10-14.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/foreignministry_personalofficer_2026-10-14"
+    },
+    {
+      "examSlug": "foreignministry_post_2022-05-18",
+      "examTitle": "সহকারী সাইফার কর্মকর্তা (পররাষ্ট্র মন্ত্রণালয়) - ১৮.০৫.২০২২",
+      "questionCount": 89,
+      "file": "foreignministry_post_2022-05-18.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/foreignministry_post_2022-05-18"
+    },
+    {
+      "examSlug": "foreignministry_post_2026-08-17",
+      "examTitle": "বাংলাদেশ সরকারি কর্ম কমিশন — পররাষ্ট্র মন্ত্রণালয় — সহকারী সাইফার কর্মকর্তা এবং... 2026-08-17",
+      "questionCount": 15,
+      "file": "foreignministry_post_2026-08-17.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/foreignministry_post_2026-08-17"
+    },
+    {
+      "examSlug": "foreignministry_post_na",
+      "examTitle": "পররাষ্ট্র মন্ত্রণালয়ের সাইফার কর্মকর্তা (১৩.০১.১৭)",
+      "questionCount": 89,
+      "file": "foreignministry_post_na.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/foreignministry_post_na"
+    },
+    {
+      "examSlug": "foreignministry_superintendent_2024-02-12",
+      "examTitle": "বাংলাদেশ সরকারি কর্ম কমিশন  —  পররাষ্ট্র মন্ত্রণালয়  —   সুপারিনটেনডেন্ট 2024-02-12",
+      "questionCount": 15,
+      "file": "foreignministry_superintendent_2024-02-12.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/foreignministry_superintendent_2024-02-12"
+    },
+    {
+      "examSlug": "homeministry_assistantdirector_2013-04-05",
+      "examTitle": "homeministry_assistantdirector_2013-04-05",
+      "questionCount": 15,
+      "file": "homeministry_assistantdirector_2013-04-05.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/homeministry_assistantdirector_2013-04-05"
+    },
+    {
+      "examSlug": "homeministry_computeroperator_2025-05-23",
+      "examTitle": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর - কম্পিউটার অপারেটর 2025-05-23",
+      "questionCount": 15,
+      "file": "homeministry_computeroperator_2025-05-23.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/homeministry_computeroperator_2025-05-23"
+    },
+    {
+      "examSlug": "homeministry_officeassistant_2020-10-30",
+      "examTitle": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর (অফিস সহায়ক)-২০২০(৩০.১০.২০২০)",
+      "questionCount": 48,
+      "file": "homeministry_officeassistant_2020-10-30.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/homeministry_officeassistant_2020-10-30"
+    },
+    {
+      "examSlug": "homeministry_officeassistant_2025-11-01",
+      "examTitle": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর - (অফিস সহায়ক) - ০১.১১.২০২৫",
+      "questionCount": 79,
+      "file": "homeministry_officeassistant_2025-11-01.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/homeministry_officeassistant_2025-11-01"
+    },
+    {
+      "examSlug": "homeministry_post_2018-12-07",
+      "examTitle": "স্বরাষ্ট্র মন্ত্রণালয়ের অধীন মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তরের উপপরিদর্শক- (০৭-১২-২০১৮)",
+      "questionCount": 65,
+      "file": "homeministry_post_2018-12-07.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/homeministry_post_2018-12-07"
+    },
+    {
+      "examSlug": "homeministry_post_2020-12-26",
+      "examTitle": "homeministry_post_2020-12-26",
+      "questionCount": 14,
+      "file": "homeministry_post_2020-12-26.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/homeministry_post_2020-12-26"
+    },
+    {
+      "examSlug": "homeministry_post_2021-01-29",
+      "examTitle": "homeministry_post_2021-01-29",
+      "questionCount": 15,
+      "file": "homeministry_post_2021-01-29.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/homeministry_post_2021-01-29"
+    },
+    {
+      "examSlug": "homeministry_post_2021-02-19",
+      "examTitle": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর (ওয়েরলেস অপারেটর) - ১৯-০২-২০২১",
+      "questionCount": 69,
+      "file": "homeministry_post_2021-02-19.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/homeministry_post_2021-02-19"
+    },
+    {
+      "examSlug": "homeministry_post_2025-08-29",
+      "examTitle": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর - সিনিয়র স্টাফ নার্স 2025-08-29",
+      "questionCount": 15,
+      "file": "homeministry_post_2025-08-29.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/homeministry_post_2025-08-29"
+    },
+    {
+      "examSlug": "homeministry_recordkeeper_2026-09-05",
+      "examTitle": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর (টিকেট ক্লার্ক/রেকর্ড কিপার) - ০৫.০৯.২০২৬",
+      "questionCount": 60,
+      "file": "homeministry_recordkeeper_2026-09-05.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/homeministry_recordkeeper_2026-09-05"
+    },
+    {
+      "examSlug": "homeministry_recordkeeper_2026-09-05-2",
+      "examTitle": "homeministry_recordkeeper_2026-09-05-2",
+      "questionCount": 15,
+      "file": "homeministry_recordkeeper_2026-09-05-2.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/homeministry_recordkeeper_2026-09-05-2"
+    },
+    {
+      "examSlug": "homeministry_storekeeper_2025-11-01",
+      "examTitle": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর (স্টোরকিপার) - ০১.১১.২০২৫",
+      "questionCount": 74,
+      "file": "homeministry_storekeeper_2025-11-01.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/homeministry_storekeeper_2025-11-01"
+    },
+    {
+      "examSlug": "homeministry_superintendent_2024-02-12",
+      "examTitle": "স্বরাষ্ট্র মন্ত্রণালয় (সুপারিনটেনডেন্ট) - ১২.০২.২০২৪",
+      "questionCount": 88,
+      "file": "homeministry_superintendent_2024-02-12.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/homeministry_superintendent_2024-02-12"
+    },
+    {
+      "examSlug": "ict_accountsassistant_2022-05-28",
+      "examTitle": "ডাক অধিদপ্তর - হিসাব সহকারী/অফিস সহকারী কাম কম্পিউটার 2022-05-28",
+      "questionCount": 15,
+      "file": "ict_accountsassistant_2022-05-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_accountsassistant_2022-05-28"
+    },
+    {
+      "examSlug": "ict_accountsofficer_2003-01-28",
+      "examTitle": "ডাক ও টেলিযোগাযোগ মন্ত্রণালয়  —  হিসাবরক্ষণ কর্মকর্তা 2003-01-28",
+      "questionCount": 15,
+      "file": "ict_accountsofficer_2003-01-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_accountsofficer_2003-01-28"
+    },
+    {
+      "examSlug": "ict_assistantdirector_2004-08-27",
+      "examTitle": "ict_assistantdirector_2004-08-27",
+      "questionCount": 15,
+      "file": "ict_assistantdirector_2004-08-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_assistantdirector_2004-08-27"
+    },
+    {
+      "examSlug": "ict_assistantdirector_2021-02-19",
+      "examTitle": "বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ কমিশন — উপ-সহকারী পরিচালক 2021-02-19",
+      "questionCount": 15,
+      "file": "ict_assistantdirector_2021-02-19.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_assistantdirector_2021-02-19"
+    },
+    {
+      "examSlug": "ict_assistantmanager_2023-09-08",
+      "examTitle": "দ্য সিকিউরিটি প্রিন্টিং কর্পোরেশন বাংলাদেশ লিমিটেড – সহকারী ব্যবস্থাপক (প্রোডাকশ... 2023-09-08",
+      "questionCount": 15,
+      "file": "ict_assistantmanager_2023-09-08.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_assistantmanager_2023-09-08"
+    },
+    {
+      "examSlug": "ict_assistantprogrammer_2017-04-17",
+      "examTitle": "বিভিন্ন মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-04-17",
+      "questionCount": 15,
+      "file": "ict_assistantprogrammer_2017-04-17.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_assistantprogrammer_2017-04-17"
+    },
+    {
+      "examSlug": "ict_assistantprogrammer_2017-05-18",
+      "examTitle": "ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তি মন্ত্রণালয় — সহকারী প্রোগ্রামার 2017-05-18",
+      "questionCount": 15,
+      "file": "ict_assistantprogrammer_2017-05-18.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_assistantprogrammer_2017-05-18"
+    },
+    {
+      "examSlug": "ict_assistantprogrammer_2021-12-24",
+      "examTitle": "ict_assistantprogrammer_2021-12-24",
+      "questionCount": 15,
+      "file": "ict_assistantprogrammer_2021-12-24.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_assistantprogrammer_2021-12-24"
+    },
+    {
+      "examSlug": "ict_conductor_2022-07-01",
+      "examTitle": "বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ কমিশন — কন্ডাক্টর গ্রেড-ডি 2022-07-01",
+      "questionCount": 15,
+      "file": "ict_conductor_2022-07-01.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_conductor_2022-07-01"
+    },
+    {
+      "examSlug": "ict_conductor_2024-04-27",
+      "examTitle": "ict_conductor_2024-04-27",
+      "questionCount": 15,
+      "file": "ict_conductor_2024-04-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_conductor_2024-04-27"
+    },
+    {
+      "examSlug": "ict_mailoperator_2023-05-26",
+      "examTitle": "পোস্টমাস্টার জেনারেল এর কার্যালয়, খুলনা  —  মেইল অপারেটর 2023-05-26",
+      "questionCount": 15,
+      "file": "ict_mailoperator_2023-05-26.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_mailoperator_2023-05-26"
+    },
+    {
+      "examSlug": "ict_mailoperator_2023-05-27",
+      "examTitle": "ict_mailoperator_2023-05-27",
+      "questionCount": 15,
+      "file": "ict_mailoperator_2023-05-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_mailoperator_2023-05-27"
+    },
+    {
+      "examSlug": "ict_post_2009-04-17",
+      "examTitle": "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন কোম্পানি লিমিটেড — অফিসার 2009-04-17",
+      "questionCount": 15,
+      "file": "ict_post_2009-04-17.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_post_2009-04-17"
+    },
+    {
+      "examSlug": "ict_post_2009-08-14",
+      "examTitle": "ict_post_2009-08-14",
+      "questionCount": 14,
+      "file": "ict_post_2009-08-14.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_post_2009-08-14"
+    },
+    {
+      "examSlug": "ict_post_2023-01-27",
+      "examTitle": "বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন এন্ড প্রোডাকশন কোম্পানি লিমিটেড — সহকারী ব্যব... 2023-01-27",
+      "questionCount": 15,
+      "file": "ict_post_2023-01-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_post_2023-01-27"
+    },
+    {
+      "examSlug": "ict_post_2023-12-15",
+      "examTitle": "ডাক জীবন বীমা (পিএলআই একাউনটেন্ট) (গ্রেড-১৬) - ১৫.১২.২০২৩",
+      "questionCount": 67,
+      "file": "ict_post_2023-12-15.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_post_2023-12-15"
+    },
+    {
+      "examSlug": "ict_post_2024-05-17",
+      "examTitle": "ict_post_2024-05-17",
+      "questionCount": 15,
+      "file": "ict_post_2024-05-17.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_post_2024-05-17"
+    },
+    {
+      "examSlug": "ict_postaloperator_2023-05-20",
+      "examTitle": "ict_postaloperator_2023-05-20",
+      "questionCount": 14,
+      "file": "ict_postaloperator_2023-05-20.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postaloperator_2023-05-20"
+    },
+    {
+      "examSlug": "ict_postaloperator_2023-06-16",
+      "examTitle": "বাংলাদেশ ডাক বিভাগ, খুলনা  —  পোস্টাল অপারেটর 2023-06-16",
+      "questionCount": 15,
+      "file": "ict_postaloperator_2023-06-16.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postaloperator_2023-06-16"
+    },
+    {
+      "examSlug": "ict_postaloperator_2023-06-17",
+      "examTitle": "ict_postaloperator_2023-06-17",
+      "questionCount": 15,
+      "file": "ict_postaloperator_2023-06-17.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postaloperator_2023-06-17"
+    },
+    {
+      "examSlug": "ict_postaloperator_2026-05-02",
+      "examTitle": "বাংলাদেশ ডাক বিভাগ - মেট্রোপলিটন সার্কেল (পোস্টাল অপারেটর/মেইল অপারেটর) - ০২.০৫.২০২৬",
+      "questionCount": 69,
+      "file": "ict_postaloperator_2026-05-02.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postaloperator_2026-05-02"
+    },
+    {
+      "examSlug": "ict_postaloperator_2026-05-15",
+      "examTitle": "বাংলাদেশ ডাক বিভাগ (পোস্টাল অপারেটর) - ১৫.০৫.২০২৬",
+      "questionCount": 89,
+      "file": "ict_postaloperator_2026-05-15.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postaloperator_2026-05-15"
+    },
+    {
+      "examSlug": "ict_postaloperator_2026-06-19",
+      "examTitle": "পোস্টমাস্টার জেনারেলের কার্যালয়, উত্তরাঞ্চল, রাজশাহী (পোস্টাল অপারেটর) - ১৯.০৬.২০২৬",
+      "questionCount": 79,
+      "file": "ict_postaloperator_2026-06-19.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postaloperator_2026-06-19"
+    },
+    {
+      "examSlug": "ict_postaloperator_2026-06-19-2",
+      "examTitle": "পোস্টমাস্টার জেনারেলের কার্যালয়, উত্তরাঞ্চল, রাজশাহী — পোস্টাল অপারেটর 2026-06-19",
+      "questionCount": 15,
+      "file": "ict_postaloperator_2026-06-19-2.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postaloperator_2026-06-19-2"
+    },
+    {
+      "examSlug": "ict_postman_2022-11-04",
+      "examTitle": "পোস্টমাস্টার জেনারেলের কার্যালয়, উত্তরাঞ্চল, রাজশাহী — পোস্টম্যান 2022-11-04",
+      "questionCount": 14,
+      "file": "ict_postman_2022-11-04.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postman_2022-11-04"
+    },
+    {
+      "examSlug": "ict_postman_2023-05-06",
+      "examTitle": "বাংলাদেশ ডাক বিভাগ  —  পোস্টম্যান 2023-05-06",
+      "questionCount": 13,
+      "file": "ict_postman_2023-05-06.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postman_2023-05-06"
+    },
+    {
+      "examSlug": "ict_postman_2023-06-16",
+      "examTitle": "ict_postman_2023-06-16",
+      "questionCount": 15,
+      "file": "ict_postman_2023-06-16.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postman_2023-06-16"
+    },
+    {
+      "examSlug": "ict_postman_2024-02-09",
+      "examTitle": "বাংলাদেশ ডাক বিভাগ (পোস্টম্যান/রানার/অফিস সহায়ক) - ০৯.০২.২০২৪",
+      "questionCount": 68,
+      "file": "ict_postman_2024-02-09.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postman_2024-02-09"
+    },
+    {
+      "examSlug": "ict_postman_2026-01-31",
+      "examTitle": "পোস্টমাস্টার জেনারেল, পূর্বাঞ্চল চট্টগ্রাম - (পোস্টম্যান) - ৩১.০১.২০২৬",
+      "questionCount": 69,
+      "file": "ict_postman_2026-01-31.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postman_2026-01-31"
+    },
+    {
+      "examSlug": "ict_postman_2026-02-27",
+      "examTitle": "বাংলাদেশ ডাক বিভাগ, পোস্টমাস্টার জেনারেলের কার্যালয়,দক্ষিণাঞ্চল, খুলনা (পোস্টম্যান/রানার/নিরাপত্তা প্রহরী ও অন্যান্য) - ২৭.০২.২০২৬",
+      "questionCount": 88,
+      "file": "ict_postman_2026-02-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postman_2026-02-27"
+    },
+    {
+      "examSlug": "ict_postman_2026-03-27",
+      "examTitle": "পোস্টমাস্টার জেনারেল এর কার্যালয় উত্তরাঞ্চল, রাজশাহী (পোস্টম্যান) - ২৭.০৩.২০২৬",
+      "questionCount": 80,
+      "file": "ict_postman_2026-03-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postman_2026-03-27"
+    },
+    {
+      "examSlug": "ict_postmaster_2022-06-10",
+      "examTitle": "ict_postmaster_2022-06-10",
+      "questionCount": 15,
+      "file": "ict_postmaster_2022-06-10.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postmaster_2022-06-10"
+    },
+    {
+      "examSlug": "ict_postmaster_2022-09-10",
+      "examTitle": "পোস্টমাস্টার জেনারেলের কার্যালয়, উত্তরাঞ্চল, রাজশাহী — উচ্চমান সহকারী 2022-09-10",
+      "questionCount": 15,
+      "file": "ict_postmaster_2022-09-10.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postmaster_2022-09-10"
+    },
+    {
+      "examSlug": "ict_postmaster_2026-05-15",
+      "examTitle": "বাংলাদেশ ডাক বিভাগ — পোস্টমাস্টার জেনারেলের কার্যালয়, দক্ষিণাঞ্চল, খুলনা — পোস্... 2026-05-15",
+      "questionCount": 15,
+      "file": "ict_postmaster_2026-05-15.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_postmaster_2026-05-15"
+    },
+    {
+      "examSlug": "ict_runner_2026-05-16",
+      "examTitle": "বাংলাদেশ ডাক বিভাগ-পোস্টমাস্টার জেনারেলের কার্যালয়, উত্তরাঞ্চল, রাজশাহী (রানার/অফিস সহায়ক/নিরাপত্তা প্রহরী) - ১৬.০৫.২০২৬",
+      "questionCount": 80,
+      "file": "ict_runner_2026-05-16.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_runner_2026-05-16"
+    },
+    {
+      "examSlug": "ict_stenotypist_2022-04-09",
+      "examTitle": "ict_stenotypist_2022-04-09",
+      "questionCount": 15,
+      "file": "ict_stenotypist_2022-04-09.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_stenotypist_2022-04-09"
+    },
+    {
+      "examSlug": "ict_upazilapostmaster_2024-05-31",
+      "examTitle": "ডাক অধিদপ্তর (উপজেলা পোস্টমাস্টার) - ৩১.০৫.২০২৪",
+      "questionCount": 69,
+      "file": "ict_upazilapostmaster_2024-05-31.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_upazilapostmaster_2024-05-31"
+    },
+    {
+      "examSlug": "ict_upperassistant_2026-05-02",
+      "examTitle": "বাংলাদেশ ডাক বিভাগ (উচ্চমান সহকারী) - ০২.০৫.২০২৬",
+      "questionCount": 20,
+      "file": "ict_upperassistant_2026-05-02.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/ict_upperassistant_2026-05-02"
+    },
+    {
+      "examSlug": "infoministry_assistantdirector_2001-07-16",
+      "examTitle": "তথ্য মন্ত্রণালয়  —  গণযোগাযোগ প্রশিক্ষণ  —  সহকারী পরিচালক 2001-07-16",
+      "questionCount": 14,
+      "file": "infoministry_assistantdirector_2001-07-16.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/infoministry_assistantdirector_2001-07-16"
+    },
+    {
+      "examSlug": "infoministry_assistantdirector_2003-04-29",
+      "examTitle": "তথ্য মন্ত্রণালয়  —  সহকারী পরিচালক (গ্রেড-২) 2003-04-29",
+      "questionCount": 15,
+      "file": "infoministry_assistantdirector_2003-04-29.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/infoministry_assistantdirector_2003-04-29"
+    },
+    {
+      "examSlug": "infoministry_assistantdirector_2003-12-30",
+      "examTitle": "গণমাধ্যম ইনস্টিটিউট  —  সহকারী পরিচালক (বেতার প্রকৌশল প্রশিক্ষণ) 2003-12-30",
+      "questionCount": 15,
+      "file": "infoministry_assistantdirector_2003-12-30.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/infoministry_assistantdirector_2003-12-30"
+    },
+    {
+      "examSlug": "infoministry_assistantdirector_2004-12-27",
+      "examTitle": "তথ্য মন্ত্রণালয়  —  সহকারী পরিচালক 2004-12-27",
+      "questionCount": 14,
+      "file": "infoministry_assistantdirector_2004-12-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/infoministry_assistantdirector_2004-12-27"
+    },
+    {
+      "examSlug": "infoministry_assistantengineer_2017-08-27",
+      "examTitle": "infoministry_assistantengineer_2017-08-27",
+      "questionCount": 15,
+      "file": "infoministry_assistantengineer_2017-08-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/infoministry_assistantengineer_2017-08-27"
+    },
+    {
+      "examSlug": "infoministry_assistantinfoofficer_2022-11-01",
+      "examTitle": "তথ্য ও সম্প্রচার মন্ত্রণালয় - সহকারী তথ্য কর্মকর্তা 2022-11-01",
+      "questionCount": 15,
+      "file": "infoministry_assistantinfoofficer_2022-11-01.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/infoministry_assistantinfoofficer_2022-11-01"
+    },
+    {
+      "examSlug": "infoministry_post_2005-09-18",
+      "examTitle": "infoministry_post_2005-09-18",
+      "questionCount": 15,
+      "file": "infoministry_post_2005-09-18.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/infoministry_post_2005-09-18"
+    },
+    {
+      "examSlug": "infoministry_post_2013-01-04",
+      "examTitle": "তথ্য মন্ত্রণালয় — গণযোগাযোগ অধিদপ্তর — সহকারী তথ্য অফিসার 2013-01-04",
+      "questionCount": 15,
+      "file": "infoministry_post_2013-01-04.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/infoministry_post_2013-01-04"
+    },
+    {
+      "examSlug": "infoministry_subassistantengineer_2023-01-28",
+      "examTitle": "বাংলাদেশ টেলিভিশন - উপ-সহকারী প্রকৌশলী 2023-01-28",
+      "questionCount": 14,
+      "file": "infoministry_subassistantengineer_2023-01-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/infoministry_subassistantengineer_2023-01-28"
+    },
+    {
+      "examSlug": "infoministry_subassistantengineer_2024-04-18",
+      "examTitle": "বাংলাদেশ সরকারি কর্ম কমিশন  —  বাংলাদেশ টেলিভিশন  —  উপ-সহকারী প্রকৌশলী 2024-04-18",
+      "questionCount": 13,
+      "file": "infoministry_subassistantengineer_2024-04-18.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/infoministry_subassistantengineer_2024-04-18"
+    },
+    {
+      "examSlug": "judicial_assistantserjeant_2025-11-01",
+      "examTitle": "judicial_assistantserjeant_2025-11-01",
+      "questionCount": 40,
+      "file": "judicial_assistantserjeant_2025-11-01.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/judicial_assistantserjeant_2025-11-01"
+    },
+    {
+      "examSlug": "judicial_benchassistant_2025-04-25",
+      "examTitle": "judicial_benchassistant_2025-04-25",
+      "questionCount": 90,
+      "file": "judicial_benchassistant_2025-04-25.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/judicial_benchassistant_2025-04-25"
+    },
+    {
+      "examSlug": "judicial_benchassistant_2025-04-25-2",
+      "examTitle": "ভূমি রেকর্ড ও জরিপ অধিদপ্তর - কপিস্ট-কাম-বেঞ্চ সহকারী 2025-04-25",
+      "questionCount": 15,
+      "file": "judicial_benchassistant_2025-04-25-2.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/judicial_benchassistant_2025-04-25-2"
+    },
+    {
+      "examSlug": "judicial_benchassistant_2026-05-16",
+      "examTitle": "বাংলাদেশ জুডিসিয়াল সার্ভিস কমিশন (বেঞ্চ সহকারী) - ১৬.০৫.২০২৬",
+      "questionCount": 49,
+      "file": "judicial_benchassistant_2026-05-16.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/judicial_benchassistant_2026-05-16"
+    },
+    {
+      "examSlug": "judicial_jarikarok_2026-06-13",
+      "examTitle": "জুডিসিয়াল সার্ভিস কমিশন (জারিকারক) - ১৩.০৬.২০২৬",
+      "questionCount": 50,
+      "file": "judicial_jarikarok_2026-06-13.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/judicial_jarikarok_2026-06-13"
+    },
+    {
+      "examSlug": "judicial_officeassistant_2026-01-17",
+      "examTitle": "বাংলাদেশ জুডিসিয়াল সার্ভিস কমিশন-(অফিস সহায়ক) - ১৭.০১.২০২৬",
+      "questionCount": 48,
+      "file": "judicial_officeassistant_2026-01-17.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/judicial_officeassistant_2026-01-17"
+    },
+    {
+      "examSlug": "judicial_officeassistant_2026-02-27",
+      "examTitle": "জুডিসিয়াল সার্ভিস কমিশন (অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক) - ২৭.০২.২০২৬",
+      "questionCount": 49,
+      "file": "judicial_officeassistant_2026-02-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/judicial_officeassistant_2026-02-27"
+    },
+    {
+      "examSlug": "judicial_post_2023-08-05",
+      "examTitle": "বাংলাদেশ সুপ্রিম কোর্ট (হাইকোর্ট বিভাগ)  —  প্রটোকল অফিসার 2023-08-05",
+      "questionCount": 15,
+      "file": "judicial_post_2023-08-05.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/judicial_post_2023-08-05"
+    },
+    {
+      "examSlug": "land_chainman_2025-10-17",
+      "examTitle": "ভূমি রেকর্ড ও জরিপ অধিদপ্তর - চেইনম্যান 2025-10-17",
+      "questionCount": 14,
+      "file": "land_chainman_2025-10-17.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/land_chainman_2025-10-17"
+    },
+    {
+      "examSlug": "land_inspector_2023-05-13",
+      "examTitle": "হিসাব নিয়ন্ত্রকের কার্যালয়, ভূমি মন্ত্রণালয় (নিরীক্ষক) – ১৩.০৫.২০২৩",
+      "questionCount": 50,
+      "file": "land_inspector_2023-05-13.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/land_inspector_2023-05-13"
+    },
+    {
+      "examSlug": "land_jachmohrar_2026-10-02",
+      "examTitle": "ভূমি রেকর্ড ও জরিপ অধিদপ্তর (যাঁচ মোহরার) - ০২.১০.২০২৬",
+      "questionCount": 90,
+      "file": "land_jachmohrar_2026-10-02.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/land_jachmohrar_2026-10-02"
+    },
+    {
+      "examSlug": "land_officeassistant_2026-04-11",
+      "examTitle": "ভূমি মন্ত্রণালয় (অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক) - ১১.০৪.২০২৬",
+      "questionCount": 89,
+      "file": "land_officeassistant_2026-04-11.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/land_officeassistant_2026-04-11"
+    },
+    {
+      "examSlug": "land_officeassistant_2026-09-18",
+      "examTitle": "ভূমি রেকর্ড ও জরিপ অধিদপ্তর (অফিস সহায়ক) - ১৮.০৯.২০২৬",
+      "questionCount": 88,
+      "file": "land_officeassistant_2026-09-18.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/land_officeassistant_2026-09-18"
+    },
+    {
+      "examSlug": "land_officeassistant_2026-09-18-2",
+      "examTitle": "ভূমি রেকর্ড ও জরিপ অধিদপ্তর - অফিস সহায়ক 2026-09-18",
+      "questionCount": 15,
+      "file": "land_officeassistant_2026-09-18-2.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/land_officeassistant_2026-09-18-2"
+    },
+    {
+      "examSlug": "land_peshkar_2025-11-28",
+      "examTitle": "ভূমি রেকর্ড ও জরিপ অধিদপ্তর - (পেশকার) - ২৮.১১.২০২৫",
+      "questionCount": 89,
+      "file": "land_peshkar_2025-11-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/land_peshkar_2025-11-28"
+    },
+    {
+      "examSlug": "land_recordkeeper_2026-05-02",
+      "examTitle": "ভূমি রেকর্ড ও জরিপ অধিদপ্তর (রেকর্ড কিপার) - ০২.০৫.২০২৬",
+      "questionCount": 88,
+      "file": "land_recordkeeper_2026-05-02.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/land_recordkeeper_2026-05-02"
+    },
+    {
+      "examSlug": "planning_chainman_2021-10-16",
+      "examTitle": "বাংলাদেশ পরিসংখ্যান ব্যুরো - চেইনম্যান 2021-10-16",
+      "questionCount": 15,
+      "file": "planning_chainman_2021-10-16.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/planning_chainman_2021-10-16"
+    },
+    {
+      "examSlug": "planning_officeassistant_2021-10-22",
+      "examTitle": "বাংলাদেশ পরিসংখ্যান ব্যুরো - অফিস সহায়ক 2021-10-22",
+      "questionCount": 15,
+      "file": "planning_officeassistant_2021-10-22.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/planning_officeassistant_2021-10-22"
+    },
+    {
+      "examSlug": "planning_statisticalassistant_2020-01-17",
+      "examTitle": "planning_statisticalassistant_2020-01-17",
+      "questionCount": 15,
+      "file": "planning_statisticalassistant_2020-01-17.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/planning_statisticalassistant_2020-01-17"
+    },
+    {
+      "examSlug": "planning_statisticalassistant_2021-11-05",
+      "examTitle": "planning_statisticalassistant_2021-11-05",
+      "questionCount": 15,
+      "file": "planning_statisticalassistant_2021-11-05.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/planning_statisticalassistant_2021-11-05"
+    },
+    {
+      "examSlug": "planning_statisticalofficer_2017-08-25",
+      "examTitle": "পরিসংখ্যান ও তথ্য ব্যবস্থাপনা অধিদপ্তর — পরিসংখ্যান কর্মকর্তা 2017-08-25",
+      "questionCount": 15,
+      "file": "planning_statisticalofficer_2017-08-25.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/planning_statisticalofficer_2017-08-25"
+    },
+    {
+      "examSlug": "planning_thanastatistician_2020-01-11",
+      "examTitle": "planning_thanastatistician_2020-01-11",
+      "questionCount": 14,
+      "file": "planning_thanastatistician_2020-01-11.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/planning_thanastatistician_2020-01-11"
+    },
+    {
+      "examSlug": "power_accountant_2025-10-17",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড - সহকারী হিসাবরক্ষক/প্লান্ট হিসাবরক্ষক - ১৭.১০.২০২৫",
+      "questionCount": 79,
+      "file": "power_accountant_2025-10-17.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_accountant_2025-10-17"
+    },
+    {
+      "examSlug": "power_accountsassistant_2023-11-10",
+      "examTitle": "বিদ্যুৎ উন্নয়ন বোর্ড (নিম্নমান হিসাব সহকারী) - ১০.১১.২০২৩",
+      "questionCount": 89,
+      "file": "power_accountsassistant_2023-11-10.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_accountsassistant_2023-11-10"
+    },
+    {
+      "examSlug": "power_accountsassistant_2024-11-15",
+      "examTitle": "পাওয়ার গ্রিড বাংলাদেশ পিএলসি (জুনিয়র হিসাব সহকারী) - ১৫.১১.২০২৪",
+      "questionCount": 80,
+      "file": "power_accountsassistant_2024-11-15.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_accountsassistant_2024-11-15"
+    },
+    {
+      "examSlug": "power_accountsassistant_2025-09-13",
+      "examTitle": "পাওয়ার গ্রিড বাংলাদেশ পিএলসি - জুনিয়র হিসাব সহকারী/ জুনিয়র ব্যক্তিগত সচিব / জুনি... 2025-09-13",
+      "questionCount": 15,
+      "file": "power_accountsassistant_2025-09-13.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_accountsassistant_2025-09-13"
+    },
+    {
+      "examSlug": "power_assistantdirector_2023-01-28",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক (প্রশাসন) 2023-01-28",
+      "questionCount": 15,
+      "file": "power_assistantdirector_2023-01-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantdirector_2023-01-28"
+    },
+    {
+      "examSlug": "power_assistantdirector_2023-06-09",
+      "examTitle": "power_assistantdirector_2023-06-09",
+      "questionCount": 15,
+      "file": "power_assistantdirector_2023-06-09.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantdirector_2023-06-09"
+    },
+    {
+      "examSlug": "power_assistantdirector_2025-02-07",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড (সহকারী পরিচালক) - ০৭.০২.২০২৫",
+      "questionCount": 75,
+      "file": "power_assistantdirector_2025-02-07.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantdirector_2025-02-07"
+    },
+    {
+      "examSlug": "power_assistantdirector_2025-02-07-2",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী পরিচালক 2025-02-07",
+      "questionCount": 15,
+      "file": "power_assistantdirector_2025-02-07-2.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantdirector_2025-02-07-2"
+    },
+    {
+      "examSlug": "power_assistantengineer_2023-07-28",
+      "examTitle": "power_assistantengineer_2023-07-28",
+      "questionCount": 15,
+      "file": "power_assistantengineer_2023-07-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantengineer_2023-07-28"
+    },
+    {
+      "examSlug": "power_assistantengineer_2023-11-03",
+      "examTitle": "বাংলাদেশ রপ্তানি প্রক্রিয়াকরণ এলাকা কর্তৃপক্ষ —  উপসহকারী প্রকৌশলী (বিদ্যুৎ) 2023-11-03",
+      "questionCount": 14,
+      "file": "power_assistantengineer_2023-11-03.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantengineer_2023-11-03"
+    },
+    {
+      "examSlug": "power_assistantengineer_2024-02-26",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — সহকারী প্রকৌশলী (সিভিল/ইইই/মেকানিক্যাল) 2024-02-26",
+      "questionCount": 8,
+      "file": "power_assistantengineer_2024-02-26.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantengineer_2024-02-26"
+    },
+    {
+      "examSlug": "power_assistantengineer_2024-09-27",
+      "examTitle": "আশুগঞ্জ পাওয়ার স্টেশন কোম্পানী লিঃ — সহকারী প্রকৌশলী (মেকানিক্যাল ও ইলেকট্রিক্য... 2024-09-27",
+      "questionCount": 15,
+      "file": "power_assistantengineer_2024-09-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantengineer_2024-09-27"
+    },
+    {
+      "examSlug": "power_assistantengineer_2025-01-31",
+      "examTitle": "power_assistantengineer_2025-01-31",
+      "questionCount": 14,
+      "file": "power_assistantengineer_2025-01-31.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantengineer_2025-01-31"
+    },
+    {
+      "examSlug": "power_assistantengineer_2025-10-10",
+      "examTitle": "ঢাকা ইলেকট্রিক সাপ্লাই কোম্পানি লিমিটেড (ডেসকো) — সহকারী প্রকৌশলী (তড়িৎ/বৈদ্যুত... 2025-10-10",
+      "questionCount": 14,
+      "file": "power_assistantengineer_2025-10-10.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantengineer_2025-10-10"
+    },
+    {
+      "examSlug": "power_assistantsecretary_2013-06-28",
+      "examTitle": "power_assistantsecretary_2013-06-28",
+      "questionCount": 87,
+      "file": "power_assistantsecretary_2013-06-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantsecretary_2013-06-28"
+    },
+    {
+      "examSlug": "power_assistantsecretary_2016-06-17",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ডে  —  সহকারী সচিব/সহকারী পরিচালক(প্রশাসন) 2016-06-17",
+      "questionCount": 15,
+      "file": "power_assistantsecretary_2016-06-17.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantsecretary_2016-06-17"
+    },
+    {
+      "examSlug": "power_assistantsecretary_2019",
+      "examTitle": "খনিজ সম্পদ মন্ত্রণালয় সহকারী সচিব/পরিচালক (প্রশাসন) -২০১৯",
+      "questionCount": 88,
+      "file": "power_assistantsecretary_2019.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantsecretary_2019"
+    },
+    {
+      "examSlug": "power_assistantsecretary_2019-01-18",
+      "examTitle": "power_assistantsecretary_2019-01-18",
+      "questionCount": 15,
+      "file": "power_assistantsecretary_2019-01-18.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantsecretary_2019-01-18"
+    },
+    {
+      "examSlug": "power_assistantsecretary_2021-10-08",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী সচিব/সহকারী পরিচালক(প্রশাসন) 2021-10-08",
+      "questionCount": 10,
+      "file": "power_assistantsecretary_2021-10-08.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantsecretary_2021-10-08"
+    },
+    {
+      "examSlug": "power_assistantteacher_2024-01-20",
+      "examTitle": "নর্দার্ন ইলেকট্রিসিটি সাপ্লাই কোম্পানি লি. (সহকারী শিক্ষক - মাধ্যমিক) - ২০.০১.২০২৪",
+      "questionCount": 69,
+      "file": "power_assistantteacher_2024-01-20.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_assistantteacher_2024-01-20"
+    },
+    {
+      "examSlug": "power_computertypist_2023-03-24",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  কম্পিউটার মুদ্রাক্ষরিক 2023-03-24",
+      "questionCount": 15,
+      "file": "power_computertypist_2023-03-24.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_computertypist_2023-03-24"
+    },
+    {
+      "examSlug": "power_foreman_2025-11-28",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড - ফোরম্যান (কারিগরী) 2025-11-28",
+      "questionCount": 15,
+      "file": "power_foreman_2025-11-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_foreman_2025-11-28"
+    },
+    {
+      "examSlug": "power_juniorasstmanager_2019-03-22",
+      "examTitle": "ডেসকো জুনিয়র সহকারী ম্যানেজার -(২২.০৩.২০১৯)[Exam Taker - IBA]",
+      "questionCount": 35,
+      "file": "power_juniorasstmanager_2019-03-22.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_juniorasstmanager_2019-03-22"
+    },
+    {
+      "examSlug": "power_juniorelectrician_2026-07-31",
+      "examTitle": "আশুগঞ্জ পাওয়ার স্টেশন কোম্পানি লিমিটেড (জুনিয়র ইলেকট্রিশিয়ান গ্রেড-২): ৩১.০৭.২০২৬",
+      "questionCount": 44,
+      "file": "power_juniorelectrician_2026-07-31.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_juniorelectrician_2026-07-31"
+    },
+    {
+      "examSlug": "power_lineman_2025-02-28",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড (লাইনম্যান) - ২৮.০২.২০২৫",
+      "questionCount": 78,
+      "file": "power_lineman_2025-02-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_lineman_2025-02-28"
+    },
+    {
+      "examSlug": "power_manager_2024-03-29",
+      "examTitle": "power_manager_2024-03-29",
+      "questionCount": 14,
+      "file": "power_manager_2024-03-29.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_manager_2024-03-29"
+    },
+    {
+      "examSlug": "power_meterreader_2023-08-04",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার রিডার কাম মেসেঞ্জার (চুক্তিভিত্তিক) 2023-08-04",
+      "questionCount": 15,
+      "file": "power_meterreader_2023-08-04.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_meterreader_2023-08-04"
+    },
+    {
+      "examSlug": "power_meterreader_2023-11-04",
+      "examTitle": "power_meterreader_2023-11-04",
+      "questionCount": 14,
+      "file": "power_meterreader_2023-11-04.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_meterreader_2023-11-04"
+    },
+    {
+      "examSlug": "power_meterreader_2024-05-04",
+      "examTitle": "power_meterreader_2024-05-04",
+      "questionCount": 15,
+      "file": "power_meterreader_2024-05-04.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_meterreader_2024-05-04"
+    },
+    {
+      "examSlug": "power_meterreader_2024-09-06",
+      "examTitle": "পল্লী বিদ্যুতায়ন বোর্ড নেত্রকোনা (মিটার রিডার কাম মেসেঞ্জার) - ০৬.০৯.২০২৪",
+      "questionCount": 57,
+      "file": "power_meterreader_2024-09-06.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_meterreader_2024-09-06"
+    },
+    {
+      "examSlug": "power_meterreader_2024-09-07",
+      "examTitle": "পল্লী বিদ্যুতায়ন বোর্ড কিশোরগঞ্জ (মিটার রিডার কাম মেসেঞ্জার) - ০৭.০৯.২০২৪",
+      "questionCount": 57,
+      "file": "power_meterreader_2024-09-07.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_meterreader_2024-09-07"
+    },
+    {
+      "examSlug": "power_meterreader_2024-09-13",
+      "examTitle": "পল্লী বিদ্যুতায়ন বোর্ড মিটার রিডার কাম মেসেঞ্জার (মানিকগঞ্জ) - ১৩.০৯.২০২৪",
+      "questionCount": 48,
+      "file": "power_meterreader_2024-09-13.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_meterreader_2024-09-13"
+    },
+    {
+      "examSlug": "power_meterreader_2024-09-27",
+      "examTitle": "ময়মনসিংহ পল্লী বিদ্যুৎ সমিতি (মিটার রিডার কাম মেসেঞ্জার) - ২৭.০৯.২০২৪",
+      "questionCount": 58,
+      "file": "power_meterreader_2024-09-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_meterreader_2024-09-27"
+    },
+    {
+      "examSlug": "power_meterreader_2024-11-30",
+      "examTitle": "power_meterreader_2024-11-30",
+      "questionCount": 15,
+      "file": "power_meterreader_2024-11-30.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_meterreader_2024-11-30"
+    },
+    {
+      "examSlug": "power_meterreader_2025-02-01",
+      "examTitle": "power_meterreader_2025-02-01",
+      "questionCount": 15,
+      "file": "power_meterreader_2025-02-01.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_meterreader_2025-02-01"
+    },
+    {
+      "examSlug": "power_post_2003-02-20",
+      "examTitle": "বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ মন্ত্রণালয়  —  সহকারী বিস্ফোরক পরিদর্শক 2003-02-20",
+      "questionCount": 15,
+      "file": "power_post_2003-02-20.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2003-02-20"
+    },
+    {
+      "examSlug": "power_post_2015",
+      "examTitle": "পল্লী বিদ্যুতায়ন বোর্ড উপজেলা পল্লী উন্নয়ন কর্মকর্তা - ১8.০৯.২০১৫",
+      "questionCount": 48,
+      "file": "power_post_2015.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2015"
+    },
+    {
+      "examSlug": "power_post_2017-03-31",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — সহকারী এনফোর্সমেন্ট কো-অর্ডিনেটর 2017-03-31",
+      "questionCount": 15,
+      "file": "power_post_2017-03-31.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2017-03-31"
+    },
+    {
+      "examSlug": "power_post_2017-09-22",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড — সহকারী জেনারেল ম্যানেজার (প্রশাসন/এইচআর) 2017-09-22",
+      "questionCount": 15,
+      "file": "power_post_2017-09-22.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2017-09-22"
+    },
+    {
+      "examSlug": "power_post_2019-11-22",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী এনফোর্সমেন্ট  কো- অর্ডিনেটর 2019-11-22",
+      "questionCount": 15,
+      "file": "power_post_2019-11-22.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2019-11-22"
+    },
+    {
+      "examSlug": "power_post_2021-12-31",
+      "examTitle": "পল্লী বিদ্যুতায়ন বোর্ড। এসিস্ট্যান্ট এনফোর্সমেন্ট কোঅডিনেটর 2021-12-31",
+      "questionCount": 15,
+      "file": "power_post_2021-12-31.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2021-12-31"
+    },
+    {
+      "examSlug": "power_post_2022-03-25",
+      "examTitle": "power_post_2022-03-25",
+      "questionCount": 15,
+      "file": "power_post_2022-03-25.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2022-03-25"
+    },
+    {
+      "examSlug": "power_post_2023-02-13",
+      "examTitle": "power_post_2023-02-13",
+      "questionCount": 15,
+      "file": "power_post_2023-02-13.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2023-02-13"
+    },
+    {
+      "examSlug": "power_post_2023-05-26",
+      "examTitle": "power_post_2023-05-26",
+      "questionCount": 15,
+      "file": "power_post_2023-05-26.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2023-05-26"
+    },
+    {
+      "examSlug": "power_post_2023-06-02",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  মিটার টেস্টার 2023-06-02",
+      "questionCount": 13,
+      "file": "power_post_2023-06-02.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2023-06-02"
+    },
+    {
+      "examSlug": "power_post_2023-07-15",
+      "examTitle": "পল্লী বিদ্যুৎ সমিতি — লাইন ক্রু লেভেল-১ (চুক্তি ভিত্তিক) 2023-07-15",
+      "questionCount": 15,
+      "file": "power_post_2023-07-15.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2023-07-15"
+    },
+    {
+      "examSlug": "power_post_2023-07-21",
+      "examTitle": "পাওয়ার গ্রিড কোম্পানি অব বাংলাদেশ লিমিটেড – টেকনিক্যাল অ্যাটেনডেন্ট 2023-07-21",
+      "questionCount": 15,
+      "file": "power_post_2023-07-21.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2023-07-21"
+    },
+    {
+      "examSlug": "power_post_2023-09-15",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড  —  সহকারী জুনিয়র ইঞ্জিনিয়ার 2023-09-15",
+      "questionCount": 15,
+      "file": "power_post_2023-09-15.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2023-09-15"
+    },
+    {
+      "examSlug": "power_post_2023-10-14",
+      "examTitle": "নিউক্লিয়ার পাওয়ার প্ল্যান্ট কোম্পানী বাংলাদেশ লিমিটেড  —  ইলেক্ট্রনিক মেইন্টেনেন... 2023-10-14",
+      "questionCount": 11,
+      "file": "power_post_2023-10-14.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2023-10-14"
+    },
+    {
+      "examSlug": "power_post_2024-02-23",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড (সহকারী এনফোর্সমেন্ট কো-অর্ডিনেটর) - ২৩.০২.২০২৪",
+      "questionCount": 76,
+      "file": "power_post_2024-02-23.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2024-02-23"
+    },
+    {
+      "examSlug": "power_post_2024-03-09",
+      "examTitle": "power_post_2024-03-09",
+      "questionCount": 12,
+      "file": "power_post_2024-03-09.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2024-03-09"
+    },
+    {
+      "examSlug": "power_post_2024-05-10",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড —  সহকারী জেনারেল ম্যানেজার (ওএন্ডএম/ইএন্ডসি /পি... 2024-05-10",
+      "questionCount": 9,
+      "file": "power_post_2024-05-10.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2024-05-10"
+    },
+    {
+      "examSlug": "power_post_2025-04-18",
+      "examTitle": "power_post_2025-04-18",
+      "questionCount": 15,
+      "file": "power_post_2025-04-18.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2025-04-18"
+    },
+    {
+      "examSlug": "power_post_2025-09-02",
+      "examTitle": "বাংলাদেশ সরকারী কর্ম কমিশন - বিদ্যুৎ জ্বালানি ও খনিজ সম্পদ মন্ত্রণালয় - ইলেকট্রি... 2025-09-02",
+      "questionCount": 6,
+      "file": "power_post_2025-09-02.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2025-09-02"
+    },
+    {
+      "examSlug": "power_post_2025-10-04",
+      "examTitle": "ঢাকা ইলেকট্রিক সাপ্লাই কোম্পানী (ডেসকো) লিমিটেড - সাবস্টেশন অ্যাসিসটেন্ট 2025-10-04",
+      "questionCount": 15,
+      "file": "power_post_2025-10-04.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2025-10-04"
+    },
+    {
+      "examSlug": "power_post_2025-12-12",
+      "examTitle": "ঢাকা পাওয়ার ডিস্ট্রিবিউশন কোম্পানি লিমিটেড (ডিপিডিসি) - কাস্টমার সার্ভিস এটেনডেন... 2025-12-12",
+      "questionCount": 14,
+      "file": "power_post_2025-12-12.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2025-12-12"
+    },
+    {
+      "examSlug": "power_post_2025-12-19",
+      "examTitle": "ঢাকা পাওয়ার ডিস্ট্রিবিউশন কোম্পানি লিমিটেড (ডিপিডিসি) - অফিস অ্যাসিস্ট্যান্ট 2025-12-19",
+      "questionCount": 13,
+      "file": "power_post_2025-12-19.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2025-12-19"
+    },
+    {
+      "examSlug": "power_post_2026-01-24",
+      "examTitle": "power_post_2026-01-24",
+      "questionCount": 15,
+      "file": "power_post_2026-01-24.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2026-01-24"
+    },
+    {
+      "examSlug": "power_post_2026-02-27",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড, পল্লী বিদ্যুৎ সমিতি (সহকারী জেনারেল ম্যানেজার, ওএন্ডএম/পিএন্ডএম/ইএন্ডসি) - ২৭.০২.২০২৬",
+      "questionCount": 80,
+      "file": "power_post_2026-02-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_post_2026-02-27"
+    },
+    {
+      "examSlug": "power_securityguard_2023-11-11",
+      "examTitle": "বিদ্যুৎ উন্নয়ন বোর্ড (নিরাপত্তা প্রহরী) - ১১.১১.২০২৩",
+      "questionCount": 88,
+      "file": "power_securityguard_2023-11-11.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_securityguard_2023-11-11"
+    },
+    {
+      "examSlug": "power_securityguard_2025-09-13",
+      "examTitle": "power_securityguard_2025-09-13",
+      "questionCount": 15,
+      "file": "power_securityguard_2025-09-13.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_securityguard_2025-09-13"
+    },
+    {
+      "examSlug": "power_stationattendant_2025-08-29",
+      "examTitle": "পাওয়ার গ্রিড বাংলাদেশ পিএলসি (স্টেশন এ্যাটেনডেন্টে) - ২৯.০৮.২০২৫",
+      "questionCount": 79,
+      "file": "power_stationattendant_2025-08-29.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_stationattendant_2025-08-29"
+    },
+    {
+      "examSlug": "power_storekeeper_2026-05-16",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড (সহকারী স্টোর কিপার) - ১৬.০৫.২০২৬",
+      "questionCount": 77,
+      "file": "power_storekeeper_2026-05-16.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_storekeeper_2026-05-16"
+    },
+    {
+      "examSlug": "power_subassistantengineer_2023-05-26",
+      "examTitle": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড – উপ-সহকারী প্রকৌশলী 2023-05-26",
+      "questionCount": 15,
+      "file": "power_subassistantengineer_2023-05-26.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_subassistantengineer_2023-05-26"
+    },
+    {
+      "examSlug": "power_subassistantengineer_2023-11-03",
+      "examTitle": "power_subassistantengineer_2023-11-03",
+      "questionCount": 13,
+      "file": "power_subassistantengineer_2023-11-03.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_subassistantengineer_2023-11-03"
+    },
+    {
+      "examSlug": "power_subassistantengineer_2024-03-01",
+      "examTitle": "power_subassistantengineer_2024-03-01",
+      "questionCount": 14,
+      "file": "power_subassistantengineer_2024-03-01.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_subassistantengineer_2024-03-01"
+    },
+    {
+      "examSlug": "power_subassistantengineer_2024-03-29",
+      "examTitle": "বি-আর পাওয়ারজেন লিমিটেড  —  উপ-সহকারী প্রকৌশলী (মেকানিক্যাল, ইলেকট্রিক্যাল, পাওয়... 2024-03-29",
+      "questionCount": 8,
+      "file": "power_subassistantengineer_2024-03-29.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_subassistantengineer_2024-03-29"
+    },
+    {
+      "examSlug": "power_subassistantengineer_2024-03-29-2",
+      "examTitle": "বি-আর পাওয়ারজেন লিমিটেড — উপ-সহকারী প্রকৌশলী 2024-03-29",
+      "questionCount": 13,
+      "file": "power_subassistantengineer_2024-03-29-2.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_subassistantengineer_2024-03-29-2"
+    },
+    {
+      "examSlug": "power_subassistantengineer_2024-04-05",
+      "examTitle": "পাওয়ার গ্রিড কোম্পানি অব বাংলাদেশ লিমিটেড — উপ-সহকারী প্রকৌশলী 2024-04-05",
+      "questionCount": 15,
+      "file": "power_subassistantengineer_2024-04-05.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_subassistantengineer_2024-04-05"
+    },
+    {
+      "examSlug": "power_subassistantengineer_2024-11-08",
+      "examTitle": "কোল পাওয়ার জেনারেশন কোম্পানী বাংলাদেশ লিমিটেড — উপ-সহকারী প্রকৌশলী 2024-11-08",
+      "questionCount": 13,
+      "file": "power_subassistantengineer_2024-11-08.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_subassistantengineer_2024-11-08"
+    },
+    {
+      "examSlug": "power_subassistantengineer_2025-04-25",
+      "examTitle": "power_subassistantengineer_2025-04-25",
+      "questionCount": 15,
+      "file": "power_subassistantengineer_2025-04-25.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_subassistantengineer_2025-04-25"
+    },
+    {
+      "examSlug": "power_subassistantengineer_2026-05-15",
+      "examTitle": "ওয়েস্ট জোন পাওয়ার ডিস্ট্রিবিউশন কোম্পানি লিমিটেড — উপ-সহকারী প্রকৌশলী (ইলেক্ট্... 2026-05-15",
+      "questionCount": 15,
+      "file": "power_subassistantengineer_2026-05-15.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_subassistantengineer_2026-05-15"
+    },
+    {
+      "examSlug": "power_substationassistant_2026-04-10",
+      "examTitle": "নেসকো (সাব-স্টেশন সহকারী) ১০.০৪.২০২৬",
+      "questionCount": 68,
+      "file": "power_substationassistant_2026-04-10.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_substationassistant_2026-04-10"
+    },
+    {
+      "examSlug": "power_substationattendant_2024-01-27",
+      "examTitle": "নর্দার্ন ইলেকট্রিসিটি সাপ্লাই কোম্পানি (সাব-স্টেশন অ্যাটেনডেন্ট) - ২৭.০১.২০২৪",
+      "questionCount": 68,
+      "file": "power_substationattendant_2024-01-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_substationattendant_2024-01-27"
+    },
+    {
+      "examSlug": "power_switchboardattendant_2021-11-05",
+      "examTitle": "power_switchboardattendant_2021-11-05",
+      "questionCount": 14,
+      "file": "power_switchboardattendant_2021-11-05.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_switchboardattendant_2021-11-05"
+    },
+    {
+      "examSlug": "power_switchboardattendant_2025-05-23",
+      "examTitle": "power_switchboardattendant_2025-05-23",
+      "questionCount": 15,
+      "file": "power_switchboardattendant_2025-05-23.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_switchboardattendant_2025-05-23"
+    },
+    {
+      "examSlug": "power_switchboardattendant_2026-01-09",
+      "examTitle": "ওয়েস্ট জোন পাওয়ার ডিস্ট্রিবিউশন কোম্পানি লিমিটেড (সুইচ বোর্ড এ্যাটেনডেন্ট) - ০৯.০১.২০২৬",
+      "questionCount": 38,
+      "file": "power_switchboardattendant_2026-01-09.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_switchboardattendant_2026-01-09"
+    },
+    {
+      "examSlug": "power_technicalassistant_2024-11-15",
+      "examTitle": "পাওয়ার গ্রিড বাংলাদেশ পিএলসি (কারিগরি সহায়ক/অফিস সহায়ক) - ১৫.১১.২০২৪",
+      "questionCount": 80,
+      "file": "power_technicalassistant_2024-11-15.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/power_technicalassistant_2024-11-15"
+    },
+    {
+      "examSlug": "publicadmin_accountant_2026-08-21",
+      "examTitle": "বাংলাদেশ কর্মচারী কল্যাণ বোর্ড (সহকারী পরিচালক) - ২১.০৮.২০২৬",
+      "questionCount": 89,
+      "file": "publicadmin_accountant_2026-08-21.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_accountant_2026-08-21"
+    },
+    {
+      "examSlug": "publicadmin_accountant_2026-08-21-2",
+      "examTitle": "বাংলাদেশ কর্মচারী কল্যাণ বোর্ড - হিসাবরক্ষক 2026-08-21",
+      "questionCount": 15,
+      "file": "publicadmin_accountant_2026-08-21-2.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_accountant_2026-08-21-2"
+    },
+    {
+      "examSlug": "publicadmin_administrativeofficer_2016-06-23",
+      "examTitle": "জনপ্রশাসন মন্ত্রণালয়  —  প্রশাসনিক কর্মকর্তা 2016-06-23",
+      "questionCount": 15,
+      "file": "publicadmin_administrativeofficer_2016-06-23.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_administrativeofficer_2016-06-23"
+    },
+    {
+      "examSlug": "publicadmin_administrativeofficer_2025-11-19",
+      "examTitle": "বিভিন্ন মন্ত্রণালয় - প্রশাসনিক কর্মকর্তা 2025-11-19",
+      "questionCount": 14,
+      "file": "publicadmin_administrativeofficer_2025-11-19.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_administrativeofficer_2025-11-19"
+    },
+    {
+      "examSlug": "publicadmin_assistantdirector_2016",
+      "examTitle": "জনপ্রশাসন মন্ত্রণালয় -২০১৬ (সহকারী পরিচালক)",
+      "questionCount": 90,
+      "file": "publicadmin_assistantdirector_2016.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_assistantdirector_2016"
+    },
+    {
+      "examSlug": "publicadmin_assistantdirector_2026-08-21",
+      "examTitle": "বাংলাদেশ কর্মচারী কল্যাণ বোর্ড - সহকারী পরিচালক 2026-08-21",
+      "questionCount": 15,
+      "file": "publicadmin_assistantdirector_2026-08-21.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_assistantdirector_2026-08-21"
+    },
+    {
+      "examSlug": "publicadmin_engineer_2022-05-24",
+      "examTitle": "publicadmin_engineer_2022-05-24",
+      "questionCount": 15,
+      "file": "publicadmin_engineer_2022-05-24.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_engineer_2022-05-24"
+    },
+    {
+      "examSlug": "publicadmin_officeassistant_2026-08-28",
+      "examTitle": "জনপ্রশাসন মন্ত্রণালয় — বাংলাদেশ কর্মচারী কল্যাণ বোর্ড — অফিস সহকারী কাম কম্পিউট... 2026-08-28",
+      "questionCount": 15,
+      "file": "publicadmin_officeassistant_2026-08-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_officeassistant_2026-08-28"
+    },
+    {
+      "examSlug": "publicadmin_personalofficer_2016-06-27",
+      "examTitle": "publicadmin_personalofficer_2016-06-27",
+      "questionCount": 87,
+      "file": "publicadmin_personalofficer_2016-06-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_personalofficer_2016-06-27"
+    },
+    {
+      "examSlug": "publicadmin_personalofficer_2022-02-28",
+      "examTitle": "publicadmin_personalofficer_2022-02-28",
+      "questionCount": 15,
+      "file": "publicadmin_personalofficer_2022-02-28.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_personalofficer_2022-02-28"
+    },
+    {
+      "examSlug": "publicadmin_personalofficer_2022-03-22",
+      "examTitle": "publicadmin_personalofficer_2022-03-22",
+      "questionCount": 15,
+      "file": "publicadmin_personalofficer_2022-03-22.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_personalofficer_2022-03-22"
+    },
+    {
+      "examSlug": "publicadmin_personalofficer_2025-08-30",
+      "examTitle": "বাংলাদেশ সরকারী কর্ম কমিশন - বিভিন্ন মন্ত্রণালয় - ব্যক্তিগত কর্মকর্তা 2025-08-30",
+      "questionCount": 15,
+      "file": "publicadmin_personalofficer_2025-08-30.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_personalofficer_2025-08-30"
+    },
+    {
+      "examSlug": "publicadmin_post_2017-04-20",
+      "examTitle": "বিভিন্ন মন্ত্রণালয় — সহকারী মেইন্টেন্যান্স ইঞ্জিনিয়ার  2017-04-20",
+      "questionCount": 15,
+      "file": "publicadmin_post_2017-04-20.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_post_2017-04-20"
+    },
+    {
+      "examSlug": "publicadmin_post_2023-05-15",
+      "examTitle": "সংসদ সচিবালয়  —  ব্যাক্তিগত কর্মকর্তা (নন ক্যাডার) 2023-05-15",
+      "questionCount": 15,
+      "file": "publicadmin_post_2023-05-15.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_post_2023-05-15"
+    },
+    {
+      "examSlug": "publicadmin_staff_2026-07-07",
+      "examTitle": "publicadmin_staff_2026-07-07",
+      "questionCount": 15,
+      "file": "publicadmin_staff_2026-07-07.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_staff_2026-07-07"
+    },
+    {
+      "examSlug": "publicadmin_staff_2026-07-23",
+      "examTitle": "বাংলাদেশ সরকারি কর্ম কমিশন সচিবালয় (জনপ্রশাসন মন্ত্রণালয়, সরকারি কর্মচারী হাসপাতাল) - ২৩.০৭.২০২৬",
+      "questionCount": 90,
+      "file": "publicadmin_staff_2026-07-23.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_staff_2026-07-23"
+    },
+    {
+      "examSlug": "publicadmin_staff_2026-07-27",
+      "examTitle": "বাংলাদেশ সরকারী কর্ম কমিশন সচিবালয়, জনপ্রশাসন মন্ত্রণালয় (সরকারি কর্মচারী হাসপাতাল) - ২৭.০৭.২০২৬",
+      "questionCount": 90,
+      "file": "publicadmin_staff_2026-07-27.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_staff_2026-07-27"
+    },
+    {
+      "examSlug": "publicadmin_staff_2026-08-03",
+      "examTitle": "জনপ্রশাসন মন্ত্রণালয় (সরকারি কর্মচারী হাসপাতাল) - ০৩.০৮.২০২৬",
+      "questionCount": 90,
+      "file": "publicadmin_staff_2026-08-03.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_staff_2026-08-03"
+    },
+    {
+      "examSlug": "publicadmin_subassistantengineer_2017-06-19",
+      "examTitle": "বিভিন্ন মন্ত্রণালয় — উপ-সহকারী প্রকৌশলী (সিভিল) 2017-06-19",
+      "questionCount": 14,
+      "file": "publicadmin_subassistantengineer_2017-06-19.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_subassistantengineer_2017-06-19"
+    },
+    {
+      "examSlug": "publicadmin_subassistantengineer_2026-01-22",
+      "examTitle": "বাংলাদেশ সরকারী কর্ম কমিশন - বিভিন্ন মন্ত্রণালয় - উপ-সহকারী প্রকৌশলী (সিভিল) 2026-01-22",
+      "questionCount": 14,
+      "file": "publicadmin_subassistantengineer_2026-01-22.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_subassistantengineer_2026-01-22"
+    },
+    {
+      "examSlug": "publicadmin_variousposts_2019-05-10",
+      "examTitle": "বাংলাদেশ লোক-প্রশাসন প্রশিক্ষণ কেন্দ্রের বিভিন্ন পদ (১০.০৫.২০১৯)[IBA Exam Taker]",
+      "questionCount": 79,
+      "file": "publicadmin_variousposts_2019-05-10.json",
+      "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_variousposts_2019-05-10"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "examSlug": "environment_officeassistant_2023-08-11",
+  "examTitle": "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11",
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "url": "https://dreamsintodeeds.me/questions/ministry-admin/environment_officeassistant_2023-08-11",
+  "questionCount": 14,
+  "questions": [
+    {
+      "id": 1,
+      "question": "৯০° ডিগ্রি কোণের সম্পূরক কোণ কত ডিগ্রি",
+      "options": [
+        "২৭০°",
+        "০°",
+        "৯০°",
+        "১৮০°"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: ৯০°।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 2,
+      "question": "যদি x + 1 x = 5 হয়, তবে x x 2 + x + 1 এর মান কত?",
+      "options": [
+        "1 6",
+        "1 7",
+        "1 4",
+        "1 5"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: 1 6।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 3,
+      "question": "নিচের কোনটি মৌলিক সংখ্যা?",
+      "options": [
+        "৮৭",
+        "৬৩",
+        "৭২",
+        "কোনোটিই নয়"
+      ],
+      "correctIndex": 3,
+      "explanation": "৫৯-কে কেবল ১ ও ৫৯ ভাগ করে — এটি মৌলিক সংখ্যা; বাকি অপশনগুলো যৌগিক।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 4,
+      "question": "'ভোজন' শব্দের প্রকৃতি ও প্রত্যয় কোনটি?",
+      "options": [
+        "ভোজ+জন",
+        "ভোন+ন",
+        "ভুজ+অনট",
+        "ভো+অন"
+      ],
+      "correctIndex": 2,
+      "explanation": "প্রকৃতি ও প্রত্যয়: ভুজ+অনট।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 5,
+      "question": "'পূর্ণেন্দু' কোন সন্ধি?",
+      "options": [
+        "স্বরসন্ধি",
+        "বিসর্গ সন্ধি",
+        "ব্যাঞ্জনসন্ধি",
+        "নিপাতনে সিদ্ধ সন্ধি"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: স্বরসন্ধি।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 6,
+      "question": "'কচুকাটা করা' বাগধারাটির অর্থ কি?",
+      "options": [
+        "কচু কেটে ফেলা",
+        "হত্যা করা",
+        "সফলতা লাভ",
+        "ধ্বংস করা"
+      ],
+      "correctIndex": 3,
+      "explanation": "বাগধারার অর্থ: ধ্বংস করা।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 7,
+      "question": "'ভর্ৎসনা' শব্দের বিপরীতার্থক শব্দ-",
+      "options": [
+        "অপমান",
+        "প্রশংসা",
+        "নিন্দা",
+        "গিবতকারী"
+      ],
+      "correctIndex": 1,
+      "explanation": "বিপরীত শব্দ: প্রশংসা।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 8,
+      "question": "'ছেলেটি চালাক'- এ বাক্যে 'চালাক' কোন জাতীয় বিশেষণ?",
+      "options": [
+        "অবস্থা বাচক",
+        "ভাববাচক",
+        "উপাদান বাচক",
+        "গুণবাচক"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: গুণবাচক।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 9,
+      "question": "নিচের কোনটি অনুসর্গ?",
+      "options": [
+        "পার",
+        "ব্যতীত",
+        "নড়া",
+        "পাড়"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: ব্যতীত।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 10,
+      "question": "The sun ___ we went out for a walk.",
+      "options": [
+        "had set and",
+        "set and",
+        "was setting and",
+        "was set while"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"had set and\" বসবে।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "What is the synonym of the word 'Sticky\"?",
+      "options": [
+        "Silky",
+        "horny",
+        "Glutinous",
+        "Adhesive"
+      ],
+      "correctIndex": 2,
+      "explanation": "sticky = Adhesive (আঠালো)।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "Which one is common gender?",
+      "options": [
+        "Girl",
+        "King",
+        "Mother",
+        "Child"
+      ],
+      "correctIndex": 3,
+      "explanation": "- যে Noun দ্বারা স্ত্রী ও পুরুষ উভয়কেই বোঝানো হয়, তাকে Common Gender বা উভয়লিঙ্গ বলে। - এখানে 'Boy' (বালক) এবং 'Man' (পুরুষ) হলো পুংলিঙ্গ বা Masculine Gender । - 'Girl' (বালিকা) শব্দটি হলো স্ত্রীলিঙ্গ বা Feminine Gender । - কিন্তু 'Baby' (শিশু) শব্দটি দ্বারা ছেলে শিশু বা মেয়ে শিশু উভয়কেই বোঝানো যায়, তাই এটি Common Gender ।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "Which is the meaning of the idiom- 'smell a rat'?",
+      "options": [
+        "bad smell",
+        "suspect something",
+        "make difficult",
+        "presence of a thief"
+      ],
+      "correctIndex": 1,
+      "explanation": "অর্থ: suspect something।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "The phrase 'by and by' means —",
+      "options": [
+        "In course of taking",
+        "Suddenly",
+        "Soon",
+        "as it would be"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"by and by\" এর অর্থ: Soon।",
+      "appearedIn": [
+        "বন অধিদপ্তর  —  অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক 2023-08-11"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

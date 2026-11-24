@@ -1,0 +1,250 @@
+{
+  "examSlug": "publicadmin_engineer_2022-05-24",
+  "examTitle": "publicadmin_engineer_2022-05-24",
+  "categoryKey": "ministry-admin",
+  "categoryName": "মন্ত্রণালয় ও প্রশাসন",
+  "url": "https://dreamsintodeeds.me/questions/ministry-admin/publicadmin_engineer_2022-05-24",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "’প্রাগৈতিহাসিক’ গল্পটি কার রচনা?",
+      "options": [
+        "শাহেদ আলী",
+        "রাশশেখর বসু",
+        "মানিক বন্দ্যোপাধ্যায়",
+        "হাসান আজিজুল হক"
+      ],
+      "correctIndex": 2,
+      "explanation": "রচয়িতা: মানিক বন্দ্যোপাধ্যায়।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 2,
+      "question": "’তত্ত্ববোধিনী’ পত্রিকার সম্পাদক কে?",
+      "options": [
+        "অক্ষয় কুমার দত্ত",
+        "রবীন্দ্রনাথ ঠাকুর",
+        "মোজাম্মেল হক",
+        "ঈশ্বরচন্দ্র গুপ্ত"
+      ],
+      "correctIndex": 0,
+      "explanation": "সাহিত্য, বিজ্ঞান, দর্শন, ইতিহাস, রাজনীতি, সামাজিক ও অর্থনৈতিক সমস্যা ইত্যাদি বিষয় নিয়ে ১৮৪৩ সালে ‘তত্ত্ববোধিনী’ পত্রিকাটি যাত্রা শুরু করে। এ পত্রিকার সম্পাদক ছিলেন অক্ষয়কুমার দত্ত।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 3,
+      "question": "কোনটি বানানটি শুদ্ধ?",
+      "options": [
+        "দ্বন্দ্ব",
+        "দন্দ",
+        "দ্বন্দ",
+        "দম্ব"
+      ],
+      "correctIndex": 0,
+      "explanation": "শুদ্ধ বানান: \"দ্বন্দ্ব\"।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 4,
+      "question": "’ আমার দেখা নয়াচীন’ গ্রন্থের রচয়িতা কে?",
+      "options": [
+        "জামিল চৌধুরী",
+        "ড. মুহাম্মদ শহীদুল্লাহ",
+        "আহমদ শরীফ",
+        "শেখ মুজিবুর রহমান"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"আমার দেখা নয়াচীন\" গ্রন্থের রচয়িতা বঙ্গবন্ধু শেখ মুজিবুর রহমান।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 5,
+      "question": "’ঢাকের কাঠি’ বাগধারাটির অর্থ কি?",
+      "options": [
+        "ঢাকা বাজানো কাঠি",
+        "কলুর বলদ",
+        "মো-সাহেব",
+        "বক ধার্মিক"
+      ],
+      "correctIndex": 2,
+      "explanation": "‘ঢাকের কাঠি’ বাগধারার অর্থ : মোসাহেব, তোষামুদে। ‘দহরম-মহরম’ বাগধারার অর্থ: ঘনিষ্ঠ সম্পর্ক; ইঁদুর কপালে/আট কপালে বাগধারার অর্থ হতভাগ্য। খয়ের খাঁ বাগধারাটির অর্থ তোষামোদকারী।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 6,
+      "question": "ওয়াটার লু কোথায় অবস্থিত?",
+      "options": [
+        "বেলজিয়াম",
+        "ইংল্যান্ড",
+        "ইটালি",
+        "রাশিয়া"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: বেলজিয়াম।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 7,
+      "question": "বর্তমানে বিশ্বের কোন দেশটির সংবিধানকে -শান্তি সংবিধান বলা হয়?",
+      "options": [
+        "সুইজারল্যান্ড",
+        "সুইডেন",
+        "জার্মান",
+        "জাপান"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: জাপান।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 8,
+      "question": "প্লেগ মহামারী/ব্ল্যাক ডেথ শুরু হয় কোথায়?",
+      "options": [
+        "স্পেন",
+        "ফ্রান্স",
+        "ইটালি",
+        "রাশিয়া"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: ইটালি।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 9,
+      "question": "স্বাধীনতার সুবর্ণজয়ন্তীর লোগোর নকশা করেন কে?",
+      "options": [
+        "রামেন্দ্র মজুমদার",
+        "প্রদীপ চক্রবর্তী",
+        "সব্যসাচী হাজরা",
+        "ক এবং খ উভয়টি"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: ক এবং খ উভয়টি।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 10,
+      "question": "How long is an IPv6 address?",
+      "options": [
+        "32 Bit",
+        "128 Bits",
+        "64 Bits",
+        "132 Bits"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: 128 Bits।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Which one is the correct passive form of \"He has done a great job?\"",
+      "options": [
+        "A great job have been done by him",
+        "A great job have been doing by him.",
+        "A great job has been done by him.",
+        "A great job has been doing by him."
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: A great job has been done by him.।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct answer-",
+      "options": [
+        "The gold is a precious metal",
+        "A gold is a precious metal",
+        "Gold is a precious metal",
+        "Gold is precious metal"
+      ],
+      "correctIndex": 2,
+      "explanation": "avail-এর সঠিক ব্যবহার: I will avail myself of the opportunity.",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "The phrase 'an apple of discord' means-",
+      "options": [
+        "a sour apple",
+        "an important matter",
+        "an unexpected gift",
+        "an object of quarrel"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"an apple of discord\" এর অর্থ: an object of quarrel।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "\"Impossible is a word to be found in a fool's dictionary\" উক্তিটি কার?",
+      "options": [
+        "Plato",
+        "Napoleon",
+        "Che Guevara",
+        "Einstein"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: Napoleon।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "The emf generated in a dc generator is directly proportional to",
+      "options": [
+        "Flux per pole",
+        "No, of poles",
+        "Speed of armature",
+        "all above"
+      ],
+      "correctIndex": 3,
+      "explanation": "পরিবর্তিত রূপ: all above।",
+      "appearedIn": [
+        "বিভিন্ন মন্ত্রণালয় — সহকারী ম্যানটেনেন্স প্রকৌশলী 2022-05-24"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}
