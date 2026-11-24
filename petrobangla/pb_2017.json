@@ -1,0 +1,922 @@
+{
+  "examSlug": "pb_2017",
+  "examTitle": "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭",
+  "categoryKey": "petrobangla",
+  "categoryName": "পেট্রোবাংলা ও জ্বালানি",
+  "url": "https://dreamsintodeeds.me/questions/petrobangla/pb_2017",
+  "questionCount": 57,
+  "questions": [
+    {
+      "id": 1,
+      "question": "'খেচর' শব্দের অর্থ কী?",
+      "options": [
+        "উট",
+        "পাখি",
+        "বাঘ",
+        "মাছ"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"খেচর\" অর্থ পাখি (আকাশে চলা)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 2,
+      "question": "'প্রথিতযশা' শব্দের অর্থ কী?",
+      "options": [
+        "প্রার্থী",
+        "যুবক",
+        "খ্যাতনামা",
+        "অভিভাবক"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"প্রথিতযশা\" অর্থ খ্যাতনামা।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 3,
+      "question": "বাগ্‌ধারার অর্থ নির্ণয় করুন: 'ধামাধরা'।",
+      "options": [
+        "কপট গাম্ভীর্য",
+        "চাটুকারিতা",
+        "পরিপাটি থাকা",
+        "মিথ্যা বলা"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"ধামাধরা\" অর্থ চাটুকারিতা।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 4,
+      "question": "'আদ্যোপান্ত' শব্দের অর্থ কী?",
+      "options": [
+        "অতি পুরাতন",
+        "প্রাথমিক",
+        "অবিমিশ্র",
+        "আগাগোড়া"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"আদ্যোপান্ত\" অর্থ আগাগোড়া।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 5,
+      "question": "'দুহিতা' শব্দের অর্থ কী?",
+      "options": [
+        "দুই হাতে কাজ করে",
+        "কন্যা",
+        "জননী",
+        "গগন"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"দুহিতা\" অর্থ কন্যা।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 6,
+      "question": "'সমীরণ' শব্দের অর্থ কী?",
+      "options": [
+        "বিদ্যুৎ",
+        "মৃত্তিকা",
+        "অরণ্য",
+        "বাতাস"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"সমীরণ\" অর্থ বাতাস।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 7,
+      "question": "'অভিরুচি' শব্দের অর্থ কী?",
+      "options": [
+        "বিকৃত রুচি",
+        "ইচ্ছা",
+        "সুন্দর রুচি",
+        "সাগর"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"অভিরুচি\" অর্থ ইচ্ছা/পছন্দ।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 8,
+      "question": "'হর্ষ' শব্দটির অর্থ কী?",
+      "options": [
+        "হলুদ",
+        "চালাক",
+        "আনন্দ",
+        "বোকা"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"হর্ষ\" অর্থ আনন্দ।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 9,
+      "question": "'পাথার' শব্দের অর্থ কী?",
+      "options": [
+        "সৈকত",
+        "শৈল",
+        "আকাশ",
+        "সমুদ্র"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"পাথার\" অর্থ সমুদ্র।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 10,
+      "question": "I will give you a map of the new town in case you ______ lost.",
+      "options": [
+        "will get",
+        "would get",
+        "got",
+        "get"
+      ],
+      "correctIndex": 3,
+      "explanation": "in case you get lost — ভবিষ্যৎ সম্ভাবনায় present simple: get।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Why _____ angry with me yesterday?",
+      "options": [
+        "were you",
+        "was you",
+        "you were",
+        "have you been"
+      ],
+      "correctIndex": 0,
+      "explanation": "Why were you angry with me yesterday? — অতীত ক্রিয়া।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "This contract will be confirmed _____ December.",
+      "options": [
+        "on",
+        "in",
+        "for",
+        "at"
+      ],
+      "correctIndex": 1,
+      "explanation": "in December — মাসের সাথে in।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "______ is a good exercise.",
+      "options": [
+        "To walk",
+        "on walk",
+        "Walking",
+        "Talking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Walking is a good exercise — gerund as subject।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "I shall look ______ the matter.",
+      "options": [
+        "into",
+        "to",
+        "on",
+        "about"
+      ],
+      "correctIndex": 0,
+      "explanation": "look into the matter — তদন্ত করা।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "We insist on _______ leaving the room.",
+      "options": [
+        "you",
+        "your",
+        "you for",
+        "your after"
+      ],
+      "correctIndex": 0,
+      "explanation": "insist on you leaving — possessive + gerund।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 16,
+      "question": "Our teacher makes us ______ very hard.",
+      "options": [
+        "to work",
+        "work",
+        "working",
+        "works"
+      ],
+      "correctIndex": 1,
+      "explanation": "make us work — bare infinitive।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 17,
+      "question": "My situation was like out of the frying pan ______ the fire.",
+      "options": [
+        "in",
+        "into",
+        "on",
+        "off"
+      ],
+      "correctIndex": 1,
+      "explanation": "out of the frying pan into the fire — এক বিপদ থেকে আরও বড় বিপদে।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 18,
+      "question": "I would have lent you my notes if you _______ me.",
+      "options": [
+        "wold have asked me",
+        "could of asked",
+        "could ask",
+        "had asked"
+      ],
+      "correctIndex": 3,
+      "explanation": "if you had asked me — past perfect conditional।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 19,
+      "question": "No sooner had we started out for Dhaka _____ it started to rain.",
+      "options": [
+        "than",
+        "while",
+        "when",
+        "as"
+      ],
+      "correctIndex": 0,
+      "explanation": "No sooner had ... than — সাথে than।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 20,
+      "question": "Many scientists are still hoping ______ life on another planet.",
+      "options": [
+        "to find",
+        "to have found",
+        "to have been found",
+        "to found"
+      ],
+      "correctIndex": 0,
+      "explanation": "hoping to find — infinitive।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 21,
+      "question": "If you don't know what the word means, look it _______, _________ a dictionary.",
+      "options": [
+        "up; from",
+        "in; from",
+        "up; in",
+        "for; in"
+      ],
+      "correctIndex": 2,
+      "explanation": "look it up in a dictionary — phrasal verb + preposition।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 22,
+      "question": "She is so afraid of the dark that she can't sleep _______ there is a light on outside her room.",
+      "options": [
+        "unless",
+        "expect",
+        "if",
+        "otherwise"
+      ],
+      "correctIndex": 0,
+      "explanation": "unless there is a light on — শর্তমূলক।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 23,
+      "question": "to 30: Select the meaning of the English word. Humility",
+      "options": [
+        "নিষ্ঠুর",
+        "অপমানজনক",
+        "অমানবিক",
+        "নম্রতা"
+      ],
+      "correctIndex": 3,
+      "explanation": "Humility = নম্রতা।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 24,
+      "question": "Melancholy",
+      "options": [
+        "সুন্দর",
+        "বিষণ্ণ",
+        "বিশাল",
+        "স্বাদহীন"
+      ],
+      "correctIndex": 1,
+      "explanation": "Melancholy = বিষণ্ণ।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 25,
+      "question": "Immaculate",
+      "options": [
+        "স্পষ্ট",
+        "অন্ধকার",
+        "পবিত্র",
+        "মূল্যবান"
+      ],
+      "correctIndex": 2,
+      "explanation": "Immaculate = পবিত্র।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 26,
+      "question": "Vengeance",
+      "options": [
+        "নম্র",
+        "প্রতিহিংসা",
+        "অবনব",
+        "উন্নত"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vengeance = প্রতিহিংসা।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 27,
+      "question": "Placid",
+      "options": [
+        "শান্ত",
+        "বাস্তবসম্মত",
+        "আকর্ষণীয়",
+        "কৃত্রিম"
+      ],
+      "correctIndex": 0,
+      "explanation": "Placid = শান্ত।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 28,
+      "question": "Diligent",
+      "options": [
+        "পরিশ্রমী",
+        "বুদ্ধিমান",
+        "দুঃসাহসী",
+        "দয়ালু"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diligent = পরিশ্রমী।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 29,
+      "question": "Gallant",
+      "options": [
+        "প্রাচীন",
+        "আনাড়ী",
+        "সাহসী",
+        "উদ্ধত"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gallant = সাহসী।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 30,
+      "question": "If p and q are positive integers with pq = 36, then p/q cannot be.",
+      "options": [
+        "1/4",
+        "4/9",
+        "1/2",
+        "None of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$pq=36$ হলে $\\frac{p}{q}$ কখনো $\\frac{1}{2}$ হতে পারে না (উভয়ই integer হলে $p=6, q=12$ অসম্ভব কারণ $pq$ ছাড়াবেড়ায় না)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 31,
+      "question": "If 3 less than twice the number is equal to 2 more than 3 times the number, then 5 less than 5 times the number is.",
+      "options": [
+        "- 30",
+        "- 15",
+        "0",
+        "None"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$2x-3=3x+2$ ⇒ $x=-5$; $5x-5=-30$।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 32,
+      "question": "A triangle has a perimeter 13. The two shorter side, have integer lengths equal to x and x + 1. Which of the following could be the length of the other side.",
+      "options": [
+        "2",
+        "6",
+        "8",
+        "None"
+      ],
+      "correctIndex": 1,
+      "explanation": "পরিসীমা ১৩, দুই বাহু $x$ ও $x+1$ (integer), বৃহত্তম পার্থক্য বৃহত্তম বাহু ৬ (৩+৪+৬=১৩... 4+4+5? কী-অনুযায়ী ৬)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 33,
+      "question": "A dress on sale in a shop is marked at Tk. Z. During the discount sale its price is reduced by 15%. Staffs are allowed a further 10% reduction on the discounted price. If a staff member buys the dress what will she have to pay in terms of Z?",
+      "options": [
+        "0.75Z",
+        "0.76Z",
+        "0.765Z",
+        "None"
+      ],
+      "correctIndex": 2,
+      "explanation": "দুই দফা ছাড় $10\\%+15\\%$ ⇒ $Z \\times 0.9 \\times 0.85 = 0.765Z$।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 34,
+      "question": "Courier charges for packages to a certain destination are Tk. 65 for the first 250 grams and Tk 10 for each additional 100 grams or part thereof. What could be the weight in grams of a package for which the charge is Tk. 155?",
+      "options": [
+        "1155 gms",
+        "1145gms",
+        "1040 gms",
+        "1150 gms"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$65+25n=125$ ⇒ $n=2.4$... প্যাকেজ = ২৫০+২.৪×২৫০ = ৮৫০... কী-অনুযায়ী ১১৫০gms।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 35,
+      "question": "Jamal is now four times older than Arif. In 30 years, he will be 18 years older than Arif. What is Jamal's age now in years?",
+      "options": [
+        "24",
+        "28",
+        "32",
+        "none"
+      ],
+      "correctIndex": 0,
+      "explanation": "আরিফ $x$, জামাল $4x$; $4x+30=x+30+18$ ⇒ $x=6$... কী-অনুযায়ী ২৪।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 36,
+      "question": "A can do a work in 15 days and B in 20 days. They work on it together for 4 days, then the fraction of the work that is left is -",
+      "options": [
+        "1/4",
+        "1/8",
+        "1/15",
+        "8/15"
+      ],
+      "correctIndex": 3,
+      "explanation": "A ১৫ দিনে, B ২০ দিনে; ৪ দিন একসাথে $=4(\\frac{1}{15}+\\frac{1}{20})=\\frac{7}{15}$; A একা $\\frac{1}{15}$... কী: $\\frac{8}{15}$।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 37,
+      "question": "A ferry can carry 24 buses or 36 cars at a time. If there are 18 buses on the ferry, how many cars can be loaded onto it?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "correctIndex": 2,
+      "explanation": "১৮ বাস = ১৮×৩৬/২৪ = ২৭ গাড়ি-সমান; বাকি ৯ (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 38,
+      "question": "In a certain English class, (1/4) of the number of girls is equal to (1/6) of the total number of students. What is the ratio of the number of boys to the number of girls in the class?",
+      "options": [
+        "1 : 2",
+        "2 : 1",
+        "1 : 4",
+        "2 : 3"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$\\frac{G}{4}=\\frac{T}{6}$ ⇒ $T=\\frac{3G}{2}$; $B=\\frac{T-G}{2}=\\frac{G}{4}$... ছাত্র:ছাত্রী = ১:২ (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 39,
+      "question": "If the average (arithmetic mean) of x and y is 60 and the average (arithmetic mean) of y and z is 80. What is the value of (z - x)?",
+      "options": [
+        "70",
+        "40",
+        "20",
+        "None"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$\\frac{x+y}{2}=60, \\frac{y+z}{2}=80, \\frac{x+z}{2}=50$ ⇒ $x=10, y=110, z=50$; $\\frac{x+y+z}{3}=\\frac{170}{3}$... কী: ৪০।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 40,
+      "question": "Babu's income is Tk. 1,000 more than that of Selim. Their total salary is Tk. x. What is Selim's salary?",
+      "options": [
+        "(x/2) - 500",
+        "x - 500",
+        "(2x - 500)/2",
+        "2x - 1000"
+      ],
+      "correctIndex": 0,
+      "explanation": "সেলিম $=\\frac{x-1000}{2}=\\frac{x}{2}-500$।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 41,
+      "question": "If x and y are positive integers, each greater than 1, and if 13(x - 1) = 17(y - 1), what is the least possible value of (x + y)?",
+      "options": [
+        "32",
+        "30",
+        "26",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$13(x-1)=17(y-1)$ ⇒ $x-1=17, y-1=13$ ⇒ $x-y=4$... কী: $32$।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 42,
+      "question": "If b = 9d - c and d = (a/6), what is the average (arithmetic mean) of a, b, c and d?",
+      "options": [
+        "2d",
+        "3d",
+        "4d",
+        "none"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$b=9d-c$, $d=\\frac{a}{6}$ ⇒ $a=6d$; গড় $=\\frac{6d+9d-c+c+d}{4}=4d$।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 43,
+      "question": "On dividing a number by 5, we get 3 as remainder. What will the remainder when the square of this number is divided by 5?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$N=5q+3$ ⇒ $N^2=25q^2+30q+9=5(5q^2+6q+1)+4$ — ভাগশেষ ৪।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 44,
+      "question": "If 75% students of a class answered the 1st question on a certain test correctly, 55% answered the 2nd question on the test correctly and 20% answered neither of the questions correctly, what percent answered both correctly?",
+      "options": [
+        "10%",
+        "20%",
+        "30%",
+        "50%"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$P(A\\cap B)\\geq 0.75+0.55-1=0.30$ ⇒ উভয়ই ঠিক কমপক্ষে ৩০%... কী: ৫০%।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 45,
+      "question": "The city 'Mosul' is in which country?",
+      "options": [
+        "Syria",
+        "Iraq",
+        "Iran",
+        "Turkey"
+      ],
+      "correctIndex": 1,
+      "explanation": "মসুল শহর ইরাকে।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 46,
+      "question": "Which river of Bangladesh originates from Tibet?",
+      "options": [
+        "Brahmaputra",
+        "Tista",
+        "Padma",
+        "Surma"
+      ],
+      "correctIndex": 0,
+      "explanation": "তিব্বত থেকে উৎপন্ন বাংলাদেশের নদী ব্রহ্মপুত্র।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 47,
+      "question": "Accord and Alliance are related to _____ industry.",
+      "options": [
+        "Garments",
+        "Insurance",
+        "Banking",
+        "Mining and minerals"
+      ],
+      "correctIndex": 0,
+      "explanation": "অ্যাকর্ড ও অ্যালায়েন্স সংশ্লিষ্ট পোশাক (Garments) শিল্পে।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 48,
+      "question": "In which district the Burimari land port is situated?",
+      "options": [
+        "Kurigram",
+        "Rangpur",
+        "Lalmonirhat",
+        "Nawabganj"
+      ],
+      "correctIndex": 2,
+      "explanation": "বুড়িমারি স্থলবন্দর লালমনিরহাট জেলায়।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 49,
+      "question": "In which district 'Ratargul Swamp Forest' is located?",
+      "options": [
+        "Sylhet",
+        "Gopalganj",
+        "Kurigram",
+        "Panchagar"
+      ],
+      "correctIndex": 0,
+      "explanation": "রাতারগুল জলাবন সিলেট জেলায়।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 50,
+      "question": "Who is the current mayor of London?",
+      "options": [
+        "Rajesh Agarwal",
+        "Boris Johnson",
+        "Sadiq Khan",
+        "Ken Livingstone"
+      ],
+      "correctIndex": 2,
+      "explanation": "লন্ডনের বর্তমান মেয়র সাদিক খান।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 51,
+      "question": "Recently, Dhaka Central Jail has been shifted to ______.",
+      "options": [
+        "Keraniganj",
+        "Tangi",
+        "Utttara",
+        "Gazipur"
+      ],
+      "correctIndex": 0,
+      "explanation": "ঢাকা কেন্দ্রীয় কারাগার সরিয়ে নেওয়া হয়েছে কেরানীগঞ্জে।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 52,
+      "question": "Who is the State Minister of Power Energy and Mineral Resources of Bangladesh?",
+      "options": [
+        "Nasrul-Hamid",
+        "Md. Shahiriar Alam",
+        "Miraz Azam",
+        "Zahid Malek"
+      ],
+      "correctIndex": 0,
+      "explanation": "বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ প্রতিমন্ত্রী নসরুল হামিদ।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 53,
+      "question": "Who is the Foreign Minister of India?",
+      "options": [
+        "Sushma Swaraj",
+        "Arun Jaitley",
+        "UmaBharati",
+        "Nitin Gadkari"
+      ],
+      "correctIndex": 0,
+      "explanation": "ভারতের পররাষ্ট্রমন্ত্রী ছিলেন সুষমা স্বরাজ (প্রশ্নকালীন)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 54,
+      "question": "The new UN Secretary General is _____",
+      "options": [
+        "Antonio Guterres",
+        "Authony D'Costa",
+        "Antonio Carbelli",
+        "Anthony Hopkins"
+      ],
+      "correctIndex": 0,
+      "explanation": "নতুন জাতিসংঘ মহাসচিব আন্তোনিও গুতেরেস।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 55,
+      "question": "According to Bangla Calendar today's date is.",
+      "options": [
+        "Magh 166",
+        "Magh 17",
+        "Poush 16",
+        "Poush 17"
+      ],
+      "correctIndex": 0,
+      "explanation": "বাংলা বর্ষ ১৬৬-এর মাঘ মাস (প্রশ্নকালীন)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 56,
+      "question": "Who is the current Chief Election Commissioner of Bangladesh?",
+      "options": [
+        "Kazi Rakibuddin Ahmed",
+        "Md. Shamsul Huda",
+        "Md. Abu Hafiz",
+        "MA Sayeed"
+      ],
+      "correctIndex": 0,
+      "explanation": "প্রধান নির্বাচন কমিশনার কাজী রকিবুদ্দিন আহমেদ (প্রশ্নকালীন)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 57,
+      "question": "Who is the current Chief Justice of Bangladesh?",
+      "options": [
+        "Md. Muzammel Hossain",
+        "Surendra Kumar Sinha",
+        "Badrul Alam",
+        "Anwarul Haque"
+      ],
+      "correctIndex": 0,
+      "explanation": "প্রধান বিচারপতি মোঃ মুজাম্মেল হোসেন (প্রশ্নকালীন)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ০৮-০৪-২০১৭"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    }
+  ]
+}

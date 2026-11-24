@@ -1,0 +1,409 @@
+{
+  "categoryKey": "primary-assistant-teacher",
+  "categoryName": "প্রাথমিক সহকারী শিক্ষক",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/primary-assistant-teacher",
+  "totalExams": 57,
+  "totalQuestions": 3437,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "preprimary-assistant_2013_danube_08-11-2013",
+      "examTitle": "প্রাক-প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা  ২০১৩[পদ্মা] - ১৪.০৪.২০১৩",
+      "questionCount": 80,
+      "file": "preprimary-assistant_2013_danube_08-11-2013.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/preprimary-assistant_2013_danube_08-11-2013"
+    },
+    {
+      "examSlug": "preprimary-assistant_2013_kartoa_10-04-2013",
+      "examTitle": "প্রাক-প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা [ডেলটা]- ১৮.০৪.২০১৪",
+      "questionCount": 78,
+      "file": "preprimary-assistant_2013_kartoa_10-04-2013.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/preprimary-assistant_2013_kartoa_10-04-2013"
+    },
+    {
+      "examSlug": "preprimary-assistant_2013_mississippi_08-11-2013",
+      "examTitle": "প্রাক-প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা ২০১৩ (মিসিসিপি) - ০৮.১১.২০১৩",
+      "questionCount": 79,
+      "file": "preprimary-assistant_2013_mississippi_08-11-2013.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/preprimary-assistant_2013_mississippi_08-11-2013"
+    },
+    {
+      "examSlug": "preprimary-assistant_2014_beta_18-04-2014",
+      "examTitle": "প্রাক-প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা [বিটা] - ১৮.০৪.২০১৪",
+      "questionCount": 78,
+      "file": "preprimary-assistant_2014_beta_18-04-2014.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/preprimary-assistant_2014_beta_18-04-2014"
+    },
+    {
+      "examSlug": "preprimary-assistant_2015_exam_16-10-2015",
+      "examTitle": "প্রাক-প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা- ১৬.১০.২০১৫",
+      "questionCount": 80,
+      "file": "preprimary-assistant_2015_exam_16-10-2015.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/preprimary-assistant_2015_exam_16-10-2015"
+    },
+    {
+      "examSlug": "primary-assistant_1989_all-divisions",
+      "examTitle": "দপ্তর প্রাথমিক শিক্ষা (সহকারী শিক্ষক নিয়োগ)-1989",
+      "questionCount": 77,
+      "file": "primary-assistant_1989_all-divisions.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_1989_all-divisions"
+    },
+    {
+      "examSlug": "primary-assistant_1990_all-divisions",
+      "examTitle": "দপ্তর প্রাথমিক শিক্ষা (সহকারী শিক্ষক নিয়োগ)-1990",
+      "questionCount": 80,
+      "file": "primary-assistant_1990_all-divisions.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_1990_all-divisions"
+    },
+    {
+      "examSlug": "primary-assistant_1992_all-divisions",
+      "examTitle": "দপ্তর প্রাথমিক শিক্ষা (সহকারী শিক্ষক নিয়োগ)-1992",
+      "questionCount": 100,
+      "file": "primary-assistant_1992_all-divisions.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_1992_all-divisions"
+    },
+    {
+      "examSlug": "primary-assistant_1993_all-divisions",
+      "examTitle": "দপ্তর প্রাথমিক শিক্ষা (সহকারী শিক্ষক নিয়োগ)-1993",
+      "questionCount": 99,
+      "file": "primary-assistant_1993_all-divisions.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_1993_all-divisions"
+    },
+    {
+      "examSlug": "primary-assistant_1994_all-divisions",
+      "examTitle": "দপ্তর প্রাথমিক শিক্ষা (সহকারী শিক্ষক নিয়োগ)-1994",
+      "questionCount": 99,
+      "file": "primary-assistant_1994_all-divisions.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_1994_all-divisions"
+    },
+    {
+      "examSlug": "primary-assistant_1995_all-divisions",
+      "examTitle": "দপ্তর প্রাথমিক শিক্ষা (সহকারী শিক্ষক নিয়োগ)-1995",
+      "questionCount": 70,
+      "file": "primary-assistant_1995_all-divisions.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_1995_all-divisions"
+    },
+    {
+      "examSlug": "primary-assistant_1997_all-divisions",
+      "examTitle": "দপ্তর প্রাথমিক শিক্ষা (সহকারী শিক্ষক নিয়োগ)-1997",
+      "questionCount": 48,
+      "file": "primary-assistant_1997_all-divisions.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_1997_all-divisions"
+    },
+    {
+      "examSlug": "primary-assistant_1998_all-divisions",
+      "examTitle": "দপ্তর প্রাথমিক শিক্ষা (সহকারী শিক্ষক নিয়োগ)-1998",
+      "questionCount": 40,
+      "file": "primary-assistant_1998_all-divisions.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_1998_all-divisions"
+    },
+    {
+      "examSlug": "primary-assistant_1999_all-divisions",
+      "examTitle": "primary-assistant_1999_all-divisions",
+      "questionCount": 40,
+      "file": "primary-assistant_1999_all-divisions.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_1999_all-divisions"
+    },
+    {
+      "examSlug": "primary-assistant_2000_all-divisions",
+      "examTitle": "দপ্তর প্রাথমিক শিক্ষা (সহকারী শিক্ষক নিয়োগ)-2000",
+      "questionCount": 40,
+      "file": "primary-assistant_2000_all-divisions.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2000_all-divisions"
+    },
+    {
+      "examSlug": "primary-assistant_2001_all-divisions",
+      "examTitle": "দপ্তর প্রাথমিক শিক্ষা (সহকারী শিক্ষক নিয়োগ)-2001",
+      "questionCount": 40,
+      "file": "primary-assistant_2001_all-divisions.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2001_all-divisions"
+    },
+    {
+      "examSlug": "primary-assistant_2001_ida-adb",
+      "examTitle": "primary-assistant_2001_ida-adb",
+      "questionCount": 38,
+      "file": "primary-assistant_2001_ida-adb.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2001_ida-adb"
+    },
+    {
+      "examSlug": "primary-assistant_2002_all-divisions",
+      "examTitle": "দপ্তর প্রাথমিক শিক্ষা (সহকারী শিক্ষক নিয়োগ)-2002",
+      "questionCount": 40,
+      "file": "primary-assistant_2002_all-divisions.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2002_all-divisions"
+    },
+    {
+      "examSlug": "primary-assistant_2002_chattogram",
+      "examTitle": "primary-assistant_2002_chattogram",
+      "questionCount": 34,
+      "file": "primary-assistant_2002_chattogram.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2002_chattogram"
+    },
+    {
+      "examSlug": "primary-assistant_2002_dhaka",
+      "examTitle": "primary-assistant_2002_dhaka",
+      "questionCount": 35,
+      "file": "primary-assistant_2002_dhaka.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2002_dhaka"
+    },
+    {
+      "examSlug": "primary-assistant_2003_barishal",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা 2003 (বরিশাল বিভাগ)",
+      "questionCount": 35,
+      "file": "primary-assistant_2003_barishal.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2003_barishal"
+    },
+    {
+      "examSlug": "primary-assistant_2003_chattogram",
+      "examTitle": "primary-assistant_2003_chattogram",
+      "questionCount": 34,
+      "file": "primary-assistant_2003_chattogram.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2003_chattogram"
+    },
+    {
+      "examSlug": "primary-assistant_2003_dhaka",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা 2003 (ঢাকা বিভাগ)",
+      "questionCount": 35,
+      "file": "primary-assistant_2003_dhaka.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2003_dhaka"
+    },
+    {
+      "examSlug": "primary-assistant_2003_khulna",
+      "examTitle": "primary-assistant_2003_khulna",
+      "questionCount": 35,
+      "file": "primary-assistant_2003_khulna.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2003_khulna"
+    },
+    {
+      "examSlug": "primary-assistant_2003_rajshahi",
+      "examTitle": "primary-assistant_2003_rajshahi",
+      "questionCount": 35,
+      "file": "primary-assistant_2003_rajshahi.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2003_rajshahi"
+    },
+    {
+      "examSlug": "primary-assistant_2003_sylhet",
+      "examTitle": "primary-assistant_2003_sylhet",
+      "questionCount": 35,
+      "file": "primary-assistant_2003_sylhet.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2003_sylhet"
+    },
+    {
+      "examSlug": "primary-assistant_2005_barishal",
+      "examTitle": "primary-assistant_2005_barishal",
+      "questionCount": 33,
+      "file": "primary-assistant_2005_barishal.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2005_barishal"
+    },
+    {
+      "examSlug": "primary-assistant_2005_chattogram",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা 2005 (চট্রগ্রাম বিভাগ)",
+      "questionCount": 34,
+      "file": "primary-assistant_2005_chattogram.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2005_chattogram"
+    },
+    {
+      "examSlug": "primary-assistant_2005_dhaka",
+      "examTitle": "primary-assistant_2005_dhaka",
+      "questionCount": 40,
+      "file": "primary-assistant_2005_dhaka.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2005_dhaka"
+    },
+    {
+      "examSlug": "primary-assistant_2005_khulna",
+      "examTitle": "primary-assistant_2005_khulna",
+      "questionCount": 34,
+      "file": "primary-assistant_2005_khulna.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2005_khulna"
+    },
+    {
+      "examSlug": "primary-assistant_2005_sylhet",
+      "examTitle": "primary-assistant_2005_sylhet",
+      "questionCount": 35,
+      "file": "primary-assistant_2005_sylhet.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2005_sylhet"
+    },
+    {
+      "examSlug": "primary-assistant_2006_chattogram",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা 2006 (চট্রগ্রাম বিভাগ)",
+      "questionCount": 34,
+      "file": "primary-assistant_2006_chattogram.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2006_chattogram"
+    },
+    {
+      "examSlug": "primary-assistant_2006_dhaka",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা 2006 (ঢাকা বিভাগ)",
+      "questionCount": 35,
+      "file": "primary-assistant_2006_dhaka.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2006_dhaka"
+    },
+    {
+      "examSlug": "primary-assistant_2006_sylhet",
+      "examTitle": "primary-assistant_2006_sylhet",
+      "questionCount": 35,
+      "file": "primary-assistant_2006_sylhet.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2006_sylhet"
+    },
+    {
+      "examSlug": "primary-assistant_2007_barishal",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা 2007 (বরিশাল বিভাগ)",
+      "questionCount": 40,
+      "file": "primary-assistant_2007_barishal.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2007_barishal"
+    },
+    {
+      "examSlug": "primary-assistant_2007_chattogram",
+      "examTitle": "primary-assistant_2007_chattogram",
+      "questionCount": 40,
+      "file": "primary-assistant_2007_chattogram.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2007_chattogram"
+    },
+    {
+      "examSlug": "primary-assistant_2007_khulna",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা 2007 (খুলনা বিভাগ)",
+      "questionCount": 40,
+      "file": "primary-assistant_2007_khulna.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2007_khulna"
+    },
+    {
+      "examSlug": "primary-assistant_2010_bosonto",
+      "examTitle": "primary-assistant_2010_bosonto",
+      "questionCount": 79,
+      "file": "primary-assistant_2010_bosonto.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2010_bosonto"
+    },
+    {
+      "examSlug": "primary-assistant_2010_teesta_08-01-2010",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা ২০১০(তিস্তা)- ০৮.০১.২০১০",
+      "questionCount": 77,
+      "file": "primary-assistant_2010_teesta_08-01-2010.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2010_teesta_08-01-2010"
+    },
+    {
+      "examSlug": "primary-assistant_2011_gulap",
+      "examTitle": "primary-assistant_2011_gulap",
+      "questionCount": 79,
+      "file": "primary-assistant_2011_gulap.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2011_gulap"
+    },
+    {
+      "examSlug": "primary-assistant_2012_jamuna_24-02-2012",
+      "examTitle": "প্রাথমিক বিদ্যালয় সহকারী শিক্ষক নিয়োগ পরীক্ষা [মেঘনা]- ২৪.০২.২০১২",
+      "questionCount": 76,
+      "file": "primary-assistant_2012_jamuna_24-02-2012.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2012_jamuna_24-02-2012"
+    },
+    {
+      "examSlug": "primary-assistant_2012_padma_24-02-2012",
+      "examTitle": "প্রাথমিক বিদ্যালয় সহকারী শিক্ষক নিয়োগ পরীক্ষা [পদ্মা] - ২৪.০২.২০১২",
+      "questionCount": 79,
+      "file": "primary-assistant_2012_padma_24-02-2012.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2012_padma_24-02-2012"
+    },
+    {
+      "examSlug": "primary-assistant_2013_surma",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা 2013 (সুরমা)",
+      "questionCount": 80,
+      "file": "primary-assistant_2013_surma.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2013_surma"
+    },
+    {
+      "examSlug": "primary-assistant_2014_14-jela_01-06-2018",
+      "examTitle": "প্রাথমিক বিদ্যালয়ে সহকারী শিক্ষক নিয়োগ পরীক্ষা- ২০১৪[১৪ জেলা] ০১.০৬.২০১৮",
+      "questionCount": 78,
+      "file": "primary-assistant_2014_14-jela_01-06-2018.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2014_14-jela_01-06-2018"
+    },
+    {
+      "examSlug": "primary-assistant_2014_15-jela_26-05-2018",
+      "examTitle": "primary-assistant_2014_15-jela_26-05-2018",
+      "questionCount": 78,
+      "file": "primary-assistant_2014_15-jela_26-05-2018.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2014_15-jela_26-05-2018"
+    },
+    {
+      "examSlug": "primary-assistant_2014_20-jela_11-05-2018",
+      "examTitle": "প্রাথমিক বিদ্যালয়ে সহকারী শিক্ষক নিয়োগ পরীক্ষা- ২০১৪ (২০ জেলা) ১১.০৫.২০১৮",
+      "questionCount": 76,
+      "file": "primary-assistant_2014_20-jela_11-05-2018.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2014_20-jela_11-05-2018"
+    },
+    {
+      "examSlug": "primary-assistant_2018_1st-phase_24-05-2019",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ- ২০১৮ [৩য় পর্যায় - ২] ২১.০৬.২০১৯",
+      "questionCount": 75,
+      "file": "primary-assistant_2018_1st-phase_24-05-2019.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2018_1st-phase_24-05-2019"
+    },
+    {
+      "examSlug": "primary-assistant_2018_2nd-phase_31-05-2019",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা -২০২০ [৩য় পর্যায়] ০৩.০৬.২০২২",
+      "questionCount": 78,
+      "file": "primary-assistant_2018_2nd-phase_31-05-2019.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2018_2nd-phase_31-05-2019"
+    },
+    {
+      "examSlug": "primary-assistant_2018_3rd-phase-1_21-06-2019",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ- ২০১৮ [৩য় পর্যায় - ১] ২১.০৬.২০১৯",
+      "questionCount": 78,
+      "file": "primary-assistant_2018_3rd-phase-1_21-06-2019.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2018_3rd-phase-1_21-06-2019"
+    },
+    {
+      "examSlug": "primary-assistant_2018_3rd-phase-3_21-06-2019",
+      "examTitle": "primary-assistant_2018_3rd-phase-3_21-06-2019",
+      "questionCount": 78,
+      "file": "primary-assistant_2018_3rd-phase-3_21-06-2019.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2018_3rd-phase-3_21-06-2019"
+    },
+    {
+      "examSlug": "primary-assistant_2018_exam_28-06-2019",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ- ২০১৮ [৪র্থ পর্যায়] ২৮.০৬.২০১৯",
+      "questionCount": 79,
+      "file": "primary-assistant_2018_exam_28-06-2019.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2018_exam_28-06-2019"
+    },
+    {
+      "examSlug": "primary-assistant_2018_sthogito_12-jela_24-04-2018",
+      "examTitle": "প্রাথমিক বিদ্যালয় সহকারী শিক্ষক নিয়োগ পরীক্ষা ২০১৮ [৮১৬১, স্থগিত ২০১৪] [১২ জেলা] - ২৪.০৪.২০১৮",
+      "questionCount": 77,
+      "file": "primary-assistant_2018_sthogito_12-jela_24-04-2018.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2018_sthogito_12-jela_24-04-2018"
+    },
+    {
+      "examSlug": "primary-assistant_2023_1st-phase_08-12-2023",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা (১ম ধাপ) - ০৮.১২.২০২৩",
+      "questionCount": 72,
+      "file": "primary-assistant_2023_1st-phase_08-12-2023.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2023_1st-phase_08-12-2023"
+    },
+    {
+      "examSlug": "primary-assistant_2024_2nd-phase_02-02-2024",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা (২য় ধাপ) -০২.০২.২০২৪",
+      "questionCount": 74,
+      "file": "primary-assistant_2024_2nd-phase_02-02-2024.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2024_2nd-phase_02-02-2024"
+    },
+    {
+      "examSlug": "primary-assistant_2024_3rd-phase_29-03-2024",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা (৩য় ধাপ) -২৯.০৩.২০২৪",
+      "questionCount": 73,
+      "file": "primary-assistant_2024_3rd-phase_29-03-2024.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2024_3rd-phase_29-03-2024"
+    },
+    {
+      "examSlug": "primary-assistant_2026_exam_09-01-2026",
+      "examTitle": "প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা - ০৯.০১.২০২৬",
+      "questionCount": 88,
+      "file": "primary-assistant_2026_exam_09-01-2026.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/primary-assistant_2026_exam_09-01-2026"
+    },
+    {
+      "examSlug": "regnongov-primary-assistant_2011_togor_09-12-2011",
+      "examTitle": "রেজিস্টার্ড বেসরকারী প্রাথমিক সহকারী শিক্ষক নিয়োগ পরীক্ষা ২০১১ [টগর]-  ০৯.১২.২০১১",
+      "questionCount": 79,
+      "file": "regnongov-primary-assistant_2011_togor_09-12-2011.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-assistant-teacher/regnongov-primary-assistant_2011_togor_09-12-2011"
+    }
+  ]
+}

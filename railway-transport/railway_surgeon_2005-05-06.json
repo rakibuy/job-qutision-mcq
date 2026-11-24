@@ -1,0 +1,1418 @@
+{
+  "examSlug": "railway_surgeon_2005-05-06",
+  "examTitle": "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫",
+  "categoryKey": "railway-transport",
+  "categoryName": "রেলওয়ে ও পরিবহন",
+  "url": "https://dreamsintodeeds.me/questions/railway-transport/railway_surgeon_2005-05-06",
+  "questionCount": 88,
+  "questions": [
+    {
+      "id": 1,
+      "question": "চালের দাম ২৫% বৃদ্ধি পাওয়ায় এক ব্যক্তি চালের ব্যবহার এমনভাবে কমালেন যে চাল বাবদ তার খরচ বৃদ্ধি পেল না। তিনি চালের ব্যবহার শতকরা কত ভাগ কমালেন?",
+      "options": [
+        "১২(১/২)%",
+        "২৫%",
+        "১৬(২/৩)%",
+        "২০%"
+      ],
+      "correctIndex": 3,
+      "explanation": "২৫% বৃদ্ধিতে চালের ক্রয়মূল্য = { ১০০ + ১০০ এর (২৫/১০০)} টাকা = ১২৫ টাকা ক্রয়মূল্য ১২৫ টাকা হলে কমাতে হবে = ২৫ টাকা \" ১ \" \" \" \" = ২৫/১০০ \" \" ১০০ \" \" \" \" = {(২৫$\\times$১০০)/১২৫} = ২০ টাকা ∴ শতকরা ২০% কমালেন ।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 2,
+      "question": "একটি দ্রব্য বিক্রি করে বিক্রেতার ১০% ক্ষতি হলো, বিক্রয়মূল্য ১৩৫ টাকা বেশি হলে বিক্রেতার ২০% লাভ হতো। দ্রব্যটির ক্রয়মূল্য কত?",
+      "options": [
+        "৪৮০ টাকা",
+        "৪৬০ টাকা",
+        "৪৫০ টাকা",
+        "৪২০ টাকা"
+      ],
+      "correctIndex": 2,
+      "explanation": "মনে করি, ক্রয়মূল্য = ১০০ টাকা। ১০% ক্ষতিতে, বিক্রয়মূল্য = (১০০ - ১০) টাকা = ৯০ টাকা। এবং ২০% লাভে, বিক্রয়মূল্য = (১০০ + ২০) টাকা = ১২০ টাকা। ∴ বিক্রয়মূল্য বেশি = (১২০ - ৯০) = ৩০ টাকা। বিক্রয়মূল্য ৩০ টাকা বেশি হলে ক্রয়মূল্য ১০০ টাকা বিক্রয়মূল্য ১ টাকা বেশি হলে ক্রয়মূল্য ১০০/৩০ টাকা বিক্রয়মূল্য ১৩৫ টাকা বেশি হলে ক্রয়মূল্য (১০০$\\times$১৩৫)/৩০ টাকা = ৪৫০ টাকা।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 3,
+      "question": "যে বৃত্তাকার ক্ষেত্রের ব্যাস ২৮ মিটার, আসন্ন বর্গমিটারে তার ক্ষেত্রফল-",
+      "options": [
+        "৩৩০ বর্গমিটার",
+        "৩৩৬ বর্গমিটার",
+        "৩৩২ বর্গমিটার",
+        "৬১৬ বর্গমিটার"
+      ],
+      "correctIndex": 3,
+      "explanation": "ব্যাস = ২৮ মিঃ ব্যাসার্ধ = ২৮/২ = ১৪ মিঃ বৃত্তের ক্ষেত্রফল = π x (ব্যাসার্ধ) 2 = (২২/৭) x (১৪) ২ = ৬১৬ বর্গ মিঃ",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 4,
+      "question": "৪৮ মিটার দীর্ঘ একটি আয়তক্ষেত্রের প্রস্থ দৈর্ঘ্যের এক-তৃতীয়াংশ। ঐ আয়তের সমান পরিসীমাবিশিষ্ট বর্গের একটি বাহুর দৈর্ঘ্য __",
+      "options": [
+        "১৬ মিটার",
+        "৩২ মিটার",
+        "২৪ মিটার",
+        "২৮ মিটার"
+      ],
+      "correctIndex": 1,
+      "explanation": "দেওয়া আছে, দৈর্ঘ্য=৪৮ ∴ প্রস্থ =৪৮/৩=১৬ আয়তক্ষেত্রের পরিসীমা = ২(৪৮+১৬) = ১২৮ বর্গের পরিসীমা = ১২৮ সুতরাং, বর্গের একটি বাহুর দৈর্ঘ্য = ১২৮/৪ = ৩২ মিটার",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 5,
+      "question": "x 2 - 3x + 2 কে x + 1 দ্বারা ভাগ করলে ভাগশেষ কি হবে?",
+      "options": [
+        "0",
+        "2",
+        "6",
+        "4"
+      ],
+      "correctIndex": 2,
+      "explanation": "x + 1 = 0 হলে,$x = -1 f(x) = x 2 - 3x + 2 f(-1) = (-1) 2 - 3(-1) + 2 = 1 + 3 + 2 = 4 + 2 = 6$",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 6,
+      "question": "'ক' যে কাজটি ১২ দিনে করতে পারে, 'খ' সেটি ১৫ দিনে এবং 'গ' তা ২০ দিনে করতে পারে। ওরা তিন জন একত্রে কত দিনে কাজটি করতে পারে?",
+      "options": [
+        "৬ দিনে",
+        "৮ দিনে",
+        "৪ দিনে",
+        "৫ দিনে"
+      ],
+      "correctIndex": 3,
+      "explanation": "ধরি, সম্পূর্ণ কাজটির পরিমাণ ১ অংশ। 'ক' ১২ দিনে করে ১ অংশ কাজ। 'ক' ১ দিনে করে ১/১২ অংশ কাজ। 'খ' ১৫ দিনে করে ১ অংশ কাজ। 'খ' ১ দিনে করে ১/১৫ অংশ কাজ। 'গ' ২০ দিনে করে ১ অংশ কাজ। 'গ' ১ দিনে করে ১/২০ অংশ কাজ। সুতরাং, তিনজনে একত্রে ১ দিনে করে = (১/১২ + ১/১৫ + ১/২০) অংশ কাজ। = (৫ + ৪ + ৩)/৬০ অংশ কাজ। = ১২/৬০ অংশ কাজ। = ১/৫ অংশ কাজ। তিনজনে একত্রে ১/৫ অংশ কাজ করে ১ দিনে। তিনজনে একত্রে ১ অংশ কাজ করে ৫ দিনে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 7,
+      "question": "সমকোণী ত্রিভুজাকৃতির একটি মাঠের অতিভুজ ও ভূমির দৈর্ঘ্য যথাক্রমে ১৩ মিটার ও ৫ মিটার । মাঠটির ক্ষেত্রফল _",
+      "options": [
+        "৬০ বর্গমিটার",
+        "৬৫ বর্গমিটার",
+        "৪৫ বর্গমিটার",
+        "৩০ বর্গমিটার"
+      ],
+      "correctIndex": 3,
+      "explanation": "সমকোণী ত্রিভুজের ক্ষেত্রফল = (১/২) * ভূমি * উচ্চতা এখানে ভূমি, অতিভুজ হল ৫ ও ১৩ তাহলে, উচ্চতা হবে ১২ সুতরাং, ক্ষেত্রফল = (১/২) * ৫ * ১২ = ৩০ বর্গমিটার",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 8,
+      "question": "ঘণ্টায় ৪ কিমি বেগে চললে কোনো গন্তব্যে পৌঁছাতে যে সময় লাগে, ঘণ্টায় ৫ কিমি বেগে চললে তার চেয়ে ৩০ মিনিট সময় কম লাগে। গন্তব্য স্থানটির দূরত্ব কত?",
+      "options": [
+        "৮ কিমি",
+        "১২ কিমি",
+        "১৬ কিমি",
+        "১০ কিমি"
+      ],
+      "correctIndex": 3,
+      "explanation": "ধরি, গন্তব্য স্থানটির দূরত্ব x কিমি। ৪ কিমি/ঘণ্টা বেগে যেতে সময় লাগে = x/৪ ঘণ্টা। ৫ কিমি/ঘণ্টা বেগে যেতে সময় লাগে = x/৫ ঘণ্টা। প্রশ্নমতে, x/৪ - x/৫ = ৩০ মিনিট = ১/২ ঘণ্টা। বা, (৫x - ৪x)/২০ = ১/২ বা, x/২০ = ১/২ বা, ২x = ২০ বা, x = ১০ সুতরাং, গন্তব্য স্থানটির দূরত্ব ১০ কিমি।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 9,
+      "question": "[(১/২)$\\div$(১/৩)$\\times$(৩/৪)] / [(১/২)$\\div$(১/৩)এর(৩/৪)] সমান কত?",
+      "options": [
+        "১৬/৯",
+        "৩/৪",
+        "৯/১৬",
+        "১"
+      ],
+      "correctIndex": 2,
+      "explanation": "[(১/২)$\\div$(১/৩)$\\times$(৩/৪)] / [(১/২)$\\div$(১/৩)এর(৩/৪)] = [(১/২)$\\times$(৩/১)$\\times$(৩/৪)] / [(১/২)$\\div$(৩/১২)] = (৯/৮) / [(১/২)$\\times$(১২/৩)] = (৯/৮) / ২ = (৯/৮)$\\times$(১/২) = ৯/১৬",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 10,
+      "question": "১০০ থেকে ১১০ পর্যন্ত সংখ্যাগুলোর মধ্যে কয়টি মৌলিক সংখ্যা রয়েছে?",
+      "options": [
+        "চারটি",
+        "একটি",
+        "দুইটি",
+        "তিনটি"
+      ],
+      "correctIndex": 0,
+      "explanation": "১০০ থেকে ১১০ পর্যন্ত সংখ্যাগুলোর মধ্যে ৪টি মৌলিক সংখ্যা রয়েছে। সেগুলো হলো: ১০১, ১০৩, ১০৭ এবং ১০৯।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 11,
+      "question": "বিশ্বের দীর্ঘতম রেলপথের নাম কি?",
+      "options": [
+        "নর্দার্ন প্যাসিফিক রেলপথ",
+        "ট্রান্স সাইবেরিয়ান রেলপথ",
+        "ট্রান্স কাস্পিয়ান রেলপথ",
+        "ট্রান্স অস্ট্রেলিয়ান রেলপথ"
+      ],
+      "correctIndex": 1,
+      "explanation": "দীর্ঘতম রেলপথ — ট্রান্স সাইবেরিয়ান।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 12,
+      "question": "গ্লাসনস্ত নীতি কর সময়ে প্রণীত হয়?",
+      "options": [
+        "ক্রুশ্চেভ",
+        "গর্ভাচেভ",
+        "ইয়েলেৎসিন",
+        "পদগোনি"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: গর্ভাচেভ।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 13,
+      "question": "বাংলাদেশের জাতীয় পাখি কোনটি?",
+      "options": [
+        "ময়না",
+        "কাক",
+        "শালিক",
+        "দোয়েল"
+      ],
+      "correctIndex": 3,
+      "explanation": "বাংলাদেশের-- - জাতীয় গাছ : আম গাছ - জাতীয় পাখি : দোয়েল - জাতীয় ফল : কাঁঠাল - জাতীয় মাছ : ইলিশ - জাতীয় ফুল : শাপলা - জাতীয় পশু : রয়েল বেঙ্গল টাইগার - জাতীয় দিবস : ২৬শে মার্চ।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 14,
+      "question": "যমুনা সেতুর দৈর্ঘ্য কত?",
+      "options": [
+        "৫.৫ কিমি",
+        "৪.৫ কিমি",
+        "৪.৮ কিমি",
+        "৫ কিমি"
+      ],
+      "correctIndex": 2,
+      "explanation": "- যমুনা সেতু আনুষ্ঠানিকভাবে উদ্বোধন করা হয় ২৩ জুন ১৯৯৮ সালে। - যমুনা সেতুর দৈর্ঘ্য ৪.৮ কিলোমিটার , প্রস্থ ১৮.৫ মিটার। - যমুনা সেতুর লেনের সংখ্যা ৪টি, পাইলিং এর সংখ্যা ১২১টি, পিলার ৫০টি, স্প্যান ৪৯টি।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 15,
+      "question": "Commonest cause of Acute watery diarrhea in infants__",
+      "options": [
+        "Vibrocholerae",
+        "Rotavirus",
+        "Shigella sone",
+        "Salmonlla Typhe"
+      ],
+      "correctIndex": 1,
+      "explanation": "শূন্যস্থানে \"Rotavirus\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 16,
+      "question": "Commonest cause of jaundice in first 24 hours of life_",
+      "options": [
+        "ABO incompatibility",
+        "RH incompatibility",
+        "Congenital sperocytosis",
+        "Congenital biliary atresia"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: RH incompatibility।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 17,
+      "question": "A babyis called preterm when born before__",
+      "options": [
+        "40 Weeks of pregnancy",
+        "37 Weeks of pregnancy",
+        "32 Weeks of pregnancy",
+        "28 Weeks of pregnancy"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"40 Weeks of pregnancy\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 18,
+      "question": "Commonest cause of bleeding per rectum in children _",
+      "options": [
+        "Bacillary dysentery",
+        "Rectal Polyp",
+        "Ulcerative colitis",
+        "Amoebic dysentery"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: Rectal Polyp।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 19,
+      "question": "Placental insufficiency is caused by all except _",
+      "options": [
+        "Smoking in pregnancy",
+        "Dieting in pregnancy",
+        "Post maturity",
+        "Multiple pregnancy"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: Dieting in pregnancy।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 20,
+      "question": "Complications of whooping cough include all except _",
+      "options": [
+        "Atelectasis",
+        "Bronchiectasis",
+        "Lung abscess",
+        "Bronchopneumonia"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: Bronchiectasis।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 21,
+      "question": "the organisms causing food poisoning are all except _",
+      "options": [
+        "Staphyllococcus aureus",
+        "Streptococcus pyogenes",
+        "Salmonella typhimurium",
+        "Clostridium botulinum"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: Streptococcus pyogenes।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 22,
+      "question": "Cellulose which is the indigestible component of __",
+      "options": [
+        "protein",
+        "carbohydrate",
+        "fat",
+        "Viamins"
+      ],
+      "correctIndex": 1,
+      "explanation": "শূন্যস্থানে \"carbohydrate\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 23,
+      "question": "A normal healthy woman;s wight gain during pregnancy is about_",
+      "options": [
+        "8kg",
+        "10 kg",
+        "12 kg",
+        "Try your self"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: Try your self।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 24,
+      "question": "In male , obesity may be expressed if BMI is more than __",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"30\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 25,
+      "question": "low birth weight has been defined as a birth weight of less than --",
+      "options": [
+        "1.5 kg",
+        "2.0 kg",
+        "2.5 kg",
+        "2.8 kg"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: 1.5 kg।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 26,
+      "question": "Cell mediated immunity is caused by _",
+      "options": [
+        "Macrophage",
+        "Plasma cell",
+        "B-lymphocyte",
+        "T- lymphocyte"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: T- lymphocyte।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 27,
+      "question": "The following vaccines are the live attenuated except __",
+      "options": [
+        "BCG",
+        "Cholera",
+        "Measles",
+        "OPV"
+      ],
+      "correctIndex": 1,
+      "explanation": "শূন্যস্থানে \"Cholera\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 28,
+      "question": "The poly cystic overy syndrome is associated wit __",
+      "options": [
+        "Oligomenorrhoea",
+        "Weight loss",
+        "Hypertension",
+        "Diabetes mellitus"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"Oligomenorrhoea\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 29,
+      "question": "Barrier Method of contraceptive is _",
+      "options": [
+        "CUT",
+        "Condom",
+        "NOrplant",
+        "Coitus interrupts"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: Condom।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 30,
+      "question": "Peripheral nephropathy is associated with _",
+      "options": [
+        "Vitamin A deficiency",
+        "Chloramphenical therapy",
+        "Myasthenia gravis",
+        "Diabetes mellitus"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: Diabetes mellitus।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 31,
+      "question": "Iron deficiency 'anemia may be associated with",
+      "options": [
+        "Painful glossitis",
+        "Clubbing",
+        "Melanosis",
+        "Koilonychia"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: Koilonychia।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 32,
+      "question": "Modifiable risk factor of CHD is __",
+      "options": [
+        "Age",
+        "Sex",
+        "Diabets",
+        "Genetic factors"
+      ],
+      "correctIndex": 2,
+      "explanation": "শূন্যস্থানে \"Diabets\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 33,
+      "question": "Very short incubation period in the infectious disease of __",
+      "options": [
+        "Influenza",
+        "Hepatitis-A",
+        "Rabies",
+        "Leprosy"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"Influenza\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 34,
+      "question": "Most common species of malarial parasite found in Bangladesh is __",
+      "options": [
+        "Plasmodium Falciparum",
+        "Plasmodium Malariae",
+        "Plasmodium Ovale",
+        "Plasmodium Vivax"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"Plasmodium Vivax\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 35,
+      "question": "Ulceration of the small intestinal mucosa is not characteristic of the disease of _",
+      "options": [
+        "Amoebic dysentery",
+        "Typhoid fever",
+        "Regional ileitis",
+        "Tuberculosis enteritis"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: Tuberculosis enteritis।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 36,
+      "question": "Pleura calcification is found in __",
+      "options": [
+        "Histoplasmosis",
+        "Scleroderma",
+        "Rheumatoid Arthritis",
+        "Organized haemothorax"
+      ],
+      "correctIndex": 2,
+      "explanation": "শূন্যস্থানে \"Rheumatoid Arthritis\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 37,
+      "question": "Fulminate hepatic failure may occur in __",
+      "options": [
+        "Acute viral hepatitis",
+        "scholastic jaundice of pregnancy",
+        "Paracetamol poisoning",
+        "Congestive cardiac failure"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"Acute viral hepatitis\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 38,
+      "question": "World AIDS day is --",
+      "options": [
+        "7th April",
+        "1st August",
+        "24th October",
+        "1st December"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: 1st December।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 39,
+      "question": "Side effects of long -term therapy of phenacetin are all except__",
+      "options": [
+        "Alopecia",
+        "Gum hypertrophy",
+        "Hirsutism",
+        "Neuropathy"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"Alopecia\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 40,
+      "question": "Cardiac output is not affected by __",
+      "options": [
+        "exercise",
+        "anxiety",
+        "pregnancy",
+        "sleep"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"sleep\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 41,
+      "question": "The normal portal venous pressure is __",
+      "options": [
+        "3-5 mm Hg",
+        "5-7 mm Hg",
+        "7-10 mm Hg",
+        "10-15 mm Hg"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"10-15 mm Hg\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 42,
+      "question": "The process of destroying all live organisms including spores is __",
+      "options": [
+        "disinfection",
+        "sterilization",
+        "antiseptic",
+        "deodorant"
+      ],
+      "correctIndex": 1,
+      "explanation": "শূন্যস্থানে \"sterilization\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 43,
+      "question": "UNESCO-এর সদর দপ্তর কোথায়?",
+      "options": [
+        "প্যারিস",
+        "রোম",
+        "জেনেভা",
+        "মন্ট্রিল"
+      ],
+      "correctIndex": 0,
+      "explanation": "Geneva... কী-অনুযায়ী।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 44,
+      "question": "নাফটার সদস্য নয়__",
+      "options": [
+        "মার্কিন যুক্তরাষ্ট্র",
+        "মেক্সিকো",
+        "কানাডা",
+        "ভেনিজুয়েলা"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"ভেনিজুয়েলা\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 45,
+      "question": "জাপানের পার্লামেন্টের নাম কি?",
+      "options": [
+        "নর্দার্ন প্যসিফিক রেলপথ",
+        "ট্রান্স সাইবেরিয়ান রেলপথ",
+        "ট্রান্স কাম্পিয়ান রেলপথ",
+        "ট্রান্স অস্ট্রেলিয়ান রেলপথ"
+      ],
+      "correctIndex": 1,
+      "explanation": "জাপানের আইনসভার নাম হলো 'ডায়েট'। অন্যদিকে 'নেসেট' হলো ইসরায়েলের এবং 'ফোকেন্টিং' হলো ডেনমার্কের আইনসভার নাম।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 46,
+      "question": "প্রতি কয় বছর পর পর এশিয়ান গেমস অনুষ্ঠিত হয়?",
+      "options": [
+        "তিন বছর",
+        "চার বছর",
+        "পাঁচ বছর",
+        "ছয় বছর"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: চার বছর।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 47,
+      "question": "পৃথিবীর বৃহত্তম দ্বীপ _",
+      "options": [
+        "ওকিনাওয়া",
+        "মাদগাস্কার",
+        "গ্রিনল্যান্ড",
+        "সুমাত্রা"
+      ],
+      "correctIndex": 2,
+      "explanation": "-পৃথিবীর বৃহত্তম ব-দ্বীপ হল বাংলাদেশ। -এটি গঙ্গা এবং ব্রহ্মপুত্র নদীর মোহনায় অবস্থিত। -বাংলাদেশের মোট আয়তনের প্রায় ৪০% এর বেশি এলাকা এই ব-দ্বীপের অংশ। -এটি একটি সমৃদ্ধ জৈববৈচিত্র্যময় অঞ্চল, যেখানে বহু প্রজাতির গাছপালা, প্রাণী এবং পাখি বাস করে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 48,
+      "question": "সাম্প্রতিক 'সুনামিতে ' ক্ষতিগ্রস্ত হয়নি__",
+      "options": [
+        "ভারত",
+        "বাংলাদেশ",
+        "জাপান",
+        "মালয়েশিয়া"
+      ],
+      "correctIndex": 1,
+      "explanation": "শূন্যস্থানে \"বাংলাদেশ\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 49,
+      "question": "'গরুদা' কোন দেশের এয়ারলাইন্সের নাম?",
+      "options": [
+        "সংযুক্ত আরব আমীরাত",
+        "বাহরাইন",
+        "ইন্দোনেশিয়া",
+        "কম্বোডিয়া"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: ইন্দোনেশিয়া।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 50,
+      "question": "জাপানের পুরাতন নাম -",
+      "options": [
+        "কিয়োটো",
+        "নাগোয়া",
+        "নিপ্পন",
+        "হোক্কাইডো"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: নিপ্পন।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 51,
+      "question": "কোন আমলে সোনার গাঁও বাংলাদেশের রাজধানী ছিল?",
+      "options": [
+        "সুলতানী আমলে",
+        "মোগল আমলে",
+        "ব্রিটিশ আমলে",
+        "পাকিস্তান আমলে"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: মোগল আমলে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 52,
+      "question": "সিলেট জেলার পূর্বনাম কি ছিল?",
+      "options": [
+        "নাসিরাবাদ",
+        "জালালাবাদ",
+        "সুবর্ণগ্রাম",
+        "বরেন্দ্রভূমি"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: জালালাবাদ।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 53,
+      "question": "বাংলাদেশের সশস্ত্র বাহিনীর সর্বাধিনায়ক কে ?",
+      "options": [
+        "প্রধানমন্ত্রী",
+        "সেনাবাহিনী প্রধান",
+        "রাষ্ট্রপতি",
+        "নৌ-বাহিনী প্রধান"
+      ],
+      "correctIndex": 2,
+      "explanation": "বাংলাদেশের সশস্ত্র বাহিনীর সর্বাধিনায়ক রাষ্ট্রপতি।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 54,
+      "question": "বাংলাদেশের জাতীয় পতাকার মাপের (দৈর্ঘ্য : প্রস্থ ) অনুপাত কি?",
+      "options": [
+        "৯: ৫",
+        "১০ : ৬",
+        "১১ : ৭",
+        "৮ :৬"
+      ],
+      "correctIndex": 1,
+      "explanation": "- বাংলাদেশের জাতীয় পতাকার রুপকার চিত্রশিল্পী কামরুল হাসান । - জাতীয় পতাকার নকশা প্রথম তৈরি করেন শিব নারায়ণ দাস (৬ জুন ১৯৭০)। - বাংলাদেশের বর্তমানে জাতীয় পতাকা ১৭ জানুয়ারী ১৯৭২ গৃহীত হয় । - জাতীয় পতাকার দৈর্ঘ্য ও প্রস্থের অনুপাত ১০ঃ৬(৫ঃ৩)।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 55,
+      "question": "বাংলাদেশের দীর্ঘতম নদী কোনটি?",
+      "options": [
+        "পদ্মা",
+        "যমুনা",
+        "ব্রহ্মপুত্র",
+        "মেঘনা"
+      ],
+      "correctIndex": 0,
+      "explanation": "বাংলাদেশের নদীগুলোর প্রধান ভৌগোলিক বৈশিষ্ট্য : - পদ্মা: বাংলাদেশের দীর্ঘতম নদী । - মেঘনা: বাংলাদেশের প্রশস্ততম ও গভীরতম নদী । - গাংগিনা: বাংলাদেশের ক্ষুদ্রতম নদী । - কর্ণফুলী: বাংলাদেশের খরস্রোতা নদী । সুতরাং, সঠিক উত্তর হলো পদ্মা । ? আপনি কি বাংলাদেশের নদ-নদী বা অন্যান্য ভৌগোলিক বিষয় নিয়ে আরও কিছু প্রশ্ন অনুশীলন করতে চান?",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 56,
+      "question": "কুমিল্লা বার্ড -এর প্রতিষ্ঠাতা কে?",
+      "options": [
+        "মোহাম্মদ আইউব খান",
+        "আব্দুল হামিদ খান ভাসানী",
+        "আখতার হামিদ খান",
+        "এ কে ফজলুল হক"
+      ],
+      "correctIndex": 2,
+      "explanation": "বার্ড (BARD)-এর পূর্ণ অভিব্যক্তি Bangladesh Academy for Rural Development। ১৯৫৯ সালে কুমিল্লার কোটবাড়িতে প্রখ্যাত সমাজকর্মী আখতার হামিদ খান ব্যক্তিগত উদ্যোগে এ প্রতিষ্ঠান স্থাপন করেন।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 57,
+      "question": "পূর্ণ সদস্যপদ প্রাপ্তির পর টেস্ট ক্রিকেটে বাংলাদেশ ক্রিকেট দল প্রথম কোন দেশ সফর করে?",
+      "options": [
+        "ভারত",
+        "জিম্বাবুয়ে",
+        "ইংল্যান্ড",
+        "শ্রীলংকা"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: শ্রীলংকা।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 58,
+      "question": "বাংলাদেশের কোন জেলা শহরে রিক্সা নেই?",
+      "options": [
+        "খাগড়াছড়ি",
+        "বান্দরবান",
+        "রাঙ্গামাটি",
+        "কক্সবাজার"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: রাঙ্গামাটি।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 59,
+      "question": "__ is caused by a virus was not known until 1911.",
+      "options": [
+        "That measles",
+        "As measles",
+        "Measles",
+        "What if measles"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"That measles\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 60,
+      "question": "Put right form of verb in the following sentence: You would catch the train if you __ earlier.",
+      "options": [
+        "leave",
+        "left",
+        "have left",
+        "had left"
+      ],
+      "correctIndex": 1,
+      "explanation": "শূন্যস্থানে \"left\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 61,
+      "question": "she visits him frequently __ purpose.",
+      "options": [
+        "in",
+        "on",
+        "for",
+        "by"
+      ],
+      "correctIndex": 1,
+      "explanation": "শূন্যস্থানে \"on\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 62,
+      "question": "Choose the correct translation of __ 'পাট বাংলাদেশের অর্থকরী ফসল।'",
+      "options": [
+        "Jute is the cash crop of Bangladesh",
+        "Jute is cash crop of Bangladesh",
+        "Jute is a cash crop of Bangladesh",
+        "Jute is the only cash crop of Bangladesh"
+      ],
+      "correctIndex": 2,
+      "explanation": "শূন্যস্থানে \"Jute is a cash crop of Bangladesh\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 63,
+      "question": "whom did they accuse?",
+      "options": [
+        "By whom was he accused ?",
+        "who was accused by them ?",
+        "whom were accused by them?",
+        "By whom he was accused?"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: who was accused by them ?।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 64,
+      "question": "which is the correct simple form of the following complex sentence? They are so poor that they can not buy food.",
+      "options": [
+        "They are poor to buy food",
+        "They are poor for buying food",
+        "They are too poor to buy food",
+        "They are poor enough to buy food"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: They are too poor to buy food।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 65,
+      "question": "Find out the correct sentence.",
+      "options": [
+        "I answered her as casual as I could",
+        "I answered her casual as I could",
+        "I answered her as casually as I could",
+        "I answered her casually I could"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"insist\" -এর পরে preposition \"on\" বসে এবং তার পরে possessive + gerund: He insisted on my going to cinema.",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 66,
+      "question": "He doesn't like Beethoven and neither do I. In this sentence 'neither' is __",
+      "options": [
+        "Preposition",
+        "Adverb",
+        "Adjective",
+        "Noun"
+      ],
+      "correctIndex": 1,
+      "explanation": "শূন্যস্থানে \"Adverb\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 67,
+      "question": "As a concession to the public outcry the Government reduced the tax on petrol . In this sentence ' concession ' is _",
+      "options": [
+        "Noun",
+        "Adverb",
+        "Adjective",
+        "Verb"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: Noun।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 68,
+      "question": "The chairman requested that __",
+      "options": [
+        "the members studied more carefully the problems",
+        "the problem was more quantities of money",
+        "with more carefulness the problem could be studied",
+        "the members studied the problem more carefully"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"the members studied the problem more carefully\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 69,
+      "question": "Manufacturers often sacrifice quality_",
+      "options": [
+        "for a larger profit margin",
+        "in place of to earn more money",
+        "to gain more quantities of money",
+        "instead earn a bigger amount of profit"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: for a larger profit margin।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 70,
+      "question": "Although __ cold climates, they ca thrive in hot dry climates as well.",
+      "options": [
+        "sheep adapted well",
+        "well adapted sheep",
+        "sheep well adapted to",
+        "sheep are well adapted to"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"sheep are well adapted to\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 71,
+      "question": "Certain fish eggs contain droplets of oil, ___ to float on the surface of the water .",
+      "options": [
+        "allowing them",
+        "allows them",
+        "they are allowed",
+        "this allows them"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"allowing them\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 72,
+      "question": "sharp knives are actually safer to use __",
+      "options": [
+        "as dull ones",
+        "as ones that are dull",
+        "than dull ones",
+        "that are dull ones"
+      ],
+      "correctIndex": 2,
+      "explanation": "শূন্যস্থানে \"than dull ones\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 73,
+      "question": "A medical emergency is a sudden or unexpected condition __ mediated care to prevent death or serious harm.",
+      "options": [
+        "it requires",
+        "for require",
+        "that requires",
+        "a requirement of"
+      ],
+      "correctIndex": 2,
+      "explanation": "শূন্যস্থানে \"that requires\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 74,
+      "question": "If a bar magnet is __, the two pieces form two complete magnets, each with north and south pole.",
+      "options": [
+        "broken",
+        "broke",
+        "breaking",
+        "break"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"broken\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 75,
+      "question": "____ team sports require co-operation.",
+      "options": [
+        "All",
+        "Of all",
+        "Are all",
+        "All that"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"All\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 76,
+      "question": "what is the meaning of 'To make oneself at home?",
+      "options": [
+        "to be upset",
+        "to be comfortable",
+        "to be miserable",
+        "to be happy"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: to be comfortable।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 77,
+      "question": "\"Gargantuan \"",
+      "options": [
+        "fearful",
+        "tiny in size",
+        "eager",
+        "success"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: tiny in size।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 78,
+      "question": "\"Stationary\"",
+      "options": [
+        "sincere",
+        "capacious",
+        "vague",
+        "motionless"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: motionless।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 79,
+      "question": "কোন ক্রিয়ার বাচ্য পরিবর্তন হয় না?",
+      "options": [
+        "সকর্মক ক্রিয়ার",
+        "সমাপিকা ক্রিয়ার",
+        "অকর্মক ক্রিয়ার",
+        "সমধাতুজ ক্রিয়ার"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: অকর্মক ক্রিয়ার।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 80,
+      "question": "জয় সূচনা করে এরুপ তিথি__",
+      "options": [
+        "শুভ তিথি",
+        "জয়োৎসব",
+        "জয়তিথি",
+        "জয়ন্তী"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"শুভ তিথি\" বসবে।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 81,
+      "question": "বাক্যের অর্থসঙ্গিত রক্ষার জন্য সুশৃঙ্খল পদ-বিন্যাসই হলো_",
+      "options": [
+        "মাধুর্য",
+        "আসত্তি",
+        "আকাঙ্ক্ষা",
+        "যোগ্যতা"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: আসত্তি।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 82,
+      "question": "একটি মাত্র কর্তা ও একটি মাত্র সমাপিকা ক্রিয়ার দ্বারা গঠিত বাক্যকে কি বাক্য বলে?",
+      "options": [
+        "সরল বাক্য",
+        "জটিল বাক্য",
+        "মিশ্র বাক্য",
+        "যৌগিক বাক্য"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: সরল বাক্য।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 83,
+      "question": "কোনটি বাক্যে স্বাধীন পদরুপে ব্যবহৃত হয়?",
+      "options": [
+        "শব্দ বিভক্তি",
+        "অনুসর্গ",
+        "উপসর্গ",
+        "কোনোটিই নয়"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: অনুসর্গ।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 84,
+      "question": "ক্রিয়ার বিষয়কে কি বলে?",
+      "options": [
+        "কর্ম",
+        "পদ",
+        "সমাস",
+        "করণ"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: কর্ম।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 85,
+      "question": "বাংলা ভাষার একই পদ বিশেষ্য ও বিশেষণরুপে ব্যবহৃত হতে পারে তার উদাহরণ কোনটি?",
+      "options": [
+        "ভূয়সী প্রশংসা",
+        "বাহুবলই শ্রেষ্ঠ বটে",
+        "আপন ভালো সবাই চায়",
+        "মেঘনা বাংলাদেশের দীর্ঘতম নদী"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: আপন ভালো সবাই চায়।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 86,
+      "question": "ব্যুৎপত্তিগতভাবে বাংলা ভাষার শব্দকে কয়টি ভাগে ভাগ করা হয়েছে?",
+      "options": [
+        "চারটি",
+        "দুইটি",
+        "পাঁচটি",
+        "তিনটি"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: পাঁচটি।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 87,
+      "question": "যে ধাতু বা শব্দের শেষে প্রত্যয় যুক্ত হয় তার নাম কি?",
+      "options": [
+        "প্রকৃতি",
+        "কারক",
+        "যতি",
+        "বিভক্তি"
+      ],
+      "correctIndex": 0,
+      "explanation": "যে ধাতু বা শব্দের শেষে প্রত্যয় যুক্ত হয়, তাকে প্রকৃতি বলে। প্রত্যয় যুক্ত হয়ে নতুন শব্দ গঠন করে। প্রত্যয় দুই প্রকার- ১. নাম প্রত্যয় বা তদ্ধিত প্রত্যয়। ২. ক্রিয়া প্রত্যয় বা কৃৎ প্রত্যয়।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 88,
+      "question": "যে বহুব্রীহি সমাসের পূর্বপদ ও পরপদ উভয়ই বিশেষ্য তাকে কোন সমাস বলে?",
+      "options": [
+        "অলুক বহুব্রীহি",
+        "সংখ্যাবাচক বহুব্রীহি",
+        "মধ্যপদলোপদী বহুব্রীহি",
+        "ব্যাধিকরণ বহুব্রীহি"
+      ],
+      "correctIndex": 3,
+      "explanation": "সমাস: ব্যাধিকরণ বহুব্রীহি।",
+      "appearedIn": [
+        "বাংলাদেশ রেলওয়ে (হাসপাতালসমূহে সহকারী সার্জন) - ০৬.০৫.২০০৫"
+      ],
+      "subject": "গণিত"
+    }
+  ]
+}

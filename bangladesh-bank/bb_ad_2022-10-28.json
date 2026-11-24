@@ -1,0 +1,1226 @@
+{
+  "examSlug": "bb_ad_2022-10-28",
+  "examTitle": "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28",
+  "categoryKey": "bangladesh-bank",
+  "categoryName": "বাংলাদেশ ব্যাংক",
+  "url": "https://dreamsintodeeds.me/questions/bangladesh-bank/bb_ad_2022-10-28",
+  "questionCount": 76,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Blue tooth technology uses -",
+      "options": [
+        "Infrared",
+        "Microwave",
+        "Radio wave",
+        "Laser Light"
+      ],
+      "correctIndex": 2,
+      "explanation": "- Bluetooth ডেটা Transfer এর জন্য ব্যবহৃত একটি ওপেন তারবিহীন প্রটোকল। এটি সাধারণত ১০-১০০ মিটারে কাজ সম্পন্ন করতে পারে। - ডেনমার্কের রাজা Harold Bluetooth এর নামনুসারে ব্লুটুথ নামকরণ করা হয়। - ১৯৯৪ সালে টেলিকম ভেন্ডর এরিকসন Bluetooth উদ্ভাবন করেন। - এর স্ট্যান্ডার্ড হচ্ছে IEEE 802.15। - এটি Radio Wave ডেটা ট্রান্সফার করে থাকে। সাধারণত Bandwidth হচ্ছে 1Mbps.",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 2,
+      "question": "One Tera Byte equal to how many bytes?",
+      "options": [
+        "10 3 Bytes",
+        "10 6 Bytes",
+        "10 9 Bytes",
+        "10 12 Bytes"
+      ],
+      "correctIndex": 3,
+      "explanation": "One Terabyte (TB) is equal to 1,000,000,000,000 bytes, or 10 12 bytes.",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "Which communication media is necessary to access online banking from a plane or ship?",
+      "options": [
+        "Wi-Fi",
+        "Optical Fiber",
+        "Satellite",
+        "Radio Link"
+      ],
+      "correctIndex": 2,
+      "explanation": "প্রদত্ত অপশনে দূরবর্তী উড়োজাহাজ/জাহাজে নেটওয়ার্ক সংযোগের expected medium Satellite। যাত্রীর Wi-Fi access ও বহির্জগতের satellite backhaul আলাদা স্তর; Radio Link-এর পুরোনো ব্যাখ্যা উত্তরটির সঙ্গে মেলেনি।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "Which one is the Strongest Password?",
+      "options": [
+        "Amin 1234",
+        "SAminur_RahmanS",
+        "$$4Rr#345we#Jan21S",
+        "#Abdullah#BB#Dhaka#"
+      ],
+      "correctIndex": 2,
+      "explanation": "একটি শক্তিশালী পাসওয়ার্ড তৈরি করার জন্য সহজ নিয়ম হল বড় এবং ছোট হাতের অক্ষর, সংখ্যা এবং বিশেষ অক্ষরের সংমিশ্রণ ব্যবহার করা। আপনার পাসওয়ার্ড কমপক্ষে ১২টি অক্ষর দীর্ঘ হওয়া উচিত এবং সহজেই অনুমান করা তথ্য যেমন আপনার নাম, জন্মতারিখ বা সাধারণ শব্দ ব্যবহার করা এড়িয়ে চলুন। উপরন্তু, আপনার প্রতিটি অ্যাকাউন্টের জন্য একটি ইউনিক পাসওয়ার্ড ব্যবহার করা উচিত এবং বিভিন্ন সাইটে পাসওয়ার্ড পুনরায় ব্যবহার করা এড়ানো উচিত।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "Which device is mainly related to provide security of a network?",
+      "options": [
+        "Router",
+        "Firewall",
+        "Switch",
+        "Operating System"
+      ],
+      "correctIndex": 1,
+      "explanation": "ফায়ারওয়াল হলো Set of Rules, যার মাধ্যমে কম্পিউটারের Incoming ও Outgoing ডেটা প্রবাহ বা নেটওয়ার্ক প্যাকেট নিয়ন্ত্রণ ও প্রয়োজনে তা ফিল্টার করা যায়। ফায়ার ওয়াল এক কম্পিউটার থেকে অন্য কম্পিউটারে ভাইরাস প্রবেশ বাধা দেয় এবং সাইবার আক্রমণ (হ্যাকিং) থেকে রক্ষা করে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "Which one is the High-Level Programming language?",
+      "options": [
+        "MS PowerPoint",
+        "MS Windows 10",
+        "Python",
+        "MySQL"
+      ],
+      "correctIndex": 2,
+      "explanation": "Python-এর কাজ শুরু ১৯৮৯ সালে; প্রথম public release ১৯৯১ সালে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "Which one is considered as the brain of a computer?",
+      "options": [
+        "Memory",
+        "Processor",
+        "Hard disk",
+        "Internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "কম্পিউটারের যে অংশ Data processing এর কাজ করে থাকে তাকে Central Processing Unit (CPU) বলে। CPU তৈরিতে Microprocessor/ Processor লাগে। CPU-কে কম্পিউটারের মস্তিষ্ক বলা হয়। ১৯৭১ সালে ড. টেড হফ Microprocessor তৈরি করেন। CPU তিনটি অংশ নিয়ে গঠিত। যথা: - Arithmetic Logic Unit (ALU), - Control Unit - Register.",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 8,
+      "question": "Which one is Utility Software?",
+      "options": [
+        "MS Word",
+        "Win-Zip",
+        "Facebook",
+        "Firefox"
+      ],
+      "correctIndex": 1,
+      "explanation": "Utility program হচ্ছে System Software এর একটি প্রকার। কম্পিউটারকে রক্ষণাবেক্ষণ, বিভিন্ন প্রকার ভাইরাস থেকে সুরক্ষা, ডেটা ও প্রোগ্রামের ব্যাক আপ কাজের জন্য সুবিধা প্রদানকারী প্রোগ্রামসমূহকে utility software বলে । কয়েকটি Utility program হলো- Disk defragmentation, Win-Zip, Avira, Avast, Panda, File Explorer ইত্যাদি।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 9,
+      "question": "\"All parties state language movement committee\" was formed on -",
+      "options": [
+        "18 February, 1952",
+        "20 February, 1952",
+        "2 February, 1952",
+        "31 January, 1952"
+      ],
+      "correctIndex": 3,
+      "explanation": "সর্বদলীয় কেন্দ্রীয় রাষ্ট্রভাষা সংগ্রাম পরিষদ বাংলা ভাষা আন্দোলনের সময় পূর্ব বাংলার একটি প্রথম সারির রাজনৈতিক দল ছিল। ১৯৫২ সালের ৩১ জানুয়ারিতে ঢাকা বিশ্ব বিদ্যালয়ের বার লাইব্রেরি হলে একটি সভায় এই দল গঠন করা হয়। এখানে সভাপতি ছিলেন মওলানা আবদুল হামিদ খান ভাসানী। - এর আহবায়ক মনোনীত হন কাজী গোলাম মাহবুব। - বাংলা ভাষা আরবি বর্ণমালার মাধ্যমে লেখার প্রস্তাব দেয়া হয়েছিল পাকিস্তান সরকারের পক্ষ থেকে। এই সভায় এই প্রস্তাবের তীব্র বিরোধিতা করা হয়। এই সভাতেই ৪০ সদস্যের সর্বদলীয় কেন্দ্রীয় রাষ্ট্রভাষা সংগ্রাম পরিষদ গঠন করা হয়। - সর্বদলীয় রাষ্ট্রভাষা সংগ্রাম পরিষদ ১৯৪৮ সালের ২ মার্চ. - ঢাকা বিশ্ববিদ্যালয় রাষ্ট্রভাষা সংগ্রাম পরিষদ গঠিত হয় ১১ মার্চ ১৯৫০.",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following agreement is related to Intellectual Property?",
+      "options": [
+        "TRIPS",
+        "AGTC",
+        "AGN",
+        "AGR"
+      ],
+      "correctIndex": 0,
+      "explanation": "-Trade Related Aspects of Intellectual Property Rights (TRIPS) হলো বিশ্ববাণিজ্য সংস্থার (WTO) সদস্য দেশগুলোর মধ্যে বুদ্ধিবৃত্তিক সম্পদের অধিকার নিয়ে একটি নীতি (চুক্তি)। -এটি ১৯৯৪ সালে স্বাক্ষরিত হয় এবং ১৯৯৫ সালে কার্যকর হয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Milk is poor source of -",
+      "options": [
+        "Vitamins",
+        "Protein",
+        "Iron",
+        "Calcium"
+      ],
+      "correctIndex": 2,
+      "explanation": "দুধ একটি সর্বগুণ সম্পন্ন খাদ্য। তাই একে সুপার ফুড বলা হয় । দুধের প্রধান উপাদান পানি, ল্যাক্টোজ, খনিজ, ফ্যাট, প্রোটিন। দুধে যে সকল খনিজ পাওয়া যায় তার মধ্যে আয়রন এর পরিমাণ কম। এছাড়াও ভিটামিন, ক্রোমিয়াম, ম্যাঙ্গানিজ, কপার, জিংক, আয়োডিন ও সেলিনিয়ামের মতো খনিজ পাওয়া যায় ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "Which countries are separated by Mac Mohan Line?",
+      "options": [
+        "India and Pakistan",
+        "China and Tibet",
+        "India and China",
+        "India and Bangladesh"
+      ],
+      "correctIndex": 2,
+      "explanation": "ভারতের অরুণাচল প্রদেশ ও চীনের স্বায়ত্তশাসিত অঞ্চল তিব্বত সীমান্ত জুড়ে ম্যাকমোহন লাইন অবস্থিত। ভারতের উত্তর-পূর্ব অঞ্চলের সঙ্গে চীনের তিব্বত অঞ্চলের সীমানা নির্ধারিত হয়েছে কমপক্ষে তিন বার। প্রথমবার ১৮৬৫ সালে জনসন লাইন এর মাধ্যমে। দ্বিতীয়বার ১৮৯৯ সালে ম্যাকার্টনি- ম্যাকডোনাল্ড লাইন অনুসারে। তৃতীয়বার ১৯১৪ সালে ম্যাকমোহন লাইন এর মাধ্যমে করা হয় তিব্বতের সঙ্গে ব্রিটিশ ভারতের আলোচনা সাপেক্ষে । ম্যাকমোহন লাইন এর মাধ্যমে সীমান্ত নির্ধারিত হলেও চীন এটিকে স্বীকার করতে চায় না। অজুহাত হিসেবে চীন দাবি করে এই চুক্তির সময় তিব্বত কোন সার্বভৌম রাষ্ট্র ছিলনা । উল্লেখ্য, এই সীমান্ত বিরোধ নিয়ে ১৯৬২ সালে ভারত-চীন যুদ্ধ সংঘটিত হয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is not the official language of the United Nations Organization?",
+      "options": [
+        "Arabic",
+        "Chinese",
+        "Portuguese",
+        "Spanish"
+      ],
+      "correctIndex": 2,
+      "explanation": "জাতিসংঘ প্রতিষ্ঠিত হয় ১৯৪৫ সালের ২৪ অক্টোবর। বর্তমানে এর সদস্য সংখ্যা ১৯৩। জাতিসংঘের দাপ্তরিক ভাষা ৬টি। যথা: ইংরেজি, ফরাসি, চীনা, রুশ, স্প্যানিশ এবং আরবি। তবে কার্যকরী ভাষা ২টি (ইংরেজি ও ফরাসি)।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following ecosystem covers the largest area of the earth's surface?",
+      "options": [
+        "Desert Ecosystem",
+        "Grassland Ecosystem",
+        "Mountain Ecosystem",
+        "Marine Ecosystem"
+      ],
+      "correctIndex": 3,
+      "explanation": "বাস্তুতন্ত্র (Ecosystem) হচ্ছে জৈব-অজৈব পদার্থ ও বিভিন্ন জীব সমন্বিত এমন প্রাকৃতিক একক যেখানে বিভিন্ন জীব সমষ্টি পরস্পরের সাথে এবং তাদের পারিপার্শ্বিক জৈব ও অজৈব উপাদানের সঙ্গে মিথস্ক্রিয়ার মাধ্যমে একটি জীবনধারা গড়ে তোলে। পৃথিবী পৃষ্ঠে চারভাগের তিনভাগই পানি। সমুদ্রের পানিতে বেশি জীব প্রজাতি বাস করে। তাই বলা যায়, সমুদ্রই হচ্ছে সবচেয়ে বড় Ecosystem.",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "Who was the first governor of Bangladesh Bank?",
+      "options": [
+        "A.N. Hamidullah",
+        "Md. Nurul Islam",
+        "Khorshed Alam",
+        "Shegufta Bakht Chowdhury"
+      ],
+      "correctIndex": 0,
+      "explanation": "১৯৭২ সালে বাংলাদেশ ব্যাংক অর্ডার ১২৭ নং আদেশ অনুযায়ী, বাংলাদেশে অবস্থিত সাবেক ‘স্টেট ব্যাংক অব পাকিস্তান' এর সব দায়-দায়িত্ব নিয়ে ১৬ ডিসেম্বর, ১৯৭১ সালে বাংলাদেশের কেন্দ্রীয় ব্যাংক 'বাংলাদেশ ব্যাংক প্রতিষ্ঠিত হয়। এ.এন. হামিদুল্লাহ বাংলাদেশ ব্যাংকের প্রথম গভর্নর হিসাবে দায়িত্ব পালন করেন। গভর্নর এর মেয়াদ ৪ বছর। বাংলাদেশ ব্যাংকের বর্তমান গভর্নর আব্দুর রউফ তালুকদার (১২তম)।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 16,
+      "question": "The historic 7th March Speech of Bangabandhu was given at the Ramna Race Course which is now -",
+      "options": [
+        "Bahdur Shah Park",
+        "Suhrawardy Udyan",
+        "Chandrima Udyan",
+        "Hatirjheel Park"
+      ],
+      "correctIndex": 1,
+      "explanation": "১ মার্চ ১৯৭১ সালে ইয়াহিয়া খান পূর্ব ঘোষিত ৩ মার্চ ঢাকায় পাকিস্তান জাতীয় পরিষদের ডাকা অধিবেশন স্থগিত করলে প্রতিবাদে বাঙালি জনতা রাস্তায় নেমে এসে প্রতিবাদ মিছিল শুরু করে। জাতীয় পরিষদের অধিবেশন স্থগিতের প্রেক্ষিতে বঙ্গবন্ধু শেখ মুজিবুর রহমান ২ মার্চ ঢাকায় এবং ৩ মার্চ সারাদেশে হরতাল এবং ৭ মার্চ রেসকোর্স (সোহরাওয়ার্দী উদ্যানে) ময়দানে জনসভা আহ্বান করেন। ৭ মার্চ, ১৯৭১ সালে ঢাকার রেসকোর্স ময়দানে (বর্তমান সোহরাওয়ার্দী উদ্যান) লাখো মানুষের স্বতঃস্ফূর্ত সমাবেশে বঙ্গবন্ধু শেখ মুজিবুর রহমান যে ভাষণ দেন তা ইতিহাসে '৭ মার্চ ভাষণ' নামে পরিচিত। এ ভাষণটির স্থায়ীত্বকাল ছিল প্রায় ১৯ মিনিট (১৮.৩৯ সেকেন্ড)।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 17,
+      "question": "The Sveriges Riksbank Prize in Economic Sciences has been introduced in memory of -",
+      "options": [
+        "Paul Samuelson",
+        "Alfred Nobel",
+        "Alfred Marshall",
+        "JM Keynes"
+      ],
+      "correctIndex": 1,
+      "explanation": "- আলফ্রেড নোবেল ২১ অক্টোবর, ১৮৩৩ সালে সুইডেনের স্টকহোমে জন্মগ্রহণ করেন। - তিনি ১৮৬৬ সালে নাইট্রো গ্লিসারিনের সাথে কিসেলগুর মিশিয়ে ডিনামাইট তৈরি করেন । - ১৮৬৭ সালে ডিনামাইটের জন্য পেটেন্ট অর্জন করেন। এ ডিনামাইট আবিষ্কার করেই তিনি প্রচুর অর্থ উপার্জন করে। - এ অর্জিত অর্থ ১৮৯৬ সালে মৃত্যুর ঠিক এক বছর আগে ১৮৯৫ সালে উইল করে যান। এই উইলকৃত অর্থ দিয়ে ১৯০১ সাল থেকে ৫টি বিষয়ে নোবেল পুরস্কার দেওয়া হয়। - আলফ্রেড নোবেল এর প্রতি সম্মান জানাতে ১৯৬৮ সালে সুইডেনের কেন্দ্রীয় ব্যাংক অর্থনীতিতে নোবেল পুরস্কার প্রবর্তন করেন। - আর ১৯৬৯ সাল থেকে অর্থনীতিতে নোবেল পুরস্কার প্রদান করা শুরু হয়। - অর্থাৎ ১৯৬৯ সাল থেকে ৬টি বিষয়ে নোবেল পুরস্কার দেওয়া শুরু হয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 18,
+      "question": "What is the literacy rate of Bangladesh as per the first Digital Population and Housing Census, 2022?",
+      "options": [
+        "74.66%",
+        "73.65%",
+        "75.66%",
+        "66.74%"
+      ],
+      "correctIndex": 0,
+      "explanation": "জনশুমারিতে তথ্য দিন, পরিকল্পিত উন্নয়নে অংশ নিন' প্রতিপাদ্য নিয়ে ১৫-২১ জুন, ২০২২ সালে ৬ষ্ঠ জনশুমারি ও গৃহগণনা অনুষ্ঠিত হয়। এটি বাংলাদেশের প্রথম ডিজিটাল জনশুমারি। এ শুমারি অনুযায়ী, ৭ বছর ও তদূর্ধ্ব সাক্ষরতার জাতীয় হার ৭৪.৬৬ শতাংশ (পুরুষ- ৭৬.৫৬ ও নারী ৭২.৮২ শতাংশ)।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 19,
+      "question": "For millions of years, which of the following has not changed much due to evolution?",
+      "options": [
+        "Whale",
+        "Shark",
+        "Dinosaur",
+        "Hippopotamus"
+      ],
+      "correctIndex": 1,
+      "explanation": "বিজ্ঞানীদের ধারণা, ১০ লক্ষ বছর আগে প্রথম যখন ০. শার্ক (হাঙ্গর) মাছ দেখা গিয়েছিল তখন থেকে অদ্যবধি সবচেয়ে কম বিবর্তন ঘটে ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 20,
+      "question": "‘Thalassemia' is a hereditary disease affecting -",
+      "options": [
+        "Lungs",
+        "Blood",
+        "Heart",
+        "Kidney"
+      ],
+      "correctIndex": 1,
+      "explanation": "রক্তের লোহিত কণিকার এক অস্বাভাবিক অবস্থাজনিত রোগের নাম থ্যালাসেমিয়া। এ রোগে অক্সিজেন পরিবহনকারী হিমোগ্লোবিন কণার উৎপাদনে ত্রুটি দেখা দেয়। এ রোগে আক্রান্ত ব্যক্তি সর্বদাই রক্তশূন্যতা ও অক্সিজেন স্বল্পতা অনুভব করে। এ রোগ বংশ পরম্পরায় হয়ে থাকে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is the first published Novel of Kazi Nazrul Islam?",
+      "options": [
+        "Mukti",
+        "Agnibeena",
+        "Jinge Ful",
+        "Badhon Hara"
+      ],
+      "correctIndex": 3,
+      "explanation": "- কাজী নজরুল ইসলামের প্রথম প্রকাশিত উপন্যাস এবং বাংলা সাহিত্যের প্রথম পত্রোপন্যাস ' বাঁধনহারা '। - এটি ১৯২১ সাল থেকে এটি ধারাবাহিকভাবে 'মোসলেম ভারত' পত্রিকায় ছাপা হয় । - পত্রিকায় প্রকাশিত এ উপন্যাসের কিছু অংশ ১৯২৭ গ্রন্থাকারে প্রকাশে সময় বাদ পড়ে যায়। - পরবর্তীতে তা খুজে পাওয়া গেলে ১৯ মে, ২০০৬ সালে দৈনিক 'প্রথম আলো' পত্রিকায় প্রকাশিত হয়। - এ গ্রন্থের পত্র সংখ্যা ১৮টি। চরিত্র: নুরুল হুদা, মাহবুবা, সাহসিকা, রাবেয়া। - কাজী নজরুল ইসলামের প্রথম প্রকাশিত কাব্য ' অগ্নিবীণা ', - প্রথম প্রকাশিত কবিতা ' মুক্তি '। - কাজী নজরুল ইসলাম রচিত শিশুতোষ কাব্য 'ঝিঙেফুল' ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 22,
+      "question": "'Double Fault' is associated with which of the following games?",
+      "options": [
+        "Lawn Tennis",
+        "Football",
+        "Cricket",
+        "Hockey"
+      ],
+      "correctIndex": 0,
+      "explanation": "Double Fault is a term used in the sport of tennis. It refers to a serve that fails to land in the opponent's service box, resulting in the server losing the point.",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 23,
+      "question": "If the numerator of a fraction is increased by 2 and the denominator by 1 it becomes 1. Again, if the numerator decreased by 4 and the denominator by 2 it becomes 1/2. Find the fraction.",
+      "options": [
+        "4/5",
+        "5/6",
+        "6/7",
+        "7/8"
+      ],
+      "correctIndex": 3,
+      "explanation": "(x+2)/(y+1)=1 থেকে x=y−1। (x−4)/(y−2)=1/2 বসালে y=8, x=7; অনুপাত 7/8।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 24,
+      "question": "A merchant has 1000 kg of sugar, part of which he sells at 8% and the remaining at 18% profit. He gains 14% on the whole. Find the quantity of sugar that he sold at 18% profit.",
+      "options": [
+        "400kg",
+        "560kg",
+        "600kg",
+        "640kg"
+      ],
+      "correctIndex": 2,
+      "explanation": "0.08(1000−z)+0.18z=140 ⇒ 0.10z=60 ⇒ z=600।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 25,
+      "question": "What is the smallest number of apples that can be distributed equally (without cutting any apple) among 6,10,14 and 18 boys?",
+      "options": [
+        "1260",
+        "360",
+        "315",
+        "630"
+      ],
+      "correctIndex": 3,
+      "explanation": "LCM(6,10,14,18)=2×3²×5×7=630।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 26,
+      "question": "M is older than N but younger than O. If m, n and o are the ages of M, N and O respectively, then which of the following is true?",
+      "options": [
+        "$$m<n<o$",
+        "$$n<m<o$",
+        "$$o<n<m$",
+        "$$o<m<n$"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$n<m<o$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 27,
+      "question": "In a certain population group, 57% of the people have characteristics X and 63% have characteristics Y. If every person in the group has at lest one of the of the two characteristics, then what percent of the people have both X and Y?",
+      "options": [
+        "20%",
+        "18%",
+        "12%",
+        "6%"
+      ],
+      "correctIndex": 0,
+      "explanation": "দুটি পরীক্ষায় পাশের হার 57% ও 63%; সবাই অন্তত একটিতে পাশ করলে উভয়ে পাশ =57+63−100=20%।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 28,
+      "question": "The average of 10 numbers is 40.2. Later it is found that two numbers have been wrongly added. The first one is 18 greater than the actual number and the second number added is 13 instead of 33. Find the correct average -",
+      "options": [
+        "40.2",
+        "40.6",
+        "40.4",
+        "40.8"
+      ],
+      "correctIndex": 2,
+      "explanation": "corrected average... কী: ৪০.৪।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 29,
+      "question": "At a stationary shop, it costs Tk. 185 for 4 gel-pens, 8ball-point pens and 1 marker pen and Tk. 315 for 7 gel-pens, 15 ball-point pens and 1 marker pen. What would be the cost of 1 gel-pen, 1 ball-point pen and 1 marker pen?",
+      "options": [
+        "Tk. 45",
+        "Tk. 60",
+        "Tk. 55",
+        "Tk. 70"
+      ],
+      "correctIndex": 2,
+      "explanation": "gel-pens cost... কী: Tk ৫৫।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 30,
+      "question": "A student obtained 60, 75 and 85 marks respectively in 3 monthly examinations in physics and 95 marks in in the final examination. The 3 monthly examinations are of equal weithtage whereas the final examination is weighted twice as much as monthly examination. what is his average mark in physics?",
+      "options": [
+        "82",
+        "85",
+        "79",
+        "78.75"
+      ],
+      "correctIndex": 0,
+      "explanation": "required average... কী: ৮২।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 31,
+      "question": "Two small circular parks of diameter 16 meter and 12 meter are to be replaced by a bigger circular park. What would be the radius of this new park, if the new park has to occupy the same space as the two small parks?",
+      "options": [
+        "20 meter",
+        "15 meter",
+        "10 meter",
+        "100 meter"
+      ],
+      "correctIndex": 2,
+      "explanation": "দুটি পুরোনো বৃত্তের radius 8 ও 6; সমান মোট ক্ষেত্রফলে πR²=π8²+π6² ⇒ R=10 m।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 32,
+      "question": "Mr. X had Tk. 1000 in his savings account. Every month in the first week he needs money, so he withdraws Tk. 500, but by the end of the month, he deposits Tk. 750. After how many months, the original amount will grow three times?",
+      "options": [
+        "6 months",
+        "7 months",
+        "9 months",
+        "8 months"
+      ],
+      "correctIndex": 3,
+      "explanation": "savings... কী: ৮ মাস।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 33,
+      "question": "If a : b = 4 : 7 and b : c = 5 : 6 than a : b : c = ?",
+      "options": [
+        "8 : 15 : 12",
+        "20 : 35 : 42",
+        "20 : 35 : 24",
+        "None"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$a:b=4:7=20:35; b:c=5:6=35:42$... $a:b:c=20:35:42$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 34,
+      "question": "$$If x/y = 1/3, then the value of \\frac{x 2 + y 2}{x 2 - y 2} is$-",
+      "options": [
+        "- 10/9",
+        "5/4",
+        "- 5/4",
+        "- 5/3"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$\\frac{x}{y}=\\frac{1}{3}$... $\\frac{1+9}{1-9}=-\\frac{10}{8}=-\\frac{5}{4}$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 35,
+      "question": "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one half of the age of his mother. What is the present age of the mother?",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "50"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$\\frac{2}{5}m+8=\\frac{1}{2}(m+8)$... কী: ৪০।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 36,
+      "question": "A square room has a square carpet symmetrically placed in it. This leaves an uncovered area of 9 meter 2 . The area of the whole room is 25 meter 2 . What is the length of the one side of the carpet?",
+      "options": [
+        "2 meter",
+        "4 meter",
+        "6 meter",
+        "8 meter"
+      ],
+      "correctIndex": 1,
+      "explanation": "কার্পেটের ক্ষেত্রফল=ঘরের ক্ষেত্রফল−অনাবৃত ক্ষেত্রফল=25−9=16 m²; বর্গাকার কার্পেটের বাহু √16=4 m।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 37,
+      "question": "The angles of a triangle are in the proportion of 1 : 2 : 3 and the length of the smallest side is 1 cm. what is the length of the longest side of the triangle?",
+      "options": [
+        "2 cm",
+        "2.3 cm",
+        "4 cm",
+        "5 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "angles 30,60,90... কী: ২ সেমি।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 38,
+      "question": "An amount of money is invested in a savings account for two years. It increased by Tk. 52.50 in two years. after annual compounding at the rate of 10% per year. What is the amount invested initially?",
+      "options": [
+        "Tk. 400",
+        "Tk. 300",
+        "Tk. 250",
+        "Tk. 200"
+      ],
+      "correctIndex": 2,
+      "explanation": "interest... কী: Tk ২৫০।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 39,
+      "question": "A passenger paid 50% customs duty on accompanied baggage items. He paid another 20% sales tax on the total value of the items plus the custom duty paid. The total custom duty and sales tax is Tk. 350. what is the value of the item custom duty and sales tax?",
+      "options": [
+        "Tk.400",
+        "Tk.450",
+        "Tk. 500",
+        "None of these"
+      ],
+      "correctIndex": 3,
+      "explanation": "None of these... কী-অনুযায়ী।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 40,
+      "question": "(10) 2 is how many times of (0.01) 3 ?",
+      "options": [
+        "10 5",
+        "10 6",
+        "10 7",
+        "10 8"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$10^{2}=100; 0.01^{3}=10^{-6}$; $\\frac{100}{10^{-6}}=10^{8}$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 41,
+      "question": "Identify the word with correct spelling form the following options.",
+      "options": [
+        "Counterfet",
+        "Counterfiet",
+        "Counterfit",
+        "Counterfeit"
+      ],
+      "correctIndex": 3,
+      "explanation": "Counterfeit — সঠিক।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 42,
+      "question": "Which one of the following spelling is correct?",
+      "options": [
+        "Fascinating",
+        "Fasinating",
+        "Facinating",
+        "Facsinating"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক বানান Fascinating। অন্য তিনটি রূপে অক্ষর বাদ/ভুল স্থানে আছে; আগের Each boy/has ব্যাখ্যা অন্য প্রশ্নের।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 43,
+      "question": "Chose the indirect speech of- Hasan said, 'Let me have some rice'",
+      "options": [
+        "Hasan said that he wanted some rice.",
+        "Hasan wished that he might have some rice.",
+        "Hasan prayed that he might have some rice.",
+        "Hasan suggested to have some rice."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hasan wished that he might have...।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 44,
+      "question": "Pick the right passive form of the sentence 'We must endure what we cannot cure' form the following.",
+      "options": [
+        "What we cure must be endured.",
+        "What cannot be cured must be endured.",
+        "What cannot cured must endured.",
+        "What could be cure must be endured."
+      ],
+      "correctIndex": 1,
+      "explanation": "What cannot be cured must be endured।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following word is equivalent to EQUIVOCAL?",
+      "options": [
+        "Obstacle",
+        "Indolent",
+        "Illusory",
+        "Ambiguous"
+      ],
+      "correctIndex": 3,
+      "explanation": "Equivocal = Ambiguous।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 46,
+      "question": "The term MICROSCOPIC is same as -",
+      "options": [
+        "Excessive",
+        "Woe",
+        "Minute",
+        "Irrelevant"
+      ],
+      "correctIndex": 2,
+      "explanation": "Microscopic = Minute।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 47,
+      "question": "Select the term that contrasts FREQUENCY",
+      "options": [
+        "Unity",
+        "Rarity",
+        "Gradualness",
+        "Persistency"
+      ],
+      "correctIndex": 1,
+      "explanation": "Frequency × Rarity।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is the antonym of the word DISPARATE?",
+      "options": [
+        "Homogeneous",
+        "Invariable",
+        "Cumulative",
+        "Cooperative"
+      ],
+      "correctIndex": 0,
+      "explanation": "Disparate × Homogeneous।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following resembles ARTICULATE : SPEECH?",
+      "options": [
+        "Coordinated : Movement",
+        "Predictable : Event",
+        "Dangerous : Disease",
+        "Active : thought"
+      ],
+      "correctIndex": 0,
+      "explanation": "Articulate:Speech = Coordinated:Movement।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following is the analogy of ANTIDOTE: POISON?",
+      "options": [
+        "Cure : Recovery",
+        "Narcotic : Sleep",
+        "Stimulant : Relapse",
+        "Tonic : Lethargy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Antidote বিষের প্রভাব প্রতিহত করে; tonic lethargy বা অবসন্নতা কাটাতে ব্যবহৃত হয়। Tonic:Lethargy একই প্রতিকার–সমস্যা সম্পর্ক।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 51,
+      "question": "Choose the word in which the suffix is used correctly?",
+      "options": [
+        "Digital",
+        "Comforted",
+        "Nonstop",
+        "All of these"
+      ],
+      "correctIndex": 0,
+      "explanation": "Digital — সঠিক suffix।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 52,
+      "question": "'I sat down'. and 'Tears ran down her face'. The word 'down' is used in these sentences as -",
+      "options": [
+        "Verb-adverb",
+        "Adverb-Preposition",
+        "Adverb-Verb",
+        "Preposition-Adverb"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adverb-Preposition।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 53,
+      "question": "Identify the correct replacement of the underlined portion of the sentence 'Most of the students like to read these kind of detective stories for their supplementary reading'.",
+      "options": [
+        "these kind of detective stories",
+        "these kind of detective story",
+        "this kind of detective story",
+        "this kinds of detective story"
+      ],
+      "correctIndex": 2,
+      "explanation": "this kind of detective story...।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 54,
+      "question": "Choose the correct replacement of the underlined portion of the sentence 'It is not for you to take responsibility, it is rather, me who is the guilty person in this matter'.",
+      "options": [
+        "me who is",
+        "me who am",
+        "I who is",
+        "I who am"
+      ],
+      "correctIndex": 3,
+      "explanation": "It is I who am the guilty person: formal subject pronoun I এবং who-এর antecedent I অনুযায়ী am হবে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 55,
+      "question": "Pick appropriate word from the following to complete the sentence 'The spellings of many old English words have been ______ in the living language, although their pronunciations have changed'?",
+      "options": [
+        "shortened",
+        "improved",
+        "preserved",
+        "revised"
+      ],
+      "correctIndex": 2,
+      "explanation": "preserved।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 56,
+      "question": "Complete the sentence 'Had I known in advance, I ____ enough preparation' choosing from the given options.",
+      "options": [
+        "would take",
+        "would have taken",
+        "took",
+        "will take"
+      ],
+      "correctIndex": 1,
+      "explanation": "would have taken।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 57,
+      "question": "Identify the substitute word for the sentence 'The art of cutting trees and bushes into ornamental shapes'.",
+      "options": [
+        "Horticulture",
+        "Bonsai",
+        "Pruning",
+        "Topiary"
+      ],
+      "correctIndex": 3,
+      "explanation": "Topiary — গাছ ছাঁটার শিল্প।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 58,
+      "question": "Which of the following words substitute the sentence ‘A remedy for all diseases'?",
+      "options": [
+        "Drug",
+        "Panacea",
+        "Antiseptic",
+        "Cure"
+      ],
+      "correctIndex": 1,
+      "explanation": "Panacea — সর্বরোগের ওষুধ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 59,
+      "question": "Choose the appropriate preposition to complete the sentence 'Unfortunately, we had to cancel it owing _______ the bad weather.",
+      "options": [
+        "in",
+        "for",
+        "of",
+        "to"
+      ],
+      "correctIndex": 3,
+      "explanation": "Owing to একটি স্থির prepositional phrase; bad weather-এর আগে to হবে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 60,
+      "question": "Which of the following preposition completes the sentence 'Although ballet and modern dance are both concerned ________ the movement in space, training for ballet is more rigorous than that for modern dance?",
+      "options": [
+        "with",
+        "to",
+        "in",
+        "of"
+      ],
+      "correctIndex": 0,
+      "explanation": "Concerned with অর্থ কোনো বিষয় নিয়ে সংশ্লিষ্ট; এখানে concerned with the movement in space হবে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 61,
+      "question": "A hundred-years-old man is called-",
+      "options": [
+        "Centurion",
+        "Centenarian",
+        "Silver Man",
+        "Golden Man"
+      ],
+      "correctIndex": 1,
+      "explanation": "Centenarian।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 62,
+      "question": "The idiom 'At stake' means -",
+      "options": [
+        "At risk",
+        "In dilemma",
+        "Creating doubt",
+        "At the happiest moment"
+      ],
+      "correctIndex": 0,
+      "explanation": "At stake = At risk।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 63,
+      "question": "বাংলা সাহিত্যের প্রথম মহিলা ঔপন্যাসিক স্বর্ণকুমারী দেবী রচিত প্রথম উপন্যাসের নাম কি?",
+      "options": [
+        "দেবী",
+        "দীপনির্বাণ",
+        "নির্বাণদীপ",
+        "দীপশিখা"
+      ],
+      "correctIndex": 1,
+      "explanation": "বাংলা সাহিত্যের প্রথম মহিলা ঔপন্যাসিক স্বর্ণকুমারী দেবী। ১৮৭৬ সালে তাঁর প্রথম উপন্যাস ‘দীপনির্বাণ’ প্রকাশিত হয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 64,
+      "question": "নিচের কোনটি গোয়েন্দাভিত্তিক রচনা?",
+      "options": [
+        "লাল ফুলকি",
+        "জাল",
+        "ওয়ারিশ",
+        "যাত্রা"
+      ],
+      "correctIndex": 1,
+      "explanation": "জাল — গোয়েন্দাভিত্তিক।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 65,
+      "question": "‘কারাগারের রোজনামচা' রচনাটির নামকরণ কে করেন?",
+      "options": [
+        "শেখ মুজিবুর রহমান",
+        "শেখ হাসিনা",
+        "শেখ রেহানা",
+        "শেখ ফজিলাতুন্নেছা"
+      ],
+      "correctIndex": 2,
+      "explanation": "শেখ রেহানা... কী-অনুযায়ী।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 66,
+      "question": "\"ফুল ফুটুক আর না ফুটুক আজ বসন্ত\" এ উদ্ধৃতির রচয়িতা কে?",
+      "options": [
+        "সঞ্জীব চট্টোপাধ্যায়",
+        "শামছুর রাহমান",
+        "দাউদ হায়দার",
+        "সুভাষ মুখোপাধ্যায়"
+      ],
+      "correctIndex": 3,
+      "explanation": "সুভাষ মুখোপাধ্যায়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 67,
+      "question": "নিচের কোনটি মুক্তিযুদ্ধভিত্তিক নাটক?",
+      "options": [
+        "ফেরারী সূর্য",
+        "দেয়াল",
+        "নীল দংশন",
+        "যে অরণ্যে আলো নেই"
+      ],
+      "correctIndex": 3,
+      "explanation": "যে অরণ্যে আলো নেই নীলিমা ইব্রাহিমের মুক্তিযুদ্ধভিত্তিক নাটক। আগের মুক্তির গান চলচ্চিত্রের ব্যাখ্যাটি এই প্রশ্নের নয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 68,
+      "question": "‘সকল আলেমগণ আজ উপস্থিত'- বাক্যটিতে কোন দোষ আছে?",
+      "options": [
+        "গুরুচন্ডালী দোষ",
+        "বাহুল্য দোষ",
+        "দুর্বোধ্যতা দোষ",
+        "বিদেশী শব্দ দোষ"
+      ],
+      "correctIndex": 1,
+      "explanation": "বাহুল্য দোষ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 69,
+      "question": "'গৃহী' শব্দের বিপরীতার্থক শব্দ কি?",
+      "options": [
+        "সঞ্চয়",
+        "সন্ন্যাসী",
+        "সংসারী",
+        "কোনটিই নয়"
+      ],
+      "correctIndex": 1,
+      "explanation": "'গৃহী' শব্দের বিপরীতার্থক শব্দ হলো সন্ন্যাসী।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 70,
+      "question": "'দুরবস্থা' শব্দটির সন্ধি বিচ্ছেদ কি?",
+      "options": [
+        "দূর + অবস্থা",
+        "দুর + বস্থা",
+        "দুঃ + অবস্থা",
+        "দুর + অবস্থা"
+      ],
+      "correctIndex": 2,
+      "explanation": "দুরবস্থা = দুঃ + অবস্থা।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 71,
+      "question": "\"যার বলে তুমি বলী , তার বলে আমি বলি\" বাক্যে নিম্নরেখ শব্দটি কি অর্থে ব্যবহৃত হয়েছে?",
+      "options": [
+        "বলবান",
+        "নিবেদিত বস্তু",
+        "ত্যাগ",
+        "ব্যতীত"
+      ],
+      "correctIndex": 0,
+      "explanation": "বলবান অর্থে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 72,
+      "question": "'নন্দন' শব্দটির সঠিক প্রকৃতি ও প্রত্যয় হলো -",
+      "options": [
+        "√অন্দ + অন",
+        "√নিন্দ + অন",
+        "√নন্দি + অন",
+        "√নন্দো + অন"
+      ],
+      "correctIndex": 2,
+      "explanation": "√নন্দি + অন।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 73,
+      "question": "'স্বৈর' শব্দটির সন্ধি বিচ্ছেদ করলে পাওয়া যায় -",
+      "options": [
+        "স্বর + ইর",
+        "স + ঈর",
+        "স্বীয় + ইর",
+        "স্ব + ঈর"
+      ],
+      "correctIndex": 3,
+      "explanation": "স্বৈর = স্ব + ঈর।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 74,
+      "question": "শুদ্ধ বানান কোনটি?",
+      "options": [
+        "ভাগীরথী",
+        "ভাগিরথী",
+        "ভাগীরথি",
+        "ভাগীরোধী"
+      ],
+      "correctIndex": 0,
+      "explanation": "শুদ্ধ বানান \"ভাগীরথী\"।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 75,
+      "question": "\"মস্কোতে কয়েকদিন\" নামক ভ্রমণকাহিনীর রচয়িতা কে?",
+      "options": [
+        "সৈয়দ মুজতবা আলী",
+        "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+        "ড. মুহাম্মদ এনামুল হক",
+        "অন্নদাশঙ্কর রায়"
+      ],
+      "correctIndex": 1,
+      "explanation": "তারাশঙ্কর বন্দ্যোপাধ্যায়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 76,
+      "question": "'খিচুড়ী পাকানো' প্রবচনটির অর্থ -",
+      "options": [
+        "ষড়যন্ত্র করা",
+        "দলবাজি করা",
+        "বিশৃঙ্খলা সৃষ্টি করা",
+        "বিপুল ক্ষতি করা"
+      ],
+      "correctIndex": 2,
+      "explanation": "খিচুড়ি পাকানো = বিশৃঙ্খলা।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2022 — 2022-10-28"
+      ],
+      "subject": "গণিত"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "examSlug": "bb_ad_2011-04-01",
+  "examTitle": "বাংলাদেশ ব্যাংক — AD — 2011 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)",
+  "categoryKey": "bangladesh-bank",
+  "categoryName": "বাংলাদেশ ব্যাংক",
+  "url": "https://dreamsintodeeds.me/questions/bangladesh-bank/bb_ad_2011-04-01",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The goal to ensure the accuracy, integrity and safety of all information system processes and resources is goal of :",
+      "options": [
+        "Security management",
+        "Firewalls",
+        "Encryptions",
+        "Cyber theft",
+        "Hacking"
+      ],
+      "correctIndex": 0,
+      "explanation": "সব তথ্যপ্রক্রিয়া ও সম্পদের accuracy, integrity ও safety রক্ষা সামগ্রিক security management-এর লক্ষ্য; firewall তার একটি উপায়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2011 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 2,
+      "question": "A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in :",
+      "options": [
+        "20 days",
+        "22.5 days",
+        "25 days",
+        "30 days",
+        "15 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "A:B-এর কাজের হার 3:1। B-এর সময় 90 দিন, A-এর 30 দিন; একসঙ্গে 1/(1/30+1/90)=22.5 দিন।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2011 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "Riaz spent 20% of his income on taxes and 20% of the remainder on rent . What percent of his income has he spent on rent?",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18",
+        "15"
+      ],
+      "correctIndex": 2,
+      "explanation": "অবশিষ্ট আয়ের 20% যদি ভাড়া হয় এবং আগে 20% খরচ হয়, মোট আয়ের 0.8×0.2=16% ভাড়া।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2011 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "What is the slope of the line that contains the points ( 1, 3 ) and ( 4, -3 )?",
+      "options": [
+        "-2",
+        "-0.5",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "ঢাল = (−3−3)/(4−1) = −2।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2011 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "The price of corn rose 20% two years ago and 15% last year . What is the combined percent increase in price?",
+      "options": [
+        "5%",
+        "17.5%",
+        "25%",
+        "35%",
+        "38%"
+      ],
+      "correctIndex": 4,
+      "explanation": "ক্রমিক বৃদ্ধি 20% ও 15%: 1.20×1.15−1 = 0.38 = 38%।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2011 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "The organizers of a fair projected 25% increase of visitors this year over that of the last year but the actual turnover was 20% less than that of the last year. What percent of projected visitors attended the fair?",
+      "options": [
+        "25%",
+        "45%",
+        "55%",
+        "64%",
+        "67%"
+      ],
+      "correctIndex": 3,
+      "explanation": "actual = previous-এর 0.8 গুণ; projected = previous-এর 1.25 গুণ। অনুপাত actual/projected=0.8/1.25=0.64।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2011 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "How many squares are there in a chess board if each player has got 16 pawns to play with?",
+      "options": [
+        "64",
+        "128",
+        "204",
+        "256",
+        "552"
+      ],
+      "correctIndex": 2,
+      "explanation": "204 squares in chessboard।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2011 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "Two planes leave the airport at the same time . Minutes later, plane A is 33 miles due north of the airport and plane B is 56 miles due east of the airport . How far apart are the two planes?",
+      "options": [
+        "82",
+        "119",
+        "65",
+        "93",
+        "66"
+      ],
+      "correctIndex": 2,
+      "explanation": "দুই লম্ব বাহু 33 ও 56 হলে অতিভুজ √(33²+56²)=65।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2011 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "A circular pool is filling with water . Assuming the water level will be 4ft deep and the diameter is 20 ft, what is the approximate volume of the water needed to fill the pool?",
+      "options": [
+        "251.2 cubic ft",
+        "1,256 cubic ft",
+        "5,024 cubic ft",
+        "3,140 cubic ft",
+        "4,410 cubic ft"
+      ],
+      "correctIndex": 1,
+      "explanation": "বেলনের আয়তন πr²h = π×10²×4 = 400π ≈ 1256.64।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2011 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "In how many ways can the letters of the word 'ARRANGE' be arranged in which the two Rs and two As come together?",
+      "options": [
+        "360",
+        "120",
+        "95",
+        "75",
+        "150"
+      ],
+      "correctIndex": 1,
+      "explanation": "ARRANGE-এ A দুটি ও R দুটি। AA ও RR-কে পৃথক block ধরলে AA, RR, N, G, E মোট 5টি বস্তু; সংখ্যা 5! = 120।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2011 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "In the two consecutive numbers one-fourth of the smaller one exceeds one - fifth of the larger one by 3 . The numbers are :",
+      "options": [
+        "36, 37",
+        "13, 12",
+        "64, 65",
+        "24, 25",
+        "75, 76"
+      ],
+      "correctIndex": 2,
+      "explanation": "smaller x, larger x+1; $\\frac{x}{4}-\\frac{x+1}{5}=...$... কী: ৬৪,৬৫।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2011 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "According to the proposed national budget for FY 2011-12 ., what is the minimum level of taxable income for a tax payer in general?",
+      "options": [
+        "TK. 150,000",
+        "TK. 160,000",
+        "TK. 165,000",
+        "TK. 180,000",
+        "TK. 200,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tax-free income Tk 180,000... কী-অনুযায়ী।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2011 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

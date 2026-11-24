@@ -1,0 +1,430 @@
+{
+  "categoryKey": "police-defense-security",
+  "categoryName": "পুলিশ, প্রতিরক্ষা ও নিরাপত্তা",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/police-defense-security",
+  "totalExams": 60,
+  "totalQuestions": 2966,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "ansar_adjutant_2015-12-26",
+      "examTitle": "স্বরাষ্ট্র মন্ত্রণালয় — আনসার ও ভিডিপি অধিদপ্তর — সার্কেল অ্যাডজুটেন্ট/উপজেলা আন... 2015-12-26",
+      "questionCount": 14,
+      "file": "ansar_adjutant_2015-12-26.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/ansar_adjutant_2015-12-26"
+    },
+    {
+      "examSlug": "ansar_officeassistant_2025-05-31",
+      "examTitle": "বাংলাদেশ আনসার ও গ্রাম প্রতিরক্ষা বাহিনী (অফিস সহকারী) - ৩১.০৫.২০২৫",
+      "questionCount": 69,
+      "file": "ansar_officeassistant_2025-05-31.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/ansar_officeassistant_2025-05-31"
+    },
+    {
+      "examSlug": "ansar_variousposts_2025-06-21",
+      "examTitle": "আনসার ও গ্রাম প্রতিরক্ষা বাহিনী - বিভিন্ন পদ 2025-06-21",
+      "questionCount": 15,
+      "file": "ansar_variousposts_2025-06-21.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/ansar_variousposts_2025-06-21"
+    },
+    {
+      "examSlug": "baf_questionbank_mixed",
+      "examTitle": "বাংলাদেশ বিমান বাহিনী — নিয়োগ প্রশ্নব্যাংক",
+      "questionCount": 6,
+      "file": "baf_questionbank_mixed.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/baf_questionbank_mixed"
+    },
+    {
+      "examSlug": "bgb_questionbank_mixed",
+      "examTitle": "বর্ডার গার্ড বাংলাদেশ (BGB) — নিয়োগ প্রশ্নব্যাংক",
+      "questionCount": 3,
+      "file": "bgb_questionbank_mixed.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/bgb_questionbank_mixed"
+    },
+    {
+      "examSlug": "defensemin_administrativeofficer_2019",
+      "examTitle": "প্রতিরক্ষা মন্ত্রণালয় প্রধান প্রশাসনিক কর্মকর্তার কার্যালয় (সহকারী পরিচালক) -২০১৯",
+      "questionCount": 77,
+      "file": "defensemin_administrativeofficer_2019.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/defensemin_administrativeofficer_2019"
+    },
+    {
+      "examSlug": "defensemin_assistantdirector_2016",
+      "examTitle": "defensemin_assistantdirector_2016",
+      "questionCount": 66,
+      "file": "defensemin_assistantdirector_2016.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/defensemin_assistantdirector_2016"
+    },
+    {
+      "examSlug": "defensemin_assistantdirector_2018-02-02",
+      "examTitle": "defensemin_assistantdirector_2018-02-02",
+      "questionCount": 78,
+      "file": "defensemin_assistantdirector_2018-02-02.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/defensemin_assistantdirector_2018-02-02"
+    },
+    {
+      "examSlug": "defensemin_assistantdirector_2023-02-03",
+      "examTitle": "প্রতিরক্ষা মন্ত্রণালয় (সহকারী পরিচালক) - ০৩.০২.২০২৩",
+      "questionCount": 88,
+      "file": "defensemin_assistantdirector_2023-02-03.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/defensemin_assistantdirector_2023-02-03"
+    },
+    {
+      "examSlug": "defensemin_juniorteacher_2021-12-04",
+      "examTitle": "defensemin_juniorteacher_2021-12-04",
+      "questionCount": 14,
+      "file": "defensemin_juniorteacher_2021-12-04.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/defensemin_juniorteacher_2021-12-04"
+    },
+    {
+      "examSlug": "defensemin_officeassistant_2024-12-13",
+      "examTitle": "বাংলাদেশ ন্যাশনাল ক্যাডেট কোর অধিদপ্তর (অফিস সহকারী) - ১৩.১২.২০২৪",
+      "questionCount": 67,
+      "file": "defensemin_officeassistant_2024-12-13.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/defensemin_officeassistant_2024-12-13"
+    },
+    {
+      "examSlug": "defensemin_post_2004-08-06",
+      "examTitle": "defensemin_post_2004-08-06",
+      "questionCount": 15,
+      "file": "defensemin_post_2004-08-06.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/defensemin_post_2004-08-06"
+    },
+    {
+      "examSlug": "defensemin_post_2005-04-28",
+      "examTitle": "প্রতিরক্ষা মন্ত্রণালয়  —  গুপ্ত সংকেত পরিদপ্তর  —  সাইফার অফিসার 2005-04-28",
+      "questionCount": 15,
+      "file": "defensemin_post_2005-04-28.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/defensemin_post_2005-04-28"
+    },
+    {
+      "examSlug": "defensemin_post_2023-02-03",
+      "examTitle": "প্রতিরক্ষা মন্ত্রনালয় (সহকারি পরিচালক-নন টেকনিক্যাল) -০৩.০২.২০২৩",
+      "questionCount": 90,
+      "file": "defensemin_post_2023-02-03.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/defensemin_post_2023-02-03"
+    },
+    {
+      "examSlug": "defensemin_subassistantengineer_2025-02-15",
+      "examTitle": "মিলিটারি ইঞ্জিনিয়ার সার্ভিসেস – উপ-সহকারী প্রকৌশলী (বি/আর) 2025-02-15",
+      "questionCount": 14,
+      "file": "defensemin_subassistantengineer_2025-02-15.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/defensemin_subassistantengineer_2025-02-15"
+    },
+    {
+      "examSlug": "defensemin_subassistantengineer_2025-02-15-2",
+      "examTitle": "মিলিটারি ইঞ্জিনিয়ার সার্ভিসেস – উপ-সহকারী প্রকৌশলী (ই/এম) 2025-02-15",
+      "questionCount": 15,
+      "file": "defensemin_subassistantengineer_2025-02-15-2.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/defensemin_subassistantengineer_2025-02-15-2"
+    },
+    {
+      "examSlug": "defensemin_variousposts_2025-06-21",
+      "examTitle": "মিলিটারি ইঞ্জিনিয়ার সার্ভিসেস (বিভিন্ন পদ) - ২১.০৬.২০২৫",
+      "questionCount": 66,
+      "file": "defensemin_variousposts_2025-06-21.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/defensemin_variousposts_2025-06-21"
+    },
+    {
+      "examSlug": "dgfi_assistantdirector_2025-11-22",
+      "examTitle": "dgfi_assistantdirector_2025-11-22",
+      "questionCount": 90,
+      "file": "dgfi_assistantdirector_2025-11-22.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/dgfi_assistantdirector_2025-11-22"
+    },
+    {
+      "examSlug": "dgfi_securityinspector_2025-12-13",
+      "examTitle": "ডিজিএফআই (নিরাপত্তা পরিদর্শক/এসআই) - ১৩.১২.২০২৫",
+      "questionCount": 88,
+      "file": "dgfi_securityinspector_2025-12-13.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/dgfi_securityinspector_2025-12-13"
+    },
+    {
+      "examSlug": "dnc_sub-inspector_2018",
+      "examTitle": "dnc_sub-inspector_2018",
+      "questionCount": 67,
+      "file": "dnc_sub-inspector_2018.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/dnc_sub-inspector_2018"
+    },
+    {
+      "examSlug": "fireservice_civilianposts_2024-01-27",
+      "examTitle": "বাংলাদেশ বেসামরিক বিমান চলাচল কর্তৃপক্ষ  —  এয়ারপোর্ট ফায়ার লিডার 2024-01-27",
+      "questionCount": 15,
+      "file": "fireservice_civilianposts_2024-01-27.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/fireservice_civilianposts_2024-01-27"
+    },
+    {
+      "examSlug": "fireservice_firefighter_2023-09-02",
+      "examTitle": "ফায়ার সার্ভিস ও সিভিল ডিফেন্স (ফায়ার ফাইটার) - ০২.০৯.২০২৩",
+      "questionCount": 43,
+      "file": "fireservice_firefighter_2023-09-02.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/fireservice_firefighter_2023-09-02"
+    },
+    {
+      "examSlug": "fireservice_post_2022-08-31",
+      "examTitle": "fireservice_post_2022-08-31",
+      "questionCount": 15,
+      "file": "fireservice_post_2022-08-31.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/fireservice_post_2022-08-31"
+    },
+    {
+      "examSlug": "fireservice_stationofficer_2023-02-09",
+      "examTitle": "fireservice_stationofficer_2023-02-09",
+      "questionCount": 9,
+      "file": "fireservice_stationofficer_2023-02-09.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/fireservice_stationofficer_2023-02-09"
+    },
+    {
+      "examSlug": "mld_assistantteacher_2023-09-08",
+      "examTitle": "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর (সহকারী শিক্ষক) - ০৮.০৯.২০২৩",
+      "questionCount": 59,
+      "file": "mld_assistantteacher_2023-09-08.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/mld_assistantteacher_2023-09-08"
+    },
+    {
+      "examSlug": "mld_juniorteacher_2021-03-06",
+      "examTitle": "mld_juniorteacher_2021-03-06",
+      "questionCount": 15,
+      "file": "mld_juniorteacher_2021-03-06.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/mld_juniorteacher_2021-03-06"
+    },
+    {
+      "examSlug": "mld_juniorteacher_2023-03-18",
+      "examTitle": "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর (জুনিয়র শিক্ষক) - ১৮.০৩.২০২৩",
+      "questionCount": 59,
+      "file": "mld_juniorteacher_2023-03-18.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/mld_juniorteacher_2023-03-18"
+    },
+    {
+      "examSlug": "mld_juniorteacher_2023-09-09",
+      "examTitle": "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর (জুনিয়র শিক্ষক) - ০৯.০৯.২০২৩",
+      "questionCount": 60,
+      "file": "mld_juniorteacher_2023-09-09.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/mld_juniorteacher_2023-09-09"
+    },
+    {
+      "examSlug": "mld_juniorteacher_2024-03-16",
+      "examTitle": "প্রতিরক্ষা মন্ত্রণালয় সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর জুনিয়র শিক্ষক - ১৬.০৩.২০২৪",
+      "questionCount": 59,
+      "file": "mld_juniorteacher_2024-03-16.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/mld_juniorteacher_2024-03-16"
+    },
+    {
+      "examSlug": "mld_juniorteacher_2025-02-07",
+      "examTitle": "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর (জুনিয়র শিক্ষক) - ০৭.০২.২০২৫",
+      "questionCount": 58,
+      "file": "mld_juniorteacher_2025-02-07.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/mld_juniorteacher_2025-02-07"
+    },
+    {
+      "examSlug": "mld_juniorteacher_2025-02-07-2",
+      "examTitle": "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর (প্রভাষক, প্রদর্শক ও জুনিয়র শিক্ষক) - ০৭-০২-২০২৫",
+      "questionCount": 60,
+      "file": "mld_juniorteacher_2025-02-07-2.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/mld_juniorteacher_2025-02-07-2"
+    },
+    {
+      "examSlug": "mld_juniorteacher_2026-10-03",
+      "examTitle": "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর (জুনিয়র শিক্ষক) - ০৩.১০.২০২৬",
+      "questionCount": 59,
+      "file": "mld_juniorteacher_2026-10-03.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/mld_juniorteacher_2026-10-03"
+    },
+    {
+      "examSlug": "navy_laborer_2025-05-17",
+      "examTitle": "navy_laborer_2025-05-17",
+      "questionCount": 15,
+      "file": "navy_laborer_2025-05-17.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/navy_laborer_2025-05-17"
+    },
+    {
+      "examSlug": "navy_laborer_2026-08-14",
+      "examTitle": "বাংলাদেশ নৌবাহিনী (অদক্ষ শ্রমিক): ১৪.০৮.২০২৬",
+      "questionCount": 76,
+      "file": "navy_laborer_2026-08-14.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/navy_laborer_2026-08-14"
+    },
+    {
+      "examSlug": "navy_laskar_2023-06-20",
+      "examTitle": "বাংলাদেশ নৌবাহিনী  —  লস্কর / বাবুর্চি / ওয়ার্ডবয় 2023-06-20",
+      "questionCount": 15,
+      "file": "navy_laskar_2023-06-20.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/navy_laskar_2023-06-20"
+    },
+    {
+      "examSlug": "navy_officeassistant_2025-05-16",
+      "examTitle": "বাংলাদেশ নৌবাহিনী (অফিস সহকারী কাম-কম্পিউটার মুদ্রাক্ষরিক/নার্স/ল্যাবরেটরী এটেনডেন্ট) - ১৬.৫.২০২৫",
+      "questionCount": 80,
+      "file": "navy_officeassistant_2025-05-16.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/navy_officeassistant_2025-05-16"
+    },
+    {
+      "examSlug": "navy_storeman_2026-08-07",
+      "examTitle": "বাংলাদেশ নৌবাহিনী (স্টোরম্যান): ০৭.০৮.২০২৬",
+      "questionCount": 78,
+      "file": "navy_storeman_2026-08-07.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/navy_storeman_2026-08-07"
+    },
+    {
+      "examSlug": "navy_teacher_2023-06-17",
+      "examTitle": "বাংলাদেশ নৌ-বাহিনী শিক্ষক/সহকারী পরীক্ষক - ১৭.০৬.২০২৩",
+      "questionCount": 78,
+      "file": "navy_teacher_2023-06-17.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/navy_teacher_2023-06-17"
+    },
+    {
+      "examSlug": "navy_upperassistant_2026-08-14",
+      "examTitle": "বাংলাদেশ নৌবাহিনী (উচ্চমান সহকারী) : ১৪.০৮.২০২৬",
+      "questionCount": 77,
+      "file": "navy_upperassistant_2026-08-14.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/navy_upperassistant_2026-08-14"
+    },
+    {
+      "examSlug": "nsi_administrativeofficer_2004-02-27",
+      "examTitle": "nsi_administrativeofficer_2004-02-27",
+      "questionCount": 14,
+      "file": "nsi_administrativeofficer_2004-02-27.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/nsi_administrativeofficer_2004-02-27"
+    },
+    {
+      "examSlug": "nsi_assistantdirector_2017-02-03",
+      "examTitle": "জাতীয় নিরাপত্তা গোয়েন্দা সংস্থা — সহকারী পরিচালক 2017-02-03",
+      "questionCount": 13,
+      "file": "nsi_assistantdirector_2017-02-03.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/nsi_assistantdirector_2017-02-03"
+    },
+    {
+      "examSlug": "nsi_assistantdirector_2025-05-23",
+      "examTitle": "জাতীয় নিরাপত্তা গোয়েন্দা সংস্থা (NSI) সহকারী পরিচালক - ২৩.০৫.২০২৫",
+      "questionCount": 77,
+      "file": "nsi_assistantdirector_2025-05-23.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/nsi_assistantdirector_2025-05-23"
+    },
+    {
+      "examSlug": "nsi_computeroperator_2023-06-16",
+      "examTitle": "জাতীয় নিরাপত্তা গোয়েন্দা সংস্থা (NIS)(কম্পিউটার অপারেটর) - ১৬.০৬.২০২৩",
+      "questionCount": 78,
+      "file": "nsi_computeroperator_2023-06-16.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/nsi_computeroperator_2023-06-16"
+    },
+    {
+      "examSlug": "nsi_dispatchrider_2021-09-10",
+      "examTitle": "nsi_dispatchrider_2021-09-10",
+      "questionCount": 81,
+      "file": "nsi_dispatchrider_2021-09-10.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/nsi_dispatchrider_2021-09-10"
+    },
+    {
+      "examSlug": "nsi_fieldofficer_2017-03-02",
+      "examTitle": "জাতীয় নিরাপত্তা গোয়েন্দা সংস্থা — ফিল্ড অফিসার 2017-03-02",
+      "questionCount": 14,
+      "file": "nsi_fieldofficer_2017-03-02.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/nsi_fieldofficer_2017-03-02"
+    },
+    {
+      "examSlug": "nsi_fieldofficer_2021-10-08",
+      "examTitle": "জাতীয় নিরাপত্তা গোয়েন্দা সংস্থা (NSI)(ফিল্ড অফিসার) - ০৮.১০.২০২১",
+      "questionCount": 79,
+      "file": "nsi_fieldofficer_2021-10-08.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/nsi_fieldofficer_2021-10-08"
+    },
+    {
+      "examSlug": "nsi_fieldofficer_2023-06-23",
+      "examTitle": "জাতীয় নিরাপত্তা গোয়েন্দা অধিদপ্তর (NSI)(ফিল্ড অফিসার) - ২৩.০৬.২০২৩",
+      "questionCount": 79,
+      "file": "nsi_fieldofficer_2023-06-23.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/nsi_fieldofficer_2023-06-23"
+    },
+    {
+      "examSlug": "nsi_fieldstaff_2023-06-16",
+      "examTitle": "জাতীয় নিরাপত্তা ও গোয়েন্দা সংস্থা (NSI)-(ফিল্ড স্টাফ) - ১৬.০৬.২০২৩",
+      "questionCount": 76,
+      "file": "nsi_fieldstaff_2023-06-16.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/nsi_fieldstaff_2023-06-16"
+    },
+    {
+      "examSlug": "nsi_fieldstaff_2025-06-20",
+      "examTitle": "জাতীয় গোয়েন্দা সংস্থা (NSI) (ফিল্ড স্টাফ) - ২০.০৬.২০২৫",
+      "questionCount": 77,
+      "file": "nsi_fieldstaff_2025-06-20.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/nsi_fieldstaff_2025-06-20"
+    },
+    {
+      "examSlug": "nsi_officeassistant_2025-06-21",
+      "examTitle": "জাতীয় গোয়েন্দা সংস্থা - অফিস সহায়ক 2025-06-21",
+      "questionCount": 15,
+      "file": "nsi_officeassistant_2025-06-21.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/nsi_officeassistant_2025-06-21"
+    },
+    {
+      "examSlug": "nsi_watcherconstable_2019",
+      "examTitle": "nsi_watcherconstable_2019",
+      "questionCount": 71,
+      "file": "nsi_watcherconstable_2019.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/nsi_watcherconstable_2019"
+    },
+    {
+      "examSlug": "nsi_wirelessoperator_2021-09-11",
+      "examTitle": "জাতীয় নিরাপত্তা গোয়েন্দা সংস্থা (NSI)(ওয়্যারলেস অপারেটর/হিসাবরক্ষক কাম-ক্যাশিয়ার) - ১১.০৯.২০২১",
+      "questionCount": 77,
+      "file": "nsi_wirelessoperator_2021-09-11.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/nsi_wirelessoperator_2021-09-11"
+    },
+    {
+      "examSlug": "police_policeassistant_2002-12-15",
+      "examTitle": "police_policeassistant_2002-12-15",
+      "questionCount": 15,
+      "file": "police_policeassistant_2002-12-15.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/police_policeassistant_2002-12-15"
+    },
+    {
+      "examSlug": "prison_post_2025-04-28",
+      "examTitle": "prison_post_2025-04-28",
+      "questionCount": 15,
+      "file": "prison_post_2025-04-28.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/prison_post_2025-04-28"
+    },
+    {
+      "examSlug": "prison_prisoncustodian_2005-08-26",
+      "examTitle": "স্বরাষ্ট্র মন্ত্রণালয় — কারা তত্ত্বাবধায়ক 2005-08-26",
+      "questionCount": 15,
+      "file": "prison_prisoncustodian_2005-08-26.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/prison_prisoncustodian_2005-08-26"
+    },
+    {
+      "examSlug": "prison_prisoncustodian_2010-03-19",
+      "examTitle": "স্বরাষ্ট্র মন্ত্রণালয়(পিএসসি) কারা তত্ত্বাবধায়ক ১৯.০৩.২০১০",
+      "questionCount": 88,
+      "file": "prison_prisoncustodian_2010-03-19.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/prison_prisoncustodian_2010-03-19"
+    },
+    {
+      "examSlug": "prison_prisonguard_2023-02-11",
+      "examTitle": "prison_prisonguard_2023-02-11",
+      "questionCount": 35,
+      "file": "prison_prisonguard_2023-02-11.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/prison_prisonguard_2023-02-11"
+    },
+    {
+      "examSlug": "prison_prisonguard_2024-04-19",
+      "examTitle": "কারা অধিদপ্তর (কারারক্ষী ও মহিলা কারারক্ষী)-১৯.০৪.২০২৪",
+      "questionCount": 35,
+      "file": "prison_prisonguard_2024-04-19.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/prison_prisonguard_2024-04-19"
+    },
+    {
+      "examSlug": "prisons_jail-guard_2024",
+      "examTitle": "prisons_jail-guard_2024",
+      "questionCount": 35,
+      "file": "prisons_jail-guard_2024.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/prisons_jail-guard_2024"
+    },
+    {
+      "examSlug": "prisons_jail-superintendent_2010",
+      "examTitle": "prisons_jail-superintendent_2010",
+      "questionCount": 90,
+      "file": "prisons_jail-superintendent_2010.json",
+      "url": "https://dreamsintodeeds.me/questions/police-defense-security/prisons_jail-superintendent_2010"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "examSlug": "sgdcl_coordofficer_2020-11-27",
+  "examTitle": "সুন্দরবন গ্যাসফিল্ড — সহকারী কো-অর্ডিনেটর অফিসার 2020-11-27",
+  "categoryKey": "petrobangla",
+  "categoryName": "পেট্রোবাংলা ও জ্বালানি",
+  "url": "https://dreamsintodeeds.me/questions/petrobangla/sgdcl_coordofficer_2020-11-27",
+  "questionCount": 9,
+  "questions": [
+    {
+      "id": 1,
+      "question": "একটি ট্রেন ৭২ কিলোমিটার গতিতে একটি সেতু ১ মিনিটে পার হলো। ট্রেনের দৈর্ঘ্য ৭০০ মিটার হলে সেতুটির দৈর্ঘ্য কত মিটার?",
+      "options": [
+        "500",
+        "600",
+        "720",
+        "1200"
+      ],
+      "correctIndex": 0,
+      "explanation": "বেগ $=72\\times\\frac{5}{18}=20$ মি/সে; পথ $=20\\times60=1200$ মি; সেতু $=1200-700=500$ মি।",
+      "appearedIn": [
+        "সুন্দরবন গ্যাসফিল্ড — সহকারী কো-অর্ডিনেটর অফিসার 2020-11-27"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 2,
+      "question": "The test consists ------- forty questions.",
+      "options": [
+        "in",
+        "of",
+        "with",
+        "for"
+      ],
+      "correctIndex": 1,
+      "explanation": "consists of — গঠিত।",
+      "appearedIn": [
+        "সুন্দরবন গ্যাসফিল্ড — সহকারী কো-অর্ডিনেটর অফিসার 2020-11-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "Are you aware ------- the situation in Libya?",
+      "options": [
+        "for",
+        "in",
+        "on",
+        "of"
+      ],
+      "correctIndex": 3,
+      "explanation": "aware of — অবগত।",
+      "appearedIn": [
+        "সুন্দরবন গ্যাসফিল্ড — সহকারী কো-অর্ডিনেটর অফিসার 2020-11-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "I will help you to make your dreams ------- true.",
+      "options": [
+        "seem",
+        "grow",
+        "turn",
+        "come"
+      ],
+      "correctIndex": 3,
+      "explanation": "make your dreams come true।",
+      "appearedIn": [
+        "সুন্দরবন গ্যাসফিল্ড — সহকারী কো-অর্ডিনেটর অফিসার 2020-11-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "Select the correctly spelt word.",
+      "options": [
+        "Apparent",
+        "Apperent",
+        "Aparrent",
+        "Apparente"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক বানান Apparent।",
+      "appearedIn": [
+        "সুন্দরবন গ্যাসফিল্ড — সহকারী কো-অর্ডিনেটর অফিসার 2020-11-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "Select the correctly spelt word.",
+      "options": [
+        "Aggregrate",
+        "Aggregate",
+        "Agreegate",
+        "Aggregete"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক বানান Aggregate।",
+      "appearedIn": [
+        "সুন্দরবন গ্যাসফিল্ড — সহকারী কো-অর্ডিনেটর অফিসার 2020-11-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "Find the appropriate meaning of the English word \"Adhere\" is-",
+      "options": [
+        "অভিনয় করা",
+        "জেগে থাকা",
+        "লেগে থাকা",
+        "পরিশ্রম করা"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adhere = লেগে থাকা।",
+      "appearedIn": [
+        "সুন্দরবন গ্যাসফিল্ড — সহকারী কো-অর্ডিনেটর অফিসার 2020-11-27"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 8,
+      "question": "Find the appropriate meaning of the English word \"Oppress\" is-",
+      "options": [
+        "ঘোলাটে",
+        "নিপীড়ন",
+        "মিথ্যা",
+        "মারাত্মক"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oppress = নিপীড়ন।",
+      "appearedIn": [
+        "সুন্দরবন গ্যাসফিল্ড — সহকারী কো-অর্ডিনেটর অফিসার 2020-11-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "Find the appropriate meaning of the English word \"Concise\" is-",
+      "options": [
+        "সামঞ্জস্যপূর্ণ",
+        "সংক্ষিপ্ত",
+        "সাধনা",
+        "স্বাদহীন"
+      ],
+      "correctIndex": 1,
+      "explanation": "Concise = সংক্ষিপ্ত।",
+      "appearedIn": [
+        "সুন্দরবন গ্যাসফিল্ড — সহকারী কো-অর্ডিনেটর অফিসার 2020-11-27"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    }
+  ]
+}

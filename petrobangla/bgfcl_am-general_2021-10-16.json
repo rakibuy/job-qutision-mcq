@@ -1,0 +1,250 @@
+{
+  "examSlug": "bgfcl_am-general_2021-10-16",
+  "examTitle": "bgfcl_am-general_2021-10-16",
+  "categoryKey": "petrobangla",
+  "categoryName": "petrobangla",
+  "url": "https://dreamsintodeeds.me/questions/petrobangla/bgfcl_am-general_2021-10-16",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "ধ্বন্যাত্মক শব্দদ্বিত্ব কোনটি?",
+      "options": [
+        "বাড়াবিাড়ি",
+        "ঝিকিমিক",
+        "পটাপট",
+        "পায়ে পায়ে"
+      ],
+      "correctIndex": 2,
+      "explanation": "ধ্বন্যাত্মক শব্দদ্বিত্ব — \"পটাপট\" (ধ্বনি-নির্দেশক)।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 2,
+      "question": "My husband asked him if he'd ever been convicted _____ a crime",
+      "options": [
+        "of",
+        "with",
+        "on",
+        "by"
+      ],
+      "correctIndex": 0,
+      "explanation": "convicted of a crime — অপরাধে দোষী।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "Rashed, two of ______brothers attend primary school, wishes to be a school teacher after his graduation",
+      "options": [
+        "them",
+        "which",
+        "whom",
+        "whose"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rashed, two of whose brothers... — possessive relative pronoun।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 4,
+      "question": "Antonym of Fallacy is-",
+      "options": [
+        "Truth",
+        "Abandon",
+        "Oblique",
+        "Freedom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fallacy (ভ্রান্তি)-র antonym Truth।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "What is the meaning of idiom 'pour cold water on'?",
+      "options": [
+        "Discourage",
+        "Encourage",
+        "To be calm",
+        "Deceive"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"pour cold water on\" = Discourage (নিরুৎসাহিত করা)।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "Choose the word that is spelled correctly?",
+      "options": [
+        "Anniversary",
+        "Aniverssary",
+        "Aniversary",
+        "Anniversarry"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক বানান Anniversary।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "Synonym of ENCROACH is-",
+      "options": [
+        "spread out",
+        "infest",
+        "weaken",
+        "trespass"
+      ],
+      "correctIndex": 3,
+      "explanation": "ENCROACH = trespass (অনধিকার প্রবেশ)।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "When a plot is sold for Tk. 18,700 the owner loses 15%. At what price must that plot be sold in order to again 15%?",
+      "options": [
+        "Tk, 21,000",
+        "Tk, 22,500",
+        "Tk,25,300",
+        "Tk. 25,800"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$18700=0.85C$ ⇒ $C=22000$... বিক্রয় Tk 25,300 (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "Two bikes start at the same time from two destinations 200 km apart and travel towards each other. If they cross each other at a distance of 130 km from one of the destinations, what is the ratio of their speeds?",
+      "options": [
+        "13 : 7",
+        "7 : 3",
+        "1 : 3",
+        "2 : 3"
+      ],
+      "correctIndex": 0,
+      "explanation": "দ্রুতগামী ২০০ কিমি পথ দুই বাইক সময়ে অতিক্রম; দ্রুততম-ধীরতম অনুপাত $13:7$ (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "$$4 x = 52 , x 2 - 5 2$= ?",
+      "options": [
+        "81",
+        "9",
+        "144",
+        "12"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$4x=52$ ⇒ $x=13$; $x^{2}-5^{2}=169-25=144$।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Who won the Nobel Prize 2021 in Literature?",
+      "options": [
+        "Louise Gluck",
+        "Abdulrazak Gurnah",
+        "Olga Tokarczuk",
+        "Kazuo Ishiguro"
+      ],
+      "correctIndex": 1,
+      "explanation": "২০২১ সাহিত্যে নোবেল — আব্দুলরাজাক গুরনা।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 12,
+      "question": "Which among the following is popular as Wind City.",
+      "options": [
+        "Venice",
+        "Chicago",
+        "New York",
+        "Tokyo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wind City — শিকাগো।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "The currency of Ethiopia is-",
+      "options": [
+        "Dobra",
+        "Dong",
+        "Rand",
+        "Birr"
+      ],
+      "correctIndex": 3,
+      "explanation": "ইথিওপিয়ার মুদ্রা Birr।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "Who has won the most men's singles Grand Slam titles?",
+      "options": [
+        "Daniil Medvedev",
+        "Dominic Thiem",
+        "Novak Djokovic",
+        "Roger Federer"
+      ],
+      "correctIndex": 2,
+      "explanation": "সর্বাধিক পুরুষ একক গ্র্যান্ড স্ল্যাম — নোভাক জোকোভিচ।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 15,
+      "question": "Who was the first Governor General of India?",
+      "options": [
+        "Warren Hastings",
+        "William Bentinck",
+        "Lord Dalhousie",
+        "Lord Canning"
+      ],
+      "correctIndex": 1,
+      "explanation": "ভারতের প্রথম গভর্নর জেনারেল উইলিয়াম বেন্টিঙ্ক।",
+      "appearedIn": [
+        "বাখরাবাদ গ্যাস ফিল্ড লি.  —   সহকারী ব্যবস্থাপক (সাধারণ) 2021-10-16"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    }
+  ]
+}

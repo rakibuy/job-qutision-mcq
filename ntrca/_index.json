@@ -1,0 +1,178 @@
+{
+  "categoryKey": "ntrca",
+  "categoryName": "এনটিআরসিএ (বেসরকারি শিক্ষক)",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/ntrca",
+  "totalExams": 24,
+  "totalQuestions": 2159,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "ntrca_10th_school",
+      "examTitle": "10তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়)",
+      "questionCount": 98,
+      "file": "ntrca_10th_school.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_10th_school"
+    },
+    {
+      "examSlug": "ntrca_11th_school",
+      "examTitle": "11তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়)",
+      "questionCount": 98,
+      "file": "ntrca_11th_school.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_11th_school"
+    },
+    {
+      "examSlug": "ntrca_12th_school",
+      "examTitle": "12তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়)",
+      "questionCount": 96,
+      "file": "ntrca_12th_school.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_12th_school"
+    },
+    {
+      "examSlug": "ntrca_13th_college",
+      "examTitle": "ntrca_13th_college",
+      "questionCount": 94,
+      "file": "ntrca_13th_college.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_13th_college"
+    },
+    {
+      "examSlug": "ntrca_13th_school",
+      "examTitle": "13তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়)",
+      "questionCount": 95,
+      "file": "ntrca_13th_school.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_13th_school"
+    },
+    {
+      "examSlug": "ntrca_14th_school",
+      "examTitle": "ntrca_14th_school",
+      "questionCount": 99,
+      "file": "ntrca_14th_school.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_14th_school"
+    },
+    {
+      "examSlug": "ntrca_15th_college",
+      "examTitle": "১৫তম প্রভাষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (কলেজ পর্যায়)",
+      "questionCount": 83,
+      "file": "ntrca_15th_college.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_15th_college"
+    },
+    {
+      "examSlug": "ntrca_15th_school",
+      "examTitle": "ntrca_15th_school",
+      "questionCount": 96,
+      "file": "ntrca_15th_school.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_15th_school"
+    },
+    {
+      "examSlug": "ntrca_15th_school-2",
+      "examTitle": "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)",
+      "questionCount": 90,
+      "file": "ntrca_15th_school-2.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_15th_school-2"
+    },
+    {
+      "examSlug": "ntrca_16th_college",
+      "examTitle": "১৬তম প্রভাষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (কলেজ পর্যায়)",
+      "questionCount": 81,
+      "file": "ntrca_16th_college.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_16th_college"
+    },
+    {
+      "examSlug": "ntrca_16th_school",
+      "examTitle": "16তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়)",
+      "questionCount": 101,
+      "file": "ntrca_16th_school.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_16th_school"
+    },
+    {
+      "examSlug": "ntrca_16th_school-2",
+      "examTitle": "16তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)",
+      "questionCount": 86,
+      "file": "ntrca_16th_school-2.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_16th_school-2"
+    },
+    {
+      "examSlug": "ntrca_17th_college",
+      "examTitle": "ntrca_17th_college",
+      "questionCount": 88,
+      "file": "ntrca_17th_college.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_17th_college"
+    },
+    {
+      "examSlug": "ntrca_17th_school",
+      "examTitle": "১৭তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল/সমপর্যায়) — ৩০.১২.২০২২",
+      "questionCount": 84,
+      "file": "ntrca_17th_school.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_17th_school"
+    },
+    {
+      "examSlug": "ntrca_17th_school-2",
+      "examTitle": "১৭তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২) — ০৫.০৫.২০২৩",
+      "questionCount": 83,
+      "file": "ntrca_17th_school-2.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_17th_school-2"
+    },
+    {
+      "examSlug": "ntrca_18thcycle_head-school_2026-04-18",
+      "examTitle": "৮ম এনটিআরসিএ নিয়োগ পরীক্ষা ২০২৬ (১৮তম সাইকেল) — প্রধান শিক্ষক (স্কুল)",
+      "questionCount": 95,
+      "file": "ntrca_18thcycle_head-school_2026-04-18.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_18thcycle_head-school_2026-04-18"
+    },
+    {
+      "examSlug": "ntrca_18thcycle_principal-degreecollege_2026-04-18",
+      "examTitle": "ntrca_18thcycle_principal-degreecollege_2026-04-18",
+      "questionCount": 107,
+      "file": "ntrca_18thcycle_principal-degreecollege_2026-04-18.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_18thcycle_principal-degreecollege_2026-04-18"
+    },
+    {
+      "examSlug": "ntrca_18thcycle_superintendent-dakhil_2026-04-18",
+      "examTitle": "ntrca_18thcycle_superintendent-dakhil_2026-04-18",
+      "questionCount": 90,
+      "file": "ntrca_18thcycle_superintendent-dakhil_2026-04-18.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_18thcycle_superintendent-dakhil_2026-04-18"
+    },
+    {
+      "examSlug": "ntrca_18thcycle_viceprincipal-degreecollege_2026-04-18",
+      "examTitle": "ntrca_18thcycle_viceprincipal-degreecollege_2026-04-18",
+      "questionCount": 15,
+      "file": "ntrca_18thcycle_viceprincipal-degreecollege_2026-04-18.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_18thcycle_viceprincipal-degreecollege_2026-04-18"
+    },
+    {
+      "examSlug": "ntrca_6th_college",
+      "examTitle": "ntrca_6th_college",
+      "questionCount": 86,
+      "file": "ntrca_6th_college.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_6th_college"
+    },
+    {
+      "examSlug": "ntrca_6th_school",
+      "examTitle": "6তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়)",
+      "questionCount": 100,
+      "file": "ntrca_6th_school.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_6th_school"
+    },
+    {
+      "examSlug": "ntrca_7th_school",
+      "examTitle": "7তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়)",
+      "questionCount": 99,
+      "file": "ntrca_7th_school.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_7th_school"
+    },
+    {
+      "examSlug": "ntrca_8th_school",
+      "examTitle": "8তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়)",
+      "questionCount": 97,
+      "file": "ntrca_8th_school.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_8th_school"
+    },
+    {
+      "examSlug": "ntrca_9th_school",
+      "examTitle": "ntrca_9th_school",
+      "questionCount": 98,
+      "file": "ntrca_9th_school.json",
+      "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_9th_school"
+    }
+  ]
+}

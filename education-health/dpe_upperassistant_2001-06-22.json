@@ -1,0 +1,250 @@
+{
+  "examSlug": "dpe_upperassistant_2001-06-22",
+  "examTitle": "dpe_upperassistant_2001-06-22",
+  "categoryKey": "education-health",
+  "categoryName": "education-health",
+  "url": "https://dreamsintodeeds.me/questions/education-health/dpe_upperassistant_2001-06-22",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "কোনটি সার্চ ইঞ্জিন নয়?",
+      "options": [
+        "ইয়াহু",
+        "আপডেট",
+        "বিং",
+        "গুগল"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: আপডেট।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 2,
+      "question": "একটি দ্রব্যের বিক্রয় মূল্য ৯২ টাকা। এতে বিক্রেতা লাভ হয় ১৫%। দ্রব্যটির ক্রয়মূল্য কত?",
+      "options": [
+        "৮৫ টাকা",
+        "৮০ টাকা",
+        "৭০ টাকা",
+        "৯০ টাকা"
+      ],
+      "correctIndex": 1,
+      "explanation": "উত্তর: ৮০ টাকা।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 3,
+      "question": "একটি বর্গক্ষেত্রের ক্ষেত্রফল ৯০০ বর্গ মিটার। এর পরিসীমা কত মিটার?",
+      "options": [
+        "৯০",
+        "৩০",
+        "৬০",
+        "১২০"
+      ],
+      "correctIndex": 3,
+      "explanation": "উত্তর: ১২০।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 4,
+      "question": "He is ___ FRCS .",
+      "options": [
+        "a",
+        "the",
+        "No article",
+        "an"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"an\" বসবে।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "Your conduct admits ___ no excuse .",
+      "options": [
+        "into",
+        "by",
+        "of",
+        "to"
+      ],
+      "correctIndex": 2,
+      "explanation": "এটি একটি preposition-এর ব্যবহার। 'Admit to' অর্থ স্বীকার করা বা স্বীকারোক্তি দেয়া। এ জাতীয় কোনো অর্থ মূল sentence দ্বারা প্রকাশ পায় না। তাই আমরা option (ক) ব্যবহার করতে পারি না। 'Admit of' অর্থ হলো ‘অবকাশ থাকা’। তাই আমরা যদি 'of' ব্যবহার করি, তাহলে Sentence-টি যথার্থ অর্থ প্রকাশ করে। Sentence-এর অর্থ দাঁড়ায় ‘তোমার আচরণে অজুহাত/কৈফিয়তের অবকাশ নেই।’ এবং admit-এর সঙ্গে 'for' এবং 'at' ব্যবহার করা যায় না। তাহলে (গ) -ই সঠিক answer.",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "' I was obliged to do it'- the active form of this sentence is",
+      "options": [
+        "Circumstances obliged me to do it.",
+        "some one obliged me to do it.",
+        "both 1 and 3",
+        "They obliged me to do it."
+      ],
+      "correctIndex": 2,
+      "explanation": "পরিবর্তিত রূপ: both 1 and 3।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "'Incredibly' means",
+      "options": [
+        "unbelievably",
+        "undoubtedly",
+        "truly",
+        "slowly"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Incredibly\" এর অর্থ: unbelievably।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "The word ' respond' is",
+      "options": [
+        "noun",
+        "adverb",
+        "adjective",
+        "verb"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: verb।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "Don't be so impatient ;",
+      "options": [
+        "I come",
+        "I have been coming",
+        "I'm coming",
+        "I coming"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: I'm coming।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "Find out the meaning of the word ' Forthcoming '",
+      "options": [
+        "Disposing",
+        "Disapproving",
+        "Approaching",
+        "Incoming"
+      ],
+      "correctIndex": 2,
+      "explanation": "অর্থ: Approaching।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "কোনটি অপিনিহিতির উদাহরণ?",
+      "options": [
+        "ধপাধপ",
+        "স্কুল",
+        "আইজ",
+        "গেলাস"
+      ],
+      "correctIndex": 2,
+      "explanation": "অপিনিহিতি = ধ্বনির স্থানান্তর; 'আইজ' (অগ্র+জ) উদাহরণ।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 12,
+      "question": "খেচর কোন সমাস -",
+      "options": [
+        "উপপদ তৎপুরুষ",
+        "বহুব্রীহি",
+        "দ্বন্দ্ব",
+        "কর্মধারয়"
+      ],
+      "correctIndex": 0,
+      "explanation": "সমাস: উপপদ তৎপুরুষ।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 13,
+      "question": "কোনটি বাংলা উপসর্গ?",
+      "options": [
+        "অপি",
+        "প্রতি",
+        "আইজ",
+        "গেলাস"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: আইজ।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 14,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": [
+        "উন্মীলণ",
+        "উন্মীলন",
+        "উন্মিলন",
+        "উন্মিলণ"
+      ],
+      "correctIndex": 1,
+      "explanation": "শুদ্ধ বানান: \"উন্মীলন\"।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 15,
+      "question": "হাতেম তায়ী - গ্রন্থটির রচয়িতা কে?",
+      "options": [
+        "মাহবুব আলম",
+        "সমর সেন",
+        "ফখরুল আহমদ",
+        "সুকান্ত ভট্টাচার্য"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: ফখরুল আহমদ।",
+      "appearedIn": [
+        "প্রাথমিক শিক্ষা অধিদপ্তর - উচ্চমান সহকারী কাম হিসাবরক্ষক   2001-06-22"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    }
+  ]
+}

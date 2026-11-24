@@ -1,0 +1,115 @@
+{
+  "categoryKey": "primary-head-teacher",
+  "categoryName": "প্রাথমিক প্রধান শিক্ষক",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/primary-head-teacher",
+  "totalExams": 15,
+  "totalQuestions": 1017,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "headteacher_1993_exam",
+      "examTitle": "প্রাথমিক প্রধান শিক্ষক নিয়োগ পরীক্ষা 1993",
+      "questionCount": 97,
+      "file": "headteacher_1993_exam.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_1993_exam"
+    },
+    {
+      "examSlug": "headteacher_1994_exam",
+      "examTitle": "প্রাথমিক প্রধান শিক্ষক নিয়োগ পরীক্ষা 1994",
+      "questionCount": 95,
+      "file": "headteacher_1994_exam.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_1994_exam"
+    },
+    {
+      "examSlug": "headteacher_1998_exam",
+      "examTitle": "প্রাথমিক প্রধান শিক্ষক নিয়োগ পরীক্ষা 2000",
+      "questionCount": 40,
+      "file": "headteacher_1998_exam.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_1998_exam"
+    },
+    {
+      "examSlug": "headteacher_2001_exam",
+      "examTitle": "প্রাথমিক প্রধান শিক্ষক নিয়োগ পরীক্ষা 2001",
+      "questionCount": 39,
+      "file": "headteacher_2001_exam.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_2001_exam"
+    },
+    {
+      "examSlug": "headteacher_2002_exam",
+      "examTitle": "প্রাথমিক প্রধান শিক্ষক নিয়োগ পরীক্ষা 2002",
+      "questionCount": 40,
+      "file": "headteacher_2002_exam.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_2002_exam"
+    },
+    {
+      "examSlug": "headteacher_2005_exam",
+      "examTitle": "প্রাথমিক প্রধান শিক্ষক নিয়োগ পরীক্ষা 2005",
+      "questionCount": 39,
+      "file": "headteacher_2005_exam.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_2005_exam"
+    },
+    {
+      "examSlug": "headteacher_2007_chattogram",
+      "examTitle": "headteacher_2007_chattogram",
+      "questionCount": 38,
+      "file": "headteacher_2007_chattogram.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_2007_chattogram"
+    },
+    {
+      "examSlug": "headteacher_2008_dhaka_merged",
+      "examTitle": "Primary প্রধান শিক্ষক -২০০৮ (ঢাকা বিভাগ)",
+      "questionCount": 40,
+      "file": "headteacher_2008_dhaka_merged.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_2008_dhaka_merged"
+    },
+    {
+      "examSlug": "headteacher_2009_beli_merged",
+      "examTitle": "প্রাথমিক প্রধান শিক্ষক নিয়োগ পরীক্ষা 2009 বেলি সেট",
+      "questionCount": 90,
+      "file": "headteacher_2009_beli_merged.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_2009_beli_merged"
+    },
+    {
+      "examSlug": "headteacher_2009_padma",
+      "examTitle": "Primary প্রধান শিক্ষক -২০০৯ (পদ্ম)",
+      "questionCount": 77,
+      "file": "headteacher_2009_padma.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_2009_padma"
+    },
+    {
+      "examSlug": "headteacher_2009_shapla_merged",
+      "examTitle": "প্রাথমিক প্রধান শিক্ষক নিয়োগ পরীক্ষা 2009 শাপলা সেট",
+      "questionCount": 94,
+      "file": "headteacher_2009_shapla_merged.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_2009_shapla_merged"
+    },
+    {
+      "examSlug": "headteacher_2009_shiuli_merged",
+      "examTitle": "প্রাথমিক প্রধান শিক্ষক নিয়োগ পরীক্ষা 2009 শিউলী সেট",
+      "questionCount": 86,
+      "file": "headteacher_2009_shiuli_merged.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_2009_shiuli_merged"
+    },
+    {
+      "examSlug": "headteacher_2012_baganbilash_08-10-2012",
+      "examTitle": "প্রাথমিক প্রধান শিক্ষক নিয়োগ পরীক্ষা ২০১২ (নাগলিঙ্গম) - ১২.১০.২০১২",
+      "questionCount": 70,
+      "file": "headteacher_2012_baganbilash_08-10-2012.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_2012_baganbilash_08-10-2012"
+    },
+    {
+      "examSlug": "headteacher_2012_camellia_merged",
+      "examTitle": "প্রাথমিক প্রধান শিক্ষক নিয়োগ পরীক্ষা 2012 ক্যামেলিয়া সেট",
+      "questionCount": 87,
+      "file": "headteacher_2012_camellia_merged.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_2012_camellia_merged"
+    },
+    {
+      "examSlug": "headteacher_2012_chrysanthemum_merged",
+      "examTitle": "প্রাথমিক প্রধান শিক্ষক নিয়োগ পরীক্ষা 2012 ক্রিসান্থিমাম সেট",
+      "questionCount": 85,
+      "file": "headteacher_2012_chrysanthemum_merged.json",
+      "url": "https://dreamsintodeeds.me/questions/primary-head-teacher/headteacher_2012_chrysanthemum_merged"
+    }
+  ]
+}

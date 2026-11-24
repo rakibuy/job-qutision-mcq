@@ -1,0 +1,38 @@
+{
+  "categoryKey": "rajuk-housing",
+  "categoryName": "রাজউক ও আবাসন",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/rajuk-housing",
+  "totalExams": 4,
+  "totalQuestions": 330,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "gda_building-inspector_2025",
+      "examTitle": "গাজীপুর উন্নয়ন কর্তৃপক্ষ (জিডিএ)-২০২৫",
+      "questionCount": 90,
+      "file": "gda_building-inspector_2025.json",
+      "url": "https://dreamsintodeeds.me/questions/rajuk-housing/gda_building-inspector_2025"
+    },
+    {
+      "examSlug": "nha_accounts-assistant_2023",
+      "examTitle": "জাতীয় গৃহায়ন কর্তৃপক্ষ-২০২৩",
+      "questionCount": 70,
+      "file": "nha_accounts-assistant_2023.json",
+      "url": "https://dreamsintodeeds.me/questions/rajuk-housing/nha_accounts-assistant_2023"
+    },
+    {
+      "examSlug": "pwd_accounts-assistant_2025",
+      "examTitle": "গণপূর্ত অধিদপ্তর (পিডব্লিউডি)-২০২৫",
+      "questionCount": 90,
+      "file": "pwd_accounts-assistant_2025.json",
+      "url": "https://dreamsintodeeds.me/questions/rajuk-housing/pwd_accounts-assistant_2025"
+    },
+    {
+      "examSlug": "rajuk_building-inspector_2024",
+      "examTitle": "rajuk_building-inspector_2024",
+      "questionCount": 80,
+      "file": "rajuk_building-inspector_2024.json",
+      "url": "https://dreamsintodeeds.me/questions/rajuk-housing/rajuk_building-inspector_2024"
+    }
+  ]
+}

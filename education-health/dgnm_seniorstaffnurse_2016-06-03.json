@@ -1,0 +1,250 @@
+{
+  "examSlug": "dgnm_seniorstaffnurse_2016-06-03",
+  "examTitle": "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03",
+  "categoryKey": "education-health",
+  "categoryName": "শিক্ষা ও স্বাস্থ্য নিয়োগ",
+  "url": "https://dreamsintodeeds.me/questions/education-health/dgnm_seniorstaffnurse_2016-06-03",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "জন্ম নিয়ন্ত্রনের পদ্ধতি -",
+      "options": [
+        "Safe period",
+        "OCP( Oral Contraceptive Pill)",
+        "Condom",
+        "কপার-টি"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: OCP( Oral Contraceptive Pill)।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 2,
+      "question": "ফুসফুসের আবরণকে বলা হয়-",
+      "options": [
+        "pericardium",
+        "Peritoneum",
+        "Pleura",
+        "Periosteum"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: Pleura।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "Common Bacterial Disease-",
+      "options": [
+        "Dysentery",
+        "Influenza",
+        "Dengue",
+        "Malaria"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: Dysentery।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "স্বাস্থ্য উন্নয়নমুলক কর্মকান্ড সমুহ-",
+      "options": [
+        "টিকাদান",
+        "স্বাস্থ্য শিক্ষা",
+        "চিকিৎসা",
+        "রোগ প্রতিরোধ ব্যবস্থা"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: স্বাস্থ্য শিক্ষা।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 5,
+      "question": "মাহটোটিক ডিভিশন হয়-",
+      "options": [
+        "সোমাইটিক সেল এ",
+        "নিওরোন এ",
+        "লেট স্টেজ অব sex cell এ",
+        "cardiac muscle"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: সোমাইটিক সেল এ।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 6,
+      "question": "সাধারণত রোগীর pulse palpate পরীক্ষা করার জন্য ধমনী-",
+      "options": [
+        "Ulnar artery",
+        "Radial artery",
+        "Iliac artery",
+        "External carotid artery"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: Radial artery।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 7,
+      "question": "স্বাস্থ্যের রুগ্নতার ( morbidity) সুচক কোনটি??",
+      "options": [
+        "মাতৃমৃত্যুর হার",
+        "নবজাতক মৃত্যুর হার",
+        "ইন্সিডেন্স হার",
+        "গড় আয়ু"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: ইন্সিডেন্স হার।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 8,
+      "question": "Vital Statistics এর পর্যায় হলো-",
+      "options": [
+        "রুগ্নতা বা অসুস্থ্যতা",
+        "মৃত্যু",
+        "হাসপাতালের পরিসংখ্যান",
+        "স্বাস্থ্য পরিসংখ্যাণ"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: স্বাস্থ্য পরিসংখ্যাণ।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 9,
+      "question": "প্রাথমিক প্রতিরোঢ বলতে কি বুঝায়?",
+      "options": [
+        "স্বাস্থ্যের উন্নয়ন",
+        "প্রাথমিক পর্যায়ে রোগের কারণসমুহ হতে",
+        "পর্যাপ্ত চিকিতসা",
+        "পুনর্বাসন"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: স্বাস্থ্যের উন্নয়ন।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 10,
+      "question": "মৃত্যুর সুচক-",
+      "options": [
+        "ইন্সিডেন্স এর হার",
+        "প্রিভিলেন্সের হার",
+        "ক্রুড ডেথ রেট",
+        "অক্ষমতা সীমিতিকরণ এর হার"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: ক্রুড ডেথ রেট।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 11,
+      "question": "কোনটিতে Acute heart failure হতে পারে না-",
+      "options": [
+        "Rh. fever",
+        "Myxedema",
+        "Myo. Infarction",
+        "Acute nephritis"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: Myxedema।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "HIV ছড়ায়-",
+      "options": [
+        "যৌণ মিলন",
+        "Droplet infection",
+        "অনিরাপদ পানি পান",
+        "খাদ্যের মাধ্যমে"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: যৌণ মিলন।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 13,
+      "question": "গর্ভাবস্থার লক্ষণ-",
+      "options": [
+        "Pelvic infection",
+        "মাসিক বন্ধ থাকা",
+        "ডিসমেনোরিয়া",
+        "যোনিপথে স্রাব"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: মাসিক বন্ধ থাকা।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 14,
+      "question": "প্রসব পরবর্তী জটিলতা-",
+      "options": [
+        "অপুষ্টি",
+        "পিউরিয়াল sepsis",
+        "চোখে ঝাপসা দেখা",
+        "Stroke"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: পিউরিয়াল sepsis।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 15,
+      "question": "Data সংগ্রহেরর পদ্বতিসমুহে?",
+      "options": [
+        "সাক্ষাতকার",
+        "টেবিল(Table)",
+        "Bar Diagram",
+        "Map Diagram"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: সাক্ষাতকার।",
+      "appearedIn": [
+        "স্বাস্থ্য মন্ত্রণালয় — সেবা পরিদপ্তর — সিনিয়র স্টাফ নার্স 2016-06-03"
+      ],
+      "subject": "বিজ্ঞান"
+    }
+  ]
+}

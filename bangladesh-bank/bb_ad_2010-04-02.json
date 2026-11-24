@@ -1,0 +1,214 @@
+{
+  "examSlug": "bb_ad_2010-04-02",
+  "examTitle": "bb_ad_2010-04-02",
+  "categoryKey": "bangladesh-bank",
+  "categoryName": "bangladesh-bank",
+  "url": "https://dreamsintodeeds.me/questions/bangladesh-bank/bb_ad_2010-04-02",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Kamal is shorter than Ruhan, but taller than Anika, Dina is shorter than Kamal . Rubayet is shorter than Ruhan but taller than Kamal . Who is tallest in terms of height?",
+      "options": [
+        "Kamal",
+        "Ruhan",
+        "Anika",
+        "Dina",
+        "Rubayet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kamal < Ruhan; Anika < Kamal এবং Dina < Kamal। তাই Ruhan সবার লম্বা; Dina ও Anika-এর পারস্পরিক উচ্চতা জানা যায় না।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2010 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 2,
+      "question": "Find the missing letter marked (?) in the series: C, H, M, ?, W, B.",
+      "options": [
+        "S",
+        "P",
+        "Q",
+        "R",
+        "Z"
+      ],
+      "correctIndex": 3,
+      "explanation": "প্রতিবার ৫ অক্ষর এগোয়: C→H→M→R→W→B; তাই R।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2010 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "কোনটি 'আকাশ' শব্দের সমার্থক শব্দ নয়?",
+      "options": [
+        "অন্তরীক্ষ",
+        "অম্বর",
+        "গগন",
+        "হিমাংশু",
+        "ব্যোম"
+      ],
+      "correctIndex": 3,
+      "explanation": "হিমাংশু অর্থ চাঁদ; অন্তরীক্ষ, অম্বর, গগন ও ব্যোম আকাশের প্রতিশব্দ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2010 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 4,
+      "question": "কোনগুলো দেশী শব্দ?",
+      "options": [
+        "চা, চিনি",
+        "চাল, চুলা",
+        "লুঙ্গি, ফুঙ্গি",
+        "টেবিল, চেয়ার",
+        "চন্দ্র, পৃথিবী"
+      ],
+      "correctIndex": 1,
+      "explanation": "চাল, চুলা — দেশী শব্দ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2010 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 5,
+      "question": "কোনটি সঠিক?",
+      "options": [
+        "ভদ্রতাচিত",
+        "ভদ্রচিত",
+        "ভদ্রাচিত",
+        "ভদ্রতচিত",
+        "ভদ্রোচিত"
+      ],
+      "correctIndex": 4,
+      "explanation": "পঞ্চম অপশন পুনরুদ্ধার করা হয়েছে। প্রকাশিত প্রশ্নতালিকার উত্তর: ভদ্রোচিত। এটি সরকারি উত্তরসূচি নয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2010 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 6,
+      "question": "A good book is ___ with a hard cover to __ its contents .",
+      "options": [
+        "made, outshine",
+        "hidden, reveal",
+        "written, hide",
+        "designed, protect",
+        "composed, play"
+      ],
+      "correctIndex": 3,
+      "explanation": "designed to protect।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2010 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "The list of examination marks ___ missing from Tani's drawers only a while ago .",
+      "options": [
+        "is found",
+        "was found",
+        "are found",
+        "were found",
+        "had found"
+      ],
+      "correctIndex": 1,
+      "explanation": "was found — singular subject।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2010 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "I soon lost interest in Nadia's story as she was ___ herself .",
+      "options": [
+        "repetitions",
+        "repeated",
+        "repeatedly",
+        "repeats",
+        "repeating"
+      ],
+      "correctIndex": 4,
+      "explanation": "পঞ্চম অপশন পুনরুদ্ধার করা হয়েছে। প্রকাশিত প্রশ্নতালিকার উত্তর: repeating। এটি সরকারি উত্তরসূচি নয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2010 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "Find the synonym of the word 'Radiant'",
+      "options": [
+        "Serenity",
+        "Complacency",
+        "Victory",
+        "Conger",
+        "Luminous"
+      ],
+      "correctIndex": 4,
+      "explanation": "পঞ্চম অপশন পুনরুদ্ধার করা হয়েছে। প্রকাশিত প্রশ্নতালিকার উত্তর: Luminous। এটি সরকারি উত্তরসূচি নয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2010 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "Find the synonym of the word 'Postulate'",
+      "options": [
+        "Assume",
+        "Prove",
+        "Supplement",
+        "Dispatch",
+        "Complain"
+      ],
+      "correctIndex": 0,
+      "explanation": "Postulate = Assume।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2010 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Indicate the word that expresses 'cannot be resisted'",
+      "options": [
+        "Incredible",
+        "Invisible",
+        "Inaudible",
+        "Inevitable",
+        "Irresistible"
+      ],
+      "correctIndex": 4,
+      "explanation": "পঞ্চম অপশন পুনরুদ্ধার করা হয়েছে। প্রকাশিত প্রশ্নতালিকার উত্তর: Irresistible। এটি সরকারি উত্তরসূচি নয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2010 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct meaning of the underlined idiom : The bank will not accept the guarantee of ' a man of straw '",
+      "options": [
+        "A liar",
+        "A man of no substance",
+        "A man who thinks of material benefits",
+        "One who refuses to surrender",
+        "A man of bad health"
+      ],
+      "correctIndex": 1,
+      "explanation": "man of no substance।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2010 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    }
+  ]
+}

@@ -1,0 +1,954 @@
+{
+  "examSlug": "bapex_2023",
+  "examTitle": "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩",
+  "categoryKey": "petrobangla",
+  "categoryName": "পেট্রোবাংলা ও জ্বালানি",
+  "url": "https://dreamsintodeeds.me/questions/petrobangla/bapex_2023",
+  "questionCount": 59,
+  "questions": [
+    {
+      "id": 1,
+      "question": "শুদ্ধ বানান নির্ণয় করুন",
+      "options": [
+        "শুশ্রুশা",
+        "শুশ্রূষা",
+        "শুশ্রুষা",
+        "শুষ্রশা"
+      ],
+      "correctIndex": 1,
+      "explanation": "= সেবা, পরিচর্যা। শু + শ্রূ + ষা—দীর্ঘ ঊ-কার এবং ষ-কার গুরুত্বপূর্ণ",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 2,
+      "question": "শুদ্ধ বানান নির্ণয় করুন",
+      "options": [
+        "ভস্মীভূত",
+        "ভস্মীভুত",
+        "ভস্মিভুত",
+        "ভস্মিভ্যুত"
+      ],
+      "correctIndex": 0,
+      "explanation": "= পুড়ে ছাই হয়ে যাওয়া; ভস্ম + ভূত",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 3,
+      "question": "শুদ্ধ বানান নির্ণয় করুন",
+      "options": [
+        "দুষ্কৃতকারি",
+        "দুষ্কৃতিকারি",
+        "দুষ্কৃতিকারী",
+        "দুষ্কৃতকারী"
+      ],
+      "correctIndex": 3,
+      "explanation": "দুষ্কৃত + কারী = দুষ্কৃতকারী; মাঝখানে অতিরিক্ত ই-কার নেই",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 4,
+      "question": "শুদ্ধ বানান নির্ণয় করুন",
+      "options": [
+        "অস্তমান",
+        "অস্তমাণ",
+        "অস্তায়মান",
+        "অস্তায়মাণ"
+      ],
+      "correctIndex": 2,
+      "explanation": "অর্থ অস্ত যাচ্ছে এমন; শুদ্ধ বানানে ‘মান’, ‘মাণ’ নয়",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 5,
+      "question": "‘অহর্নিশ’ শব্দের অর্থ কী?",
+      "options": [
+        "দিনরাত্রি",
+        "তেঁতো",
+        "সূর্য",
+        "কালো"
+      ],
+      "correctIndex": 0,
+      "explanation": "অহর্নিশ = অহঃ (দিন) + নিশা (রাত); অর্থ সারাক্ষণ বা দিনরাত্রি",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 6,
+      "question": "‘চয়ন’ শব্দের অর্থ কী?",
+      "options": [
+        "কঠিন",
+        "স্বপ্ন",
+        "সুন্দর",
+        "সম্ভার"
+      ],
+      "correctIndex": 3,
+      "explanation": "চয়ন = সংগ্রহ বা বেছে নেওয়া; প্রদত্ত বিকল্পে ‘সম্ভার’ নিকটার্থক",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 7,
+      "question": "‘অর্ঘ’ শব্দের অর্থ কী?",
+      "options": [
+        "পূজার উপকরণ",
+        "মূল্য",
+        "হাতি",
+        "ঘোড়া"
+      ],
+      "correctIndex": 1,
+      "explanation": "অর্ঘ মানে দাম বা মূল্য; ‘অর্ঘ্য’ আলাদা শব্দ, যার অর্থ পূজার উপকরণ",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 8,
+      "question": "‘আভরণ’ শব্দের অর্থ কী?",
+      "options": [
+        "অলংকার",
+        "গাছের বাকল",
+        "আচ্ছাদন",
+        "জিনিসপত্র"
+      ],
+      "correctIndex": 0,
+      "explanation": "আভরণ অর্থ অলংকার বা ভূষণ",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 9,
+      "question": "‘একাদশে বৃহস্পতি’ বাগধারাটির অর্থ কী?",
+      "options": [
+        "সৌভাগ্যের বিষয়",
+        "সুন্দর বিষয়",
+        "মন্দ কপাল",
+        "বিরাট আয়োজন"
+      ],
+      "correctIndex": 0,
+      "explanation": "‘একাদশে বৃহস্পতি’ অর্থ সৌভাগ্য বা অনুকূল অবস্থা",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 10,
+      "question": "Exonerate",
+      "options": [
+        "Believe",
+        "Credence",
+        "Ardent",
+        "Acq u it"
+      ],
+      "correctIndex": 3,
+      "explanation": "Exonerate = অভিযোগ/দায় থেকে মুক্ত করা; Acquit নিকটার্থক",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Perturb",
+      "options": [
+        "Porous",
+        "Anticipate",
+        "Deviant",
+        "Worry"
+      ],
+      "correctIndex": 3,
+      "explanation": "Perturb = উদ্বিগ্ন বা অস্থির করা; Worry নিকটার্থক",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "Estrange",
+      "options": [
+        "Alie n ate",
+        "Endanger",
+        "Complex",
+        "Puzzling"
+      ],
+      "correctIndex": 0,
+      "explanation": "Estrange = কারও থেকে দূরে সরিয়ে দেওয়া; Alienate নিকটার্থক",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "Squander",
+      "options": [
+        "Ransom",
+        "Blitz",
+        "Roam",
+        "Waste"
+      ],
+      "correctIndex": 3,
+      "explanation": "Squander = অপচয় করা; Waste নিকটার্থক",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "Accolade",
+      "options": [
+        "Fruit",
+        "Flower",
+        "Ho n o r",
+        "Garland"
+      ],
+      "correctIndex": 2,
+      "explanation": "Accolade = সম্মাননা, পুরস্কার বা প্রশংসা; Honor সঠিক",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "You can only do it _____ my dead body",
+      "options": [
+        "on",
+        "over",
+        "upon",
+        "under"
+      ],
+      "correctIndex": 1,
+      "explanation": "“Over my dead body” একটি স্থির idiom; অর্থ আমার প্রবল আপত্তি থাকা সত্ত্বেও নয়",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 16,
+      "question": "I did not do it intentionally; it was totally ___",
+      "options": [
+        "in adv e r te n t",
+        "indeliberate",
+        "incendiary",
+        "inevitable"
+      ],
+      "correctIndex": 0,
+      "explanation": "Inadvertent = অনিচ্ছাকৃত বা অসাবধানতাবশত ঘটে যাওয়া",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 17,
+      "question": "The present _____ green forest of the area is a far cry from the dirty, foul smelling landfill that it was a decade ago",
+      "options": [
+        "complete",
+        "beautiful",
+        "quiet",
+        "lush"
+      ],
+      "correctIndex": 3,
+      "explanation": "“Lush green” একটি প্রচলিত phrase; অর্থ সবুজে ঘন ও সমৃদ্ধ",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 18,
+      "question": "Please do not intrude _____ my privacy",
+      "options": [
+        "on",
+        "in",
+        "in to",
+        "upon"
+      ],
+      "correctIndex": 2,
+      "explanation": "উৎসের উত্তরসূচিতে “into” দেওয়া আছে; তবে “intrude on/upon my privacy” রীতিও প্রচলিত। প্রশ্নটি ভাষাগতভাবে দ্ব্যর্থক",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 19,
+      "question": "Today student should be reconciled _____ the way things are changing",
+      "options": [
+        "for",
+        "at",
+        "with",
+        "to"
+      ],
+      "correctIndex": 2,
+      "explanation": "“Be reconciled with” = পরিবর্তিত অবস্থার সঙ্গে মানিয়ে নেওয়া",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 20,
+      "question": "Man who has committed such an _____ crime must get the most severe punishment",
+      "options": [
+        "abominable",
+        "unworthy",
+        "injurious",
+        "utmost"
+      ],
+      "correctIndex": 0,
+      "explanation": "Abominable crime = অত্যন্ত ঘৃণ্য অপরাধ",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 21,
+      "question": "Nelson Mandela will go _____ in history as one of the greatest men that ever lived",
+      "options": [
+        "down",
+        "through",
+        "by",
+        "on"
+      ],
+      "correctIndex": 0,
+      "explanation": "“Go down in history” = ইতিহাসে স্মরণীয় হয়ে থাকা",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 22,
+      "question": "Before the _____ of the Europeans in India, India was a free country",
+      "options": [
+        "entry",
+        "emigration",
+        "advent",
+        "immigration"
+      ],
+      "correctIndex": 2,
+      "explanation": "Advent = আগমন বা আবির্ভাব; “advent of the Europeans”",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 23,
+      "question": "The king _____ the throne and became a hermit",
+      "options": [
+        "abolished",
+        "abdicated",
+        "abated",
+        "adorned"
+      ],
+      "correctIndex": 1,
+      "explanation": "Abdicate the throne = সিংহাসন ত্যাগ করা",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 24,
+      "question": "Anwar was debarred _____ appearing in the exam",
+      "options": [
+        "of",
+        "against",
+        "with",
+        "from"
+      ],
+      "correctIndex": 3,
+      "explanation": "“Debar someone from doing something” = কোনো কাজ থেকে বিরত/অযোগ্য করা",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 25,
+      "question": "Gatwick Airport is located in _____",
+      "options": [
+        "UK",
+        "USA",
+        "Canada",
+        "Italy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gatwick Airport যুক্তরাজ্যের লন্ডন অঞ্চলের বিমানবন্দর",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 26,
+      "question": "Which key combination is used to permanently delete a file or folder?",
+      "options": [
+        "Alt + delete",
+        "CTRL + delete",
+        "Shift + delete",
+        "End + delete"
+      ],
+      "correctIndex": 2,
+      "explanation": "Windows-এ Shift + Delete সাধারণত Recycle Bin এড়িয়ে delete করে",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 27,
+      "question": "What is the capital of Canada?",
+      "options": [
+        "Montreal",
+        "Toronto",
+        "Ottawa",
+        "Edmonton"
+      ],
+      "correctIndex": 2,
+      "explanation": "কানাডার রাজধানী Ottawa; Toronto নয়",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 28,
+      "question": "India-Bangladesh Friendship Pipeline (IBFPL) will transport diesel from India to BPC depot in",
+      "options": [
+        "Tamabil",
+        "Akhaura",
+        "Benapole",
+        "Parbatipur"
+      ],
+      "correctIndex": 3,
+      "explanation": "India–Bangladesh Friendship Pipeline-এ ডিজেল পার্বতীপুর ডিপোতে পৌঁছায়",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 29,
+      "question": "In the digital world, IoT stands for",
+      "options": [
+        "Internet of Technologies",
+        "In te rn e t o f Th in gs",
+        "Internet of Transmission",
+        "Intranet of Technologies"
+      ],
+      "correctIndex": 1,
+      "explanation": "IoT-এর পূর্ণরূপ Internet of Things—নেটওয়ার্কে সংযুক্ত ডিভাইস",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 30,
+      "question": "Which country's population has dropped for the first time since 1961?",
+      "options": [
+        "Japan",
+        "China",
+        "England",
+        "France"
+      ],
+      "correctIndex": 1,
+      "explanation": "প্রশ্নের সময়কাল ২০২৩: চীনের জনসংখ্যা ২০২২ সালে ১৯৬১-এর পর প্রথম কমে",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 31,
+      "question": "In Excel, the COUNTA() function _____",
+      "options": [
+        "counts cells having alphabets",
+        "counts empty cells",
+        "counts cells having number",
+        "co u n ts n o n -e m pty ce lls"
+      ],
+      "correctIndex": 3,
+      "explanation": "COUNTA() ফাংশন খালি নয় এমন cell গণনা করে; শুধু সংখ্যা নয়",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 32,
+      "question": "Keane Bridge is located in _____",
+      "options": [
+        "Bogra",
+        "Mymensingh",
+        "Khulna",
+        "Sylhet"
+      ],
+      "correctIndex": 3,
+      "explanation": "কিন ব্রিজ সিলেট শহরের সুরমা নদীর ওপর অবস্থিত",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 33,
+      "question": "The military operation carried out by the Pakistan Army in the erstwhile East Pakistan in March 1971 was named operation",
+      "options": [
+        "Searchlight",
+        "Jackpot",
+        "Blitz",
+        "Jinnah"
+      ],
+      "correctIndex": 0,
+      "explanation": "২৫ মার্চ ১৯৭১-এ পাকিস্তানি সেনাবাহিনীর অভিযানের নাম Operation Searchlight",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 34,
+      "question": "Who won the Golden Boot award in 2022?",
+      "options": [
+        "Kylian Mbappe",
+        "Emiliano Martinez",
+        "Luka Modric",
+        "Lionel Messi"
+      ],
+      "correctIndex": 0,
+      "explanation": "২০২২ FIFA World Cup-এ Kylian Mbappé ৮ গোল করে Golden Boot পান",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 35,
+      "question": "Who was the player of the tournament in ICC T20 World Cup 2022?",
+      "options": [
+        "Ben Stokes",
+        "Sam Curran",
+        "Babar Azam",
+        "Shaheen Afridi"
+      ],
+      "correctIndex": 1,
+      "explanation": "২০২২ ICC Men’s T20 World Cup-এ Player of the Tournament ছিলেন Sam Curran",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 36,
+      "question": "The strait that runs between Asia and Europe is known as:",
+      "options": [
+        "Hormuz",
+        "Bosphorus",
+        "Bering",
+        "Malacca"
+      ],
+      "correctIndex": 1,
+      "explanation": "প্রণালী ইস্তাম্বুলে ইউরোপ ও এশিয়ার মাঝখানে",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 37,
+      "question": "Historical Panam City is located in",
+      "options": [
+        "Dinajpur",
+        "Rangpur",
+        "Comilla",
+        "Narayanganj"
+      ],
+      "correctIndex": 3,
+      "explanation": "ঐতিহাসিক পানাম নগর নারায়ণগঞ্জের সোনারগাঁয়ে",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 38,
+      "question": "Rabindra University is located at",
+      "options": [
+        "Mymensingh",
+        "Shahzadpur",
+        "Netrokona",
+        "Modhupur"
+      ],
+      "correctIndex": 1,
+      "explanation": "রবীন্দ্র বিশ্ববিদ্যালয়ের অবস্থান শাহজাদপুর, সিরাজগঞ্জ",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 39,
+      "question": "BioNTech, the company that invented COVID vaccine along with Pfizer, is a _____ company",
+      "options": [
+        "German",
+        "Swedish",
+        "French",
+        "Spanish"
+      ],
+      "correctIndex": 0,
+      "explanation": "BioNTech একটি জার্মান বায়োটেকনোলজি কোম্পানি",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 40,
+      "question": "Bhasanchar is in the district of",
+      "options": [
+        "Rangamati",
+        "Cox's Bazar",
+        "Noakhali",
+        "Laxmipur"
+      ],
+      "correctIndex": 2,
+      "explanation": "ভাসানচর নোয়াখালী জেলার অন্তর্গত",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following key combination is used to create a new document in MS Word?",
+      "options": [
+        "Ctrl + W",
+        "Shift + N",
+        "Ctrl + N",
+        "Alt + N"
+      ],
+      "correctIndex": 2,
+      "explanation": "MS Word-এ Ctrl + N চাপলে নতুন document খোলে",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 42,
+      "question": "The SDG goals are intended to be achieved by the year _____",
+      "options": [
+        "2025",
+        "2030",
+        "2033",
+        "2041"
+      ],
+      "correctIndex": 1,
+      "explanation": "জাতিসংঘের Sustainable Development Goals-এর লক্ষ্যবছর ২০৩০",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 43,
+      "question": "How many teams will participate in FIFA World Cup 2026?",
+      "options": [
+        "32",
+        "40",
+        "48",
+        "56"
+      ],
+      "correctIndex": 2,
+      "explanation": "২০২৬ FIFA World Cup-এর দলসংখ্যা ৪৮",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 44,
+      "question": "Who is the new Prime Minister of New Zealand?",
+      "options": [
+        "Jacinda Ardern",
+        "Chris Hipkins",
+        "Carmel Sepuloni",
+        "Christopher Luxon"
+      ],
+      "correctIndex": 1,
+      "explanation": "এটি ২৭ জানুয়ারি ২০২৩ পরীক্ষার সময়ের প্রশ্ন। Chris Hipkins ২৫ জানুয়ারি ২০২৩ দায়িত্ব নেন; বর্তমান পদের তথ্য নয়",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 45,
+      "question": "$$Of the following, which is the closest to \\frac{6.01 \\times 501}{25.05 \\times 19.99}$?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "আনুমানিক মান =$\\frac{6\\times 500}{25\\times 20} = 3000/500 = 6$",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 46,
+      "question": "In a store, pens are sold for 25% less than the tag price. If a pen costs Tk. 48, what will be the tag price of the pen to make a 25% profit on its cost?",
+      "options": [
+        "64",
+        "72",
+        "80",
+        "None"
+      ],
+      "correctIndex": 2,
+      "explanation": "ক্রয়মূল্য 48, ২৫% লাভে বিক্রয়মূল্য 60; ট্যাগমূল্যের 75% =$60 \\Rightarrow$ ট্যাগমূল্য 80",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 47,
+      "question": "A train traveled p kms in 40 minutes and completed the remaining 200 kms of the trip in q minutes. What was its average speed, in km per hour for the entire trip?",
+      "options": [
+        "$$60\\frac{p + 200}{40 + q}$",
+        "240/(p + q)",
+        "4/(p + q)",
+        "None"
+      ],
+      "correctIndex": 0,
+      "explanation": "মোট দূরত্ব p+200 কিমি; মোট সময় (40+q)/60 ঘণ্টা ⇒ গড় গতি $60\\frac{p+200}{40+q}$",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 48,
+      "question": "In an essay competition, a winner gets a prize of Tk 100 and a participant who does not win gets a prize of Tk 25. The total prize money distributed is Tk 3,000. Find the number of winners, if the total number of participants is 63",
+      "options": [
+        "15",
+        "17",
+        "19",
+        "21"
+      ],
+      "correctIndex": 2,
+      "explanation": "বিজয়ী x হলে 100x + 25(63−$x) = 3000 \\Rightarrow 75x=1425 \\Rightarrow x=19$",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 49,
+      "question": "At 8 am two trains started traveling towards each other from stations 300 Km apart. They passed each other at 12 noon. On the same day, if the average speed of the faster train was 9 km more than that of the slower train, then what is the speed of the faster train in km/hr?",
+      "options": [
+        "40",
+        "42",
+        "45",
+        "None"
+      ],
+      "correctIndex": 1,
+      "explanation": "৪ ঘণ্টায় ৩০০ কিমি ⇒ সম্মিলিত গতি 75; গতি পার্থক্য 9 ⇒ দ্রুত ট্রেন (75+9)/2=42",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 50,
+      "question": "There are 8 marbles in a box - 6 red and 2 black. If you randomly pick 2 marbles simultaneously what is the probability that you will get one red and 1 black marble?",
+      "options": [
+        "3/7",
+        "3/14",
+        "3/8",
+        "None"
+      ],
+      "correctIndex": 0,
+      "explanation": "অনুকূল জোড়া $6\\times 2=12$; মোট জোড়া $C(8,2)=28 \\Rightarrow$ সম্ভাবনা 12/28=3/7",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 51,
+      "question": "Jashim and Imran start walking from A to B at 5 and 3 km per hour respectively. Jashim reaches B and starts back for A. How far from B will he meet Imran if the distance between A and B is 32 km?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "correctIndex": 1,
+      "explanation": "মিলিত হওয়ার সময় $2\\times 32/(5+3)=8$ ঘণ্টা; ইমরান যায় $3\\times 8=24$; B থেকে দূরত্ব 8 কিমি",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 52,
+      "question": "Babu bought two varieties of pulse, costing Tk. 50 and Tk. 60 per Kg. each, and mixed them in some ratio. He then sold the mixture at Tk. 70 per kg., making a profit of 20 percent. What was the ratio of the mixture?",
+      "options": [
+        "1:10",
+        "1:5",
+        "2:7",
+        "None"
+      ],
+      "correctIndex": 1,
+      "explanation": "মিশ্রণের ক্রয়দর 70/1.2=58⅓; অ্যালিগেশন অনুযায়ী (60−58⅓):(58⅓−50)=1:5",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 53,
+      "question": "3/8 of all applicants for a job are male. 3/4 of all applicants are rejected in the first round including 2/3 of all male applicants. What fraction of applicants remaining after the first round are male?",
+      "options": [
+        "1/2",
+        "1/4",
+        "2/9",
+        "None"
+      ],
+      "correctIndex": 0,
+      "explanation": "অবশিষ্ট পুরুষ =$(3/8)(1/3)=1/8$; মোট অবশিষ্ট 1/4; অংশ =$\\frac{1/8}{1/4}=1/2$",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 54,
+      "question": "x, y are positive integers. When x is divided by y, the remainder is 5. If x/y = 5.20, what is the value of x?",
+      "options": [
+        "130",
+        "155",
+        "330",
+        "425"
+      ],
+      "correctIndex": 0,
+      "explanation": "x=5y+5 এবং $x/y=5.20 \\Rightarrow 5/y=.20 \\Rightarrow y=25, x=130$",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 55,
+      "question": "Which of the following is an acceptable order for the sitting arrangement?",
+      "options": [
+        "A, Z, C, D, Y, B, and X",
+        "সব শর্ত মেনে চলে",
+        "D, Z, A, C, B, X, and Y",
+        "X, A, Y, C, D, B, and Z"
+      ],
+      "correctIndex": 1,
+      "explanation": "C–B পাশাপাশি, A তৃতীয়, D চতুর্থ, Y ষষ্ঠ, X সপ্তম—কেবল (B) সব শর্ত মেনে চলে",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 56,
+      "question": "If Z, D and A occupy three consecutive chairs - in the same order, then C must occupy",
+      "options": [
+        "2nd",
+        "3rd",
+        "4th",
+        "5th"
+      ],
+      "correctIndex": 2,
+      "explanation": "Z-D-A একসঙ্গে থাকলে একমাত্র বিন্যাস Z-D-A-C-B-Y-X; অতএব C = 4th",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 57,
+      "question": "If C occupies the 1st chair, who could occupy the fourth chair?",
+      "options": [
+        "A",
+        "B",
+        "D",
+        "Y"
+      ],
+      "correctIndex": 2,
+      "explanation": "C প্রথম হলে B দ্বিতীয়, A তৃতীয়; চতুর্থ আসনে D বসতে পারে",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 58,
+      "question": "If Y occupies the sixth chair, C could occupy any chair except",
+      "options": [
+        "1st",
+        "2nd",
+        "4th",
+        "5th"
+      ],
+      "correctIndex": 3,
+      "explanation": "C যদি 5th-এ থাকে তবে B 6th-এ বসবে, অথচ Y আগে থেকেই 6th-এ; তাই 5th অসম্ভব",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 59,
+      "question": "If X occupies the last chair and A occupies the 2nd chair, who must occupy chair no 1?",
+      "options": [
+        "Y",
+        "Z",
+        "B",
+        "D"
+      ],
+      "correctIndex": 1,
+      "explanation": "X 7th, A 2nd; C–B জুটি 1–2 হতে পারে না এবং D/Y প্রথমে নয়; তাই প্রথমে Z",
+      "appearedIn": [
+        "BAPEX (বাংলাদেশ পেট্রোলিয়াম এক্সপ্লোরেশন অ্যান্ড প্রোডাকশন) — সহকারী ব্যবস্থাপক নিয়োগ পরীক্ষা, ২৭-০১-২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    }
+  ]
+}

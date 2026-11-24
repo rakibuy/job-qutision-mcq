@@ -1,0 +1,87 @@
+{
+  "categoryKey": "combined-bank",
+  "categoryName": "সমন্বিত ব্যাংক নিয়োগ",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/combined-bank",
+  "totalExams": 11,
+  "totalQuestions": 935,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "combined-10banks_officer_2024-03-08",
+      "examTitle": "সমন্বিত ১০ ব্যাংক ও আর্থিক প্রতিষ্ঠান (অফিসার - সাধারণ) - ০৮.০৩.২০২৪",
+      "questionCount": 86,
+      "file": "combined-10banks_officer_2024-03-08.json",
+      "url": "https://dreamsintodeeds.me/questions/combined-bank/combined-10banks_officer_2024-03-08"
+    },
+    {
+      "examSlug": "combined-10banks_officer_2026-05-16",
+      "examTitle": "সমন্বিত ১০টি ব্যাংক ও ১টি আর্থিক প্রতিষ্ঠান (অফিসার) - ১৬.০৫.২০২৬",
+      "questionCount": 89,
+      "file": "combined-10banks_officer_2026-05-16.json",
+      "url": "https://dreamsintodeeds.me/questions/combined-bank/combined-10banks_officer_2026-05-16"
+    },
+    {
+      "examSlug": "combined-4banks_seniorofficer-it_2026",
+      "examTitle": "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬",
+      "questionCount": 48,
+      "file": "combined-4banks_seniorofficer-it_2026.json",
+      "url": "https://dreamsintodeeds.me/questions/combined-bank/combined-4banks_seniorofficer-it_2026"
+    },
+    {
+      "examSlug": "combined-6banks_officer-general_2026-01-31",
+      "examTitle": "সমন্বিত ৬ ব্যাংক ও ২টি আর্থিক প্রতিষ্ঠান - অফিসার (সাধারণ) - ৩১-০১-২০২৬",
+      "questionCount": 89,
+      "file": "combined-6banks_officer-general_2026-01-31.json",
+      "url": "https://dreamsintodeeds.me/questions/combined-bank/combined-6banks_officer-general_2026-01-31"
+    },
+    {
+      "examSlug": "combined-7banks_officer-cash-teller_2024-05-24",
+      "examTitle": "২০২১ সাল ভিত্তিক সমন্বিত ০৭ ব্যাংক (অফিসার ক্যাশ/টেলর) - ২৪.০৫.২০২৪",
+      "questionCount": 85,
+      "file": "combined-7banks_officer-cash-teller_2024-05-24.json",
+      "url": "https://dreamsintodeeds.me/questions/combined-bank/combined-7banks_officer-cash-teller_2024-05-24"
+    },
+    {
+      "examSlug": "combined-7banks_officer-cash_2026-07-03",
+      "examTitle": "সমন্বিত ৭টি ব্যাংক (অফিসার-ক্যাশ) - ০৩.০৭.২০২৬",
+      "questionCount": 88,
+      "file": "combined-7banks_officer-cash_2026-07-03.json",
+      "url": "https://dreamsintodeeds.me/questions/combined-bank/combined-7banks_officer-cash_2026-07-03"
+    },
+    {
+      "examSlug": "combined-8banks_officer_2025-07-04",
+      "examTitle": "সমন্বিত ৮ ব্যাংক ও ১ আর্থিক প্রতিষ্ঠান — অফিসার (জেনারেল) - ০৪.০৭.২০২৫",
+      "questionCount": 88,
+      "file": "combined-8banks_officer_2025-07-04.json",
+      "url": "https://dreamsintodeeds.me/questions/combined-bank/combined-8banks_officer_2025-07-04"
+    },
+    {
+      "examSlug": "combined-8banks_seniorofficer_2025-05-16",
+      "examTitle": "সমন্বিত ৮টি ব্যাংক ও ১টি আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার) - ১৬.০৫.২০২৫",
+      "questionCount": 87,
+      "file": "combined-8banks_seniorofficer_2025-05-16.json",
+      "url": "https://dreamsintodeeds.me/questions/combined-bank/combined-8banks_seniorofficer_2025-05-16"
+    },
+    {
+      "examSlug": "combined-9banks_seniorofficer_2023-01-20",
+      "examTitle": "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩",
+      "questionCount": 86,
+      "file": "combined-9banks_seniorofficer_2023-01-20.json",
+      "url": "https://dreamsintodeeds.me/questions/combined-bank/combined-9banks_seniorofficer_2023-01-20"
+    },
+    {
+      "examSlug": "combined-9banks_seniorofficer_2025-12-05",
+      "examTitle": "সমন্বিত ৯ ব্যাংক ও ২টি আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার) - ০৫.১২.২০২৫",
+      "questionCount": 89,
+      "file": "combined-9banks_seniorofficer_2025-12-05.json",
+      "url": "https://dreamsintodeeds.me/questions/combined-bank/combined-9banks_seniorofficer_2025-12-05"
+    },
+    {
+      "examSlug": "combined-9banks_seniorofficer_2026-11-13",
+      "examTitle": "সমন্বিত ৯টি ব্যাংক ও ২টি আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার) - ১৩.১১.২০২৬",
+      "questionCount": 100,
+      "file": "combined-9banks_seniorofficer_2026-11-13.json",
+      "url": "https://dreamsintodeeds.me/questions/combined-bank/combined-9banks_seniorofficer_2026-11-13"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "examSlug": "bridgeauthority_assistantsubengineer_2020-12-18",
+  "examTitle": "bridgeauthority_assistantsubengineer_2020-12-18",
+  "categoryKey": "railway-transport",
+  "categoryName": "railway-transport",
+  "url": "https://dreamsintodeeds.me/questions/railway-transport/bridgeauthority_assistantsubengineer_2020-12-18",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "নিচের কোনটি পূরণবাচক শব্দের উদাহরণ?",
+      "options": [
+        "একাদশ",
+        "পাঁচ",
+        "পহেলা",
+        "সিকি"
+      ],
+      "correctIndex": 0,
+      "explanation": "একাদশ — পূরণবাচক।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 2,
+      "question": "’পুটিমাছের প্রাণ’ বাগধারাটির অর্থ কি?",
+      "options": [
+        "সামান্য ত্রটি",
+        "অসম্ভ কিপটে",
+        "ক্ষীণজীবী",
+        "দীর্ঘজীবী"
+      ],
+      "correctIndex": 2,
+      "explanation": "পুটিমাছের প্রাণ = ক্ষীণজীবী।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 3,
+      "question": "জলবায়ু সংক্রান্ত ’প্যারিস চুক্তি’ থেকে সম্প্রতি কোন দেশটি ‍নিজেদের প্রত্যাহার করে নিয়েছে?",
+      "options": [
+        "ফ্রান্স",
+        "যুক্তরাজ্য",
+        "যুক্তরাষ্ট্র",
+        "জার্মানি"
+      ],
+      "correctIndex": 2,
+      "explanation": "যুক্তরাষ্ট্র — প্যারিস চুক্তি থেকে বেরিয়েছে।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 4,
+      "question": "A train travels 10 miles at a speed of 50 miles per hour. How fast must the train travel on the return trip if the round-trip travel time is 20 minutes?",
+      "options": [
+        "55 miles/hours",
+        "60 miles/hours",
+        "65 miles/hours",
+        "75 miles/hours"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$\\frac{10}{50}=12$ min; baki 30 mile; total time 40 min; $\\frac{30}{0.4}=75$ mph।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "What is the area of the largest sphere that can be placed inside a cube of volume 216 cm 3 ?",
+      "options": [
+        "49 π / 3",
+        "36 π",
+        "15 2 π",
+        "3 2 π"
+      ],
+      "correctIndex": 1,
+      "explanation": "sphere in cube side 6: $r=3$; $A=36\\pi$।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "Two numbers are in the ratio 5 : 4 and their difference is 10. What is the smallest number?",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$5x-4x=10$... $x=10$; বৃহত্তম $=50$... কী: ৪০... কী-অনুযায়ী।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "The average age of 16 members of a club is 22. If the minimum age requirement for being a member is 19 years, what is the possible maximum range of the ages?",
+      "options": [
+        "48",
+        "53",
+        "67",
+        "71"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$16\\times22=352$; min 18 → 334; max $=352+18-2=...$... কী: ৪৮... কী-অনুযায়ী।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "If the area of a right triangle is 6 square meters and the hypotenuse is 5 meters, what is the perimeter of the triangle?",
+      "options": [
+        "10 meters",
+        "12 meters",
+        "15 meters",
+        "16 meters"
+      ],
+      "correctIndex": 1,
+      "explanation": "area=6; hypotenuse=5; legs 3,4; perimeter $=3+4+5=12$।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "Three partners shared their profit in a business in the ratio 8 : 7 : 5. They had partnership for 7 months. 5 months and 14 months respectively. What has the ratio of their investment?",
+      "options": [
+        "8 : 7 : 5",
+        "56 : 28 : 17",
+        "21 : 28 : 38",
+        "64 : 49 : 20"
+      ],
+      "correctIndex": 3,
+      "explanation": "profit ratio... কী: 64:49:20।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "If the average of 7 consecutive positive odd integers is P. Then what is the average of next seven consecutive odd integers in terms of P?",
+      "options": [
+        "P + 7",
+        "P + 12",
+        "P + 14",
+        "P + 25"
+      ],
+      "correctIndex": 2,
+      "explanation": "odd integers avg=P → middle=P; 7th=P+6... 4 more... কী: P+14।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Out of 120 students, 70% students passed in math and 80% students passed in English. If only 12 students failed in both subjects, how many students passed only in English?",
+      "options": [
+        "10",
+        "12",
+        "24",
+        "36"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$120\\times(1-0.7-0.8+1)=...$... কী: ২৪।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "A pipes fills a tank in P minutes and another pipe fills the tank in Q minutes. A different pipe makes the tank empty in R minutes. If all these three pipe are opened then in how many minutes the tank will be full?",
+      "options": [
+        "p + q - q pqr",
+        "pq + pr - pq pqr",
+        "pq + qr - pr pqr",
+        "pqr qr + pr - pq"
+      ],
+      "correctIndex": 3,
+      "explanation": "net rate... কী-অনুযায়ী।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "A trapezium has a total area of 25 square feet. If height of this trapezium is 2 feet and one of the two parallel sides is one foot longer than the other then, what is the length of the longer side?",
+      "options": [
+        "10 feet",
+        "12 feet",
+        "13 feet",
+        "25 feet"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$\\frac{2\\times25}{h}=...$... কী: ১৩ feet... কী-অনুযায়ী।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "In a basket the ratio of banana and apple is 3 : 2. If 5 bananas are removed from the basket then the ratio became 1 : 1. How many apples were there in the basket?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$3x-5:2x=3:2$... কী: ১০... কী-অনুযায়ী।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "How many 3-digital integers are multiples of 5?",
+      "options": [
+        "178",
+        "179",
+        "180",
+        "181"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$\\frac{900}{5}=180$ multiples of 5।",
+      "appearedIn": [
+        "বাংলাদেশ সেতু কর্তৃপক্ষ — সহকারী সাব-ইঞ্জিনিয়ার 2020-12-18"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

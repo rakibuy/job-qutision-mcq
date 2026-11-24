@@ -1,0 +1,264 @@
+{
+  "examSlug": "bb_ad_2012-03-30",
+  "examTitle": "bb_ad_2012-03-30",
+  "categoryKey": "bangladesh-bank",
+  "categoryName": "bangladesh-bank",
+  "url": "https://dreamsintodeeds.me/questions/bangladesh-bank/bb_ad_2012-03-30",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "'সমুদ্র' শব্দের সমার্থক শব্দ কোনটি?",
+      "options": [
+        "বিশাল",
+        "পাথার",
+        "তুরঙ্গম",
+        "ঐন্দ্রিলা",
+        "কোনটিই নয়"
+      ],
+      "correctIndex": 1,
+      "explanation": "পাথার শব্দের অর্থ সমুদ্র বা সাগর। অন্যদিকে তরঙ্গিণী ও তটিনী অর্থ নদী, এবং হিল্লোল অর্থ ঢেউ বা তরঙ্গ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 2,
+      "question": "The product of two numbers x and y is twice the sum of the numbers. What is the sum of the reciprocals of x and y? (দুটি সংখ্যা \\(x\\) ও \\(y\\)-এর গুণফল তাদের যোগফলের দ্বিগুণ। \\(x\\) ও \\(y\\)-এর বিপরীত রাশির (reciprocal) যোগফল কত?)",
+      "options": [
+        "2/3",
+        "3/4",
+        "3/7",
+        "1/2"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$xy=2(x+y)$... $\\frac{1}{x}+\\frac{1}{y}=\\frac{1}{2}$... কী: 1/2।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 3,
+      "question": "In which ocean is the Andaman Sea located?",
+      "options": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean",
+        "None of them"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andaman Sea — Indian Ocean।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "Detroit in USA is known as the city of",
+      "options": [
+        "Rockets",
+        "Motor Cars",
+        "Lights",
+        "Aero-planes",
+        "None of them"
+      ],
+      "correctIndex": 1,
+      "explanation": "Detroit = Motor Cars।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "Who said : \" Innovation distinguishes between a leader and a follower\"?",
+      "options": [
+        "Steve Jobs",
+        "Rupert Murdoch",
+        "Bill Gates",
+        "Martha Stewart",
+        "None of them"
+      ],
+      "correctIndex": 0,
+      "explanation": "Steve Jobs।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 6,
+      "question": "Which famous marine World Heritage site is home to 400 species of coral and 1,500 species of fish?",
+      "options": [
+        "Galapagos Islands . Ecuador,",
+        "Belize Barrier Reef Reserve System, Belize",
+        "Great Barrier Reef, Australia",
+        "Ha Long Bay, Vietnam",
+        "None of them"
+      ],
+      "correctIndex": 2,
+      "explanation": "Great Barrier Reef।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "The FTSE 100 index is used to measure stock market performance in which country?",
+      "options": [
+        "France",
+        "United Kingdom",
+        "Germany",
+        "Finland",
+        "None of them"
+      ],
+      "correctIndex": 1,
+      "explanation": "FTSE 100 — UK।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "Rabindranath Tagore was awarded Nobel Prize for his literary work named",
+      "options": [
+        "Geetanjali",
+        "Chokher Bali",
+        "Kapal Kundala",
+        "Rajtarangini",
+        "None of them"
+      ],
+      "correctIndex": 0,
+      "explanation": "Geetanjali।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "World Intellectual Property right day is observed -",
+      "options": [
+        "26 January",
+        "25 April",
+        "26 April",
+        "25 January",
+        "None of them"
+      ],
+      "correctIndex": 2,
+      "explanation": "26 April।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "Which country is the originator of the high speed \"Bullet Train\"?",
+      "options": [
+        "United States",
+        "China",
+        "Japan",
+        "Russia",
+        "None of them"
+      ],
+      "correctIndex": 2,
+      "explanation": "Japan — Bullet Train।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 11,
+      "question": "The largest river in the world is",
+      "options": [
+        "Nile",
+        "Mississippi",
+        "Amazon",
+        "Padma",
+        "None of them"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nile।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "The acronym STD on Telephone booth stands for",
+      "options": [
+        "Straight Telephone Dial",
+        "Switch Telephone Dial",
+        "Save Telephone Dial",
+        "Subscriber Trunk Dialing",
+        "None of them"
+      ],
+      "correctIndex": 3,
+      "explanation": "Subscriber Trunk Dialing।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "Who developed Yahoo?",
+      "options": [
+        "Dennis Ritchie & Ken Thompson",
+        "David Filo & Jerry Yang",
+        "Vint Cerf & Robert Kahn",
+        "Steve Case & Jeff Bezos",
+        "None of them"
+      ],
+      "correctIndex": 1,
+      "explanation": "David Filo & Jerry Yang।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 14,
+      "question": "What does DOCSIS stand for?",
+      "options": [
+        "Data Over Cable Service Interface Specification",
+        "Data Over Cable Security Internet Std",
+        "Data Over Cable Secure International Stds",
+        "Data Over Cable Service Internet Standard",
+        "None of them"
+      ],
+      "correctIndex": 0,
+      "explanation": "Data Over Cable Service Interface Specification।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 15,
+      "question": "Who co-created the UNIX operating system in 1969 with Dennis Ritchie?",
+      "options": [
+        "Bjarne Stroustrup",
+        "Steve Wozniak",
+        "Ken Thompson",
+        "Niklaus Wirth",
+        "None of them"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ken Thompson।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2012 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    }
+  ]
+}

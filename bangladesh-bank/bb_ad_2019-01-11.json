@@ -1,0 +1,234 @@
+{
+  "examSlug": "bb_ad_2019-01-11",
+  "examTitle": "bb_ad_2019-01-11",
+  "categoryKey": "bangladesh-bank",
+  "categoryName": "bangladesh-bank",
+  "url": "https://dreamsintodeeds.me/questions/bangladesh-bank/bb_ad_2019-01-11",
+  "questionCount": 14,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Determine power rating of an electric motor if it runs at 1440 rpm and line shaft transmits torque of 75 Nm. Assume Reduction ratio =1.6",
+      "options": [
+        "10.36 kW",
+        "11.3 kW",
+        "7.068kW",
+        "9.12kW"
+      ],
+      "correctIndex": 2,
+      "explanation": "Line-shaft speed = 1440/1.6 = 900 rpm; P=2πNT/60=2π×900×75/60≈7.0686 kW।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 2,
+      "question": "Which component of fluid velocity is responsible for transmission of power through aerodynamic machine?",
+      "options": [
+        "Centric",
+        "Axial",
+        "Tangential",
+        "none of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tangential component।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following components of reaction turbine increases the head on the turbine by an amount equal to the height of runner outlet above the tail race?",
+      "options": [
+        "Scroll casing",
+        "Guide vanes",
+        "Draft tube",
+        "Moving vanes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Draft tube।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following numbers is applicable in open hydraulic structure such as spillways, where gravitational force is predominant?",
+      "options": [
+        "Reynold's numbers",
+        "Euler's numbers",
+        "Weber's numbers",
+        "Froude's numbers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Froude's number।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "The scales form in heat exchangers after a period of operation and provide additional resistance to heat transfer with some heat transfer coefficient . The reciprocal of this scale heat transfer coefficient is called .",
+      "options": [
+        "scaling factor",
+        "forming factor",
+        "resisting factor",
+        "fouling factor"
+      ],
+      "correctIndex": 3,
+      "explanation": "fouling factor।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "The ratio of shear modulus to the modulus of elasticity for a poisson's ratio of 0.4 will be",
+      "options": [
+        "14/5",
+        "7/5",
+        "5/14",
+        "5/7"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$\\frac{G}{E}=\\frac{1}{2(1+\\mu)}=\\frac{1}{2\\times1.4}=\\frac{5}{14}$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "The bending moment on a section is maximum where shear force is",
+      "options": [
+        "zero",
+        "minimum",
+        "maximum",
+        "changing sign"
+      ],
+      "correctIndex": 0,
+      "explanation": "zero — BM max where SF=0।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "A cantilever beam of length L carries a gradually varying load from zero at free and w per unit length at the fixed end. The maximum deflection lies at",
+      "options": [
+        "free end",
+        "fixed end",
+        "L/3 sloping side",
+        "none of these"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cantilever-এর সর্বাধিক deflection মুক্ত প্রান্তে হয়। Bending moment-এর সর্বোচ্চ স্থান fixed end—আগের ব্যাখ্যায় দুটো মিশেছিল।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "Which type of gears has point contact between two mating gears?",
+      "options": [
+        "helical gears",
+        "spiral gears",
+        "both (a) and (b)",
+        "none of these"
+      ],
+      "correctIndex": 1,
+      "explanation": "spiral gears — point contact।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "The process of removing metal by a cutter which is rotated against the direction of travel of the workpiece, is called",
+      "options": [
+        "down milling",
+        "up milling",
+        "face milling",
+        "end milling"
+      ],
+      "correctIndex": 1,
+      "explanation": "up milling।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Most of the oxy-acetylene welding is done with",
+      "options": [
+        "oxidizing flame",
+        "neutral flame",
+        "carburizing flame",
+        "all of these"
+      ],
+      "correctIndex": 1,
+      "explanation": "neutral flame।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "If there are no externally induced flow velocities, then these Nusselt Number (Nu) does not depend upon",
+      "options": [
+        "Prandtl number",
+        "Reynolds number",
+        "Grashof Number",
+        "none of these"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reynolds number।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "The operation of machining several surfaces of a workpiece simultaneously is called",
+      "options": [
+        "profile milling",
+        "face milling",
+        "gang milling",
+        "none of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "gang milling।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "The energy stored in a body when strained within elastic limit is known as",
+      "options": [
+        "resilience",
+        "proof resilience",
+        "impact energy",
+        "strain energy"
+      ],
+      "correctIndex": 3,
+      "explanation": "strain energy।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2019 — 2019-01-11"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

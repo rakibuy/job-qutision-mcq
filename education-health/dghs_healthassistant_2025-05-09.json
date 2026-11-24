@@ -1,0 +1,250 @@
+{
+  "examSlug": "dghs_healthassistant_2025-05-09",
+  "examTitle": "dghs_healthassistant_2025-05-09",
+  "categoryKey": "education-health",
+  "categoryName": "education-health",
+  "url": "https://dreamsintodeeds.me/questions/education-health/dghs_healthassistant_2025-05-09",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "ক্রয়মূল্য বিক্রয়মূল্যের ‍দ্বিগুণ হলে শতকরা লাভ বা ক্ষতির পরিমাণ কত?",
+      "options": [
+        "লাভ ১০%",
+        "ক্ষতি ১০%",
+        "লাভ ৫০%",
+        "ক্ষতি ৫০%"
+      ],
+      "correctIndex": 3,
+      "explanation": "ধরি, বিক্রয়মূল্য = x টাকা প্রশ্নানুসারে, ক্রয়মূল্য বিক্রয়মূল্যের দ্বিগুণ। সুতরাং, ক্রয়মূল্য =$2x$ টাকা যেহেতু, ক্রয়মূল্য > বিক্রয়মূল্য, তাই এখানে ক্ষতি হয়েছে। ক্ষতি = ক্রয়মূল্য - বিক্রয়মূল্য =$2x - x$ টাকা = x টাকা আমরা জানি, লাভ বা ক্ষতি সবসময় ক্রয়মূল্যের ওপর হিসাব করা হয়। শতকরা ক্ষতি = (ক্ষতি / ক্রয়মূল্য)$\\times$ ১০০% =$(x / 2x) \\times 100$% =$(1 / 2) \\times 100$% =$50$% সুতরাং, ক্ষতির পরিমান ৫০% ।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 2,
+      "question": "সমবাহু ত্রিভুজের ক্ষেত্রফলের সূত্র?",
+      "options": [
+        "1 2 a 2",
+        "4 3 a 2",
+        "3 4 a 2",
+        "3 4 a 2‌"
+      ],
+      "correctIndex": 3,
+      "explanation": "সূত্র: 3 4 a 2।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 3,
+      "question": "১ থেকে ৪৯ পর্যন্ত সংখ্যাগুলোর গড় কত?",
+      "options": [
+        "২৪",
+        "২৫",
+        "৩০",
+        "২২"
+      ],
+      "correctIndex": 1,
+      "explanation": "গড় = ((৪৯ +১)$\\times$৫০)/(২$\\times$৫০) = ২৫",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 4,
+      "question": "একটি আদর্শ বাক্যের কয়টি গুণ থাকা আবশ্যক?",
+      "options": [
+        "৫",
+        "৪",
+        "৩",
+        "২"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: ৩।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 5,
+      "question": "‘সংশয়’ শব্দের বিপরীত শব্দ কোনটি?",
+      "options": [
+        "প্রত্যয়",
+        "নির্ভয়",
+        "দ্বিধা",
+        "বিস্ময়"
+      ],
+      "correctIndex": 0,
+      "explanation": "বিপরীত শব্দ: প্রত্যয়।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 6,
+      "question": "ইপিআই তে কতটি রোগের টিকা দেওয়া হয়?",
+      "options": [
+        "১০",
+        "৮",
+        "৭",
+        "৫"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: ১০।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 7,
+      "question": "সংক্রামক রোগ কোনটি?",
+      "options": [
+        "ডায়াবেটিস",
+        "উচ্চ রক্তচাপ",
+        "গলগণ্ড",
+        "এইডস"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: এইডস।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 8,
+      "question": "মানবদেহের সবচেয়ে বড় অস্থি কোনটি?",
+      "options": [
+        "ফিমার",
+        "টিবিয়া",
+        "স্টেপস",
+        "ফিবুলা"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: ফিমার।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 9,
+      "question": "Toiling lies _____ a great sin.",
+      "options": [
+        "were",
+        "are",
+        "have",
+        "is"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"is\" বসবে।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "I met ________ one eyed man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "none"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূন্যস্থানে \"a\" বসবে।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "কোনটি Common Noun?",
+      "options": [
+        "Starve",
+        "Human",
+        "Bright",
+        "Roguery"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: Human।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "\"By and Large\" means-",
+      "options": [
+        "Every where",
+        "Very Large",
+        "Mostly",
+        "Far Away"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"By and Large\" এর অর্থ: Mostly।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "\"In a nutshell\" means –",
+      "options": [
+        "ব্যাপক আকারে",
+        "বিশদ আকারে",
+        "সংক্ষিপ্ত আকারে",
+        "বর্ণনা করে"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"In a nutshell\" এর অর্থ: সংক্ষিপ্ত আকারে।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 14,
+      "question": "Which one is correct?",
+      "options": [
+        "Valuble",
+        "Valuaeble",
+        "Valuable",
+        "Valueable"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: Valuable।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "What is the verb of the word \"danger\"?",
+      "options": [
+        "Dangerous",
+        "Danger",
+        "Dangerously",
+        "Endanger"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dark (বিশেষণ) + -en = Darken (ক্রিয়া) — অন্ধকার করা।",
+      "appearedIn": [
+        "সিভিল সার্জনের কার্যালয়, ব্রাহ্মণবাড়িয়া - স্বাস্থ্য সহকারী 2025-05-09"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "categoryKey": "sub-registrar",
+  "categoryName": "সাব-রেজিস্ট্রার",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/sub-registrar",
+  "totalExams": 4,
+  "totalQuestions": 382,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "sub-registrar-exam-2001-questions",
+      "examTitle": "নিবন্ধন অধিদপ্তর (সাব-রেজিস্ট্রার)-২০০১",
+      "questionCount": 99,
+      "file": "sub-registrar-exam-2001-questions.json",
+      "url": "https://dreamsintodeeds.me/questions/sub-registrar/sub-registrar-exam-2001-questions"
+    },
+    {
+      "examSlug": "sub-registrar-exam-2003-questions",
+      "examTitle": "নিবন্ধন অধিদপ্তর (সাব-রেজিস্ট্রার)-২০০৩",
+      "questionCount": 95,
+      "file": "sub-registrar-exam-2003-questions.json",
+      "url": "https://dreamsintodeeds.me/questions/sub-registrar/sub-registrar-exam-2003-questions"
+    },
+    {
+      "examSlug": "sub-registrar-exam-2012-questions",
+      "examTitle": "sub-registrar-exam-2012-questions",
+      "questionCount": 88,
+      "file": "sub-registrar-exam-2012-questions.json",
+      "url": "https://dreamsintodeeds.me/questions/sub-registrar/sub-registrar-exam-2012-questions"
+    },
+    {
+      "examSlug": "sub-registrar-exam-2016-questions",
+      "examTitle": "আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয় (সাব-রেজিস্ট্রার)-২০১৬",
+      "questionCount": 100,
+      "file": "sub-registrar-exam-2016-questions.json",
+      "url": "https://dreamsintodeeds.me/questions/sub-registrar/sub-registrar-exam-2016-questions"
+    }
+  ]
+}

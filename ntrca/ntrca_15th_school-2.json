@@ -1,0 +1,1450 @@
+{
+  "examSlug": "ntrca_15th_school-2",
+  "examTitle": "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)",
+  "categoryKey": "ntrca",
+  "categoryName": "এনটিআরসিএ (বেসরকারি শিক্ষক)",
+  "url": "https://dreamsintodeeds.me/questions/ntrca/ntrca_15th_school-2",
+  "questionCount": 90,
+  "questions": [
+    {
+      "id": 1,
+      "question": "ভাষার মূল উপাদান কোনটি?",
+      "options": [
+        "ধ্বনি",
+        "শব্দ",
+        "বাক্য",
+        "অর্থ"
+      ],
+      "correctIndex": 0,
+      "explanation": "ভাষার মূল উপাদান ধ্বনি — ধ্বনির বিন্যাসেই শব্দ ও বাক্য গঠিত হয়।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 2,
+      "question": "কোনটি সাধুভাষার ক্ষেত্রে প্রযোজ্য?",
+      "options": [
+        "সহজবোধ্য",
+        "নাট্য সংলাপ ব্যবহার",
+        "তদ্ভব শব্দবহুল",
+        "তৎসম শব্দবহুল"
+      ],
+      "correctIndex": 3,
+      "explanation": "সাধুভাষায় তৎসম শব্দের প্রাচুর্য বেশি থাকে।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 3,
+      "question": "কমা অপেক্ষা বেশি বিরতির প্রয়োজন হলে কোন বিরাম চিহ্ন বসে?",
+      "options": [
+        "দাঁড়ি",
+        "সেমিকোলন",
+        "কোলন",
+        "হাইফেন"
+      ],
+      "correctIndex": 1,
+      "explanation": "কমার চেয়ে বেশি বিরতি দরকার হলে সেমিকোলন (;) বসে।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 4,
+      "question": "বিরামচিহ্ন কেন ব্যবহৃত হয়?",
+      "options": [
+        "বাক্য সংকোচনের জন্য",
+        "বাক্যের অর্থ স্পষ্টকরণের জন্য",
+        "বাক্যের সৌন্দর্যের জন্য",
+        "বাক্যকে অলংকৃত করার জন্য"
+      ],
+      "correctIndex": 1,
+      "explanation": "বিরামচিহ্ন বাক্যের অর্থ স্পষ্ট করে ও পাঠককে সঠিক বিরতির সূচনা দেয়।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 5,
+      "question": "‘তামার বিষ’ বাগধারাটির অর্থ কোনটি?",
+      "options": [
+        "অহংকার",
+        "ক্ষণস্থায়ী",
+        "অর্থের কুপ্রভাব",
+        "টনক নড়া"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"তামার বিষ\" অর্থ অর্থ-সম্পদের কুপ্রভাব।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 6,
+      "question": "‘হাড়-হাভাতে’ বাগ্‌ধারাটির অর্থ কী?",
+      "options": [
+        "হতভাগ্য",
+        "নিরেট মূর্খ",
+        "চক্ষুশূল",
+        "নিতান্ত অলস"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"হাড়-হাভাতে\" অর্থ হতভাগ্য।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 7,
+      "question": "নিচের কোন বানানটি সঠিক?",
+      "options": [
+        "ভাগিরথি",
+        "ভাগিরথী",
+        "ভাগীরথি",
+        "ভাগীরথী"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক বানান \"ভাগীরথী\"।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 8,
+      "question": "Man is the architect of his own life-এর সঠিক অনুবাদ কোনটি?",
+      "options": [
+        "মানুষ তার নিজ জীবনের স্থপতি",
+        "মানুষ জীবনের স্থপতি",
+        "মানুষই জীবনের স্থপতি",
+        "মানুষ জীবনের নির্মাতা"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Man is the architect of his own life\" — মানুষ তার নিজ জীবনের স্থপতি।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 9,
+      "question": "In the good look – অর্থ কী?",
+      "options": [
+        "সুন্দর দেখাতে",
+        "সুনজরে",
+        "শুভ কামনা",
+        "ভালো চাই"
+      ],
+      "correctIndex": 2,
+      "explanation": "কী-অনুযায়ী প্রয়োগটি শুভ কামনা বোঝাতে ব্যবহৃত হয়েছে।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 10,
+      "question": "সন্ধি ব্যাকরণের কোন অংশে আলোচিত হয়?",
+      "options": [
+        "ধ্বনিতত্ত্বে",
+        "রূপতত্ত্বে",
+        "বাক্যতত্ত্বে",
+        "অর্থতত্ত্বে"
+      ],
+      "correctIndex": 0,
+      "explanation": "সন্ধি ব্যাকরণের ধ্বনিতত্ত্ব অংশে আলোচিত হয়।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 11,
+      "question": "প্রকৃত বাংলা ব্যঞ্জনসন্ধি কোন নিয়মে হয়ে থাকে?",
+      "options": [
+        "সমীভবন",
+        "বিষমীভবন",
+        "অপিনিহিতি",
+        "অসমীকরণ"
+      ],
+      "correctIndex": 0,
+      "explanation": "প্রকৃত বাংলা ব্যঞ্জনসন্ধি মূলত সমীভবন নিয়মে হয়ে থাকে।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 12,
+      "question": "খিলিপান (এর ভিতরে) দিয়ে ওষুধ খাবে- কোন কারক?",
+      "options": [
+        "করণ কারক",
+        "অপাদান কারক",
+        "অধিকরণ কারক",
+        "কর্মকারক"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"খিলিপানের ভিতরে দিয়ে\" — যেখানে ক্রিয়া সম্পন্ন হয়; অধিকরণ কারক।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 13,
+      "question": "অপ্রাণিবাচক শব্দের উত্তর-এ কোন বিভক্তি হবে?",
+      "options": [
+        "কে",
+        "রে",
+        "তে",
+        "শূন্য"
+      ],
+      "correctIndex": 3,
+      "explanation": "অপ্রাণিবাচক শব্দের উত্তর-পদে বিভক্তি শূন্য (০) হয়।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 14,
+      "question": "বিভক্তিযুক্ত শব্দকে কী বলে?",
+      "options": [
+        "পদ",
+        "প্রাতিপাদিক",
+        "অক্ষর",
+        "বাক্য"
+      ],
+      "correctIndex": 0,
+      "explanation": "বিভক্তিযুক্ত শব্দকে পদ বলে।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 15,
+      "question": "কানে কানে যে কথা = কানাকানি- এখানে ‘কানাকানি’ কোন ধরনের বহুব্রীহি সমাস?",
+      "options": [
+        "সমানাধিকরণ বহুব্রীহি",
+        "ব্যতিহার বহুব্রীহি",
+        "ব্যধিকরণ বহুব্রীহি",
+        "মধ্যপদলোপী বহুব্রীহি"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"কানে কানে যে কথা = কানাকানি\" — ব্যতিহার বহুব্রীহি সমাস।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 16,
+      "question": "কোনটি প্রাদি সমাসের উদাহরণ?",
+      "options": [
+        "গৃহস্থ",
+        "ছা-পোষা",
+        "শতাব্দী",
+        "প্রগতি"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"প্রগতি = প্র + গতি\" — প্র উপসর্গযুক্ত, তাই প্রাদি সমাস।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 17,
+      "question": "কোনটি চাঁদের সমার্থক শব্দ?",
+      "options": [
+        "হিমাংশু",
+        "সবিতা",
+        "চিকুর",
+        "শৈল"
+      ],
+      "correctIndex": 0,
+      "explanation": "চাঁদের সমার্থক শব্দ \"হিমাংশু\" (শশাঙ্ক, সুধাকর, নিশাকর)।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 18,
+      "question": "‘অহি’ শব্দের সমার্থক শব্দ কোনটি?",
+      "options": [
+        "অচল",
+        "সাপ",
+        "চাঁদ",
+        "দিন"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"অহি\" অর্থ সাপ।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 19,
+      "question": "‘খাতক’ শব্দটির বিপরীত শব্দ কোনটি?",
+      "options": [
+        "প্রসারণ",
+        "চেতন",
+        "মহাজন",
+        "উত্তমর্ণ"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"খাতক\"-এর বিপরীত শব্দ \"মহাজন\"।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 20,
+      "question": "হনন করার ইচ্ছা-এর বাক্য সংকোচন কোনটি?",
+      "options": [
+        "লিপ্সা",
+        "জিঘাংসা",
+        "কৃতঘ্ন",
+        "জিতেন্দ্রিয়"
+      ],
+      "correctIndex": 1,
+      "explanation": "হনন করার ইচ্ছা = \"জিঘাংসা\"।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 21,
+      "question": "যে মেয়ের বিয়ে হয়নি-এর বাক্যসংকোচন কোনটি?",
+      "options": [
+        "মৃতবৎসা",
+        "কৃতদার",
+        "অনুজা",
+        "অনূঢ়া"
+      ],
+      "correctIndex": 3,
+      "explanation": "যে মেয়ের বিয়ে হয়নি = \"অনূঢ়া\"।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 22,
+      "question": "নিচের কোনটির পুরুষবাচক শব্দ আছে?",
+      "options": [
+        "দাই",
+        "এয়ো",
+        "সারী",
+        "সধবা"
+      ],
+      "correctIndex": 2,
+      "explanation": "দেওয়া শব্দগুলোর মধ্যে \"সারী\"-র পুরুষবাচক রূপ রয়েছে (স্ত্রীবাচক: সারিণী)।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 23,
+      "question": "‘ঠাকুর’ শব্দের লিঙ্গান্তর কোনটি?",
+      "options": [
+        "ঠাকুরাইন",
+        "ঠাকুরানি",
+        "ঠাকুরণী",
+        "ঠাকুরণি"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"ঠাকুর\"-এর লিঙ্গান্তর \"ঠাকুরানি\"।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 24,
+      "question": "কোনটি নিপাতনে সিদ্ধ সন্ধি নয়?",
+      "options": [
+        "মস্যাধার",
+        "অন্যান্য",
+        "মার্তণ্ড",
+        "কুলটা"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"মস্যাধার\" নিয়মভুক্ত সন্ধির উদাহরণ — নিপাতনে সিদ্ধ নয়।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 25,
+      "question": "Do or die (Make it Simple)",
+      "options": [
+        "By doing you will die",
+        "Without doing you will die",
+        "By doing you won’t die",
+        "Without doing you won’t die"
+      ],
+      "correctIndex": 1,
+      "explanation": "Do or die → Simple: Without doing you will die.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 26,
+      "question": "Academic is similar to –",
+      "options": [
+        "scholar",
+        "scholared",
+        "scholastic",
+        "scholastics"
+      ],
+      "correctIndex": 2,
+      "explanation": "Academic-এর সমার্থক scholastic।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 27,
+      "question": "What is the synonym of ‘remarkable’?",
+      "options": [
+        "Noteworthy",
+        "Remark",
+        "Praiseworthy",
+        "Memorable"
+      ],
+      "correctIndex": 0,
+      "explanation": "remarkable-এর সমার্থক Noteworthy।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 28,
+      "question": "All his hopes were _",
+      "options": [
+        "null and void",
+        "nipped in the bud",
+        "out of date",
+        "now and then"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"nip in the bud\" — অঙ্কুরে বিনষ্ট করা: All his hopes were nipped in the bud.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 29,
+      "question": "May Bangladesh prosper __",
+      "options": [
+        "day to day",
+        "day by day",
+        "day with day",
+        "day on day"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"prosper day by day\" — দিন দিন উন্নতি করা।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 30,
+      "question": "What an excellent idea! (Assertive)",
+      "options": [
+        "It is a very excellent idea",
+        "It is an excellent idea",
+        "It is more excellent idea",
+        "It is a very good idea"
+      ],
+      "correctIndex": 0,
+      "explanation": "Exclamatory → Assertive: It is a very excellent idea.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 31,
+      "question": "Noun form of ‘guilty’ is –",
+      "options": [
+        "guiltness",
+        "guilt",
+        "guilting",
+        "guiltys"
+      ],
+      "correctIndex": 1,
+      "explanation": "guilty-র বিশেষ্য রূপ guilt।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 32,
+      "question": "‘Pros and cons’ means –",
+      "options": [
+        "details",
+        "liberate",
+        "avoid",
+        "angry"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Pros and cons\" অর্থ খুঁটিনাটি সব দিক (details)।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 33,
+      "question": "The girls water the plants. Here ‘water’ is-",
+      "options": [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"The girls water the plants\" — water এখানে ক্রিয়া (পানি দেয়)।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 34,
+      "question": "আমি তাকে উপহাস করিনি।",
+      "options": [
+        "I did not laugh at him",
+        "I did not laugh with him",
+        "I did not laugh in him",
+        "I did not laugh upon him"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"আমি তাকে উপহাস করিনি\" → I did not laugh at him.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 35,
+      "question": "Unless you work hard, you will not succeed. (Compound)",
+      "options": [
+        "Without working hard and you will not succeed",
+        "Work hard or you will not succeed",
+        "Work hard any you will not succeed",
+        "You work hard and will succeed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unless → Compound: Work hard or you will not succeed.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 36,
+      "question": "Rina proceeded as though she (know) everything.",
+      "options": [
+        "knows",
+        "had known",
+        "knew",
+        "known"
+      ],
+      "correctIndex": 1,
+      "explanation": "as though-এর পরে past perfect: Rina proceeded as though she had known everything.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 37,
+      "question": "We shall start the programme provided _",
+      "options": [
+        "circumstances favour us",
+        "circumstances favoured us",
+        "circumstance favoured us",
+        "cirumstances are favouring us"
+      ],
+      "correctIndex": 0,
+      "explanation": "provided-শর্ত: We shall start the programme provided circumstances favour us.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 38,
+      "question": "‘বাতিটি নিভাও’- Translate it –",
+      "options": [
+        "Put on the lamp",
+        "Put out the lamp",
+        "Put off the lamp",
+        "Put up the lamp"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"বাতিটি নিভাও\" → Put out the lamp.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 39,
+      "question": "কৃপণ ব্যক্তিরা অর্থ সঞ্চয়ে সময় ব্যয় করে –",
+      "options": [
+        "The miser spends time to collect money.",
+        "The misers spend time collecting money.",
+        "The miser spend time in hoarding money.",
+        "The misers spend their time in hoarding money."
+      ],
+      "correctIndex": 3,
+      "explanation": "\"কৃপণ ব্যক্তিরা অর্থ সঞ্চয়ে সময় ব্যয় করে\" → The misers spend their time in hoarding wealth.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 40,
+      "question": "The adjective form of ‘include’ is –",
+      "options": [
+        "inclusion",
+        "includable",
+        "inclusive",
+        "includeness"
+      ],
+      "correctIndex": 2,
+      "explanation": "include-এর adjective রূপ inclusive।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 41,
+      "question": "Mr. Rohan is very friendly. Here ‘friendly’ is –",
+      "options": [
+        "adverb",
+        "noun",
+        "adjective",
+        "pronoun"
+      ],
+      "correctIndex": 2,
+      "explanation": "friendly একটি adjective (বিশেষণ) — noun-প্রকৃতির হলেও কাজ adjective-এর।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 42,
+      "question": "Walk fast lest the train (miss).",
+      "options": [
+        "would miss",
+        "should be missed",
+        "will be missed",
+        "will miss"
+      ],
+      "correctIndex": 1,
+      "explanation": "lest-এর পরে should + ক্রিয়া; ট্রেন মিস হওয়া বোঝাতে passive: lest the train should be missed.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 43,
+      "question": "It is high time we (give up) smoking.",
+      "options": [
+        "give up",
+        "gave up",
+        "given up",
+        "should give up"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"It is high time\"-এর পরে past ক্রিয়া: gave up।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 44,
+      "question": "The old man was very weak. His health broke _ under the pressure of work.",
+      "options": [
+        "down",
+        "upon",
+        "through",
+        "away"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"break down\" — ভেঙে পড়া: His health broke down.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 45,
+      "question": "He made me _ the car.",
+      "options": [
+        "to drive",
+        "driven",
+        "drove",
+        "drive"
+      ],
+      "correctIndex": 3,
+      "explanation": "make-এর পরে bare infinitive: He made me drive the car.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 46,
+      "question": "We should live harmony _ others.",
+      "options": [
+        "in, with",
+        "with, to",
+        "in, include",
+        "to, with"
+      ],
+      "correctIndex": 0,
+      "explanation": "live in harmony with others — সামঞ্জস্যের সাথে বাস করা।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 47,
+      "question": "It is more than honesty. (Make it ‘Positive’).",
+      "options": [
+        "Honesty is not as much as it",
+        "Honesty are not as much as it",
+        "Honesty is as much as it",
+        "Honesty is less much as it"
+      ],
+      "correctIndex": 0,
+      "explanation": "Comparative → Positive: Honesty is not so much as it (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 48,
+      "question": "The unfed should be fed. (Active)",
+      "options": [
+        "Feed the unfed.",
+        "We should feed the unfed.",
+        "Please feed the unfed.",
+        "They should be feeding the unfed."
+      ],
+      "correctIndex": 0,
+      "explanation": "Passive → Active: The unfed should be fed → Feed the unfed.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 49,
+      "question": "He was one of the worst men in the world (Make Positive).",
+      "options": [
+        "Very few men in the world were as bad as he.",
+        "Very few men in the world was so bad as he.",
+        "Very few men in the world was so bad so he.",
+        "Very few men in the world were not so bad as he."
+      ],
+      "correctIndex": 0,
+      "explanation": "Superlative → Positive: Very few men in the world were as bad as he.",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 50,
+      "question": "(5x)0 এর মান নিচের কোনটি?",
+      "options": [
+        "5x",
+        "0",
+        "5",
+        "1"
+      ],
+      "correctIndex": 3,
+      "explanation": "যেকোনো অশূন্য রাশির শূন্যতম ঘাত $=1$: $(5x)^0 = 1$।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 51,
+      "question": "32 এর 2 ভিত্তিক লগারিদম কত?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$32 = 2^5 \\Rightarrow \\log_2 32 = 5$।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 52,
+      "question": "জাওয়াদ সাহেব ৫০০ টাকা ৩ বছরের জন্য ব্যাংকে জমা রাখলেন। (২৫/৩)% হারে তিনি কত টাকা সরল মুনাফা পাবেন?",
+      "options": [
+        "১০০ টাকা",
+        "১২৫ টাকা",
+        "৫২৫ টাকা",
+        "৬২৫ টাকা"
+      ],
+      "correctIndex": 1,
+      "explanation": "সরল মুনাফা $=500\\times3\\times\\frac{25}{3}\\% = 500\\times3\\times\\frac{25}{300} = 125$ টাকা।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 53,
+      "question": "চক্রবৃদ্ধি মুনাফার ক্ষেত্রে নিচের কোন সূত্রটি সঠিক?",
+      "options": [
+        "C = P(1 + n)r",
+        "C = P(1 + rn)",
+        "P = C(1 + r)n",
+        "C = P(1 + r)n"
+      ],
+      "correctIndex": 3,
+      "explanation": "চক্রবৃদ্ধি মূলধন $C = P(1+r)^n$।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 54,
+      "question": "ছোয়াদ সাহেব ৩০০ টাকার বই কিনলেন। দোকানদার তাকে (১৯/২)% কমিশন দিলেন। তিনি কত টাকা কমিশন পেলেন?",
+      "options": [
+        "১৯.৫ টাকা",
+        "২৮.৫ টাকা",
+        "৫১.৫ টাকা",
+        "৫৭.০০ টাকা"
+      ],
+      "correctIndex": 1,
+      "explanation": "কমিশন $=300\\times\\frac{19}{2}\\% = 300\\times\\frac{19}{200} = 28.5$ টাকা।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 55,
+      "question": "একটি ত্রিভুজের তিনটি কোণের অনুপাত ৩ : ৪ : ৫ হলে ক্ষুদ্রতম কোণের পরিমাণ কত ডিগ্রি?",
+      "options": [
+        "৪৫°",
+        "৭৫°",
+        "৯০°",
+        "১৮০°"
+      ],
+      "correctIndex": 0,
+      "explanation": "১২ ভাগ $=180^\\circ$ ⇒ ১ ভাগ $15^\\circ$; ক্ষুদ্রতম $=3\\times15^\\circ=45^\\circ$।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 56,
+      "question": "নিচের চিত্রে ∠$B = 75^\\circ$ এবং ∠$ACE = 150^\\circ$ হলে ∠A কোণের মান কত?",
+      "options": [
+        "30°",
+        "45°",
+        "75°",
+        "105°"
+      ],
+      "correctIndex": 2,
+      "explanation": "∠ACE বহিঃকোণ $150^\\circ$ ⇒ ∠ACB $=30^\\circ$; ∠A $=180^\\circ-75^\\circ-30^\\circ=75^\\circ$।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 57,
+      "question": "কোনো বৃত্তের ব্যাস 10 cm হলে বৃত্তটির ক্ষেত্রফল কত?",
+      "options": [
+        "5π cm2",
+        "10π cm2",
+        "25π cm2",
+        "100π cm2"
+      ],
+      "correctIndex": 2,
+      "explanation": "ব্যাস 10 ⇒ ব্যাসার্ধ 5; ক্ষেত্রফল $\\pi r^2 = 25\\pi$ বর্গ সেমি।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 58,
+      "question": "৫৫° কোণের পূরক কোণ কত?",
+      "options": [
+        "৩৫°",
+        "৪৫°",
+        "১২৫°",
+        "১৮০°"
+      ],
+      "correctIndex": 0,
+      "explanation": "পূরক কোণ $=90^\\circ-55^\\circ=35^\\circ$।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 59,
+      "question": "রম্বসের ক্ষেত্রফল নির্ণয়ের সূত্র কোনটি?",
+      "options": [
+        "(১/২)$\\times$ ভূমি $\\times$ উচ্চতা",
+        "কর্ণদ্বয়ের গুণফল",
+        "(১/২)$\\times$ কর্ণদ্বয়ের গুণফল",
+        "দৈর্ঘ্য $\\times$ প্রস্থ"
+      ],
+      "correctIndex": 2,
+      "explanation": "রম্বসের ক্ষেত্রফল $=\\frac{1}{2}\\times$ কর্ণদ্বয়ের গুণফল।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 60,
+      "question": "১২ জন শ্রমিক ৩ দিনে ৭২০ টাকা আয় করে। ৯ জন শ্রমিক সমপরিমাণ টাকা আয় করবে কত দিনে?",
+      "options": [
+        "৫ দিনে",
+        "৪ দিনে",
+        "৬ দিনে",
+        "৩ দিনে"
+      ],
+      "correctIndex": 1,
+      "explanation": "মোট কাজ $=12\\times3=36$ শ্রমিক-দিন; ৯ জন হলে $36\\div9=4$ দিন।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 61,
+      "question": "৭, ১২, ১৭, ৩, ১১, ৬, ১৩, ৩ সংখ্যাগুলোর গড় কত?",
+      "options": [
+        "৬",
+        "৭",
+        "৮",
+        "৯"
+      ],
+      "correctIndex": 3,
+      "explanation": "যোগফল $=7+12+17+3+11+6+13+3=72$; গড় $=72\\div8=9$।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 62,
+      "question": "আদ্রিত বাবু একটি ঘড়ি ১০% ক্ষতিতে বিক্রয় করলো। যদি বিক্রয়মূল্য ৪৫ টাকা বেশি হতো তাহলে ৫% লাভ হতো ঘড়িটির ক্রয়মূল্য কত?",
+      "options": [
+        "২৫০ টাকা",
+        "৩০০ টাকা",
+        "৩৫০ টাকা",
+        "৪০০ টাকা"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$0.90C+45=1.05C \\Rightarrow 0.15C=45 \\Rightarrow C=300$ টাকা।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 63,
+      "question": "নিচের চিত্রে O কেন্দ্রবিশিষ্ট বৃত্তে ∠$BAC = 41^\\circ$ হলে, ∠BOC কোণের মান কত?",
+      "options": [
+        "49°",
+        "62°",
+        "139°",
+        "82°"
+      ],
+      "correctIndex": 3,
+      "explanation": "একই চাপে কেন্দ্রস্থ কোণ পরিধিস্থ কোণের দ্বিগুণ: $\\angle BOC = 2\\times41^\\circ = 82^\\circ$।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 64,
+      "question": "ত্রিভুজের তিনটি কোণের সমষ্টি কোনটি?",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "correctIndex": 1,
+      "explanation": "ত্রিভুজের তিন কোণের সমষ্টি $180^\\circ$ (two right angles)।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 65,
+      "question": "অর্ধবৃত্তস্থ কোণ সমান কত?",
+      "options": [
+        "৩০°",
+        "৪৫°",
+        "৬০°",
+        "৯০°"
+      ],
+      "correctIndex": 3,
+      "explanation": "অর্ধবৃত্তস্থ কোণ সমান $90^\\circ$।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 66,
+      "question": "একটি ত্রিভুজের ভূমি 6 সে. মি. এবং এর উচ্চতা 5 সে. মি. হলে ত্রিভুজটির ক্ষেত্রফল কত?",
+      "options": [
+        "11 বর্গ সে. মি.",
+        "15 বর্গ সে. মি.",
+        "30 বর্গ সে. মি.",
+        "25 বর্গ সে. মি."
+      ],
+      "correctIndex": 1,
+      "explanation": "ক্ষেত্রফল $=\\frac{1}{2}\\times6\\times5 = 15$ বর্গ সেমি।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 67,
+      "question": "বাংলাদেশের সরকারি আয়ের প্রাধান উৎস কোনটি?",
+      "options": [
+        "আয়কর",
+        "মূল্য সংযোজন কর",
+        "আমদানি শুল্ক",
+        "বিক্রয় কর"
+      ],
+      "correctIndex": 1,
+      "explanation": "বাংলাদেশ সরকারের আয়ের প্রধান উৎস মূল্য সংযোজন কর (VAT)।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 68,
+      "question": "শীতকালে বাংলাদেশের কোনটি সবচেয়ে শীতলতম জেলা?",
+      "options": [
+        "দিনাজপুর",
+        "বগুড়া",
+        "শেরপুর",
+        "গাজীপুর"
+      ],
+      "correctIndex": 0,
+      "explanation": "শীতকালে বাংলাদেশের শীতলতম জেলা দিনাজপুর (রেকর্ড সর্বনিম্ন তাপমাত্রা ২.৮°C, সেতাবগঞ্জ)।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 69,
+      "question": "২০১৮ সালে বাংলাদেশের মানুষের গড় আয়ু কত? [তৎকালীন সাম্প্রতিক প্রশ্ন]",
+      "options": [
+        "৬৮ বছর",
+        "৭২ বছর",
+        "৭৮ বছর",
+        "৮২ বছর"
+      ],
+      "correctIndex": 1,
+      "explanation": "২০১৮ সালে বাংলাদেশের গড় আয়ু ছিল প্রায় ৭২ বছর।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 70,
+      "question": "স্বাধীন বাংলাদেশের নির্বাচিত প্রথম প্রধানমন্ত্রী ছিলেন কে?",
+      "options": [
+        "শেখ মুজিবুর রহমান",
+        "তাজউদ্দিন আহমদ",
+        "সৈয়দ নজরুল ইসলাম",
+        "আতাউর রহমান খান"
+      ],
+      "correctIndex": 0,
+      "explanation": "স্বাধীন বাংলাদেশের নির্বাচিত প্রথম প্রধানমন্ত্রী শেখ মুজিবুর রহমান (তাজউদ্দিন আহমদ ছিলেন অস্থায়ী সরকারের প্রধানমন্ত্রী)।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 71,
+      "question": "বাংলাদেশ আনুষ্ঠানিকভাবে প্রথম জাতিসংঘে যোগদান করে কত সালে?",
+      "options": [
+        "১৯৭২ সালে",
+        "১৯৭৩ সালে",
+        "১৯৭৪ সালে",
+        "১৯৭৫ সালে"
+      ],
+      "correctIndex": 2,
+      "explanation": "বাংলাদেশ জাতিসংঘের সদস্যপদ লাভ করে ১৯৭৪ সালের ১৭ সেপ্টেম্বর।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 72,
+      "question": "২০১৮ সালে ১৮৯টি দেশের মধ্যে বাংলাদেশের মানব উন্নয়ন সূচক কত? [তৎকালীন সাম্প্রতিক প্রশ্ন]",
+      "options": [
+        "১২৬টি",
+        "১৩৬টি",
+        "১৩৯টি",
+        "১৪৫টি"
+      ],
+      "correctIndex": 1,
+      "explanation": "কী-অনুযায়ী ২০১৮ সালে ১৮৯ দেশের মধ্যে বাংলাদেশের মানব উন্নয়ন সূচকে অবস্থান ছিল ১৩৬তম।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 73,
+      "question": "আন্তর্জাতিক অর্থ তহবিলের সদর দপ্তর কোথায়?",
+      "options": [
+        "নিউইয়র্ক",
+        "টোকিও",
+        "রোম",
+        "ওয়াশিংটন"
+      ],
+      "correctIndex": 3,
+      "explanation": "আন্তর্জাতিক মুদ্রা তহবিল (IMF)-এর সদর দপ্তর ওয়াশিংটন ডিসিতে।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 74,
+      "question": "রোহিঙ্গা মুসলিম নিধনে নেতৃত্ব প্রদানকারী অন্যতম জেনারেল কে?",
+      "options": [
+        "মুং মই",
+        "উথান",
+        "সুচি",
+        "মাউং মাউং"
+      ],
+      "correctIndex": 3,
+      "explanation": "কী-অনুযায়ী রোহিঙ্গা দমন-অভিযানে নেতৃত্বদানকারী জেনারেলদের অন্যতম ছিলেন মাউং মাউং (ওই অভিযানের সামগ্রিক সেনাপ্রধান ছিলেন মিন অং লাইং)।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 75,
+      "question": "বিখ্যাত যুদ্ধক্ষেত্র ওয়াটারলু কোন দেশে অবস্থিত?",
+      "options": [
+        "আফগানিস্তান",
+        "বেলজিয়াম",
+        "মরক্কো",
+        "তুরস্ক"
+      ],
+      "correctIndex": 1,
+      "explanation": "- ১৮১৫ সালের ১৮ জুন বেলজিয়ামের ওয়াটার লু নামক স্থানে সংঘটিত যুদ্ধের নাম ‘ওয়াটারলু’ যুদ্ধ। - ফরাসি সম্রাট নেপোলিয়ন বোনাপার্ট এই যুদ্ধে দুটি সম্মিলিত শক্তি- ডিউক অব ওয়েলিংটনের অধীন ব্রিটিশ সেনাবাহিনী এবং গাবার্ড ভন বুচারের অধীন পার্সিয়ান সেনাবাহিনীর নিকট পরাজিত হন। - যুদ্ধ প্রান্তরটি বেলজিয়ামের ওয়াটারলু শহর থেকে ২ কিলোমিটার দূরে এবং বেলজিয়ামের রাজধানী ব্রাসেলস থেকে ১৫ কিলোমিটার দক্ষিণে অবস্থিত।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 76,
+      "question": "বাংলাদেশে কোনটি প্রাকৃতিক মৎস্য প্রজনন কেন্দ্র?",
+      "options": [
+        "কর্ণফুলি",
+        "তিতাস",
+        "গোমতি",
+        "হালদা"
+      ],
+      "correctIndex": 3,
+      "explanation": "বাংলাদেশের একমাত্র প্রাকৃতিক মৎস্য প্রজনন কেন্দ্র হালদা নদী।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 77,
+      "question": "২০১৯ সালে অনুষ্ঠেয় বিশ্বকাপ ক্রিকেট কোন দেশে অনুষ্ঠিত হয়েছে?",
+      "options": [
+        "ভারত",
+        "পাকিস্তান",
+        "ইংল্যান্ড",
+        "অস্ট্রেলিয়া"
+      ],
+      "correctIndex": 2,
+      "explanation": "২০১৯ সালের (আইসিসি) বিশ্বকাপ ক্রিকেট অনুষ্ঠিত হয় ইংল্যান্ডে।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 78,
+      "question": "গণপ্রজাতন্ত্রী বাংলাদেশের মনোগ্রাম – এ কয়টি তারকা চিহ্ন রয়েছে?",
+      "options": [
+        "৪টি",
+        "৫টি",
+        "৬টি",
+        "২টি"
+      ],
+      "correctIndex": 0,
+      "explanation": "রাষ্ট্রীয় মনোগ্রামে (জাতীয় প্রতীকে) ৪টি তারকা চিহ্ন রয়েছে।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 79,
+      "question": "বঙ্গবন্ধু স্যাটেলাইট – ১ উৎক্ষেপণ করা হয় কবে?",
+      "options": [
+        "৮ মে, ২০১৮",
+        "১০ মে, ২০১৮",
+        "১১ মে, ২০১৮",
+        "১২ মে, ২০১৮"
+      ],
+      "correctIndex": 3,
+      "explanation": "বঙ্গবন্ধু স্যাটেলাইট-১ উৎক্ষেপণ করা হয় ২০১৮ সালের ১২ মে (বাংলাদেশ সময়)।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 80,
+      "question": "সংবিধানের ২৮(২) অনুচ্ছেদের বিষয়বস্তু কী?",
+      "options": [
+        "সকল নাগরিক আইনের দৃষ্টিতে সমান",
+        "সর্বস্তরে নারী-পুরুষের সমান অধিকার",
+        "সকল নাগরিকের চাকুরি লাভের সুযোগ",
+        "জীবন ও ব্যক্তিস্বাধনিতার অধিকার"
+      ],
+      "correctIndex": 1,
+      "explanation": "সংবিধানের ২৮(২) অনুচ্ছেদে সর্বক্ষেত্রে নারী-পুরুষের সমান অধিকারের কথা বলা হয়েছে।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 81,
+      "question": "প্রাচীন ‘চন্দ্রদ্বীপ’-এর বর্তমান নাম কী?",
+      "options": [
+        "মাল্লীপ",
+        "হাতিয়া",
+        "বরিশাল",
+        "সন্দ্বীপ"
+      ],
+      "correctIndex": 2,
+      "explanation": "চন্দ্রদ্বীপের বর্তমান নাম বরিশাল।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 82,
+      "question": "WIMAX-এর পূর্ণরূপ কী?",
+      "options": [
+        "Worldwide Interoperability for Microwave Access",
+        "Worldwide Internet for Microwave Access",
+        "Worldwide Interconnection for Microwave Access",
+        "কোনোটিই নয়"
+      ],
+      "correctIndex": 0,
+      "explanation": "WIMAX = Worldwide Interoperability for Microwave Access।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 83,
+      "question": "বাংলাদেশের সশস্ত্র বাহিনীর সর্বাধিনায়ক-",
+      "options": [
+        "সেনাবাহিনী প্রধান",
+        "প্রতিরক্ষামন্ত্রী",
+        "প্রধানমন্ত্রী",
+        "রাষ্ট্রপতি"
+      ],
+      "correctIndex": 3,
+      "explanation": "বাংলাদেশের সশস্ত্র বাহিনীর সর্বাধিনায়ক রাষ্ট্রপতি।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 84,
+      "question": "শান্তিতে অবদানের জন্য বঙ্গবন্ধু শেখ মুজিবুর রহমান কোন পদকটি পেয়েছিলেন?",
+      "options": [
+        "ফ্রিডম পদক",
+        "ম্যাগসেসে পদক",
+        "জওহরলাল নেহেরু পদক",
+        "জুলিও কুরী পদক"
+      ],
+      "correctIndex": 3,
+      "explanation": "শান্তিতে অবদানের জন্য বঙ্গবন্ধু \"জুলিও কুরী\" শান্তি পদক পান (১৯৭৩)।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 85,
+      "question": "‘মনপুরা-৭০‘ কী?",
+      "options": [
+        "একটি উপজেলা",
+        "একটি নদীবন্দর",
+        "একটি উপন্যাস",
+        "একটি চিত্রশিল্প"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"মনপুরা-৭০\" একটি বিখ্যাত চিত্রশিল্প।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 86,
+      "question": "‘কার্টাগোনা’ প্রটোকল হচ্ছে-",
+      "options": [
+        "জাতিসংঘের জৈবনিরাপত্তা বিষয়ক চুক্তি",
+        "ইরাক পুনর্গঠন চুক্তি",
+        "যুক্তরাষ্ট্র-মেক্সিকো বৈধ চুক্তি",
+        "শিশু অধিকার চুক্তি"
+      ],
+      "correctIndex": 0,
+      "explanation": "কার্টাজেনা প্রটোকল জাতিসংঘের জৈবনিরাপত্তা (Biosafety) বিষয়ক চুক্তি।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 87,
+      "question": "জাতিসংঘ দিবস পালিত হয়-",
+      "options": [
+        "২৪ অক্টোবর",
+        "২৪ আগস্ট",
+        "২৪ ডিসেম্বর",
+        "২৪ নভেম্বর"
+      ],
+      "correctIndex": 0,
+      "explanation": "জাতিসংঘ দিবস পালিত হয় ২৪ অক্টোবর।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 88,
+      "question": "ম্যাকমোহন লাইন কোন কোন দেশের সীমানা নির্ধারণ করে?",
+      "options": [
+        "ভারত ও পাকিস্তান",
+        "চীন ও ভারত",
+        "চীন ও রাশিয়া",
+        "পাকিস্তান ও আফগানিস্তান"
+      ],
+      "correctIndex": 1,
+      "explanation": "ম্যাকমোহন লাইন চীন ও ভারতের মধ্যে সীমানা নির্ধারণ করে।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 89,
+      "question": "বাংলাদেশের জাতীয় খেলা –",
+      "options": [
+        "ফুটবল",
+        "ক্রিকেট",
+        "কাবাডি",
+        "ব্যাডমিন্টন"
+      ],
+      "correctIndex": 2,
+      "explanation": "বাংলাদেশের জাতীয় খেলা কাবাডি (হা-ডু-ডু)।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 90,
+      "question": "কোন যন্ত্রের সাহায্যে যান্ত্রিক শক্তিকে বিদ্যুৎ শক্তিতে রূপান্তরিত করা হয়?",
+      "options": [
+        "ট্রান্সফরমার",
+        "ডায়নামো",
+        "বৈদ্যুতিক মটর",
+        "হুইল"
+      ],
+      "correctIndex": 1,
+      "explanation": "ডায়নামো যান্ত্রিক শক্তিকে বিদ্যুৎ শক্তিতে রূপান্তরিত করে।",
+      "appearedIn": [
+        "15তম শিক্ষক নিবন্ধন ও প্রত্যয়ন পরীক্ষা (স্কুল পর্যায়-২)"
+      ],
+      "subject": "বিজ্ঞান"
+    }
+  ]
+}

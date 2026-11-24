@@ -1,0 +1,234 @@
+{
+  "examSlug": "defensemin_juniorteacher_2021-12-04",
+  "examTitle": "defensemin_juniorteacher_2021-12-04",
+  "categoryKey": "police-defense-security",
+  "categoryName": "police-defense-security",
+  "url": "https://dreamsintodeeds.me/questions/police-defense-security/defensemin_juniorteacher_2021-12-04",
+  "questionCount": 14,
+  "questions": [
+    {
+      "id": 1,
+      "question": "একটি সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য ৬ সেন্টিমিটার হলে এর ক্ষেত্রফল কত বর্গ সেন্টিমিটার?",
+      "options": [
+        "৩ ৩",
+        "৪ ৩",
+        "৬ ৩",
+        "৯ ৩"
+      ],
+      "correctIndex": 3,
+      "explanation": "সমবাহু $=\\frac{\\sqrt{3}}{4}\\times36=9\\sqrt{3}$ বর্গ সেমি।",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 2,
+      "question": "পিতা ও পুত্রের বর্তমান বয়সের অনুপাত ৭ঃ২ এবং ৫ বছর পরে তাদের বয়সের অনুপাত ৮ঃ৩ হবে। বর্তমানে পিতার বয়স কত?",
+      "options": [
+        "৩৭",
+        "৩৮",
+        "৩৫",
+        "৪২"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$7x+5:2x+5=8:3$ ⇒ $x=5$; পিতা $=35$।",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 3,
+      "question": "সমবাহু ত্রিভুজের একটি বাহুকে উভয় দিকে বর্ধিত করলে উৎপন্ন বহিঃস্থ কোণদ্বয়ের বিয়োগফল কত?",
+      "options": [
+        "১২০°",
+        "০°",
+        "১৩৫°",
+        "৪৫°"
+      ],
+      "correctIndex": 1,
+      "explanation": "সমবাহুর বহিঃকোণ $120°+120°=240°$; বিয়োগফল $=0°$।",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 4,
+      "question": "'দি রিপাবলিক' গ্রন্থের লেখক কে?",
+      "options": [
+        "সক্রেটিস",
+        "প্লেটো",
+        "এরিস্টেটল",
+        "ম্যাকিয়াভেলি"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"The Republic\" — প্লেটো।",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 5,
+      "question": "টেস্ট ক্রিকেটে বাংলাদেশের দ্রুততম উইকেট সেঞ্চুরিয়ান বোলার কে?",
+      "options": [
+        "মোস্তাফিজুর রহমান",
+        "মেহেদী হাসান মিরাজ",
+        "সাকিব আল হাসান",
+        "তাইজুল ইসলাম"
+      ],
+      "correctIndex": 1,
+      "explanation": "দ্রুততম টেস্ট সেঞ্চুরি — মেহেদী হাসান মিরাজ...",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 6,
+      "question": "কোনটি অশুদ্ধ?",
+      "options": [
+        "কর্ষণ",
+        "যুধিষ্টির",
+        "বিষাণ",
+        "অভিলাষ"
+      ],
+      "correctIndex": 1,
+      "explanation": "অশুদ্ধ — \"যুধিষ্টির\" (শুদ্ধ: যুধিষ্ঠির)।",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 7,
+      "question": "নিচের কোন দুটি খাঁটি বাংলা উপসর্গ?",
+      "options": [
+        "প্র, পরি",
+        "সম, গব",
+        "কু, নি",
+        "অজ, অভি"
+      ],
+      "correctIndex": 2,
+      "explanation": "কু, নি — খাঁটি বাংলা উপসর্গ।",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 8,
+      "question": "\"তৃতীয়\" শব্দটি কোন ধরনের সংখ্যাবাচক শব্দ?",
+      "options": [
+        "গণনাবাচক শব্দ",
+        "তারিখবাচক শব্দ",
+        "পূরণবাচক শব্দ",
+        "অঙ্কবাচক শব্দ"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"তৃতীয়\" — পূরণবাচক সংখ্যাশব্দ।",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 9,
+      "question": "He is proud of his blue blood. Blue blood is-",
+      "options": [
+        "Adjective phrase",
+        "Adverbial phrase",
+        "Noun phrase",
+        "Verb phrase"
+      ],
+      "correctIndex": 2,
+      "explanation": "blue blood — Noun phrase।",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "How beautiful night is! (Make it assertive)-",
+      "options": [
+        "It is beautiful night",
+        "Night is very beautiful",
+        "It is very beautiful night",
+        "Night is beautiful"
+      ],
+      "correctIndex": 1,
+      "explanation": "Night is very beautiful — assertive।",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "The synonym of word 'Counsel' is -",
+      "options": [
+        "Cabinet",
+        "Steering",
+        "Advise",
+        "Trade"
+      ],
+      "correctIndex": 2,
+      "explanation": "Counsel = Advise।",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct spelling -",
+      "options": [
+        "Asassination",
+        "Assassination",
+        "Assistination",
+        "Asaysination"
+      ],
+      "correctIndex": 1,
+      "explanation": "I finished my duty, didn't I? — affirmative → negative tag।",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "Correct translation of: সে নীরবে কাঁদতে লাগলো",
+      "options": [
+        "He started weeping silently",
+        "He has started weeping silently",
+        "He is weeping silently",
+        "He had started weeping silently"
+      ],
+      "correctIndex": 0,
+      "explanation": "He started weeping silently।",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "Mother said to me, “Do not tell a lie” Change into indirect narration.",
+      "options": [
+        "Mother frightened me not to tell a lie.",
+        "Mother suggested me to not tell a lie.",
+        "Mother warned me to not to tell a lie.",
+        "Mother advised me not to tell a lie."
+      ],
+      "correctIndex": 3,
+      "explanation": "Mother advised me not to tell a lie।",
+      "appearedIn": [
+        "প্রতিরক্ষা মন্ত্রণালয় - জুনিয়র শিক্ষক 2021-12-04"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

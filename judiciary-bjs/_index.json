@@ -1,0 +1,38 @@
+{
+  "categoryKey": "judiciary-bjs",
+  "categoryName": "judiciary-bjs",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/judiciary-bjs",
+  "totalExams": 4,
+  "totalQuestions": 192,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "bjs_assistant-judge_2025",
+      "examTitle": "bjs_assistant-judge_2025",
+      "questionCount": 41,
+      "file": "bjs_assistant-judge_2025.json",
+      "url": "https://dreamsintodeeds.me/questions/judiciary-bjs/bjs_assistant-judge_2025"
+    },
+    {
+      "examSlug": "bjs_bench-assistant_2026",
+      "examTitle": "bjs_bench-assistant_2026",
+      "questionCount": 51,
+      "file": "bjs_bench-assistant_2026.json",
+      "url": "https://dreamsintodeeds.me/questions/judiciary-bjs/bjs_bench-assistant_2026"
+    },
+    {
+      "examSlug": "bjs_office-assistant_2026",
+      "examTitle": "bjs_office-assistant_2026",
+      "questionCount": 50,
+      "file": "bjs_office-assistant_2026.json",
+      "url": "https://dreamsintodeeds.me/questions/judiciary-bjs/bjs_office-assistant_2026"
+    },
+    {
+      "examSlug": "bjs_process-server_2026",
+      "examTitle": "bjs_process-server_2026",
+      "questionCount": 50,
+      "file": "bjs_process-server_2026.json",
+      "url": "https://dreamsintodeeds.me/questions/judiciary-bjs/bjs_process-server_2026"
+    }
+  ]
+}

@@ -1,0 +1,1322 @@
+{
+  "examSlug": "bb_officer_2022-12-02",
+  "examTitle": "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02",
+  "categoryKey": "bangladesh-bank",
+  "categoryName": "বাংলাদেশ ব্যাংক",
+  "url": "https://dreamsintodeeds.me/questions/bangladesh-bank/bb_officer_2022-12-02",
+  "questionCount": 82,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which technology is used by crypto currencies?",
+      "options": [
+        "Database",
+        "Spreadsheet",
+        "Blockchain",
+        "Text file"
+      ],
+      "correctIndex": 2,
+      "explanation": "- Block chain প্রযুক্তিতে অনেক ডাটা ব্লক থাকে। - এই সমস্ত ডেটা ব্লকে ক্রিপ্টোগ্রাফি প্রযুক্তি ব্যবহার করে ডেটা এনকোড করা হয় এবং ব্লকগুলি একে অপরের সাথে সংযুক্ত হয়ে একটি দীর্ঘ চেইন তৈরি করে। - প্রতিটি ব্লকে রয়েছে তার ঠিক আগের ব্লকের একটি ক্রিপ্টোগ্রাফিক হ্যাশ, একটি Time Stamp ও List of transaction বা লেনদেন তথ্য। - এইভাবে প্রতিটি ব্লকের সাথে সম্পর্কিত ডেটা তার পাশের ব্লকে সংরক্ষিত থাকে। সুতরাং Block chain-এ একবার ব্লকে ডেটা রেকর্ড হয়ে গেলে এই ডেটা আর মুছে ফেলা যায় না ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 2,
+      "question": "RTGS is a -",
+      "options": [
+        "Payment system",
+        "Governance system",
+        "Right-based group",
+        "An anti-virus software"
+      ],
+      "correctIndex": 0,
+      "explanation": "Real Time Gross Settlement (RTGS) একটি নিরাপদ, সুরক্ষিত এবং দক্ষ আন্তঃব্যাংক পেমেন্ট সিস্টেম। এটি এমন একটি ইলেকট্রনিক ফান্ড ট্রান্সফার সিস্টেম, যেখানে একটি ব্যাংকের একটি অ্যাকাউন্ট থেকে অন্য ব্যাংকের অ্যাকাউন্টে রিয়েল টাইমে অর্থাৎ সময়ের অপেক্ষা ছাড়া অর্থ স্থানান্তর করা যায়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 3,
+      "question": "The process of copying files to a CD-ROM is known as -",
+      "options": [
+        "Zipping",
+        "Burning",
+        "Digitizing",
+        "Ripping"
+      ],
+      "correctIndex": 1,
+      "explanation": "সিডি-রম কপি করার ক্ষেটড়ে \"বার্নিং\" বলতে সিডি বার্নার(এটি একটি কম্পিউটার টূলস) ব্যবহার করে একটি ফাঁকা সিডি-রমে ডিজিটাল ডেটা লেখা বা অনুলিপি করার প্রক্রিয়া বোঝায়। এই প্রক্রিয়ার মধ্যে একটি লেজার ব্যবহার করে CD-ROM-এ ডেটার একটি ফিজিক্যাল কপি তৈরি করা থাকে যাতে ডিস্কের পৃষ্ঠে ছোট ছোট গর্ত এবং ল্যান্ড খোঁচানো যায়। একবার CD-ROM-এ ডেটা বার্ন হয়ে গেলে, এটি একটি CD-ROM ড্রাইভ বা প্লেয়ার দ্বারা পড়া বা অ্যাক্সেস করা যেতে পারে। বার্ন করা হল সিডি কপি করার একটি সাধারণ পদ্ধতি এবং প্রায়ই গুরুত্বপূর্ণ ডেটার ব্যাকআপ কপি তৈরি করতে বা সফ্টওয়্যার, সঙ্গীত বা অন্যান্য ডিজিটাল সামগ্রী বিতরণ করতে ব্যবহৃত হয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "A channel for communicating across a boundary between two or more subsystem is known as -",
+      "options": [
+        "Data path",
+        "Walk through",
+        "Act gram",
+        "Interface"
+      ],
+      "correctIndex": 3,
+      "explanation": "কম্পিউটারের সাথে ইনপুট-আউটপুট ডিভাইসগুলোর সংযোগ প্রক্রিয়াকে Interface বলে।এটি এক ধরনের লজিক সার্কিট, যা কোন ডিজিটাল ব্যবস্থায় ইনপুট ও আউটপুট অংশের সাথে যুক্ত থাকে। এটি ইনপুট ডিভাইস হতে সিপিইউতে ডেটা পাঠানো ও সিপিইউ থেকে ফলাফল আউটপুট ডিভাইসে পাঠানোর কাজ নিয়ন্ত্রণ করে। এছাড়াও CPU এর গতির সাথে ইনপুট ও আউটপুট এর গতিবেগ সমন্বয় করে এবং পেরিফেরাল ডিভাইসের কাজ নিয়ন্ত্রণ করে বাহির হতে অনাগত ডেটার প্রবেশ ও নির্গমন রোধ করে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "A modem is connected in between a telephone line and a-",
+      "options": [
+        "communication adapter",
+        "serial port",
+        "computer",
+        "network"
+      ],
+      "correctIndex": 2,
+      "explanation": "মডেম এমন একটি ডিভাইস, যা কম্পিউটার এবং টেলিফোন লাইনের মধ্যে স্থাপন করা হয়। কম্পিউটারের ডেটা ডিজিটাল ফরম্যাটে এবং টেলিফোন লাইনের ডেটা এনালগ ফরম্যাটে অবস্থান করে। মডেম কম্পিউটারের ডিজিটাল সিগন্যালকে এনালগ সিগন্যালে কনভার্ট করে টেলিফোন লাইনের মধ্য দিয়ে প্রবাহ করতে সাহায্য করে। মডেম Communication adapter (টেলিফোন লাইন, ক্যাবল) এর মাধ্যমে তথ্য আদান-প্রদান করে। কোনো কম্পিউটার থেকে আগত তথ্যকে মডেম ডিজিটাল বিট হতে এনালগ সিগন্যালে রূপান্তর করে। এ কাজটিকে মডুলেশন বলা হয়। আবার এনালগ সিগন্যালকে ডিজিটাল সিগন্যালে রূপান্তর করার কাজটিকে ডিমডুলেশন বলা হয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "Which one of the following stores more data than a DVD?",
+      "options": [
+        "CD Rom",
+        "Floppy disk",
+        "Red-Ray Disk",
+        "Blu-Ray Disk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Blu-Ray Disk সিডি বা ডিভিডি এর মতো এক ধরনের অপটিকাল ডিস্ক ফরম্যাট। এটি হাই-ডেফিনিশন ভিডিও, ভিডিও গেম ও অন্যান্য তথ্য সংরক্ষণে ব্যবহার করা হয়। প্রতিটি একক লেয়ার বিশিষ্ট ব্লু রে ডিস্ক ২৫ গিগাবাইট পর্যন্ত তথ্য ধারণ করতে পারে। আর দ্বৈত লেয়ারের ক্ষেত্রে এই ধারণক্ষমতা ৫০ গিগাবাইট পর্যন্ত। একটি সাধারণ সিডিতে ৭০০ গিগাবাইট, ডিভিডিতে ৪.৭ গিগাবাইট ও দ্বৈত লেয়ার ডিভিডিতে ১৭ গিগাবাইট পর্যন্ত তথ্য ধারণ করতে পারে; যেখানে দ্বৈত লেয়ার ব্লু রে ডিস্ক ৫০ গিগাবাইট পর্যন্ত তথ্য ধারণে সক্ষম।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "Computer monitor is also known as -",
+      "options": [
+        "DVU",
+        "UVD",
+        "VDU",
+        "CCTV"
+      ],
+      "correctIndex": 2,
+      "explanation": "মনিটর একটি Output Device, একে Visual Display Unit (VDU) বলা হয়। রঙিন মনিটরে তিনটি মৌলিক রঙ (লাল, সবুজ ও আসমানি) থাকে ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "The amount of time a message takes to traverse a system is called -",
+      "options": [
+        "Bandwidth",
+        "Compiler",
+        "Latency",
+        "All of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "লেটেন্সি বলতে একটি সিগন্যালের উৎস থেকে গন্তব্যে যেতে কতটা সময় লাগে তা বোঝায়। কম্পিউটিং এবং টেলিকমিউনিকেশনের পরিপ্রেক্ষিতে, লেটেন্সি হল একজন ব্যবহারকারীর একটি কাজ সম্পাদন করার সময়, যেমন একটি বোতামে ক্লিক করা বা একটি কীস্ট্রোক টাইপ করা এবং কম্পিউটার বা নেটওয়ার্ক সেই ক্রিয়াটির প্রতিক্রিয়া জানানোর মধ্যে বিলম্ব সময়। লেটেন্সি সাধারণত মিলিসেকেন্ডে (ms) -এ পরিমাপ করা হয় কম্পিউটার সিস্টেম এবং নেটওয়ার্কের নকশা এবং বাস্তবায়নের ক্ষেত্রে লেটেন্সি হ্রাস করা একটি গুরুত্বপূর্ণ বিবেচ্য বিষয়। ক্যাশিং, কম্প্রেশন এবং লোড ব্যালেন্সিং এর মতো টেকনিকগুলি লেটেন্সি কমাতে এবং কর্মক্ষমতা উন্নত করতে ব্যবহার করা যেতে পারে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "RAM belongs to which kind of memory?",
+      "options": [
+        "Main Memory",
+        "Auxiliary Memory",
+        "Cache Memory",
+        "None of these"
+      ],
+      "correctIndex": 0,
+      "explanation": "কম্পিউটারের ডেটা সংরক্ষণের মাধ্যম বা ধারককে Computer memory বলে। এটি প্রধানত দুইপ্রকার। যথা: প্রধান মেমোরি ও সহায়ক মেমোরি। RAM ও ROM প্ৰধান মেমোরির অন্তর্ভুক্ত। Input device থেকে আগত সকল তথ্য প্রথমে RAM-এ জমা হয়। এর মাধ্যমে নতুন তথ্য পড়া, লেখা বা মুছা যায় ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "COP 27 was held in -",
+      "options": [
+        "Sharm el-Sheikh, Egypt",
+        "Cairo, Egypt",
+        "Paris, France",
+        "Washington, USA"
+      ],
+      "correctIndex": 0,
+      "explanation": "- কপ-২৬ অনুষ্ঠিত হয় স্কটল্যান্ডের গ্লাসগোতে, ৩১ অক্টোবর - ১২ নভেম্বর, ২০২১ সালে। - কপ-২৭ অনুষ্ঠিত হয় মিশরের শারম আল শেখ,২০২২ সালে। - কপ-২৮ অনুষ্ঠিত হবে সংযুক্ত আরব আমিরাত, ২০২৩সালে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "The famous Satire 'Gulliver's Travel' was written by-",
+      "options": [
+        "J. K. Rowling",
+        "Jonathan Swift",
+        "William Shakespeare",
+        "Jane Austen"
+      ],
+      "correctIndex": 1,
+      "explanation": "ইংরেজি সাহিত্যের শ্রেষ্ঠ satirist খ্যাত অ্যাংলো- আইরিশ লেখক ও ধর্মযাজক Jonathan Swift এর বিখ্যাত উপন্যাস Gulliver's Travel (1726)। এ উপন্যাসে তিনি মানব চরিত্রকে ব্যঙ্গ করেছেন এবং সাহিত্যের প্রচলিত ভ্রমণবৃত্তান্ত ধারাটির প্যারোডি করেছেন। এটিকে ইংরেজি সাহিত্যের একটি ধ্রুপদি গ্রন্থ মনে করা হয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "The 7th March speech of Bangabandhu, the Father of the Nation, was recognized as part of the world's documentary heritage by-",
+      "options": [
+        "UNESCO",
+        "UNICEF",
+        "UNDP",
+        "UNFCCC"
+      ],
+      "correctIndex": 0,
+      "explanation": "ইউনেস্কো উপদেষ্টা কমিটি ৩০ অক্টোবর, ২০১৭ সালে বঙ্গবন্ধু মুজিবুর রহমানের ৭ মার্চের ঐতিহাসিক ভাষণকে Worlds Documentary Herritage এর অংশ হিসেবে Memory of the world Register-এ অন্তর্ভুক্ত করে। উল্লেখ্য, ১৯৯২ সালে ইউনেস্কো Memory of the world Register প্রোগ্রামটি চালু করে ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 13,
+      "question": "The Sustainable Development Goals (SDGs) consist of ____ goals.",
+      "options": [
+        "27",
+        "21",
+        "17",
+        "30"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sustainable Development Goals (SDGs) হলো টেকসই উন্নয়ন লক্ষ্যমাত্রা যা Millennium Development Goals (MDGs) এর স্থলে প্রতিস্থাপন করা হয়। ২০১৫ সালের ২৫ সেপ্টেম্বর জাতিসংঘের সাধারণ পরিষদের ৭০তম অধিবেশনে 'Transforming our world: The 2030 Agenda for Sustainable development' শিরোনামের একটি কর্মসূচি গৃহীত হয়, যা SDGS নামে পরিচিত। SDGs এর মেয়াদ ২০১৬ থেকে ২০৩০ সাল পর্যন্ত । এতে মোট ১৭টি লক্ষ্যমাত্রা ও ১৬৯টি সুনির্দিষ্ট লক্ষ্য অন্তর্ভুক্ত রয়েছে। এসডিজির লক্ষ্যসমূহ হলো: - প্রথম : দারিদ্র্য নির্মূল - দ্বিতীয় : ক্ষুধামুক্তি - তৃতীয় : সুস্বাস্থ্য - চতুর্থ : মানসম্মত শিক্ষা - পঞ্চম : লিঙ্গ সমতা - ষষ্ঠ : বিশুদ্ধ পানি ও স্যানিটেশন - সপ্তম : সাশ্রয়ী ও নবায়নযোগ্য জ্বালানি - অষ্টম : উপযুক্ত কাজ ও অর্থনৈতিক প্রবৃদ্ধি - নবম : শিল্প, উদ্ভাবন ও অবকাঠামো - দশম : বৈষম্য হ্রাস - একাদশ : টেকসই শহর ও জনগণ - দ্বাদশ : পরিমিত ভোগ ও উৎপাদন - ত্রয়োদশ : জলবায়ু বিষয়ে পদক্ষেপ - চতুর্দশ : সামুদ্রিক বাস্তুসংস্থান - পঞ্চদশ : স্থলভাগের জীবন - ষোড়শ : শান্তি, ন্যায়বিচার ও শক্তিশালী প্রতিষ্ঠান এবং - সপ্তদশ : অভিষ্টের জন্যে অংশীদারিত্ব।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "Who is not Captain of the Football World Cup 2022 Team?",
+      "options": [
+        "Hugo Lloris",
+        "Thiago Silva",
+        "Lionel Messi",
+        "Neymar"
+      ],
+      "correctIndex": 3,
+      "explanation": "২০ নভেম্বর-১৮ ডিসেম্বর-২০২২ কাতারে অনুষ্ঠিত ফিফা ফুটবল বিশ্বকাপে হুগো লরিস ও লিওনেল মেসি যথাক্রমে ফ্রান্স ও আর্জেন্টিনা ফুটবল দলের অধিনায়ক। অন্যদিকে, কিলিয়ান এমবাপ্পে ও নেইমার যথাক্রমে ফ্রান্স ও ব্রাজিল ফুটবল বিশ্বকাপ দলের খেলোয়াড়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 15,
+      "question": "Who wins Ballon d'Or 2022?",
+      "options": [
+        "Karim Bengema",
+        "Lionel Messi",
+        "Neymar",
+        "Cristiano Ronaldo"
+      ],
+      "correctIndex": 0,
+      "explanation": "ব্যালন ডি'অর পুরস্কার-২০২২ লাভ করেন করিম বেনজেমা (ফ্রান্স/ রিয়াল মাদ্রিদ) আর আলেক্সিয়া পুতেলাস (স্পেন/ বার্সেলোনা)",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 16,
+      "question": "The first Indigo Revolt was introduced in which district of Bangladesh?",
+      "options": [
+        "Magura",
+        "Faridpur",
+        "Jashore",
+        "Rangpur"
+      ],
+      "correctIndex": 2,
+      "explanation": "১৭৭০ থেকে ১৭৮০ সালের মধ্যে ইংরেজ আমলে বাংলায় নীল চাষ শুরু হয়। ফরিদপুর, যশোর, ঢাকা, পাবনা, রাজশাহী, নদীয়া ও মুর্শিদাবাদে এ সময় ব্যাপক নীল চাষ হতো। আর এ নীল চাষের ব্যবসায় ব্রিটিশদের একচেটিয়া অধিকার ছিল। নানারকম বঞ্চনা ও নীল চাষ লাভজনক না হওয়ায় কৃষকদের মধ্যে অনীহা তৈরি হয়। নীলকরেরা জোরপূর্বক নীলচাষে বাধ্য করতে কৃষকদের ওপর ব্যাপক অত্যাচার-নিপীড়ন শুরু করে। এক পর্যায়ে কৃষকরা অত্যাচার সহ্য করতে না পেরে ১৮৫৯ সালে নীল চাষের বিরুদ্ধে বিদ্রোহ শুরু করে। এ বিদ্রোহের কেন্দ্রবিন্দু ছিল যশোর ও নদীয়া। এ বিদ্রোহে নেতৃত্ব দেয় যশোরের নবীন মাধব ও বেণী মাধব, নদীয়ার মেঘনা সর্দার, হুগলির বৈদ্যনাথ ও বিশ্বনাথ সর্দার। ব্রিটিশ সরকার নীল বিদ্রোহ বন্ধ করতে ১৮৬১ সালে 'নীল কমিশন' গঠন করে। এ কমিশনের সুপারিশের ভিত্তিতে নীল চাষকে কৃষকদের ইচ্ছাধীন বলে ঘোষণা করা হয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 17,
+      "question": "Which one is the top country in terms of per capita greenhouse gas emission?",
+      "options": [
+        "Japan",
+        "China",
+        "USA",
+        "Brazil"
+      ],
+      "correctIndex": 2,
+      "explanation": "Worldometer-২০২২ এর তথ্যমতে, বিশ্বে গ্রিনহাউস গ্যাস (কার্বন ডাই-অক্সাইড) নিঃসরণে শীর্ষ দেশ চীন। কিন্তু মাথাপিছু গ্রিনহাউস (কার্বন-ডাই অক্সাইড) নিঃসরণে দ্বিতীয় অবস্থানে চীন। দেশটি মোট মাথাপিছু ৭.৩৮ টন গ্রিনহাউস গ্যাস নিঃসরণ করে। বিশ্বে গ্রিনহাউস গ্যাস (কার্বন ডাই-অক্সাইড) নিঃসরণে দ্বিতীয় অবস্থানে রয়েছে যুক্তরাষ্ট্র কিন্তু দেশটি মাথাপিছু গ্রিনহাউস গ্যাস নিঃসরণে শীর্ষ অবস্থানে রয়েছে। দেশটি মোট মাথাপিছু ১৫.৫২ টন গ্রিনহাউস গ্যাস নিঃসরণ করে ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is the hardest rock?",
+      "options": [
+        "Granite",
+        "Coal",
+        "Chalk",
+        "Diamond"
+      ],
+      "correctIndex": 3,
+      "explanation": "হীরা হলো মূল্যবান একটি রত্ন। এটি একটি বিশুদ্ধ উপাদান কার্বন থেকে সৃষ্ট। অর্থাৎ হীরা হলো কার্বনের রূপভেদ। কার্বন যেহেতু অধাতু, তাই হীরাও অধাতু। এটি সবচেয়ে কঠিন খনিজ। আর ট্যালক সবচেয়ে নরম খনিজ ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 19,
+      "question": "The headquarter of IDA is located in-",
+      "options": [
+        "Washington DC",
+        "Geneva",
+        "Vienna",
+        "Rome"
+      ],
+      "correctIndex": 0,
+      "explanation": "IDA-এর সদর দপ্তর Washington, DC। সংস্থাটি 1960 সালে প্রতিষ্ঠিত; আগের ব্যাখ্যায় 1961 ছিল।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is/are Breton Woods Institution/Institutions?",
+      "options": [
+        "IMF",
+        "World Bank",
+        "WTO",
+        "Both (a) and (b)."
+      ],
+      "correctIndex": 3,
+      "explanation": "-১৯৪৪ সালের ১-২২ জুলাই পর্যন্ত যুক্তরাষ্ট্রের নিউ হ্যাম্পশায়ার এর ব্রেটন উডস শহরে 'ব্রেটন উডস সম্মেলন' অনুষ্ঠিত হয়। -এতে ৪৪টি দেশ অংশগ্রহণ করে। -বিশ্বযুদ্ধোত্তর প্রেক্ষাপটে আন্তর্জাতিক মুদ্রা ব্যবস্থা গঠন, যুদ্ধোত্তর রাষ্ট্রসমূহের পুনর্গঠন ও উন্নয়ন সাধন এবং বাণিজ্য ব্যবস্থা সংস্কারের উদ্যোগ গ্রহণ করার জন্য তিনটি আন্তর্জাতিক (World Bank, IMF, ITO) সংস্থা গঠন করার ব্যাপারে আলোচনা হয়। -ব্রেটন উডস সম্মেলনে গৃহীত সিদ্ধান্ত অনুযায়ী ১৯৪৫ IMF প্রতিষ্ঠিত হয় এবং ১৯৪৭ সালে কার্যক্রম শুরু করে। -আর ১৯৪৫ সালে বিশ্বব্যাংক প্রতিষ্ঠিত হয় এবং ১৯৪৬ সালে কার্যক্রম শুরু করে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 21,
+      "question": "The first all-Indian Emperor of ancient India was-",
+      "options": [
+        "Bindusara",
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Sarvarthasiddh"
+      ],
+      "correctIndex": 2,
+      "explanation": "- মৌর্য বংশের রাজত্বকাল ছিল ঃ ৩২৪ খ্রিস্টপূর্ব থেকে ১৮৭ খ্রিস্টপূর্ব পর্যন্ত। - কৌটিল্য নীতি হলো ঃ শক্তিমান মাত্রই যুদ্ধ করবে ও শত্রু নিপাত করবে। - প্রথম জীবনে আশোক ছিলেন ঃ হিন্দু ধর্মাবলম্বী। - আশোক বৌদ্ধ ধর্ম গ্রহণ করেন ঃ কলিঙ্গ যুদ্ধের ভয়াবহতা দেখে। - বৌদ্ধধর্ম বিশ্বধর্ম পরিণত হয় ঃ সম্রাট অশোকের শাসনামলে। - বৌদ্ধ ধর্মের কনস্ট্যান্টাইন বলা হয় ঃ সম্রাট অশোককে - মৌর্য বংশের প্রতিষ্ঠাতা ঃ চন্দ্রগুপ্ত মৌর্য । (শেষ সম্রাট: বৃহদ্রথ)। - চন্দ্রগুপ্ত মৌর্য রাজা হন ঃ নন্দ বংশের উৎখাতের মাধ্যমে - মৌর্য বংশের ৩য় ও সর্বশ্রেষ্ঠ রাজা ঃ সম্রাট অশোক (রাজত্বকাল: খ্রিস্টপূর্ব ২৬৯-২৩২)। - মৌর্যের রাজধানী ঃ পাটলীপুত্র (বর্তমান: পটনা, বিহার)। - মৌর্য বংশের প্রত্নতাত্ত্বিক নিদর্শন ঃ মহাস্থানগড় (বগুড়া), সোমপুর বিহার (নওগা) - মৌর্য বংশের সিংহাসনে আরোহণ সম্পর্কে জানা যায় ঃ সংস্কৃত ভাষায় রচিত বিশাখা দত্তের নাটক ‘মুদ্রা রাক্ষস' হতে। - চানক্য/কৌটিল্য রচিত একটি সুপ্রাচীন রাষ্ট্রনীতি বিষয়ক গ্রন্থ ঃ ‘অর্থশাস্ত্র’ । এই গ্রন্থটি ১৫টি ভাগে বিভক্ত। - চানক্য কে তুলনা করা হয় ঃ ইতালির রাষ্ট্রনীতিবিদ ‘মেকিয়াভেলির' সাথে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 22,
+      "question": "Qatar is located in-",
+      "options": [
+        "Western Asia",
+        "South Asia",
+        "East Asia",
+        "Northern Asia"
+      ],
+      "correctIndex": 0,
+      "explanation": "কাতার পশ্চিম এশিয়ায় অবস্থিত একটি দেশ, বিশেষ করে আরব উপদ্বীপে। এটি একটি ছোট দেশ যা দক্ষিণে সৌদি আরবের সাথে সীমানা ভাগ করে এবং উত্তর, পূর্ব এবং পশ্চিমে পারস্য উপসাগর দ্বারা বেষ্টিত। কাতারের রাজধানী এবং বৃহত্তম শহর দোহা। অফিসিয়াল ভাষা আরবি এবং মুদ্রা কাতারি রিয়াল। কাতার তার তেল এবং প্রাকৃতিক গ্যাসের রিজার্ভের পাশাপাশি দ্রুত বর্ধনশীল অর্থনীতি এবং আধুনিক স্থাপত্যের জন্য পরিচিত।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 23,
+      "question": "How many times has the SAARC Summit been held in Bangladesh?",
+      "options": [
+        "5",
+        "3",
+        "2",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "- দক্ষিণ এশিয়ার আঞ্চলিক, অর্থনৈতিক, সামাজিক ও সাংস্কৃতিক উন্নয়ন এবং অন্যান্য উন্নয়নশীল দেশ সমূহের সাথে বন্ধুত্বপূর্ণ সম্পর্ক ও সহযোগিতা করার লক্ষ্যে ৮ ডিসেম্বর, ১৯৮৫ সালে দক্ষিণ এশীয় আঞ্চলিক সহযোগিতা সংস্থা (সার্ক) প্রতিষ্ঠিত হয়। - এর বর্তমান সদস্য ৮ (ভারত, বাংলাদেশ, পাকিস্তান, আফগানিস্তান, ভুটান, নেপাল, মালদ্বীপ ও শ্রীলংকা)। - সংস্থাটির সদর দপ্তর নেপালের রাজধানী কাঠমান্ডুতে অবস্থিত। - সার্কের শীর্ষ সম্মেলন সাধারণত বাৎসরিক ভিত্তিতে নির্ধারিত এবং পররাষ্ট্র সচিবদের সভা দুই বছর পর পর অনুষ্ঠিত হয়। - ১৯৮৫ সালের ৭-৮ ডিসেম্বর সার্কের প্রথম শীর্ষ সম্মেলন বাংলাদেশে অনুষ্ঠিত হয়। - এছাড়াও ১০-১১ এপ্রিল, ১৯৯৩ সালে ৭ম এবং ১২-১৩ নভেম্বর, ২০০৫ সালে ১৩তম সার্ক শীর্ষ সম্মেলন বাংলাদেশে অনুষ্ঠিত হয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 24,
+      "question": "What is the name of the currency of Ukraine?",
+      "options": [
+        "Ukrainian hryvnia",
+        "Ukrainian Ruble",
+        "Ukrainian Dollar",
+        "Lev"
+      ],
+      "correctIndex": 0,
+      "explanation": "ইউক্রেন এর মুদ্রার নাম রিভনিয়া। আর বুলগেরিয়ার মুদ্রার নাম লেভ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 25,
+      "question": "1 Kilogram is equal in-",
+      "options": [
+        "2.21 lbs",
+        "2.32 lbs",
+        "2.00 lbs",
+        "1.89 lbs"
+      ],
+      "correctIndex": 0,
+      "explanation": "কিলোগ্রাম =$2.21 lbs$",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 26,
+      "question": "Which one is the second highest mountain on the earth?",
+      "options": [
+        "Makalu",
+        "Himalayas",
+        "Annapurna",
+        "K2"
+      ],
+      "correctIndex": 3,
+      "explanation": "-কে-২ এভারেস্ট পর্বতের পর বিশ্বের দ্বিতীয় সর্বোচ্চ পর্বতশৃঙ্গ। -সমুদ্র পৃষ্ঠ থেকে এর উচ্চতা ৮৬১১ মিটার। -হিমালয় পর্বতমালার কারকোরাম পর্বতশ্রেণির অন্তর্গত কে-২ পর্বতশৃঙ্গটি পাকিস্তানের আজাদ কাশ্মীরের গিলগিট- বালতিস্তান ও চীনের জিংজিয়ান সীমান্তে অবস্থিত ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following countries is the closest competitor of Bangladesh in the global RMG business?",
+      "options": [
+        "India",
+        "China",
+        "Vietnam",
+        "Sri Lanka"
+      ],
+      "correctIndex": 2,
+      "explanation": "৩০ নভেম্বর ,২০২২ সালের বিশ্ব বাণিজ্য সংস্থার প্রকাশিত বিশ্ব বাণিজ্য পরিসংখ্যান পর্যালোচনা ২০২২ অনুযায়ী ,২০২১ সাল বৈশ্বিক তৈরি পোশাক রপ্তানি বাজারে বাংলাদেশের অবস্থান দ্বিতীয়। ২০২০ সালে ভিয়েতনাম বাংলাদেশকে তৃতীয় অবস্থানে ঠেলে দিয়ে দ্বিতীয় হয়েছিল। সাম্প্রতিক বছর গুলোতে বৈশ্বিক তৈরি পোশাক রপ্তানির বাজারে আধিপত্য বিস্তারে বাংলাদেশ ভিয়েতনামের মধ্যে এক ধরনের প্রতিযোগিতা পরিলক্ষিত হচ্ছে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 28,
+      "question": "In the figure, DE is parallel to BC. If the area of a triangle ADE is half that of trapezoid DECB, what is the ratio of AE to AC-",
+      "options": [
+        "1 : 2",
+        "1 : $\\sqrt{2}$",
+        "1 : 3",
+        "1 : $\\sqrt{3}$"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area(ADE):Area(DECB)=1:2 ⇒ Area(ADE):Area(ABC)=1:3। সদৃশ ত্রিভুজের বাহুর অনুপাত AE/AC=√(1/3)=1/√3।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 29,
+      "question": "The perimeter of rectangle is 200 meters. The breadth is 3/7 part of the length. What is the length?",
+      "options": [
+        "30m",
+        "50m",
+        "60m",
+        "70m"
+      ],
+      "correctIndex": 3,
+      "explanation": "2(L+B)=200 এবং B=3L/7 ⇒ L+3L/7=100 ⇒ L=70 m।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 30,
+      "question": "The measurement of a rectangle is 16 feet by 12 feet. What is the area of the smallest circle that can cover this rectangle entirely (so that no part of the rectangle is outside the circle)?",
+      "options": [
+        "100π sq. ft",
+        "100 sq. ft",
+        "192 sq. ft",
+        "128π sq. ft"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$r=\\frac{\\sqrt{16^{2}+12^{2}}}{2}=10$ → $A=100\\pi$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 31,
+      "question": "The mean of the data set of 1000 items is 5. From each item 3 is subtracted and then each number is multiplied by 2. The new mean will be -",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "রৈখিক পরিবর্তনে নতুন mean=2(5−3)=4।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 32,
+      "question": "A natural number when increased by 12, equals 160 times reciprocal. The number is-",
+      "options": [
+        "16",
+        "8",
+        "6",
+        "18"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$x+12=\\frac{160}{x}$... $x=8$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 33,
+      "question": "In 10 years, A will be twice as old as B was 10 years ago. If A is now 9 years older than B, then the present age of B is-",
+      "options": [
+        "19 years",
+        "29 years",
+        "39 years",
+        "49 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "মনেকরি, B এর বর্তমান বয়স = x বছর A \" \" \"=$x + 9$ \" আবার, 10 বছর পরে A এর বয়স হবে =$x + 9 + 10 = (x + 19)$ প্রশ্নমতে,$x + 19 = 2 (x-10) \\Rightarrow x + 19 = 2x - 20 \\Rightarrow x - 2x = -20-19 \\Rightarrow x=-39 \\Rightarrow x=39$",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 34,
+      "question": "In a family, the father took 1/4 of the cake and had 3 times as much as each of the other members had. The total number of family member is-",
+      "options": [
+        "3",
+        "7",
+        "10",
+        "12"
+      ],
+      "correctIndex": 2,
+      "explanation": "বাবা খান 1/4; অন্য প্রত্যেকে 1/12। অবশিষ্ট 3/4-এ 9 জন; মোট 10 জন।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 35,
+      "question": "A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less for the same journey. Find the speed of the train.",
+      "options": [
+        "30 km/hr",
+        "40 km/hr",
+        "50 km/hr",
+        "60 km/hr"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$\\frac{360}{x}-\\frac{360}{x+5}=1$... $x=40$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 36,
+      "question": "The interest charged on a loan is 'P' per Tk, 1000 for the first quarter (3 months), and 'Q' per Tk. 1000 for each month after the first quarter. How much interest will be charged for the first year on Tk 10,000?",
+      "options": [
+        "10(P + Q)",
+        "10(P + 9Q)",
+        "4P + 9Q",
+        "None of these"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$10(P+9Q)$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 37,
+      "question": "There are two numbers where the sum of twice the first number and thrice the second number is 100. And the sum of thrice the first number and twice the second number is 120. Which is the largest number?",
+      "options": [
+        "32",
+        "12",
+        "35",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "2x+3y=100, 3x+2y=120 ⇒ x=32,y=12; বড় সংখ্যা 32।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 38,
+      "question": "The average temperature for the first 4 days of a week is 40.2°C and that of the last 4 days is 41.3°C. If the average temperature for the whole week is 40.6°C, then the temperature on the fourth day is-",
+      "options": [
+        "38.5°C",
+        "40.8°C",
+        "41.8°C",
+        "41.3°C"
+      ],
+      "correctIndex": 2,
+      "explanation": "চতুর্থ দিনের তাপমাত্রা=4×40.2+4×41.3−7×40.6=41.8°C।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 39,
+      "question": "A school has a total of 90 students. There are 30 students taking Physics, 25 taking English, and 13 taking both. Approximately what percentage of the students is taking either Physics or English?",
+      "options": [
+        "32%",
+        "36%",
+        "47%",
+        "51%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Physics অথবা English পড়েন 30+25−13=42 জন; 42/90×100≈46.67%≈47%।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 40,
+      "question": "An employee may claim Tk. 7 for each kilometer when he travels by taxi and Tk. 6 for each kilometer when he drives his own car. If in one week he claimed Tk. 900 for travelling 135 km, how many kilometers did he travel by taxi?",
+      "options": [
+        "90 km",
+        "100 km",
+        "110km",
+        "120 km"
+      ],
+      "correctIndex": 0,
+      "explanation": "ট্যাক্সিতে x km: 7x+6(135−x)=900 ⇒ x=90।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 41,
+      "question": "In a group of buffaloes and ducks, the number of legs is 24 more than twice the number of heads. What is the number of buffaloes?",
+      "options": [
+        "12",
+        "10",
+        "8",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "মহিষ b, হাঁস d হলে 4b+2d−2(b+d)=24 ⇒ 2b=24 ⇒ b=12।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 42,
+      "question": "If (3x + 2y) = 8 and (2x - 2y) = 2, then find the value of (4 - 3x)",
+      "options": [
+        "1.5",
+        "3",
+        "-2",
+        "-2.5"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$x=2, y=1$... $4-3(2)=-2$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 43,
+      "question": "2¹² + 2¹² + 2¹² + 2¹² = ?",
+      "options": [
+        "4¹³",
+        "2¹⁴",
+        "2¹⁶",
+        "2⁴⁸"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$4\\times2^{12}=2^{14}$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 44,
+      "question": "'At arm's length' means -",
+      "options": [
+        "Length of arm",
+        "At a distance",
+        "Insult",
+        "Very near"
+      ],
+      "correctIndex": 1,
+      "explanation": "At arm's length = at a distance।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is correct?",
+      "options": [
+        "Twenty miles is a long distance",
+        "Twenty miles are a long distance",
+        "Twenty mile is a long distance",
+        "Twenty mile are a long distance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Twenty miles একটি একক দূরত্বের পরিমাণ, তাই singular verb is।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 46,
+      "question": "The phrase ''Down-to-earth'' means --",
+      "options": [
+        "Close to nature",
+        "Soft hearted",
+        "Thrown to the ground",
+        "Realistic"
+      ],
+      "correctIndex": 3,
+      "explanation": "Down-to-earth = realistic।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following words is not a singular?",
+      "options": [
+        "every",
+        "datum",
+        "agenda",
+        "each"
+      ],
+      "correctIndex": 2,
+      "explanation": "Datum singular; agenda মূলত agendum-এর plural (আধুনিক ব্যবহারে singular-ও হয়)। প্রশ্নের প্রচলিত পরীক্ষাভিত্তিক উত্তর agenda।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 48,
+      "question": "What is passive form of the sentence ''We teach him a good lesson''?",
+      "options": [
+        "He is teaching a good lesson by us",
+        "He is being taught a good lesson by us",
+        "He has been taught a good lesson by us",
+        "He is taught a good lesson by us"
+      ],
+      "correctIndex": 3,
+      "explanation": "He is taught a good lesson।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 49,
+      "question": "Choose the correct spelling from the following-",
+      "options": [
+        "Rebelious",
+        "Rebelieous",
+        "Rebellious",
+        "Revellious"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক বানান Rebellious।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following spelling is correct?",
+      "options": [
+        "Adulteration",
+        "Addultration",
+        "Adultration",
+        "Addulteration"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক বানান Adulteration।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 51,
+      "question": "'Decision that cannot be taken back.' - the sentence can be expressed by which of the following word?",
+      "options": [
+        "Irrevocable",
+        "Rigid",
+        "Order",
+        "Brief"
+      ],
+      "correctIndex": 0,
+      "explanation": "Irrevocable।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 52,
+      "question": "Select the appropriate word for expressing the sentence ‘One who cannot be corrected' -",
+      "options": [
+        "Incurable",
+        "Hardened",
+        "Incorrigible",
+        "Invulnerable"
+      ],
+      "correctIndex": 2,
+      "explanation": "Incorrigible।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 53,
+      "question": "Which underlined part of the following sentence has an error? (a) The most difficult job is (b) to band and then (c) lifting (d) the weight .",
+      "options": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)"
+      ],
+      "correctIndex": 2,
+      "explanation": "to bend-এর সঙ্গে parallel infinitive হিসেবে lift লাগবে; lifting ত্রুটিপূর্ণ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 54,
+      "question": "Identify the correct sentence from the following -",
+      "options": [
+        "The mobile set almost same like mine",
+        "The mobile set is almost same like me",
+        "The mobile set is almost same like myself",
+        "The mobile set is almost the same as mine"
+      ],
+      "correctIndex": 3,
+      "explanation": "তুলনার সঠিক রূপ: The mobile set is almost the same as mine।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 55,
+      "question": "Which of the following sentences is correct?",
+      "options": [
+        "He agreed at my proposal",
+        "He agreed for my proposal",
+        "He agreed to my proposal",
+        "He agreed with my proposal"
+      ],
+      "correctIndex": 2,
+      "explanation": "কোনো proposal-এ সম্মতি দিলে agree to; ব্যক্তির সঙ্গে একমত হলে agree with।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 56,
+      "question": "Choose the correct replacement of the underlined portion of the sentence ' If I would have known about the traffic jam at the bridge, I would have taken the alternate route''.",
+      "options": [
+        "If I would have known about",
+        "If I could of known about",
+        "If I was aware of",
+        "Had I known about"
+      ],
+      "correctIndex": 3,
+      "explanation": "Unreal past conditional: Had I known... I would have taken...।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 57,
+      "question": "Fill up the gap of the sentence 'We must not approve ______ such a conduct' selecting appropriate preposition.",
+      "options": [
+        "for",
+        "to",
+        "of",
+        "with"
+      ],
+      "correctIndex": 2,
+      "explanation": "approve of।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 58,
+      "question": "Fill up the gap of the sentence 'I am accustomed _____ plain living’ choosing right preposition.",
+      "options": [
+        "to",
+        "of",
+        "in",
+        "by"
+      ],
+      "correctIndex": 0,
+      "explanation": "accustomed to।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 59,
+      "question": "Pick appropriate word and complete the sentence- ‘philosophical problems arise when people ask questions that, though very _____, have certain characteristics in common'.",
+      "options": [
+        "relevant",
+        "elementary",
+        "controversial",
+        "diverse"
+      ],
+      "correctIndex": 3,
+      "explanation": "বিভিন্ন রকম সমস্যার অভিন্ন বৈশিষ্ট্য বোঝাতে diverse উপযুক্ত।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 60,
+      "question": "Complete the sentence with appropriate word - 'The aspiring candidate's performance in the debate all but ______ any hope he may have had of winning the election''.",
+      "options": [
+        "nullifies",
+        "encourages",
+        "guarantees",
+        "accentuates."
+      ],
+      "correctIndex": 0,
+      "explanation": "আশা প্রায় নিঃশেষ করে বোঝাতে nullifies।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 61,
+      "question": "The term ALACRITY is same as-",
+      "options": [
+        "Suspicion",
+        "Enthusiasm",
+        "Unwillingly",
+        "Hesitatingly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alacrity = Enthusiasm।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 62,
+      "question": "Antonym of the word FLAGITIOUS is –",
+      "options": [
+        "Frivolous",
+        "Ignorant",
+        "Vapid",
+        "Innocent"
+      ],
+      "correctIndex": 3,
+      "explanation": "Flagitious × Innocent।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 63,
+      "question": "Select the term that contrasts INTRICATE-",
+      "options": [
+        "Foolish",
+        "Simple",
+        "Straight forward",
+        "Easy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Intricate = জটিল; বিপরীত simple।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 64,
+      "question": "Which of the following is the opposite of the word INHIBIT?",
+      "options": [
+        "Encourage",
+        "Curb",
+        "Debar",
+        "Discourage"
+      ],
+      "correctIndex": 0,
+      "explanation": "Inhibit = বাধা দেওয়া; বিপরীত encourage।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 65,
+      "question": "What is the antonym of the word ABJURE?",
+      "options": [
+        "Commingle",
+        "Arbitrate",
+        "Espouse",
+        "Appease"
+      ],
+      "correctIndex": 2,
+      "explanation": "Abjure = ত্যাগ/পরিত্যাগ করা; বিপরীত espouse = গ্রহণ/সমর্থন করা।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 66,
+      "question": "Which of the following resembles MOCK: IMITATE?",
+      "options": [
+        "Condense : Summarize",
+        "Taunt : Challenges",
+        "Adapt : Duplicate",
+        "Satirize : Charm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mock/imitate এবং condense/summarize—প্রতিটি জোড়া কাছাকাছি অর্থের।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 67,
+      "question": "Which of the following is the analogy of WORSHIP : SACRIFICE?",
+      "options": [
+        "Prediction : Augury",
+        "Weapon : Centurion",
+        "Massacre : Invasion",
+        "Burial : Mortuary"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sacrifice পূজার একটি রীতি; augury ভবিষ্যদ্বাণীর একটি পদ্ধতি।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 68,
+      "question": "'একাদশে বৃহস্পতি' অর্থ কি?",
+      "options": [
+        "আশার কথা",
+        "সৌভাগ্যের বিষয়",
+        "মজা পাওয়া",
+        "আনন্দের বিষয়"
+      ],
+      "correctIndex": 1,
+      "explanation": "হঠাৎ কারো ভাগ্য সুপ্রসন্ন হলে তাকে ‘একাদশে বৃহস্পতি’ বলে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 69,
+      "question": "সমাস ভাষাকে কি করে?",
+      "options": [
+        "সংক্ষেপ করে",
+        "বিস্তৃত করে",
+        "অর্থপূর্ণ করে",
+        "অর্থের রূপান্তর ঘটায়"
+      ],
+      "correctIndex": 0,
+      "explanation": "সমাস শব্দের অর্থ সংক্ষেপণ, মিলন, একাধিক পদের একপদীকরণ। পরস্পর সম্পর্কযুক্ত একাধিক পদের এক পদে মিলিত হওয়াকে সমাস বলে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 70,
+      "question": "'তৎসম' শব্দের ব্যবহার কোন রীতিতে বেশী হয়?",
+      "options": [
+        "চলিত রীতি",
+        "সাধু রীতি",
+        "মিশ্র রীতি",
+        "আঞ্চলিক রীতি"
+      ],
+      "correctIndex": 1,
+      "explanation": "ক. বাংলা ভাষার লৈখিক রীতি দুটির একটি চলিত রীতি। চলিত রীতি পরিবর্তনশীল। এ রীতি তদ্ভব শব্দবহুল। খ. যেসব শব্দ সংস্কৃত ভাষা থেকে সোজাসুজি বাংলায় এসেছে এবং যাদের রূপ অপরিবর্তিত রয়েছে সেসব শব্দকে বলা হয় তৎসম শব্দ। সাধু রীতি গুরুগম্ভীর ও তৎসম শব্দবহুল। গ. বাংলা ভাষায় মিশ্র রীতির ব্যবহার নেই। ঘ. মৌখিক রীতির দুটি ভাগের একটি হলো আঞ্চলিক রীতি। বিভিন্ন অঞ্চলে আঞ্চলিক রীতির বিভিন্নতা পরিলক্ষিত হয়।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 71,
+      "question": "'অভয়া' চরিত্রটি শরৎচন্দ্র চট্টোপাধ্যায়ের কোন উপন্যাসে রয়েছে?",
+      "options": [
+        "পল্লী সমাজ",
+        "শ্রীকান্ত",
+        "চন্দ্রনাথ",
+        "পথের দাবী"
+      ],
+      "correctIndex": 1,
+      "explanation": "শ্রীকান্ত।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 72,
+      "question": "নিচের কোনটি 'মহাপ্রাণ ধ্বনি?",
+      "options": [
+        "ত",
+        "ড",
+        "ঢ",
+        "দ"
+      ],
+      "correctIndex": 2,
+      "explanation": "ঢ — মহাপ্রাণ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 73,
+      "question": "কোন উপসর্গটি 'বাংলা' ও 'তৎসম' উভয় ক্ষেত্রে ব্যবহৃত হয়?",
+      "options": [
+        "অ",
+        "না",
+        "বে",
+        "সু"
+      ],
+      "correctIndex": 3,
+      "explanation": "প্রদত্ত অপশনে সু বাংলা ও তৎসম উভয় ক্ষেত্রেই ব্যবহৃত। আগের ব্যাখ্যায় অপশনে না থাকা নি ছিল।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 74,
+      "question": "কোন শব্দটি শুদ্ধ বানানে লেখা হয়েছে?",
+      "options": [
+        "ত্রিভুজ",
+        "শুন্য",
+        "পূন্য",
+        "ভূবন"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূণ্য, পূন্য ও ভূবন বানান তিনটির শুদ্ধরূপ যথাক্রমে শূন্য, পুণ্য ও ভুবন। শব্দ তিনটিই সংস্কৃত কৃৎ প্রত্যয় সাধিত শব্দ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 75,
+      "question": "সাধু ও চলিত ভাষার পার্থক্য কোন পদে বেশি দেখা যায়?",
+      "options": [
+        "বিশেষ্য ও ক্রিয়া",
+        "বিশেষণ ও ক্রিয়া",
+        "বিশেষ্য ও বিশেষণ",
+        "ক্রিয়া ও সর্বনাম"
+      ],
+      "correctIndex": 3,
+      "explanation": "ক্রিয়া ও সর্বনাম পদে।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 76,
+      "question": "'আগুন' এর সমার্থক শব্দ কোনটি?",
+      "options": [
+        "ভাতি",
+        "অনল",
+        "অংশ",
+        "জ্যোতি"
+      ],
+      "correctIndex": 1,
+      "explanation": "'আগুন'-এর সমার্থক শব্দ হলো অনল, পাবক, অগ্নি, হুতাশন, বহ্নি। অন্যদিকে 'সুবর্ণ' মানে সোনা, 'মার্তণ্ড' মানে সূর্য এবং 'কর' মানে হাত বা ট্যাক্স।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 77,
+      "question": "'লোকসাহিত্য সংগ্রহে অবদান রেখেছেন কে?",
+      "options": [
+        "কেশবচন্দ্র সেন",
+        "রজনীকান্ত সেন",
+        "দীনেশচন্দ্র সেন",
+        "হীরালাল সেন"
+      ],
+      "correctIndex": 2,
+      "explanation": "দীনেশচন্দ্র সেন।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 78,
+      "question": "' হেলায় সুযোগ হারিও না' বাক্যে নিম্নরেখ শব্দটি কোন কারকে কোন বিভক্তি?",
+      "options": [
+        "অপাদানে ৭মী",
+        "করণে ৭মী",
+        "কর্মকারকে ৭মী",
+        "অধিকরণে ৭মী"
+      ],
+      "correctIndex": 1,
+      "explanation": "হেলায় — করণে ৭মী।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 79,
+      "question": "নিচের কোন শব্দটি নিত্য সমাসের উদাহরণ?",
+      "options": [
+        "একটি মাত্র",
+        "অনুকূল",
+        "আনাগোনা",
+        "রামেশ্বর"
+      ],
+      "correctIndex": 0,
+      "explanation": "একটি মাত্র — নিত্য সমাস।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 80,
+      "question": "ভাষার ক্ষুদ্রতম একক কোনটি?",
+      "options": [
+        "বর্ণ",
+        "শব্দ",
+        "অক্ষর",
+        "ধ্বনি"
+      ],
+      "correctIndex": 3,
+      "explanation": "- ভাষার ক্ষুদ্রতম একক হলো ধ্বনি , যা মানুষের বাকপ্রত্যঙ্গ (ঠোঁট, জিহ্বা, তালু, দাঁত ইত্যাদি) থেকে উচ্চারিত আওয়াজ। - ধ্বনি ভাষার মূল ভিত্তি, একে আর কোনো ক্ষুদ্রতর অংশে বা টুকরোতে ভাগ করা যায় না। - ধ্বনির লিখিত বা সাংকেতিক রূপকে বর্ণ বলা হয়, অর্থাৎ আমরা যা মুখে বলি তা ধ্বনি আর যা লিখি তা বর্ণ। - এক বা একাধিক ধ্বনি একত্রে উচ্চারিত হয়ে অক্ষর (Syllable) বা দল গঠিত হয়, যা এক নিঃশ্বাসে উচ্চারিত হতে পারে। - কয়েকটি ধ্বনি বা বর্ণ পাশাপাশি বসে যদি কোনো নির্দিষ্ট অর্থ প্রকাশ করে তবে তাকে শব্দ বলে। - যেহেতু ধ্বনি থেকেই বর্ণ, অক্ষর, শব্দ এবং অবশেষে বাক্য তৈরি হয়, তাই ধ্বনিই ভাষার সবচেয়ে ছোট একক।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 81,
+      "question": "বাংলা ভাষায় মৌলিক স্বরধ্বনির সংখ্যা কত?",
+      "options": [
+        "৬টি",
+        "৭টি",
+        "৮টি",
+        "কোনটিই নয়"
+      ],
+      "correctIndex": 1,
+      "explanation": "৭টি মৌলিক স্বরধ্বনি।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 82,
+      "question": "'শনিবারের চিঠি' কি ধরনের সাহিত্য পত্রিকা?",
+      "options": [
+        "মন্তব্যধর্মী",
+        "নীতিকথা",
+        "হাস্যরসাত্মক",
+        "তথ্য সমৃদ্ধ"
+      ],
+      "correctIndex": 2,
+      "explanation": "হাস্যরসাত্মক।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer — 2022 — 2022-12-02"
+      ],
+      "subject": "বাংলা"
+    }
+  ]
+}

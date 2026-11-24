@@ -1,0 +1,682 @@
+{
+  "examSlug": "pb_2013",
+  "examTitle": "pb_2013",
+  "categoryKey": "petrobangla",
+  "categoryName": "petrobangla",
+  "url": "https://dreamsintodeeds.me/questions/petrobangla/pb_2013",
+  "questionCount": 42,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Although the buildings and streets of this small beach town appear _____, the property values are quite _____.",
+      "options": [
+        "expensive / sleep",
+        "wrecked / high",
+        "artistic / pedestrian",
+        "refurbished / low"
+      ],
+      "correctIndex": 1,
+      "explanation": "wrecked / high — ভাঙাচোরা চেহারা কিন্তু সম্পত্তির মূল্য বেশি।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 2,
+      "question": "The simplicity of the theory, its main attraction, is also its _____ ; for only by ____ the assumptions of the theory it is possible to explain the most recent observations made by researchers.",
+      "options": [
+        "glory / rejecting",
+        "liability / accepting",
+        "undoing / supplementing",
+        "downfall / considering"
+      ],
+      "correctIndex": 0,
+      "explanation": "glory / rejecting — সরলতাই গৌরব এবং তা প্রত্যাখ্যান করে বিকল্প তত্ত্ব।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "In a triangle the lengths of two sides are 5 and 9 and the length of the third side is represented by x. Which statement is always true?",
+      "options": [
+        "$$x > 5$",
+        "$$x < 9$",
+        "5 ≤ x ≤ 9",
+        "$$4 < x < 14$"
+      ],
+      "correctIndex": 3,
+      "explanation": "ত্রিভুজের তৃতীয় বাহু: $|9-5| < x < 9+5$ ⇒ $4 < x < 14$।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is the number one constituency in the National Parliament of Bangladesh?",
+      "options": [
+        "Kishoreganj",
+        "Cox's Bazar",
+        "Panchagarh",
+        "Dhaka"
+      ],
+      "correctIndex": 2,
+      "explanation": "জাতীয় সংসদের ১ নং নির্বাচনী এলাকা পঞ্চগড়।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "What is the angle between the hour and minute hand of a clock when it is 12 : 20 pm by the clock?",
+      "options": [
+        "100°",
+        "90°",
+        "110°",
+        "80°"
+      ],
+      "correctIndex": 2,
+      "explanation": "12:20 বাজে — ঘণ্টার কাঁটা ১২ থেকে $10°$ এগিয়ে, মিনিট $120°$ ⇒ কোণ $=120-10=110°$।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following pictures was depicted in the first postage stamp of Bangladesh after the Liberation war in 1971?",
+      "options": [
+        "Water Lily flower",
+        "Jackfruit",
+        "Royal Bengal Tiger",
+        "Martyr Monument"
+      ],
+      "correctIndex": 3,
+      "explanation": "বাংলাদেশের প্রথম ডাকটিকিটে ছিল শহীদ মিনারের ছবি।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "Identification of Correct Spelling: Instruction: For each question, identify the correctly spelling.",
+      "options": [
+        "Colloquail",
+        "Colloquial",
+        "Coloquiall",
+        "Colloqueil"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক বানান Colloquial।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "'অমরা' শব্দের অর্থ কী?",
+      "options": [
+        "স্বর্গ",
+        "জীবস্মৃত",
+        "চিরজীবী",
+        "বনবাস"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"অমরা\" অর্থ স্বর্গ।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 9,
+      "question": "ANARCHY : ORDER",
+      "options": [
+        "unhappiness : annihilation",
+        "incompetence : skill",
+        "frugality : elegance",
+        "disorder : disarray"
+      ],
+      "correctIndex": 1,
+      "explanation": "ANARCHY (অরাজকতা) : ORDER (শৃঙ্খলা) = incompetence (অদক্ষতা) : skill (দক্ষতা) — বিপরীত সম্পর্ক।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "কোনটি বহুব্রীহি সমাস?",
+      "options": [
+        "সহোদর",
+        "সুপুরুষ",
+        "সাদাকালো",
+        "চৌরাস্তা"
+      ],
+      "correctIndex": 0,
+      "explanation": "সহোদর = সহ + উদর — বহুব্রীহি সমাস।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 11,
+      "question": "Melodramas, which presented stark oppositions between innocence, and criminality, virtue and corruption, good and evil, were popular precisely because they offered the audience an world ______ of _____",
+      "options": [
+        "deprived / polarity",
+        "full / circumstantialities",
+        "bereft / theatricality",
+        "devoid / neutrality"
+      ],
+      "correctIndex": 1,
+      "explanation": "full / circumstantialities — melodrama-র বৈশিষ্ট্য বর্ণনা।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following countries is known as the 'Tiger on a Bicycle\"?",
+      "options": [
+        "Vietnam",
+        "Male",
+        "Ruanda",
+        "Venezuela"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Tiger on a Bicycle\" বলা হয় ভিয়েতনামকে।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "'আমি যাব তবে কাল যাব'- এটি কোন শ্রেণির বাক্য?",
+      "options": [
+        "সরল বাক্য",
+        "জটিল বাক্য",
+        "যৌগিক বাক্য",
+        "ব্যাসবাক্য"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"আমি যাব তবে কাল যাব\" — যৌগিক বাক্য।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 14,
+      "question": "Which one of the following is not an example of internet browser?",
+      "options": [
+        "Explorer",
+        "Opera",
+        "Android",
+        "Firefox"
+      ],
+      "correctIndex": 2,
+      "explanation": "Android ইন্টারনেট ব্রাউজার নয় (OS)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 15,
+      "question": "BABY : MOTHER",
+      "options": [
+        "symphony : composer",
+        "environment : ecologist",
+        "science : scientist",
+        "telescope : astronoomer"
+      ],
+      "correctIndex": 0,
+      "explanation": "BABY : MOTHER (সৃষ্টি ও স্রষ্টা) = symphony : composer।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 16,
+      "question": "Sentence Correction Instruction: Identify the correct sentence from the four sentnece given below. If none of the correct choose option \"E\".",
+      "options": [
+        "While the operator was making the machine ready the fire alarm goes off.",
+        "The operator was making the machine ready, the fire alarm went off.",
+        "While the operator making the machine ready, the fire alarm went off.",
+        "While the operator was making the machine ready, the Fire alarm went off."
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক: While the operator was making the call... (past continuous)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 17,
+      "question": "Sentence Correction Instruction: Identify the correct sentence from the four sentnece given below. If none of the correct choose option \"E\".",
+      "options": [
+        "The working condition of a bank is much better than that of a real estate company.",
+        "The working condition of a bank is more better than a real estate company.",
+        "The working condition of a bank is much more better than that of a real estate company.",
+        "The working condition of a bank is best fo all the real estate company."
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক: The working condition of a bank...।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following films won the best picture award in the Oscars 2013?",
+      "options": [
+        "Life of Pi",
+        "Argo",
+        "Lincoln",
+        "Sky fall"
+      ],
+      "correctIndex": 1,
+      "explanation": "২০১৩ সালের অস্কারে সেরা ছবি Argo।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 19,
+      "question": "SHRINE : PILGRIM",
+      "options": [
+        "defeat : loser",
+        "peak : climber",
+        "rescuer : danger",
+        "election : contestant"
+      ],
+      "correctIndex": 1,
+      "explanation": "SHRINE (তীর্থ) : PILGRIM (তীর্থযাত্রী) = peak : climber।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 20,
+      "question": "A reduction of 21% in the price of pulse enables a person to buy 10.5 kg more for TK. 100. What is the reduced rate per kg of pulse?",
+      "options": [
+        "ΤΚ. 2.50",
+        "ΤΚ. 2.25",
+        "TK. 2",
+        "Tk. 2.30"
+      ],
+      "correctIndex": 2,
+      "explanation": "২১% হ্রাসে ১০.৫ কেজি বেশি; মূল্য $=\\frac{10.5\\times0.79}{0.21\\times...}$ — কী-অনুযায়ী TK 2।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 21,
+      "question": "Questions 16 - 21: Filling the Gaps Instruction: Select the pair of words that appropriately fill in the gaps in each sentence. ১৬. The street ______ with frantic people all rushing ______ to reach their destinations.",
+      "options": [
+        "teemed / casually",
+        "swarmed / desperately",
+        "desolate / hurriedly",
+        "abounded / languidly"
+      ],
+      "correctIndex": 1,
+      "explanation": "swarmed / desperately — লোকেরা ভিড় জমায় মরিয়া হয়ে।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 22,
+      "question": "In the upper _____ of the company's management, most ____ that it is has grown too big.",
+      "options": [
+        "tiers / dither",
+        "reform / concede",
+        "ranks / absolve",
+        "echelons / acknowledge"
+      ],
+      "correctIndex": 3,
+      "explanation": "echelons / acknowledge — ঊর্ধ্বতন স্তরে স্বীকার করেন।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 23,
+      "question": "In which of the following countries the game \"Chess\" was originated?",
+      "options": [
+        "China",
+        "Japan",
+        "Russia",
+        "India"
+      ],
+      "correctIndex": 3,
+      "explanation": "দাবা খেলার উৎপত্তি ভারতে।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 24,
+      "question": "The average of 5 consecutive numbers is n. If the next two numbers are also included, the average will:",
+      "options": [
+        "increase by 1.5",
+        "increase by 1",
+        "remain the same",
+        "increase by 2"
+      ],
+      "correctIndex": 1,
+      "explanation": "৫টি ক্রমিক সংখ্যার গড় $n$; ২টি যোগ হলে গড় ১ বৃদ্ধি পায়।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is the extension for a file in Microsoft Power Point 2007?",
+      "options": [
+        ".ppt",
+        ".ppt7",
+        ".pptx",
+        ".pptx7"
+      ],
+      "correctIndex": 2,
+      "explanation": "PowerPoint 2007 ফাইল .pptx।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 26,
+      "question": "পুঁথি সাহিত্যের প্রাচীনতম লেখক কে?",
+      "options": [
+        "দৌলত কাজী",
+        "আমীর হামজা",
+        "ফকির গরিবুল্লাহ",
+        "আলাওল"
+      ],
+      "correctIndex": 2,
+      "explanation": "পুঁথি সাহিত্যের প্রাচীনতম লেখক ফকির গরিবুল্লাহ।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 27,
+      "question": "Identification of Correct Spelling: Instruction: For each question, identify the correctly spelling.",
+      "options": [
+        "Infathomable",
+        "Infalthommable",
+        "Unfathomable",
+        "Unfathoumable"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক বানান Unfathomable।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 28,
+      "question": "The chairperson's reputation, though _____ by false allegations of corruption, appeared from the ordeal _____.",
+      "options": [
+        "tarnished / intact",
+        "destroyed / intact",
+        "damaged/impaired",
+        "impugned / unclear"
+      ],
+      "correctIndex": 0,
+      "explanation": "tarnished / intact — মিথ্যা অভিযোগে কলংকিত হলেও খ্যাতি অক্ষত।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 29,
+      "question": "Questions 7 to 11: Analogy Instruction: For each question, choose the pair that best expresses the relationship similar to them one expressed by the pair in the capital letters. ৭) BACTERIA : DECOMPOSITION",
+      "options": [
+        "penicillin : injection",
+        "plants : deforestation",
+        "lava : eruption",
+        "yeast : fermentation"
+      ],
+      "correctIndex": 3,
+      "explanation": "yeast : fermentation — কারণ ও কার্য সম্পর্ক।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 30,
+      "question": "Identification of Correct Spelling: Instruction: For each question, identify the correctly spelling.",
+      "options": [
+        "Bludgion",
+        "Bludgeon",
+        "Bludigeon",
+        "Bludgeaon"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক বানান Bludgeon।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 31,
+      "question": "On which of the following days the \"World Environment Day\" is observed?",
+      "options": [
+        "5th June",
+        "1th June",
+        "25th May",
+        "1th April"
+      ],
+      "correctIndex": 0,
+      "explanation": "বিশ্ব পরিবেশ দিবস ৫ জুন।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 32,
+      "question": "'অজগর বৃত্তি' বাগধারাটির অর্থ কী?",
+      "options": [
+        "লোভী",
+        "আলসেমি",
+        "অপদার্থ",
+        "প্রচণ্ড গরম"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"অজগর বৃত্তি\" অর্থ আলস্য।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 33,
+      "question": "A can do a piece of work in 10 days. While B alone can do it in 15 days. They work together for 5 days and the rest of the work is done by C in 2 days. If they get TK. 450 for the whole work, how much money C should get from the whole?",
+      "options": [
+        "ΤΚ. 150",
+        "TK. 75",
+        "TK. 225",
+        "Tk. 200"
+      ],
+      "correctIndex": 1,
+      "explanation": "A ও B একসাথে $=\\frac{1}{10}+\\frac{1}{15}=\\frac{1}{6}$; মজুরি ভাগ $10:15=2:3$; A পায় $\\frac{2}{5}\\times\\frac{...}{}$ — কী: TK 75।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 34,
+      "question": "$$\\text{If } \\frac{1}{y} = \\frac{8}{3}\\text{, then } \\left(\\frac{1}{1+y}\\right)^2 = \\text{?}$",
+      "options": [
+        "64/121",
+        "64/9",
+        "6/64",
+        "81/121"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$\\frac{1}{y}=\\frac{8}{3}$ ⇒ $y=\\frac{3}{8}$; $(\\frac{1}{1+y})^{2}=(\\frac{8}{11})^{2}=\\frac{64}{121}$।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 35,
+      "question": "If a = m - 1, then which of the following is true when m = 1/2",
+      "options": [
+        "$$a0 > a2 > a3 > a$",
+        "$$a0 > a2 > a > a3$",
+        "$$a0 > a > a2 > a3$",
+        "$$a2 > a > a0 > a3$"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$m=\\frac{1}{2}$: $a=m-1=-\\frac{1}{2}$; $a^{0}=1>a^{2}>a^{3}>a$ — কী-অনুযায়ী।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 36,
+      "question": "কোন দুটি স্বরের মিলিত ধ্বনিতে 'ক্ষ' ধ্বনি সৃষ্টি হয়?",
+      "options": [
+        "খ এবং য়",
+        "ক এবং শ",
+        "খ এবং ষ",
+        "ক এবং ষ"
+      ],
+      "correctIndex": 3,
+      "explanation": "'ক্ষ' = ক + ষ ধ্বনির মিলন।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 37,
+      "question": "$$x$, $y$ and $z$ are consecutive positive integers such that $x < y < z$. If the units digit of $x^2$ is 6 and the units digit of $y^2$ is 9, what is the units digit of $z^2$?",
+      "options": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "correctIndex": 2,
+      "explanation": "একক অঙ্কের যোগফল = $x+y+z = 3y$; $3y$ এর একক = $4$ (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following countries was first to acknowledge the women's right to vote?",
+      "options": [
+        "New Zealand",
+        "India",
+        "Nederland",
+        "Australia"
+      ],
+      "correctIndex": 0,
+      "explanation": "নারীদের ভোটাধিকার সর্বপ্রথম স্বীকৃতি দেয় নিউজিল্যান্ড।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 39,
+      "question": "A man rows at 6 km/hr in still water and 4.5 km/hr against current. His rate along the current is:",
+      "options": [
+        "9.5 km/hr",
+        "7.5 km/hr",
+        "7 km/hr",
+        "5.25 km/hr"
+      ],
+      "correctIndex": 1,
+      "explanation": "স্রোতের বেগ $=6-4.5=1.5$; অনুকূলে $=6+1.5=7.5$ কিমি/ঘ।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 40,
+      "question": "By walking at 3/4 of his usual speed, a man reaches his office 20 minutes later than usual. His usual time is:",
+      "options": [
+        "30 minutes",
+        "75 minutes",
+        "45 minutes",
+        "60 minutes"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$\\frac{4}{3}$ গতিতে সময় $\\frac{4}{3}t$; $\\frac{t}{3}=20$ ⇒ $t=60$ মিনিট।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following is the newest country in the world?",
+      "options": [
+        "East Timor",
+        "Armenia",
+        "South Sudan",
+        "Palestine"
+      ],
+      "correctIndex": 2,
+      "explanation": "বিশ্বের নতুনতম রাষ্ট্র দক্ষিণ সুদান।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 42,
+      "question": "HOPE : DISHEARTENED",
+      "options": [
+        "wicked : turpitude",
+        "buoyant : sparkle",
+        "ethics : amoral",
+        "generous : truism"
+      ],
+      "correctIndex": 2,
+      "explanation": "HOPE : DISHEARTENED = ethics : amoral (বিপরীত সম্পর্ক)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (জেনারেল), ১৪-০৬-২০১৩"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

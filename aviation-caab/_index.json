@@ -1,0 +1,73 @@
+{
+  "categoryKey": "aviation-caab",
+  "categoryName": "aviation-caab",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/aviation-caab",
+  "totalExams": 9,
+  "totalQuestions": 720,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "caab_aerodrome-assistant-engineer_2023",
+      "examTitle": "caab_aerodrome-assistant-engineer_2023",
+      "questionCount": 80,
+      "file": "caab_aerodrome-assistant-engineer_2023.json",
+      "url": "https://dreamsintodeeds.me/questions/aviation-caab/caab_aerodrome-assistant-engineer_2023"
+    },
+    {
+      "examSlug": "caab_airport-fire-leader_2024",
+      "examTitle": "caab_airport-fire-leader_2024",
+      "questionCount": 80,
+      "file": "caab_airport-fire-leader_2024.json",
+      "url": "https://dreamsintodeeds.me/questions/aviation-caab/caab_airport-fire-leader_2024"
+    },
+    {
+      "examSlug": "caab_office-assistant_2024",
+      "examTitle": "caab_office-assistant_2024",
+      "questionCount": 80,
+      "file": "caab_office-assistant_2024.json",
+      "url": "https://dreamsintodeeds.me/questions/aviation-caab/caab_office-assistant_2024"
+    },
+    {
+      "examSlug": "caab_security-officer_2025",
+      "examTitle": "caab_security-officer_2025",
+      "questionCount": 80,
+      "file": "caab_security-officer_2025.json",
+      "url": "https://dreamsintodeeds.me/questions/aviation-caab/caab_security-officer_2025"
+    },
+    {
+      "examSlug": "caab_security-operator_2024",
+      "examTitle": "caab_security-operator_2024",
+      "questionCount": 80,
+      "file": "caab_security-operator_2024.json",
+      "url": "https://dreamsintodeeds.me/questions/aviation-caab/caab_security-operator_2024"
+    },
+    {
+      "examSlug": "caab_security-superintendent_2024",
+      "examTitle": "caab_security-superintendent_2024",
+      "questionCount": 80,
+      "file": "caab_security-superintendent_2024.json",
+      "url": "https://dreamsintodeeds.me/questions/aviation-caab/caab_security-superintendent_2024"
+    },
+    {
+      "examSlug": "caab_senior-officer-inspector_2024",
+      "examTitle": "caab_senior-officer-inspector_2024",
+      "questionCount": 80,
+      "file": "caab_senior-officer-inspector_2024.json",
+      "url": "https://dreamsintodeeds.me/questions/aviation-caab/caab_senior-officer-inspector_2024"
+    },
+    {
+      "examSlug": "caab_senior-officer_2021",
+      "examTitle": "caab_senior-officer_2021",
+      "questionCount": 80,
+      "file": "caab_senior-officer_2021.json",
+      "url": "https://dreamsintodeeds.me/questions/aviation-caab/caab_senior-officer_2021"
+    },
+    {
+      "examSlug": "caab_upper-division-assistant_2023",
+      "examTitle": "caab_upper-division-assistant_2023",
+      "questionCount": 80,
+      "file": "caab_upper-division-assistant_2023.json",
+      "url": "https://dreamsintodeeds.me/questions/aviation-caab/caab_upper-division-assistant_2023"
+    }
+  ]
+}

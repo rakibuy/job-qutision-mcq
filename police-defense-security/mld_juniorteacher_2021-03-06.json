@@ -1,0 +1,250 @@
+{
+  "examSlug": "mld_juniorteacher_2021-03-06",
+  "examTitle": "mld_juniorteacher_2021-03-06",
+  "categoryKey": "police-defense-security",
+  "categoryName": "police-defense-security",
+  "url": "https://dreamsintodeeds.me/questions/police-defense-security/mld_juniorteacher_2021-03-06",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "‘এ যে আমাদের চেনা লোক' বাক্যে ‘চেনা’ কোন পদ?",
+      "options": [
+        "বিশেষ্য",
+        "অব্যয়",
+        "ক্রিয়া",
+        "বিশেষণ"
+      ],
+      "correctIndex": 3,
+      "explanation": "যে পদ দ্বারা বিশেষ্য, সর্বনাম ও ক্রিয়াপদের দোষ, গুণ, অবস্থা, সংখ্যা, পরিমাণ ইত্যাদি প্রকাশ করে তাকে বিশেষণ পদ বলে। এ বাক্যে ‘চেনা’ শব্দটি দ্বারা লোকটির পরিচিতি বা অবস্থা প্রকাশ করছে, তাই এটি বিশেষণ পদ।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 2,
+      "question": "‘ধনপতি সওদাগর’ কোন নগরের অধিবাসী ছিলেন?",
+      "options": [
+        "বিজয় নগর",
+        "উজানী নগর",
+        "আরাকান",
+        "সিংহল"
+      ],
+      "correctIndex": 1,
+      "explanation": "ধনপতি সওদাগর — উজানী নগর।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 3,
+      "question": "‘শ্বশ্রূ’ অর্থ কি?",
+      "options": [
+        "দাড়িগোঁফ",
+        "শত্রু",
+        "অশ্রু",
+        "শ্বাশুড়ী"
+      ],
+      "correctIndex": 3,
+      "explanation": "শ্বশ্রূ = শ্বাশুড়ী।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 4,
+      "question": "‘বাবা বাড়ি নেই’ এ বাক্যে ‘নেই’ কোন পদ?",
+      "options": [
+        "বিশেষ্য",
+        "বিশেষণ",
+        "সর্বনাম",
+        "ক্রিয়া"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"নেই\" — ক্রিয়া পদ।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 5,
+      "question": "পনির ও তপনের আয়ের অনুপাত ৪ : ৩। তপন ও শম অনুপাত ৫ : ৪। পনিরের আয় ১২০ টাকা হলে রবিনের আয় কত?",
+      "options": [
+        "৩৬ টাকা",
+        "৭২ টাকা",
+        "১০ টাকা",
+        "৮৪ টাকা"
+      ],
+      "correctIndex": 1,
+      "explanation": "পনির=১২০; তপন=৯০; শম=$\\frac{90\\times4}{5}=72$।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 6,
+      "question": "x 4 - x 2 + 1 = 0 হলে, x 3 + 1 x 3 =?",
+      "options": [
+        "2",
+        "0",
+        "1",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$x^{4}+\\frac{1}{x^{4}}$... কী: $0$।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 7,
+      "question": "একটি সংখ্যার ৩০% যদি ১৩৫ হয়, তবে সংখ্যাটির ১৫০% কত হবে?",
+      "options": [
+        "675",
+        "670",
+        "600",
+        "650"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$0.30x=135$... $x=450$; $1.50\\times450=675$।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 8,
+      "question": "কোন তারিখে বিশ্ব পরিবেশ দিবস পালিত হয়?",
+      "options": [
+        "২৪ মার্চ",
+        "৭ জুন",
+        "৫ জুন",
+        "৫ জুলাই"
+      ],
+      "correctIndex": 2,
+      "explanation": "৫ জুন — বিশ্ব পরিবেশ দিবস।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 9,
+      "question": "গ্রিন হাউজ কি?",
+      "options": [
+        "সবুজ আলোর আলোকিত ঘর",
+        "কাঁচ নির্মিত সবুজ ঘর",
+        "কাচের তৈরি ঘর",
+        "সবুজ আলোর গাছপালা"
+      ],
+      "correctIndex": 2,
+      "explanation": "গ্রিনহাউজ = কাচের ঘর।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "বিজ্ঞান"
+    },
+    {
+      "id": 10,
+      "question": "Rahim is the third child of his family. Here ‘third' is",
+      "options": [
+        "Cardinal numeral",
+        "Multiplicative numeral",
+        "Indefinite numeral",
+        "Ordinal numeral"
+      ],
+      "correctIndex": 3,
+      "explanation": "third — Ordinal numeral।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "It costs relatively — and you can save more.",
+      "options": [
+        "lot",
+        "little",
+        "a little",
+        "small"
+      ],
+      "correctIndex": 1,
+      "explanation": "costs relatively little।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "I had to run to ——— the rickshaw.",
+      "options": [
+        "keep up",
+        "keep with",
+        "keep up with",
+        "keep on"
+      ],
+      "correctIndex": 2,
+      "explanation": "keep up with the rickshaw।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "He said nothing ——— a long time.",
+      "options": [
+        "after",
+        "since",
+        "during",
+        "for"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"for a long time\" — সময়ের সাথে for।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "If you lent me some money",
+      "options": [
+        "I will be grateful to you",
+        "I shall be grateful to you",
+        "I should be grateful to you",
+        "I would be grateful to you"
+      ],
+      "correctIndex": 3,
+      "explanation": "If you lent... → I would be grateful — conditional type 2।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "The people in the room stood up to greet him. 'in the room' is",
+      "options": [
+        "A prepositional phrase",
+        "An advance phrase",
+        "A noun phrase",
+        "An adjective phrase"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"in the room\" — Adjective phrase (noun modifier)।",
+      "appearedIn": [
+        "সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তর — জুনিয়র শিক্ষক 2021-03-06"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

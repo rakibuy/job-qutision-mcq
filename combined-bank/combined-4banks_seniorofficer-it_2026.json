@@ -1,0 +1,778 @@
+{
+  "examSlug": "combined-4banks_seniorofficer-it_2026",
+  "examTitle": "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬",
+  "categoryKey": "combined-bank",
+  "categoryName": "সমন্বিত ব্যাংক নিয়োগ",
+  "url": "https://dreamsintodeeds.me/questions/combined-bank/combined-4banks_seniorofficer-it_2026",
+  "questionCount": 48,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What type of cyber attack steals sensitive user information by tricking users through fake links or sites?",
+      "options": [
+        "Phishing Attack",
+        "DDoS Attack",
+        "Brute Force Attack",
+        "Malware Attack"
+      ],
+      "correctIndex": 0,
+      "explanation": "ইন্টারনেটে বিশ্বস্ত কোনো সত্তার ছদ্মবেশ ধারণ করে প্রতারণার মাধ্যমে ব্যবহারকারীর সংবেদনশীল তথ্য (যেমন- পাসওয়ার্ড, ডেবিট কার্ডের বিবরণ) চুরির প্রচেষ্টাকে Phishing Attack বলে। - হ্যাকাররা সাধারণত ভুয়া ইমেইল, মেসেজ বা ফেক ওয়েবসাইটের লিংক পাঠিয়ে ব্যবহারকারীকে প্রলুব্ধ করে। ব্যবহারকারী আসল সাইট ভেবে সেখানে তথ্য দিলে তা হ্যাকারের কাছে চলে যায়। অন্যান্য অপশনগুলো কেন সঠিক নয়: - DDoS Attack: সার্ভারে অতিরিক্ত রিকোয়েস্ট পাঠিয়ে সার্ভার ডাউন করে দেওয়া। - Brute Force Attack: বারবার বিভিন্ন সম্ভাব্য পাসওয়ার্ড ট্রাই করে সিস্টেমে প্রবেশের চেষ্টা করা। - Malware Attack: সিস্টেমে ক্ষতিকারক সফটওয়্যার (ভাইরাস, র‍্যানসমওয়্যার) প্রবেশ করিয়ে ক্ষতিসাধন করা।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 2,
+      "question": "Which virtualization component creates and manages virtual machines?",
+      "options": [
+        "Hypervisor",
+        "Compiler",
+        "Firewall",
+        "Load Balancer"
+      ],
+      "correctIndex": 0,
+      "explanation": "ভার্চুয়ালাইজেশনের ক্ষেত্রে যে সফটওয়্যার বা হার্ডওয়্যার কম্পোনেন্ট Virtual Machine (VM) তৈরি এবং পরিচালনা করে, তাকে Hypervisor বলা হয়। - হাইপারভাইজর একটি ফিজিক্যাল কম্পিউটারের রিসোর্স (যেমন- CPU, RAM, স্টোরেজ) ভাগ করে একাধিক ভার্চুয়াল মেশিনকে একই হার্ডওয়্যারে স্বাধীনভাবে চলতে সাহায্য করে। - একে Virtual Machine Monitor (VMM) -ও বলা হয়। অন্যান্য অপশনগুলো: - Compiler: এটি প্রোগ্রামিং কোডকে মেশিন রিডেবল কোডে রূপান্তর করে। - Firewall: এটি নেটওয়ার্কের নিরাপত্তা বলয়, যা ইনকামিং এবং আউটগোয়িং ট্রাফিক নিয়ন্ত্রণ করে। - Load Balancer: এটি একাধিক সার্ভারের মাঝে নেটওয়ার্ক ট্রাফিক সমানভাবে ভাগ করে দেয়।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "Which attack floods a server with excessive requests?",
+      "options": [
+        "Phishing",
+        "SQL Injection",
+        "DoS (Denial-of-Service)",
+        "Spoofing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Denial-of-Service (DoS) আক্রমণ হলো এমন এক ধরনের সাইবার হামলা যার মূল উদ্দেশ্য কোনো কম্পিউটার, নেটওয়ার্ক বা সার্ভারকে অতিরিক্ত রিকোয়েস্ট পাঠিয়ে তার আসল ব্যবহারকারীদের জন্য unavailable বা ধীর করে দেওয়া। - কার্যপদ্ধতি: হ্যাকাররা লক্ষ্যবস্তু সার্ভারে একযোগে বিপুল পরিমাণে নকল ট্র্যাফিক বা ডেটা রিকোয়েস্ট পাঠায়। এই অতিরিক্ত ট্র্যাফিকের চাপ সামলাতে না পেরে সার্ভারের রিসোর্স, যেমন - প্রসেসিং ক্ষমতা (CPU), মেমরি (RAM) বা নেটওয়ার্ক ব্যান্ডউইথ শেষ হয়ে যায়। - ফলাফল: এর ফলে, বৈধ ব্যবহারকারীদের জন্য ওয়েবসাইট বা পরিষেবাটি অত্যন্ত ধীর হয়ে যায় অথবা পুরোপুরি বন্ধ হয়ে যায়। - DoS বনাম DDoS: যখন এই আক্রমণ একটি উৎস থেকে চালানো হয়, তখন তাকে DoS বলে। কিন্তু বহুসংখ্যক সংক্রমিত কম্পিউটার (বটনেট) ব্যবহার করে বিশ্বের বিভিন্ন স্থান থেকে একযোগে আক্রমণটি চালালে তাকে DDoS (Distributed Denial-of-Service) বলা হয়।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "Manipulating or concatenating user input commands to execute unauthorized database queries during web browsing is known as which attack?",
+      "options": [
+        "Cross-Site Scripting (XSS)",
+        "SQL Injection (SQLi)",
+        "Phishing Attack",
+        "Denial-of-Service (DoS) Attack"
+      ],
+      "correctIndex": 1,
+      "explanation": "SQL Injection (SQLi) হলো এমন একটি সাইবার অ্যাটাক, যেখানে হ্যাকাররা ওয়েব ফর্ম বা ইনপুট ফিল্ডে ক্ষতিকারক SQL কোড প্রবেশ করিয়ে ডেটাবেস থেকে অননুমোদিত তথ্য চুরি বা ম্যানিপুলেট করে। - ২০১৪ সালে সনি পিকচার্স (Sony Pictures) কোম্পানির উপর একটি ভয়াবহ এক্সটরশন অ্যাটাক হয়েছিল, যার ফলে ৭৭ মিলিয়ন ব্যবহারকারীর ব্যক্তিগত তথ্য এবং কয়েক হাজার খেলোয়াড়ের ব্যাংকিং ইনফরমেশন হ্যাক হয়ে গিয়েছিল। - এই আক্রমণটি একটি সাধারণ SQL Injection প্রয়োগ করেই করা হয়েছিল, যার ক্ষতিপূরণ হিসেবে SONY কে ১৫ মিলিয়ন ডলার দিতে হয়েছিল। - অন্যান্য অপশনের মধ্যে XSS হলো ওয়েবসাইটে ক্ষতিকারক স্ক্রিপ্ট রান করানো, Phishing হলো প্রতারণা করে তথ্য হাতিয়ে নেওয়া এবং DoS হলো সার্ভার ডাউন করে দেওয়া।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "Which IP address class provides the maximum number of host addresses per network?",
+      "options": [
+        "Class A",
+        "Class B",
+        "Class C",
+        "Class D"
+      ],
+      "correctIndex": 0,
+      "explanation": "- IP অ্যাড্রেসগুলোর মধ্যে Class A নেটওয়ার্কে সবচেয়ে বেশি সংখ্যক হোস্ট অ্যাড্রেস (Host addresses) পাওয়া যায়। - Class A-তে 32 বিটের মধ্যে প্রথম ৮ বিট নেটওয়ার্ক আইডির জন্য এবং বাকি ২৪ বিট হোস্ট আইডির জন্য বরাদ্দ থাকে। - হোস্টের জন্য ২৪ বিট থাকার কারণে প্রতিটি Class A নেটওয়ার্কে ২^২৪ - ২ (প্রায় ১.৬৭ কোটি) ডিভাইস বা হোস্ট যুক্ত করা সম্ভব। - অন্যদিকে Class B -তে হোস্টের জন্য ১৬ বিট এবং Class C -তে মাত্র ৮ বিট বরাদ্দ থাকে। Class D মাল্টিকাস্টিংয়ের জন্য সংরক্ষিত।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "Where is the A* (A-star) search algorithm used?",
+      "options": [
+        "Data Compression",
+        "Database Management",
+        "Pathfinding and Graph Traversal",
+        "Image Encryption"
+      ],
+      "correctIndex": 2,
+      "explanation": "- A* (A-star) Search Algorithm হলো একটি জনপ্রিয় অ্যালগরিদম যা মূলত Pathfinding এবং Graph Traversal -এর জন্য ব্যবহৃত হয়। - এটি কোনো গ্রাফ বা ম্যাপে একটি সোর্স নোড থেকে টার্গেট নোড পর্যন্ত সবচেয়ে কম দূরত্বের বা খরচের পথ (Shortest Path) খুঁজে বের করতে সাহায্য করে। - এই অ্যালগরিদমে Heuristic function ব্যবহার করা হয়, যা সাধারণ সার্চ অ্যালগরিদমের (যেমন BFS) তুলনায় এটিকে অনেক বেশি লক্ষ্যভিত্তিক ও দ্রুত করে তোলে। - গেমিং, রোবোটিক্স এবং নেভিগেশন সিস্টেমে এর ব্যাপক ব্যবহার রয়েছে।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a Classification algorithm in Machine Learning?",
+      "options": [
+        "Logistic Regression",
+        "Linear Regression",
+        "K-Means Clustering",
+        "Principal Component Analysis (PCA)"
+      ],
+      "correctIndex": 0,
+      "explanation": "- Logistic Regression হলো একটি সুপারভাইজড লার্নিং (Supervised Learning) Classification algorithm , যা মেশিন লার্নিংয়ে সাধারণত বাইনারি ক্লাসিফিকেশনের (যেমন: Yes/No, Spam/Not Spam) জন্য ব্যবহৃত হয়। - নামটিতে 'Regression' থাকলেও এটি মূলত Probabilistic Classification এর কাজ করে। - Linear Regression কন্টিনিউয়াস ডেটা বা মান প্রেডিক্ট করতে ব্যবহৃত হয় (Regression)। - K-Means Clustering হলো আনসুপারভাইজড লার্নিং, যা ডেটাকে ক্লাস্টারে ভাগ করে, এবং PCA ডাইমেনশন কমানোর জন্য ব্যবহৃত হয়।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "What is the main advantage of a Dynamic Array over a Linked List?",
+      "options": [
+        "Random Access / Better Cache Locality",
+        "Faster Insertion at the Beginning",
+        "No Need for Contiguous Memory",
+        "Constant-Time Insertion at Any Position"
+      ],
+      "correctIndex": 0,
+      "explanation": "- Dynamic Array-তে ডেটা মেমোরির ধারাবাহিক (Contiguous) স্থানে সংরক্ষিত থাকে। - এর ফলে এটি Random Access সাপোর্ট করে, অর্থাৎ ইনডেক্স ব্যবহার করে যেকোনো ডেটা সরাসরি (O(1) সময়ে) পড়া যায়। - মেমোরি একসাথে থাকার কারণে প্রসেসর খুব সহজেই ব্লক হিসেবে ডেটাকে দ্রুতগতির Cache memory -তে নিয়ে আসতে পারে, যা Better Cache Locality নিশ্চিত করে এবং সিপিইউ-র গতি বাড়ায়। - অন্যদিকে Linked List-এর নোডগুলো মেমোরির বিভিন্ন স্থানে ছড়িয়ে থাকে, তাই এতে Random Access সম্ভব নয় এবং এর Cache Locality-ও খুব দুর্বল।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "Which technique provides the fastest searching in a large database?",
+      "options": [
+        "Linear Search",
+        "Binary Search",
+        "Hashing",
+        "Sequential Search"
+      ],
+      "correctIndex": 2,
+      "explanation": "- Hashing (হ্যাশিং) হলো এমন একটি পদ্ধতি যা ডেটাকে সরাসরি অ্যাক্সেস করতে ব্যবহৃত হয়, কোনো ইনডেক্স বা ক্রমিক অনুসন্ধানের প্রয়োজন ছাড়াই। - এই পদ্ধতিতে একটি গাণিতিক ফাংশন বা অ্যালগরিদম (Hash Function) ব্যবহার করে ডেটার অবস্থান (Address) সরাসরি গণনা করা হয়। - এর ফলে বিশাল পরিমাণ ডেটার (large database) মধ্য থেকেও নির্দিষ্ট কোনো তথ্য খুঁজে বের করতে সবচাইতে কম সময় লাগে। - অন্যদিকে Linear বা Sequential Search-এ ক্রমানুসারে এবং Binary Search-এ ভাগ করে ডেটা খুঁজতে হয়, যা হ্যাশিংয়ের চেয়ে অনেক ধীরগতির।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "How is the integrity of audit logs ensured using Write Once, Read Many (WORM) with cryptographic security?",
+      "options": [
+        "Digital Signatures",
+        "Cryptographic Hash Functions",
+        "Data Compression",
+        "Load Balancing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cryptographic Hash Functions -এর মাধ্যমে ডেটার ইন্টিগ্রিটি বা অখন্ডতা নিশ্চিত করা হয়। - এটি একটি গাণিতিক ফাংশন যা ডেটাকে একটি নির্দিষ্ট আকারের ইউনিক স্ট্রিং বা hash value -তে রূপান্তর করে। - ডেটাতে সামান্য পরিবর্তন (এমনকি একটি বিট পরিবর্তন হলেও) সম্পূর্ণ ভিন্ন একটি হ্যাশ ভ্যালু তৈরি করে, যার ফলে অননুমোদিত পরিবর্তন সহজেই শনাক্ত করা যায়। - অডিট লগের সাথে হ্যাশ ভ্যালু সংরক্ষণ করা হলে, পরবর্তীতে হ্যাশ মিলিয়ে দেখে নিশ্চিত হওয়া যায় যে ডেটা কোনোভাবে টেম্পার বা পরিবর্তন করা হয়নি।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "If a company wants to store sensitive customer data in its own private database but run its web app on a public server, which cloud delivery model should it use?",
+      "options": [
+        "Public Cloud",
+        "Private Cloud",
+        "Hybrid Cloud",
+        "Community Cloud"
+      ],
+      "correctIndex": 2,
+      "explanation": "- Hybrid Cloud হলো Public Cloud এবং Private Cloud -এর একটি চমৎকার সংমিশ্রণ বা আইটি অবকাঠামো। - এটি ডেটা এবং অ্যাপ্লিকেশনগুলিকে দুই ধরণের ক্লাউডের মধ্যেই শেয়ার ও পরিচালনা করার সুবিধা দেয়। - এই মডেলে একটি প্রতিষ্ঠান তাদের সংবেদনশীল কাস্টমার ডেটা নিজস্ব Private Cloud -এ সুরক্ষিত রাখতে পারে এবং ওয়েব অ্যাপ্লিকেশনের মতো কাজের জন্য Public Cloud ব্যবহার করতে পারে।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "Artificial Neural Networks (ANN) are commonly trained using which algorithm?",
+      "options": [
+        "Dijkstra’s Algorithm",
+        "Binary Search Algorithm",
+        "Backpropagation Algorithm",
+        "Kruskal’s Algorithm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Artificial Neural Networks (ANN) বা কৃত্রিম নিউরাল নেটওয়ার্ক ট্রেইন করার জন্য সাধারণত Backpropagation Algorithm ব্যবহার করা হয়। - এই অ্যালগরিদমের মাধ্যমে নেটওয়ার্ক আউটপুটের ভুল বা এরর (error) হিসাব করে এবং সেই অনুযায়ী পেছনের লেয়ারগুলোর ওজন (weights) আপডেট করে। - এটি মেশিন লার্নিং মডেলকে সঠিকভাবে শিখতে এবং প্রেডিকশনের নির্ভুলতা বাড়াতে সাহায্য করে।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "ChatGPT is an example of which type of AI model?",
+      "options": [
+        "CNN (Convolutional Neural Network)",
+        "Expert System",
+        "Reinforcement Learning Agent",
+        "LLM (Large Language Model)"
+      ],
+      "correctIndex": 3,
+      "explanation": "- ChatGPT হলো Large Language Model (LLM) -এর একটি উদাহরণ, যা Generative AI বা জেনারেটিভ আর্টিফিশিয়াল ইন্টেলিজেন্সের অন্তর্ভুক্ত। - LLM মডেলগুলো বিশাল পরিমাণ টেক্সট ডেটা বিশ্লেষণ করে মানুষের মতো কথোপকথন চালিয়ে যেতে এবং নতুন টেক্সট বা উত্তর তৈরি (generate) করতে পারে। - মানুষের দেওয়া নির্দেশ বা প্রম্পটের ভিত্তিতে এটি নতুন কন্টেন্ট তৈরি করতে সক্ষম।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "The address of the next instruction to be executed is stored in which register?",
+      "options": [
+        "Instruction Register (IR)",
+        "Memory Address Register (MAR)",
+        "Program Counter (PC)",
+        "Accumulator (ACC)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Program Counter (PC) হলো CPU-এর কন্ট্রোল ইউনিটের একটি গুরুত্বপূর্ণ রেজিস্টার। - এটি বর্তমানে এক্সিকিউট হওয়া বা পরবর্তী এক্সিকিউট হতে যাওয়া ইন্সট্রাকশনের (instruction) মেমোরি অ্যাড্রেস বা ঠিকানা ধারণ করে। - একে Sequence Control Register নামেও ডাকা হয়।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "Recursion internally uses which data structure?",
+      "options": [
+        "Queue",
+        "Linked List",
+        "Stack",
+        "Tree"
+      ],
+      "correctIndex": 2,
+      "explanation": "Recursion হলো এমন একটি প্রক্রিয়া যেখানে একটি ফাংশন নিজেকে কল করে। - ইন্টারনালি এই প্রক্রিয়ার ট্র্যাক রাখার জন্য Stack ডেটা স্ট্রাকচার ব্যবহৃত হয়। - Stack হলো একটি Last In, First Out (LIFO) ডেটা স্ট্রাকচার। - রিকার্সিভ কলের ক্ষেত্রে ফাংশনের স্টেট, লোকাল ভেরিয়েবল এবং কলিং অ্যাড্রেস মেমোরির Call Stack -এ জমা রাখা হয়।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 16,
+      "question": "Which is a powerful and general-purpose computing model (or automaton)?",
+      "options": [
+        "Finite Automaton",
+        "Pushdown Automaton",
+        "Turing Machine",
+        "Mealy Machine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Turing Machine হলো একটি অত্যন্ত শক্তিশালী এবং general-purpose computing model । - অ্যালান টুরিং ১৯৩৬ সালে এই গাণিতিক মডেলটি প্রস্তাব করেন। - এটি যেকোনো কম্পিউটেবল ফাংশন বা অ্যালগরিদম অনুকরণ করতে সক্ষম, যা আধুনিক কম্পিউটারের তাত্ত্বিক ভিত্তি হিসেবে কাজ করে। - Finite Automaton বা Pushdown Automaton এর নির্দিষ্ট সীমাবদ্ধতা রয়েছে, কিন্তু Turing Machine এর কম্পিউটিং ক্ষমতা অনেক ব্যাপক।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 17,
+      "question": "Which component/concept ensures redundancy in a Data Center?",
+      "options": [
+        "Backup Servers",
+        "Single Server Architecture",
+        "Manual Data Entry",
+        "Local Workstation"
+      ],
+      "correctIndex": 0,
+      "explanation": "ডেটা সেন্টারে Redundancy বা অতিরিক্ত সাপোর্ট ব্যবস্থা রাখা হয় যাতে কোনো কারণে সিস্টেম ফেইল করলে পরিষেবা ব্যাহত না হয়। - Backup Servers এই কাজে ব্যবহৃত হয়। - মূল সার্ভার ডাউন হলে বা নষ্ট হয়ে গেলে ব্যাকআপ সার্ভার স্বয়ংক্রিয়ভাবে ডেটা ও পরিষেবা প্রদান চালিয়ে যায়, যা সিস্টেমের High Availability নিশ্চিত করে।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 18,
+      "question": "What does Unit Testing check in software engineering?",
+      "options": [
+        "The entire system",
+        "Individual components",
+        "Network connectivity",
+        "User acceptance"
+      ],
+      "correctIndex": 1,
+      "explanation": "সফটওয়্যার ইঞ্জিনিয়ারিং-এ বিভিন্ন ধরনের টেস্টিং করা হয়: - Unit Testing: সফটওয়্যারের Individual components বা প্রতিটি ক্ষুদ্রতম অংশ (যেমন একটি ফাংশন বা মডিউল) আলাদাভাবে কাজ করছে কিনা তা পরীক্ষা করতে এটি ব্যবহৃত হয়। - Integration Testing: স্বতন্ত্র মডিউলগুলো একত্রে কীভাবে কাজ করে তা পরীক্ষা করতে ব্যবহৃত হয়। - Load Testing: প্রত্যাশিত লোডে সফটওয়্যার কেমন আচরণ করে তা পরীক্ষা করতে এটি করা যায়।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 19,
+      "question": "End-to-End packet delivery, flow control, and error recovery are handled in which OSI layer?",
+      "options": [
+        "Network Layer",
+        "Data Link Layer",
+        "Transport Layer",
+        "Session Layer"
+      ],
+      "correctIndex": 2,
+      "explanation": "OSI (Open Systems Interconnection) মডেলে মোট ৭টি লেয়ার রয়েছে। এর মধ্যে Transport Layer (চতুর্থ লেয়ার) ডেটা ট্রান্সমিশনের ক্ষেত্রে গুরুত্বপূর্ণ ভূমিকা পালন করে। - এই লেয়ারটি End-to-End packet delivery , ডেটা চলাচলের গতি নিয়ন্ত্রণ ( flow control ), এবং error recovery নিশ্চিত করে। - এই লেয়ারে মূলত TCP এবং UDP প্রোটোকল কাজ করে। - TCP ডেটাকে segment আকারে প্রক্রিয়া করে এবং অর্ডার রক্ষা ও পুনরপ্রেরণ (retransmission)-এর মাধ্যমে নির্ভরযোগ্য ডেটা ডেলিভারি প্রদান করে।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 20,
+      "question": "Partial Dependency is removed in which Normal Form of DBMS?",
+      "options": [
+        "1NF (First Normal Form)",
+        "2NF (Second Normal Form)",
+        "3NF (Third Normal Form)",
+        "BCNF (Boyce-Codd Normal Form)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Database Management System (DBMS)-এ Normalization প্রক্রিয়ার মাধ্যমে ডেটার অস্বাভাবিকতা বা redundancy দূর করা হয়। - 2NF (Second Normal Form) -এর প্রধান উদ্দেশ্য হলো টেবিল থেকে Partial Dependency দূর করা। - Partial dependency বলতে বোঝায় যখন কোনো non-prime attribute কম্পোজিট প্রাইমারি কী (composite primary key)-এর কোনো একটি অংশের উপর নির্ভর করে। - 2NF নিশ্চিত করে যে টেবিলটি 1NF-এ আছে এবং প্রতিটি non-key attribute সম্পূর্ণ প্রাইমারি কী-এর উপর নির্ভরশীল।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 21,
+      "question": "What are the key advantages of Cloud Computing?",
+      "options": [
+        "Scalability, Cost Efficiency, High Availability, and Remote Access",
+        "Limited Scalability, High Cost, and Local Access Only",
+        "Manual Resource Management, Low Availability, and Fixed Capacity",
+        "Hardware Dependency, High Maintenance Cost, and Restricted Access"
+      ],
+      "correctIndex": 0,
+      "explanation": "ক্লাউড কম্পিউটিং হলো ইন্টারনেটভিত্তিক একটি প্রযুক্তি যা সহজে ও কম সময়ে কম্পিউটিং সেবা প্রদান করে। এর মূল সুবিধাগুলো হলো: - Scalability: প্রয়োজন অনুযায়ী রিসোর্স কমানো বা বাড়ানোর সুবিধা। - Cost Efficiency: হার্ডওয়্যার রক্ষণাবেক্ষণের খরচ নেই, Pay-as-You-Go মডেলে শুধু ব্যবহৃত সেবার জন্যই পেমেন্ট করতে হয়। - High Availability: যেকোনো সময় নিরবচ্ছিন্ন সেবা পাওয়া যায়। - Remote Access: ইন্টারনেট ব্যবহার করে যেকোনো স্থান থেকে ডেটা ও সার্ভিসে এক্সেস করা যায়।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 22,
+      "question": "Which cloud service model provides virtual machines, storage, and networking?",
+      "options": [
+        "SaaS (Software as a Service)",
+        "PaaS (Platform as a Service)",
+        "IaaS (Infrastructure as a Service)",
+        "FaaS (Function as a Service)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Infrastructure as a Service (IaaS) ক্লাউড কম্পিউটিংয়ের এমন একটি মডেল যা ভার্চুয়ালাইজড কম্পিউটিং রিসোর্স প্রদান করে। - এটি ইন্টারনেটের মাধ্যমে Virtual machines (VMs), storage, এবং networking সেবা দিয়ে থাকে। - এটি ব্যবসা প্রতিষ্ঠানগুলোকে হার্ডওয়্যারে উল্লেখযোগ্য আগাম বিনিয়োগ না করেই প্রয়োজন অনুযায়ী রিসোর্স বাড়ানো বা কমানোর সুবিধা দেয়। - এটি সাধারণত Pay-as-you-go ভিত্তিতে কাজ করে।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 23,
+      "question": "When a subclass provides a specific implementation of a method that is already defined in its superclass, it is called?",
+      "options": [
+        "Method Overloading",
+        "Method Overriding",
+        "Method Hiding",
+        "Method Encapsulation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Object-Oriented Programming (OOP)-এ যখন কোনো subclass তার superclass-এ আগে থেকে সংজ্ঞায়িত একটি method-এর নতুন বা নিজস্ব implementation প্রদান করে, তখন তাকে Method Overriding বলা হয়। - এটি Run-time Polymorphism -এর একটি উদাহরণ। - এক্ষেত্রে Method signature (নাম, রিটার্ন টাইপ এবং প্যারামিটার) superclass এবং subclass উভয় স্থানে হুবহু একই থাকতে হয়।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 24,
+      "question": "What is a Firewall used for?",
+      "options": [
+        "To increase internet speed",
+        "To filter incoming or outgoing traffic based on conditions",
+        "To store and manage user passwords",
+        "To compress network data"
+      ],
+      "correctIndex": 1,
+      "explanation": "- Firewall হলো একটি গুরুত্বপূর্ণ নেটওয়ার্ক সিকিউরিটি সিস্টেম বা ডিভাইস। - এর প্রধান কাজ হলো নির্দিষ্ট সিকিউরিটি রুলসের ভিত্তিতে incoming এবং outgoing network traffic কে filter করা। - এটি বিশ্বস্ত অভ্যন্তরীণ নেটওয়ার্ক এবং অবিশ্বস্ত বাইরের নেটওয়ার্কের (যেমন ইন্টারনেট) মধ্যে একটি নিরাপত্তা প্রাচীর হিসেবে কাজ করে। - এর মাধ্যমে নেটওয়ার্কে অননুমোদিত অ্যাক্সেস বা ক্ষতিকর ডেটার প্রবেশ ঠেকিয়ে সম্পূর্ণ সিস্টেমকে সুরক্ষিত রাখা হয়।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 25,
+      "question": "What is a Semaphore used for in operating systems?",
+      "options": [
+        "Process Synchronization",
+        "Memory Allocation",
+        "File Compression",
+        "Process Scheduling"
+      ],
+      "correctIndex": 0,
+      "explanation": "- অপারেটিং সিস্টেমে Semaphore মূলত Process Synchronization বা প্রসেসগুলোর মধ্যে সমন্বয় সাধনের জন্য ব্যবহৃত হয়। - এটি একটি ইন্টিজার ভ্যারিয়েবল যা একাধিক প্রসেসের মধ্যে ক্রিটিক্যাল সেকশনে (Critical Section) এক্সেস নিয়ন্ত্রণ করে। - একাধিক প্রসেস একই সময়ে শেয়ার্ড রিসোর্স ব্যবহার করার সময় যাতে ডেটা ইনকন্সিস্টেন্সি তৈরি না হয়, তা প্রতিরোধ করতে এটি কাজ করে। - সেমাফোর সাধারণত দুটি প্রধান অপারেশন দ্বারা নিয়ন্ত্রিত হয়: wait() এবং signal() ।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 26,
+      "question": "In a JK Flip-Flop, if J = 1 and K = 1, what is the output state?",
+      "options": [
+        "Set State",
+        "Reset State",
+        "No Change State",
+        "Toggle State"
+      ],
+      "correctIndex": 3,
+      "explanation": "- একটি JK Flip-Flop -এ J এবং K ইনপুটের মানের উপর এর আউটপুট নির্ভর করে। - যখন J = 1 এবং K = 1 হয়, তখন ফ্লিপ-ফ্লপটি Toggle State -এ প্রবেশ করে। - টগল স্টেট মানে হলো পূর্ববর্তী আউটপুট যাই থাকুক না কেন, বর্তমান আউটপুট তার ঠিক বিপরীত হবে। - অর্থাৎ আউটপুট আগে 0 থাকলে সেটি 1 হবে এবং 1 থাকলে 0 হবে।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is NOT a balanced binary tree?",
+      "options": [
+        "AVL Tree",
+        "Red-Black Tree",
+        "Binary Search Tree (BST)",
+        "B-Tree"
+      ],
+      "correctIndex": 2,
+      "explanation": "- Binary Search Tree (BST) ডিফল্টভাবে একটি ব্যালেন্সড ট্রি নয়। - একটি সাধারণ BST-তে ডেটা ইনসার্ট করার প্যাটার্নের উপর নির্ভর করে ট্রি-টি অনেক সময় একপেশে বা Skewed হয়ে যেতে পারে। - Skewed ট্রি-তে কোনো ডেটা খুঁজতে সর্বোচ্চ O(n) সময় লাগতে পারে। - অন্যদিকে AVL Tree , Red-Black Tree এবং B-Tree হলো সেলফ-ব্যালেন্সিং ট্রি, যা সর্বদা নিজেদের উচ্চতা বা হাইট ব্যালেন্স করে রাখে।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 28,
+      "question": "Which RAID level is called mirroring?",
+      "options": [
+        "RAID Level 0",
+        "RAID Level 1",
+        "RAID Level 2",
+        "RAID Level 3"
+      ],
+      "correctIndex": 1,
+      "explanation": "RAID 1 একই data-র mirrored copy রাখে। RFID tag/reader-এর সঙ্গে এই level-গুলোর সম্পর্ক নেই।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 29,
+      "question": "Merge Sort follows which algorithm design approach?",
+      "options": [
+        "Greedy Method",
+        "Divide and Conquer",
+        "Dynamic Programming",
+        "Backtracking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Divide and Conquer।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 30,
+      "question": "Which type of Machine Learning does NOT need labeled data?",
+      "options": [
+        "Supervised Learning",
+        "Reinforcement Learning",
+        "Unsupervised Learning",
+        "Semi-Supervised Learning"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unsupervised Learning।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 31,
+      "question": "Which data structure is used by the BFS (Breadth-First Search) algorithm?",
+      "options": [
+        "Stack",
+        "Linked List",
+        "Queue",
+        "Tree"
+      ],
+      "correctIndex": 2,
+      "explanation": "Queue — BFS।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 32,
+      "question": "\"Either all of the transactions finish or none\" — which ACID property of a database does this describe?",
+      "options": [
+        "Consistency",
+        "Isolation",
+        "Atomicity",
+        "Durability"
+      ],
+      "correctIndex": 2,
+      "explanation": "Atomicity।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 33,
+      "question": "Which Git command saves changes directly to the local repository?",
+      "options": [
+        "git commit",
+        "git pull",
+        "git clone",
+        "git push"
+      ],
+      "correctIndex": 0,
+      "explanation": "git commit।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 34,
+      "question": "What is a harmful program that disguises itself as legitimate software",
+      "options": [
+        "Worm",
+        "Spyware",
+        "Trojan Horse",
+        "Adware"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trojan Horse।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 35,
+      "question": "Which is a primary client-side scripting language?",
+      "options": [
+        "Python",
+        "JavaScript",
+        "Java",
+        "C++"
+      ],
+      "correctIndex": 1,
+      "explanation": "JavaScript।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 36,
+      "question": "Which type of inheritance is NOT supported in Java (using classes)?",
+      "options": [
+        "Single Inheritance",
+        "Multilevel Inheritance",
+        "Hierarchical Inheritance",
+        "Multiple Inheritance"
+      ],
+      "correctIndex": 3,
+      "explanation": "Multiple Inheritance — Java-তে নেই।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 37,
+      "question": "How does HTTPS differ from HTTP?",
+      "options": [
+        "HTTPS is encrypted and secure",
+        "HTTPS is faster but not secure",
+        "HTTP is encrypted while HTTPS is not",
+        "HTTP and HTTPS have no security difference"
+      ],
+      "correctIndex": 0,
+      "explanation": "HTTPS encrypted + secure।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 38,
+      "question": "What security mechanism is added when using Multi-Factor Authentication (MFA)?",
+      "options": [
+        "Password + Username",
+        "Password + Security Question",
+        "Username + Email Address",
+        "Password + Biometrics"
+      ],
+      "correctIndex": 3,
+      "explanation": "Password + Biometrics।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 39,
+      "question": "Which protocol is used to assign IP addresses dynamically?",
+      "options": [
+        "DNS (Domain Name System)",
+        "FTP (File Transfer Protocol)",
+        "HTTP (Hypertext Transfer Protocol)",
+        "DHCP (Dynamic Host Configuration Protocol)"
+      ],
+      "correctIndex": 3,
+      "explanation": "DHCP।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 40,
+      "question": "What primary problem does an API Gateway solve?",
+      "options": [
+        "Database Storage and Data Backup",
+        "User Interface Design and Frontend Development",
+        "Source Code Compilation and Debugging",
+        "Request Routing, Authentication, Rate Limiting, and Load Balancing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Request Routing, Authentication...।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 41,
+      "question": "Which protocol transfers web pages to the browser?",
+      "options": [
+        "FTP (File Transfer Protocol)",
+        "SMTP (Simple Mail Transfer Protocol)",
+        "HTTP/HTTPS (Hypertext Transfer Protocol/Secure)",
+        "DNS (Domain Name System)"
+      ],
+      "correctIndex": 2,
+      "explanation": "HTTP/HTTPS।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 42,
+      "question": "Convert (1E.53) 16 ​ to the Octal system (?) 8 ​:",
+      "options": [
+        "$$(36.256)_{8}$",
+        "$$(37.246)_{8}$",
+        "$$(35.246)_{8}$",
+        "$$(36.246)_{8}$"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$(36.246)_{8}$।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 43,
+      "question": "X + XY = X, this equation represents which Boolean law?",
+      "options": [
+        "Commutative Law",
+        "Associative Law",
+        "Absorption Law",
+        "Distributive Law"
+      ],
+      "correctIndex": 2,
+      "explanation": "Absorption Law।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 44,
+      "question": "Where is the Boot Sector file located in a storage system?",
+      "options": [
+        "RAM (Random Access Memory)",
+        "ROM (Read-Only Memory)",
+        "Cache Memory",
+        "Hard Disk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Boot sector storage disk/volume-এ থাকে। BIOS/UEFI firmware সাধারণত flash/ROM-এ থাকে এবং disk-এর boot code load করে। প্রদত্ত অপশনে Hard Disk।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 45,
+      "question": "Which is an extremely fast memory located near the CPU?",
+      "options": [
+        "Cache Memory",
+        "RAM (Random Access Memory)",
+        "ROM (Read-Only Memory)",
+        "Secondary Memory"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cache Memory।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 46,
+      "question": "Which processor architecture is most power efficient?",
+      "options": [
+        "CISC (Complex Instruction Set Computer)",
+        "RISC (Reduced Instruction Set Computer)",
+        "VLIW (Very Long Instruction Word)",
+        "EPIC (Explicitly Parallel Instruction Computing)"
+      ],
+      "correctIndex": 1,
+      "explanation": "RISC।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 47,
+      "question": "কোন প্রসেস শিডিউলিং অ্যালগরিদমে ‘Starvation’ সমস্যা দেখা যায়?",
+      "options": [
+        "FCFS (First Come First Serve)",
+        "Round Robin (RR)",
+        "SJF (Shortest Job First)",
+        "FIFO (First In First Out)"
+      ],
+      "correctIndex": 2,
+      "explanation": "SJF — Starvation।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 48,
+      "question": "What does CBS stand for in banking?",
+      "options": [
+        "Central Banking Service",
+        "Core Banking System",
+        "Customer Banking Solution",
+        "Commercial Banking Service"
+      ],
+      "correctIndex": 1,
+      "explanation": "Core Banking System।",
+      "appearedIn": [
+        "সমন্বিত চার ব্যাংক (সোনালী, জনতা, অগ্রণী ও রূপালী) - সিনিয়র অফিসার (আইটি)-২০২৬"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "categoryKey": "bcs",
+  "categoryName": "বিসিএস",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/bcs",
+  "totalExams": 40,
+  "totalQuestions": 5250,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "bcs-preli_10th_special",
+      "examTitle": "১০তম বিসিএস প্রিলিমিনারি (বিশেষ)",
+      "questionCount": 100,
+      "file": "bcs-preli_10th_special.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_10th_special"
+    },
+    {
+      "examSlug": "bcs-preli_11th",
+      "examTitle": "১১তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_11th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_11th"
+    },
+    {
+      "examSlug": "bcs-preli_12th",
+      "examTitle": "১২তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_12th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_12th"
+    },
+    {
+      "examSlug": "bcs-preli_13th",
+      "examTitle": "১৩তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_13th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_13th"
+    },
+    {
+      "examSlug": "bcs-preli_14th",
+      "examTitle": "১৪তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_14th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_14th"
+    },
+    {
+      "examSlug": "bcs-preli_15th",
+      "examTitle": "১৫তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_15th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_15th"
+    },
+    {
+      "examSlug": "bcs-preli_16th",
+      "examTitle": "১৬তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_16th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_16th"
+    },
+    {
+      "examSlug": "bcs-preli_17th",
+      "examTitle": "১৭তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_17th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_17th"
+    },
+    {
+      "examSlug": "bcs-preli_18th",
+      "examTitle": "১৮তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_18th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_18th"
+    },
+    {
+      "examSlug": "bcs-preli_19th",
+      "examTitle": "১৯তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 50,
+      "file": "bcs-preli_19th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_19th"
+    },
+    {
+      "examSlug": "bcs-preli_20th",
+      "examTitle": "২০তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_20th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_20th"
+    },
+    {
+      "examSlug": "bcs-preli_21th",
+      "examTitle": "২১তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_21th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_21th"
+    },
+    {
+      "examSlug": "bcs-preli_22th",
+      "examTitle": "২২তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_22th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_22th"
+    },
+    {
+      "examSlug": "bcs-preli_23th",
+      "examTitle": "২৩তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_23th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_23th"
+    },
+    {
+      "examSlug": "bcs-preli_24th",
+      "examTitle": "২৪তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_24th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_24th"
+    },
+    {
+      "examSlug": "bcs-preli_25th",
+      "examTitle": "২৫তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_25th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_25th"
+    },
+    {
+      "examSlug": "bcs-preli_26th",
+      "examTitle": "২৬তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 200,
+      "file": "bcs-preli_26th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_26th"
+    },
+    {
+      "examSlug": "bcs-preli_27th",
+      "examTitle": "২৭তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_27th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_27th"
+    },
+    {
+      "examSlug": "bcs-preli_28th",
+      "examTitle": "২৮তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_28th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_28th"
+    },
+    {
+      "examSlug": "bcs-preli_29th",
+      "examTitle": "২৯তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_29th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_29th"
+    },
+    {
+      "examSlug": "bcs-preli_30th",
+      "examTitle": "৩০তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_30th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_30th"
+    },
+    {
+      "examSlug": "bcs-preli_31th",
+      "examTitle": "৩১তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_31th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_31th"
+    },
+    {
+      "examSlug": "bcs-preli_32th",
+      "examTitle": "৩২তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_32th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_32th"
+    },
+    {
+      "examSlug": "bcs-preli_33th",
+      "examTitle": "৩৩তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_33th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_33th"
+    },
+    {
+      "examSlug": "bcs-preli_34th",
+      "examTitle": "৩৪তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_34th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_34th"
+    },
+    {
+      "examSlug": "bcs-preli_35th",
+      "examTitle": "bcs-preli_35th",
+      "questionCount": 200,
+      "file": "bcs-preli_35th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_35th"
+    },
+    {
+      "examSlug": "bcs-preli_36th",
+      "examTitle": "৩৬তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 200,
+      "file": "bcs-preli_36th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_36th"
+    },
+    {
+      "examSlug": "bcs-preli_37th",
+      "examTitle": "৩৭তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 200,
+      "file": "bcs-preli_37th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_37th"
+    },
+    {
+      "examSlug": "bcs-preli_38th",
+      "examTitle": "৩৮তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 200,
+      "file": "bcs-preli_38th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_38th"
+    },
+    {
+      "examSlug": "bcs-preli_39th_general-part",
+      "examTitle": "৩৯তম বিসিএস প্রিলিমিনারি (সাধারণ অংশ)",
+      "questionCount": 100,
+      "file": "bcs-preli_39th_general-part.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_39th_general-part"
+    },
+    {
+      "examSlug": "bcs-preli_40th",
+      "examTitle": "৪০তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 200,
+      "file": "bcs-preli_40th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_40th"
+    },
+    {
+      "examSlug": "bcs-preli_41th",
+      "examTitle": "৪১তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 200,
+      "file": "bcs-preli_41th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_41th"
+    },
+    {
+      "examSlug": "bcs-preli_42nd_special",
+      "examTitle": "৪২তম বিশেষ বিসিএস প্রিলিমিনারি (স্বাস্থ্য)",
+      "questionCount": 100,
+      "file": "bcs-preli_42nd_special.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_42nd_special"
+    },
+    {
+      "examSlug": "bcs-preli_43th",
+      "examTitle": "৪৩তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 200,
+      "file": "bcs-preli_43th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_43th"
+    },
+    {
+      "examSlug": "bcs-preli_44th",
+      "examTitle": "৪৪তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 200,
+      "file": "bcs-preli_44th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_44th"
+    },
+    {
+      "examSlug": "bcs-preli_45th",
+      "examTitle": "৪৫তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 200,
+      "file": "bcs-preli_45th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_45th"
+    },
+    {
+      "examSlug": "bcs-preli_46th",
+      "examTitle": "৪৬তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 200,
+      "file": "bcs-preli_46th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_46th"
+    },
+    {
+      "examSlug": "bcs-preli_47th",
+      "examTitle": "৪৭তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 200,
+      "file": "bcs-preli_47th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_47th"
+    },
+    {
+      "examSlug": "bcs-preli_49th",
+      "examTitle": "৪৯তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 100,
+      "file": "bcs-preli_49th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_49th"
+    },
+    {
+      "examSlug": "bcs-preli_50th",
+      "examTitle": "৫০তম বিসিএস প্রিলিমিনারি",
+      "questionCount": 200,
+      "file": "bcs-preli_50th.json",
+      "url": "https://dreamsintodeeds.me/questions/bcs/bcs-preli_50th"
+    }
+  ]
+}

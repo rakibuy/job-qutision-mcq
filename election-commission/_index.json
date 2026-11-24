@@ -1,0 +1,38 @@
+{
+  "categoryKey": "election-commission",
+  "categoryName": "election-commission",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/election-commission",
+  "totalExams": 4,
+  "totalQuestions": 329,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "ecs_data-entry-operator_2023",
+      "examTitle": "ecs_data-entry-operator_2023",
+      "questionCount": 90,
+      "file": "ecs_data-entry-operator_2023.json",
+      "url": "https://dreamsintodeeds.me/questions/election-commission/ecs_data-entry-operator_2023"
+    },
+    {
+      "examSlug": "ecs_office-assistant_2025",
+      "examTitle": "ecs_office-assistant_2025",
+      "questionCount": 80,
+      "file": "ecs_office-assistant_2025.json",
+      "url": "https://dreamsintodeeds.me/questions/election-commission/ecs_office-assistant_2025"
+    },
+    {
+      "examSlug": "ecs_office-sohayak_2023",
+      "examTitle": "ecs_office-sohayak_2023",
+      "questionCount": 80,
+      "file": "ecs_office-sohayak_2023.json",
+      "url": "https://dreamsintodeeds.me/questions/election-commission/ecs_office-sohayak_2023"
+    },
+    {
+      "examSlug": "ecs_storekeeper_2019",
+      "examTitle": "নির্বাচন কমিশন সচিবালয় (স্টোরকিপার)-২০১৯",
+      "questionCount": 79,
+      "file": "ecs_storekeeper_2019.json",
+      "url": "https://dreamsintodeeds.me/questions/election-commission/ecs_storekeeper_2019"
+    }
+  ]
+}

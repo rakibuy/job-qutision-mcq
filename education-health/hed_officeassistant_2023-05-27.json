@@ -1,0 +1,250 @@
+{
+  "examSlug": "hed_officeassistant_2023-05-27",
+  "examTitle": "hed_officeassistant_2023-05-27",
+  "categoryKey": "education-health",
+  "categoryName": "education-health",
+  "url": "https://dreamsintodeeds.me/questions/education-health/hed_officeassistant_2023-05-27",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "সতীদাহ প্রথা কবে রহিত হয়?",
+      "options": [
+        "১৮১৯",
+        "১৮২৯",
+        "১৮৩৯",
+        "১৮৪৯"
+      ],
+      "correctIndex": 1,
+      "explanation": "সতীদাহ রহিত ১৮২৯ সালে (উইলিয়াম বেন্টিঙ্ক)।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 2,
+      "question": "বাংলাদেশের কোন জেলাটি কয়লা সমৃদ্ধ?",
+      "options": [
+        "সিলেট",
+        "কুমিল্লা",
+        "রাজশাহী",
+        "দিনাজপুর"
+      ],
+      "correctIndex": 3,
+      "explanation": "দিনাজপুরের দক্ষিণ অঞ্চলের নবাবগঞ্জ উপজেলার দিঘি পাড়া কয়লা খনিটি ১৯৯৫ সালে বাংলাদেশ ভূ-তাত্ত্বিক জরিপ অধিদপ্তর জরিপ চালিয়ে আবিষ্কার করে এবং ৫টি কূপ খনন করা হয়। ৫টি কূপে ৫০০ মিলিয়ন টন কয়লা মজুদ রয়েছে বলে প্রাথমিক ভাবে জরিপ বিশেষজ্ঞরা জানিয়েছেন। এছাড়াও বড়পুকুরিয়া, মধ্যপাড়ায় কয়লা খনি রয়েছে।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 3,
+      "question": "পদ্মা ব্রিজের দৈর্ঘ্য কত?",
+      "options": [
+        "৬.৬ কি.মি",
+        "৬.১৫ কি.মি.",
+        "৬.৪ কি.মি.",
+        "৬.৫ কি.মি"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: ৬.১৫ কি.মি.।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 4,
+      "question": "বাংলাদেশের কোন অঞ্চলকে ৩৬০ আউলিয়ার দেশ বলা হয়?",
+      "options": [
+        "রাজশাহী",
+        "চট্টগ্রাম",
+        "ঢাকা",
+        "সিলেট"
+      ],
+      "correctIndex": 3,
+      "explanation": "চট্টগ্রামকে বলা হয় ১২ আউলিয়ার দেশ। চট্টগ্রামকে বাংলাদেশের প্রবেশদ্বারও বলা হয়। ঢাকাকে বলা হয় মসজিদের শহর এবং রিকশার নগরী।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 5,
+      "question": "আল আকসা মসজিদ কোথায় অবস্থিত?",
+      "options": [
+        "প্যালেস্টাইন",
+        "জেরুজালেম",
+        "গাজা উপত্যকা",
+        "জর্ডান"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"আল আকসা\" মসজিদ ইসরাইলের নিয়ন্ত্রিত জেরুজালেমে (পুরনো শহরে) অবস্থিত।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 6,
+      "question": "Plural form of the word 'Wolf' is-",
+      "options": [
+        "wolfs",
+        "wolfes",
+        "wolvs",
+        "wolves"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: wolves।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "নিচের কোনটি Article নয়?",
+      "options": [
+        "An",
+        "A",
+        "to",
+        "the"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: to।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 8,
+      "question": "Which one is not an Auxiliary verb?",
+      "options": [
+        "am",
+        "was",
+        "go",
+        "are"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: go।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "He is eager .... the post.",
+      "options": [
+        "at",
+        "about",
+        "of",
+        "for"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"for\" বসবে।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "If I .……… rich, I would help the poor.",
+      "options": [
+        "am",
+        "was",
+        "were",
+        "have been"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: were।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Which one is not pastime?",
+      "options": [
+        "Playing chess",
+        "Painting",
+        "Gardening doing",
+        "Home work regularly"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: Home work regularly।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "She lives ……..... Shahbag.",
+      "options": [
+        "in",
+        "the",
+        "on",
+        "at"
+      ],
+      "correctIndex": 3,
+      "explanation": "শূন্যস্থানে \"at\" বসবে।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "বাক্যের অন্তর্গত প্রত্যেকটি শব্দকে বলা হয়-",
+      "options": [
+        "কারক",
+        "ধ্বনি",
+        "পদ",
+        "বর্ণ"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: পদ।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 14,
+      "question": "‘হাসান বই পড়ে’- কোন বর্তমান কালের উদাহরণ?",
+      "options": [
+        "সাধারণ",
+        "বর্তমান",
+        "নিত্যবৃত্ত",
+        "পুরাঘটিত"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: বর্তমান।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 15,
+      "question": "৫০০ এর ১ ২ ১ ২ % = কত?",
+      "options": [
+        "৬২.৫০",
+        "৬৫",
+        "৬৭.৪০",
+        "৬৬"
+      ],
+      "correctIndex": 0,
+      "explanation": "উত্তর: ৬২.৫০।",
+      "appearedIn": [
+        "স্বাস্থ্য প্রকৌশল অধিদপ্তর  —  অফিস সহায়ক 2023-05-27"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    }
+  ]
+}

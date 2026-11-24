@@ -1,0 +1,250 @@
+{
+  "examSlug": "dghs_medicaltechnician_2023-04-15",
+  "examTitle": "dghs_medicaltechnician_2023-04-15",
+  "categoryKey": "education-health",
+  "categoryName": "education-health",
+  "url": "https://dreamsintodeeds.me/questions/education-health/dghs_medicaltechnician_2023-04-15",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "একটি সমকোণী ত্রিভুজের সমকোন সংলগ্ন বাহুদ্বয়ের দৈর্ঘ্য যথাক্রমে ৬ সেঃ ও ৮ সেঃ মিঃ হলে ক্ষেত্রফল?",
+      "options": [
+        "১৮",
+        "২৪",
+        "২৮",
+        "৩২"
+      ],
+      "correctIndex": 1,
+      "explanation": "ক্ষেত্রফল $=\\frac{1}{2}\\times6\\times8=24$ বর্গ সেমি।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 2,
+      "question": "৪টি সমান বাহু দ্বারা সীমাবদ্ধ ক্ষেত্র ঘার একটি কোণও সমকোন নয়, এ চিত্র-",
+      "options": [
+        "বর্গক্ষেত্র",
+        "সামান্তরিক",
+        "রম্বস",
+        "চতুর্ভুজ"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: রম্বস।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 3,
+      "question": "কোন শব্দটি দ্বিগু সমাসের অন্তর্ভুক্ত?",
+      "options": [
+        "দেশান্তর",
+        "গ্রামান্তর",
+        "লোকান্তর",
+        "তেপান্তর"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: তেপান্তর।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 4,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": [
+        "প্রতিযোগিতা",
+        "প্রতিযোগিতা‌",
+        "প্রতীযোগীতা",
+        "প্রতিযোগীতা"
+      ],
+      "correctIndex": 0,
+      "explanation": "শুদ্ধ বানান: \"প্রতিযোগিতা\"।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 5,
+      "question": "‘কেতাদুরস্ত’ বাগধারাটির অর্থ কি?",
+      "options": [
+        "ঘরকুনো",
+        "নিতান্ত অলস",
+        "সামান্য",
+        "পারিপাটি"
+      ],
+      "correctIndex": 3,
+      "explanation": "'কেতাদুরস্ত' বাগধারার অর্থ হলো 'পরিপাটি'। অন্যান্য বাগধারার অর্থ লক্ষ্য করলে দেখা যায়: 'গোঁফখেজুরে' অর্থ অলস, 'কলুর বলদ' অর্থ নির্বিকারে পরিশ্রম করা এবং 'কাকভূশণ্ডি' অর্থ দীর্ঘজীবী।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 6,
+      "question": "‘সবকটি জানালা খুলে দাও না’ - গানটির গীতিকার কে?",
+      "options": [
+        "আলতাফ মাহমুদ",
+        "নজরুল ইসলাম",
+        "সুধীর সাহা",
+        "গাজী মাজহারুল আনোয়ার"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: নজরুল ইসলাম।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 7,
+      "question": "বাংলাদেশের রণসঙ্গীত কাজী নজরুল ইসলামের কোন কাব্যগ্রন্থের অন্তর্গত?",
+      "options": [
+        "অগ্নিবীণা",
+        "বিষের বাঁশি",
+        "প্রলয় শিখা",
+        "সন্ধ্যা"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: সন্ধ্যা।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 8,
+      "question": "Find the correct exclamatory sentence---",
+      "options": [
+        "He is cute!",
+        "Isn't he cute!",
+        "He is so cute!",
+        "How cute he is!"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: How cute he is!।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "The idiom 'a stitch in time saves nine' refers---",
+      "options": [
+        "savings lives",
+        "savings times",
+        "savings action",
+        "savings tailoring"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: savings times।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "Which one is common gender?",
+      "options": [
+        "girl",
+        "king",
+        "mother",
+        "student"
+      ],
+      "correctIndex": 3,
+      "explanation": "- যে Noun দ্বারা স্ত্রী ও পুরুষ উভয়কেই বোঝানো হয়, তাকে Common Gender বা উভয়লিঙ্গ বলে। - এখানে 'Boy' (বালক) এবং 'Man' (পুরুষ) হলো পুংলিঙ্গ বা Masculine Gender । - 'Girl' (বালিকা) শব্দটি হলো স্ত্রীলিঙ্গ বা Feminine Gender । - কিন্তু 'Baby' (শিশু) শব্দটি দ্বারা ছেলে শিশু বা মেয়ে শিশু উভয়কেই বোঝানো যায়, তাই এটি Common Gender ।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "'A fish out of water' means---",
+      "options": [
+        "indescribable",
+        "uneasy state",
+        "aimlessly",
+        "without stopping"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"A fish out of water\" এর অর্থ: uneasy state।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "বঙ্গবন্ধু শেখ মুজিবুর রহমান ঘরে ঘরে দূর্গ গড়ে তোলো এ ডাক দেন কবে?",
+      "options": [
+        "২ মার্চ, ১৯৭১",
+        "৭ মার্চ, ১৯৭১",
+        "২৫ মার্চ, ১৯৭১",
+        "২৬ মার্চ, ১৯৭১"
+      ],
+      "correctIndex": 1,
+      "explanation": "গড়: ৭ মার্চ, ১৯৭১।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 13,
+      "question": "কোন আন্তর্জাতিক সংস্থ্যা মাননীয় প্রধান মন্ত্রী শেখ হাসিনাকে ‘ভ্যাকসিন হিরো’ পদকে ভূষিত করে?",
+      "options": [
+        "GAVI",
+        "UNESCO",
+        "UNICEF",
+        "UNHCR"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: GAVI।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 14,
+      "question": "বাল্টিক সাগর তীরবর্তী দেশ কোনটি?",
+      "options": [
+        "তুরস্ক",
+        "যুক্তরাজ্য",
+        "সুইডেন",
+        "নরওয়ে"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: সুইডেন।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 15,
+      "question": "স্ত্রী কিউলেক্স মশা যে রোগের জীবানু বহন করে ---",
+      "options": [
+        "ম্যালেরিয়া",
+        "কালাজ্বর",
+        "ফাইলেরিয়া",
+        "ডেঙ্গুজ্বর"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: ফাইলেরিয়া।",
+      "appearedIn": [
+        "স্বাস্থ্য অধিদপ্তর  —   মেডিকেল টেকনিশিয়ান 2023-04-15"
+      ],
+      "subject": "বিজ্ঞান"
+    }
+  ]
+}

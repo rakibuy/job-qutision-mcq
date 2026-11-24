@@ -1,0 +1,66 @@
+{
+  "categoryKey": "insurance-sbc-jbc",
+  "categoryName": "insurance-sbc-jbc",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/insurance-sbc-jbc",
+  "totalExams": 8,
+  "totalQuestions": 551,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "jbc_assistant-manager_2020",
+      "examTitle": "jbc_assistant-manager_2020",
+      "questionCount": 49,
+      "file": "jbc_assistant-manager_2020.json",
+      "url": "https://dreamsintodeeds.me/questions/insurance-sbc-jbc/jbc_assistant-manager_2020"
+    },
+    {
+      "examSlug": "jbc_upper-division-assistant_2021",
+      "examTitle": "jbc_upper-division-assistant_2021",
+      "questionCount": 80,
+      "file": "jbc_upper-division-assistant_2021.json",
+      "url": "https://dreamsintodeeds.me/questions/insurance-sbc-jbc/jbc_upper-division-assistant_2021"
+    },
+    {
+      "examSlug": "sbc_assistant-manager_2009",
+      "examTitle": "সাধারণ বীমা কর্পোরেশন (সহকারী ম্যানেজার)-২০০৯",
+      "questionCount": 79,
+      "file": "sbc_assistant-manager_2009.json",
+      "url": "https://dreamsintodeeds.me/questions/insurance-sbc-jbc/sbc_assistant-manager_2009"
+    },
+    {
+      "examSlug": "sbc_assistant-manager_2018",
+      "examTitle": "sbc_assistant-manager_2018",
+      "questionCount": 49,
+      "file": "sbc_assistant-manager_2018.json",
+      "url": "https://dreamsintodeeds.me/questions/insurance-sbc-jbc/sbc_assistant-manager_2018"
+    },
+    {
+      "examSlug": "sbc_assistant-manager_2024",
+      "examTitle": "sbc_assistant-manager_2024",
+      "questionCount": 80,
+      "file": "sbc_assistant-manager_2024.json",
+      "url": "https://dreamsintodeeds.me/questions/insurance-sbc-jbc/sbc_assistant-manager_2024"
+    },
+    {
+      "examSlug": "sbc_junior-officer_2016",
+      "examTitle": "sbc_junior-officer_2016",
+      "questionCount": 45,
+      "file": "sbc_junior-officer_2016.json",
+      "url": "https://dreamsintodeeds.me/questions/insurance-sbc-jbc/sbc_junior-officer_2016"
+    },
+    {
+      "examSlug": "sbc_junior-officer_2024",
+      "examTitle": "sbc_junior-officer_2024",
+      "questionCount": 79,
+      "file": "sbc_junior-officer_2024.json",
+      "url": "https://dreamsintodeeds.me/questions/insurance-sbc-jbc/sbc_junior-officer_2024"
+    },
+    {
+      "examSlug": "sbc_upper-division-assistant_2023",
+      "examTitle": "সাধারণ বীমা কর্পোরেশন (উচ্চমান সহকারী)-২০২৩",
+      "questionCount": 90,
+      "file": "sbc_upper-division-assistant_2023.json",
+      "url": "https://dreamsintodeeds.me/questions/insurance-sbc-jbc/sbc_upper-division-assistant_2023"
+    }
+  ]
+}

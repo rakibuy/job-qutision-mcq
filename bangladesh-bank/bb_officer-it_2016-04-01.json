@@ -1,0 +1,202 @@
+{
+  "examSlug": "bb_officer-it_2016-04-01",
+  "examTitle": "বাংলাদেশ ব্যাংক — Officer-IT — 2016 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)",
+  "categoryKey": "bangladesh-bank",
+  "categoryName": "বাংলাদেশ ব্যাংক",
+  "url": "https://dreamsintodeeds.me/questions/bangladesh-bank/bb_officer-it_2016-04-01",
+  "questionCount": 12,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the items below are considered removable storage media?",
+      "options": [
+        "Removable hard disk cartridges",
+        "(Magneto-optical) disk",
+        "Flexible disks cartridges",
+        "All of them"
+      ],
+      "correctIndex": 3,
+      "explanation": "All of them — removable storage।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer-IT — 2016 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is not a form of data?",
+      "options": [
+        "numbers and characters",
+        "images",
+        "sound",
+        "None of them"
+      ],
+      "correctIndex": 3,
+      "explanation": "None of them — সবই data।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer-IT — 2016 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "The control unit of a microprocessor.",
+      "options": [
+        "stores data in the memory",
+        "accepts input data from keyboard",
+        "performs arithmetic/logic function",
+        "None of them"
+      ],
+      "correctIndex": 3,
+      "explanation": "None of them... কী-অনুযায়ী।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer-IT — 2016 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "How many numbers could ENIAC store in its internal memory ?",
+      "options": [
+        "100",
+        "20",
+        "80",
+        "40"
+      ],
+      "correctIndex": 1,
+      "explanation": "20 numbers ENIAC।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer-IT — 2016 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "Binary circuit elements have",
+      "options": [
+        "One stable states",
+        "Two stable states",
+        "Three stable states",
+        "None of them"
+      ],
+      "correctIndex": 1,
+      "explanation": "Two stable states।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer-IT — 2016 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is used for manufacturing chips?",
+      "options": [
+        "Control bus",
+        "Control unit",
+        "Parity unit",
+        "Semiconductor"
+      ],
+      "correctIndex": 3,
+      "explanation": "Semiconductor।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer-IT — 2016 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following terms is the most closely related to main memory?",
+      "options": [
+        "Non volatile",
+        "Permanent",
+        "Control unit",
+        "Temporary"
+      ],
+      "correctIndex": 3,
+      "explanation": "Temporary।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer-IT — 2016 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "Which unit holds data permanently?",
+      "options": [
+        "Input unit",
+        "Secondary unit",
+        "Output unit",
+        "Primary Memory unit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Secondary unit।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer-IT — 2016 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "Before a disk can be used to store data, it must be",
+      "options": [
+        "Formatted",
+        "Reformatted",
+        "Addressed",
+        "None of them"
+      ],
+      "correctIndex": 0,
+      "explanation": "Formatted।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer-IT — 2016 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is a storage device?",
+      "options": [
+        "Tape",
+        "Hard Disk",
+        "Floppy Disk",
+        "All of them"
+      ],
+      "correctIndex": 3,
+      "explanation": "All of them — storage device।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer-IT — 2016 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a class of computers based on model?",
+      "options": [
+        "Digital computers",
+        "Hybrid computers",
+        "Analog computers",
+        "AT computers"
+      ],
+      "correctIndex": 3,
+      "explanation": "AT computers।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer-IT — 2016 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "What does the disk drive of a computer do?",
+      "options": [
+        "Rotate the disk",
+        "Read the disk",
+        "Load a program from the disk into the memory",
+        "Both B and C"
+      ],
+      "correctIndex": 3,
+      "explanation": "Both B and C — read/write।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — Officer-IT — 2016 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

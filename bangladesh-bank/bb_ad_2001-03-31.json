@@ -1,0 +1,250 @@
+{
+  "examSlug": "bb_ad_2001-03-31",
+  "examTitle": "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)",
+  "categoryKey": "bangladesh-bank",
+  "categoryName": "বাংলাদেশ ব্যাংক",
+  "url": "https://dreamsintodeeds.me/questions/bangladesh-bank/bb_ad_2001-03-31",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The area of a rectangle is 200 sq. meter . If the length is twice the breadth, what is the perimeter of the rectangle?",
+      "options": [
+        "40",
+        "50",
+        "60",
+        "None of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "প্রস্থ $=\\sqrt{100}=10$; পরিসীমা $=2(20+10)=60$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 2,
+      "question": "If 4 workers can do a job in 48 days, how long will it take 3 workers to finish the same job?",
+      "options": [
+        "76",
+        "72",
+        "70",
+        "64"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$\\frac{4\\times48}{3}=64$ দিন।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "When an article is sold for tk. 250, the seller makes 25% profit. What is the cost of the article?",
+      "options": [
+        "150",
+        "180",
+        "200",
+        "None of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$250=1.25C$... $C=200$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 4,
+      "question": "If in 1997, 1998 and 1999 a worker received 10% more in salary each year than he did the previous year, how much more did he receive in 1999 than in 1997? (যদি ১৯৯৭, ১৯৯৮ এবং ১৯৯৯ সালে একজন শ্রমিক প্রতি বছর তার পূর্ববর্তী বছরের তুলনায় ১০% বেশি বেতন পান, তবে তিনি ১৯৯৭ সালের তুলনায় ১৯৯৯ সালে শতকরা কত বেশি বেতন পেয়েছিলেন?)",
+      "options": [
+        "10%",
+        "11%",
+        "20%",
+        "None of these"
+      ],
+      "correctIndex": 3,
+      "explanation": "বেতন প্রতি বছর ১০% বাড়লে দুই বছরে গুণক 1.1² = 1.21; মোট বৃদ্ধি ২১%।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 5,
+      "question": "How much interest will TK. 2,000 earn at annual rate of 10% in one year if the interest is compounded every 6 months? (বার্ষিক ১০% চক্রবৃদ্ধি সুদের হারে ২,০০০ টাকা ১ বছরে কত টাকা সুদ অর্জন করবে যদি সুদ প্রতি ৬ মাস পর পর চক্রবৃদ্ধি হয়?)",
+      "options": [
+        "200",
+        "210",
+        "220",
+        "None of these"
+      ],
+      "correctIndex": 3,
+      "explanation": "অর্ধবার্ষিক চক্রবৃদ্ধিতে সুদ = 2000[(1+0.10/2)²−1] = 205 টাকা; তাই প্রদত্ত সংখ্যায় না থাকলে None।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 6,
+      "question": "If An organization increases its staff salary by 25% . By what percent must it now decrease the salary to return to the original amount?",
+      "options": [
+        "15",
+        "18",
+        "20",
+        "None of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$\\frac{1.25-1}{1.25}=20\\%$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 7,
+      "question": "An employer pays 3 workers X,Y and Z a total of TK. 600 a week . X is paid 125% of the amount Y is paid and 80% of the amount Z is paid . How much does X make in a week?",
+      "options": [
+        "200",
+        "210",
+        "230",
+        "None of these"
+      ],
+      "correctIndex": 3,
+      "explanation": "X + 0.8X + 1.25X = 600, তাই X = 600/3.05 ≈ 196.72; None of these।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "A company makes a profit of 5% on its first TK. 1,000 of sales each day, and 4% on all sales in excess of TK. 1,000 for that day . What would be the profit of the company in a day when sales are TK. 6,000?",
+      "options": [
+        "200",
+        "225",
+        "250",
+        "255"
+      ],
+      "correctIndex": 2,
+      "explanation": "মোট মুনাফা = 1000×0.05 + 5000×0.04 = 250 টাকা।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "How much will it cost to fence in a field that is 360 cm long and 160 cm wide with fence that costs tk. 100 a meter?",
+      "options": [
+        "1020",
+        "1040",
+        "1060",
+        "None of these"
+      ],
+      "correctIndex": 1,
+      "explanation": "সেন্টিমিটারের দৈর্ঘ্যগুলো মিটারে রূপান্তরের পর পরিসীমা 10.4 মিটার; প্রতি মিটার 100 টাকা হলে খরচ 1040 টাকা।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "How much fence ( in meter ) will be needed to enclose a rectangular field that is 600 cm long and 300 cm wide?",
+      "options": [
+        "72",
+        "144",
+        "240",
+        "None of these"
+      ],
+      "correctIndex": 3,
+      "explanation": "600 cm = 6 m, 300 cm = 3 m; পরিসীমা = 2(6+3) = 18 m।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "What is 1 percent of 0.025?",
+      "options": [
+        "0.25",
+        "0.025",
+        "0.0025",
+        "0.00025"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$0.025\\times0.01=0.00025$।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "The opposite of the word 'untenable' is:",
+      "options": [
+        "false",
+        "precise",
+        "defensible",
+        "hypothetical"
+      ],
+      "correctIndex": 2,
+      "explanation": "untenable × defensible।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "Which punctuation mark indicates a major pause or break?",
+      "options": [
+        "(')",
+        "(;)",
+        "(:)",
+        "(.)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Full stop (.) — major pause।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "If you are seeking ____ that will resolve all our ailments, you are undertaking an impossible task.",
+      "options": [
+        "a precedent",
+        "a panacea",
+        "an abstraction",
+        "a direction"
+      ],
+      "correctIndex": 1,
+      "explanation": "a panacea — সর্বরোগের ওষুধ।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "নাটিকা কোন অর্থে স্ত্রীবাচক শব্দ?",
+      "options": [
+        "সমার্থে",
+        "বৃহদার্থে",
+        "ক্ষুদ্রার্থে",
+        "বিপরীতার্থে"
+      ],
+      "correctIndex": 2,
+      "explanation": "'নাটিকা' শব্দটি ক্ষুদ্র অর্থে স্ত্রীবাচক শব্দ। নাটক-এর ক্ষুদ্র সংস্করণকে নাটিকা বলা হয়। ক্ষুদ্রার্থে আরও কয়েকটি স্ত্রীবাচক শব্দ হলো— মালিকা, গীতিকা, পুস্তিকা।",
+      "appearedIn": [
+        "বাংলাদেশ ব্যাংক — AD — 2001 (সুনির্দিষ্ট তারিখ/পরিচয় যাচাই বাকি)"
+      ],
+      "subject": "বাংলা"
+    }
+  ]
+}

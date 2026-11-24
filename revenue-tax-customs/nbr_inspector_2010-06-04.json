@@ -1,0 +1,250 @@
+{
+  "examSlug": "nbr_inspector_2010-06-04",
+  "examTitle": "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04",
+  "categoryKey": "revenue-tax-customs",
+  "categoryName": "রাজস্ব, কর ও শুল্ক",
+  "url": "https://dreamsintodeeds.me/questions/revenue-tax-customs/nbr_inspector_2010-06-04",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "একটি জিনিস ৬০ টাকায় বিক্রি করলে ২০% লাভ হয়। জিনিসটির ক্রয়মূল্য কত?",
+      "options": [
+        "৪০ টাকা",
+        "৫০ টাকা",
+        "৬০ টাকা",
+        "৮০ টাকা"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$60=1.2C$... $C=50$।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 2,
+      "question": "কোনো সংখ্যার দ্বিগুণের সাথে ৩ যোগ করলে যোগফল সংখ্যাটি অপেক্ষা ৭ বেশি। সংখ্যাটি কত?",
+      "options": [
+        "৩",
+        "৪",
+        "৫",
+        "৬"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: ৪।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 3,
+      "question": "ABC সমকোণী ত্রিভুজের অতিভুজ BC = 5, AB = 3 হলে, ভূমি AC এর মান কত?",
+      "options": [
+        "6",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: 4।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 4,
+      "question": "কোনো চতুর্ভুজের বাহুগুলো সমান এবং কোণগুলো সমকোণ নয়। এরূপ চতুর্ভুজকে বলে -",
+      "options": [
+        "বর্গক্ষেত্র",
+        "আয়তক্ষেত্র",
+        "ট্রাপিজিয়াম",
+        "রম্বস"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: রম্বস।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 5,
+      "question": "a+b=9, a-b=7 হলে, ab=কত?",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 1,
+      "explanation": "সঠিক উত্তর: 8।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 6,
+      "question": "জীবের বংশগতির বৈশিষ্ট্য বহন করে-",
+      "options": [
+        "নিউক্লিয়াস",
+        "নিউক্লিওলাস",
+        "ক্রোমোজোম",
+        "নিউক্লিওপ্লাজম"
+      ],
+      "correctIndex": 2,
+      "explanation": "বংশগত বৈশিষ্ট্য বহন করে ক্রোমোজোম (DNA)।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 7,
+      "question": "গ্রিন হাউজ ইফেক্টের জন্য দায়ী-",
+      "options": [
+        "অতিরিক্ত বনজঙ্গল",
+        "সবুজ গাছপালা",
+        "অনাবৃষ্টি",
+        "বায়ুমন্ডলের কার্বন-ডাই অক্সাইড"
+      ],
+      "correctIndex": 3,
+      "explanation": "সঠিক উত্তর: বায়ুমন্ডলের কার্বন-ডাই অক্সাইড।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 8,
+      "question": "বাংলাদেশের মানচিত্র প্রথম কে অংকন করেন?",
+      "options": [
+        "জেমস্‌ রেনেল",
+        "শিবনারায়ণ",
+        "র‌্যাড ক্লিফ",
+        "কামরুল হাসান"
+      ],
+      "correctIndex": 0,
+      "explanation": "সঠিক উত্তর: জেমস্‌ রেনেল।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 9,
+      "question": "Which one is the correct sentence?",
+      "options": [
+        "birds learn to fly by instinct",
+        "Do not instinct him to go",
+        "He died instinctly",
+        "None of these"
+      ],
+      "correctIndex": 0,
+      "explanation": "I finished my duty, didn't I? — affirmative → negative tag।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "What is the synonym of \"Growth\"?",
+      "options": [
+        "Uplift",
+        "Development",
+        "Raising",
+        "Increase"
+      ],
+      "correctIndex": 3,
+      "explanation": "সমার্থক: Increase।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence is incorrect?",
+      "options": [
+        "I feel unwell",
+        "He prefers tea than coffee",
+        "Open page 30",
+        "I have a headache"
+      ],
+      "correctIndex": 1,
+      "explanation": "Intend এর পর gerund (verb + ing) দেওয়া আছে। অথচ intend-এর পর infinitive অর্থাৎ to + verb এর base বসে। বাক্যটির correct form হবে– I intend to go to Rajshahi।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "\"Right and left\" means-",
+      "options": [
+        "indiscriminately",
+        "quickly",
+        "carefully",
+        "right and wrong"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Right and left\" এর অর্থ: indiscriminately।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "Which one is similar to \"Synopsis\"?",
+      "options": [
+        "Brief",
+        "Short note",
+        "Summary",
+        "Resume"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক উত্তর: Summary।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "\"Few and far between\" means-",
+      "options": [
+        "too far",
+        "in between",
+        "rarely",
+        "long distance"
+      ],
+      "correctIndex": 2,
+      "explanation": "few and far between = infrequent।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "The word \"Lunatic\" means-",
+      "options": [
+        "Crazy",
+        "Mad",
+        "Aggressive",
+        "Oppressive"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Lunatic\" এর অর্থ: Crazy।",
+      "appearedIn": [
+        "জাতীয় রাজস্ব বোর্ড — ইন্সপেক্টর/এপ্রেইজার/প্রিভেন্টিভ অফিসার/গোয়েন্দা কর্মকর্তা 2010-06-04"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

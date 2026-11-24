@@ -1,0 +1,58 @@
+{
+  "examSlug": "bgb_questionbank_mixed",
+  "examTitle": "বর্ডার গার্ড বাংলাদেশ (BGB) — নিয়োগ প্রশ্নব্যাংক",
+  "categoryKey": "police-defense-security",
+  "categoryName": "পুলিশ, প্রতিরক্ষা ও নিরাপত্তা",
+  "url": "https://dreamsintodeeds.me/questions/police-defense-security/bgb_questionbank_mixed",
+  "questionCount": 3,
+  "questions": [
+    {
+      "id": 1,
+      "question": "বাংলাদেশ রাইফেলসের বর্তমান নাম কি?",
+      "options": [
+        "বাংলাদেশ বর্ডার গার্ড",
+        "বর্ডার গার্ড বাংলাদেশ",
+        "বাংলাদেশ সিকিউরিটির গার্ড",
+        "সিকিউরিটি গার্ড অব বাংলাদেশ"
+      ],
+      "correctIndex": 1,
+      "explanation": "বাংলাদেশ রাইফেলস → বর্ডার গার্ড বাংলাদেশ (BGB)।",
+      "appearedIn": [
+        "বর্ডার গার্ড বাংলাদেশ (BGB) — নিয়োগ প্রশ্নব্যাংক"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 2,
+      "question": "Which one is not a defense service in Bangladesh?",
+      "options": [
+        "Army",
+        "Navy",
+        "BGB",
+        "None of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "BGB প্যারামিলিটারি বাহিনী — প্রতিরক্ষা সেবা নয়।",
+      "appearedIn": [
+        "বর্ডার গার্ড বাংলাদেশ (BGB) — নিয়োগ প্রশ্নব্যাংক"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "Where is ‘Simanto Gourab’ located?",
+      "options": [
+        "BGB Headquarter",
+        "Benapole",
+        "Bangladesh-India border",
+        "Dhaka Cantonment"
+      ],
+      "correctIndex": 0,
+      "explanation": "সীমান্ত গৌরব — BGB হেডকোয়ার্টারে।",
+      "appearedIn": [
+        "বর্ডার গার্ড বাংলাদেশ (BGB) — নিয়োগ প্রশ্নব্যাংক"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

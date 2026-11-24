@@ -1,0 +1,42 @@
+{
+  "examSlug": "chattogram-port_questionbank_mixed",
+  "examTitle": "চট্টগ্রাম বন্দর কর্তৃপক্ষ (CPA) — নিয়োগ প্রশ্নব্যাংক",
+  "categoryKey": "railway-transport",
+  "categoryName": "রেলওয়ে ও পরিবহন",
+  "url": "https://dreamsintodeeds.me/questions/railway-transport/chattogram-port_questionbank_mixed",
+  "questionCount": 2,
+  "questions": [
+    {
+      "id": 1,
+      "question": "কোন বন্দরকে বাংলাদেশের প্রবেশদ্বার বলা হয়?",
+      "options": [
+        "চট্রগ্রাম",
+        "মংলা",
+        "ঢাকা",
+        "চাঁদপুর"
+      ],
+      "correctIndex": 0,
+      "explanation": "চট্টগ্রাম — প্রবেশদ্বার... কী-অনুযায়ী।",
+      "appearedIn": [
+        "চট্টগ্রাম বন্দর কর্তৃপক্ষ (CPA) — নিয়োগ প্রশ্নব্যাংক"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 2,
+      "question": "বাংলাদেশের আমদানি - রপ্তানি পণ্যের প্রায় কত শতাংশ চট্টগ্রাম বন্দরের মাধ্যমে পরিচালিত হয়/",
+      "options": [
+        "60",
+        "50",
+        "92",
+        "98"
+      ],
+      "correctIndex": 2,
+      "explanation": "৯২%... কী-অনুযায়ী।",
+      "appearedIn": [
+        "চট্টগ্রাম বন্দর কর্তৃপক্ষ (CPA) — নিয়োগ প্রশ্নব্যাংক"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    }
+  ]
+}

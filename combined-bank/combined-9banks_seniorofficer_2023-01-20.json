@@ -1,0 +1,1386 @@
+{
+  "examSlug": "combined-9banks_seniorofficer_2023-01-20",
+  "examTitle": "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩",
+  "categoryKey": "combined-bank",
+  "categoryName": "সমন্বিত ব্যাংক নিয়োগ",
+  "url": "https://dreamsintodeeds.me/questions/combined-bank/combined-9banks_seniorofficer_2023-01-20",
+  "questionCount": 86,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Electronic trespassing or criminal hacking is known as-",
+      "options": [
+        "Cracking",
+        "Jacking",
+        "Spoofing",
+        "Smarming"
+      ],
+      "correctIndex": 0,
+      "explanation": "অনুমতি ছাড়া কোন কম্পিউটারে প্রবেশ করে তথ্য চুরি বা পুরো কম্পিউটার এর নিয়ন্ত্রণ নিয়ে নেওয়াকে Hacking বা Cracking বলে।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 2,
+      "question": "Identify the language which is mainly used for Artificial Intelligence-",
+      "options": [
+        "JAVA",
+        "J2EE",
+        "C",
+        "Prolog"
+      ],
+      "correctIndex": 3,
+      "explanation": "কৃত্রিম বুদ্ধিমত্তা হচ্ছে বিজ্ঞান এবং প্রযুক্তির সমন্বয়। মানুষ যেভাবে চিন্তা করে তেমনি কৃত্রিম উপায়ে কম্পিউটারে সেভাবে চিন্তা ভাবনার রূপদান করাকে কৃত্রিম বুদ্ধিমত্তা বলে। ১৯৫৬ সালে যুক্তরাষ্ট্রের MIT এর John McCarthy সর্বপ্রথম আর্টিফিশিয়াল ইন্টেলিজেন্স শব্দটির সাথে পরিচয় করিয়ে দেন। তবে কৃত্রিম বুদ্ধিমত্তার জনক হলেন ব্রিটিশ বিজ্ঞানী ও গণিতবিদ অ্যালান টুরিং (Alan Mathison Turing)। কৃত্রিম বুদ্ধিমত্তায় Java, CLISP, MATLAB, PROLOG, C/C++ প্রোগ্রামিং ভাষা ব্যবহার করা হয়। তবে এদের মধ্যে Prolog প্রধানত কৃত্রিম বুদ্ধিমত্তা সবচেয়ে বেশি ব্যবহৃত হয়।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "Microsoft Office is an example of a",
+      "options": [
+        "Closed source software",
+        "Open source software",
+        "Horizontal market software",
+        "Vertical market software"
+      ],
+      "correctIndex": 0,
+      "explanation": "Closed source software হলো এমন এক ধরনের সফটওয়্যার, যার সোর্স কোড উন্মুক্ত থাকে না। এতে সোর্স কোড উন্মুক্ত না থাকায় ব্যবহারকারী সফটওয়্যারটিকে পরিবর্তন, পরিবর্ধন ও পরিমার্জন করতে পারে না। Microsoft Office, Microsoft Windows, Zoom, Adobe Photoshop, Mac OS, HP-Unix ইত্যাদি Closed Source Software এর উদাহরণ।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is not the components of a microprocessor?",
+      "options": [
+        "ALU",
+        "Hard Disk",
+        "Register Array",
+        "Control Unit"
+      ],
+      "correctIndex": 1,
+      "explanation": "কম্পিউটারের যে অংশ Data processing এর কাজ করে থাকে তাকে Central Processing Unit (CPU) বলে। CPU তৈরিতে Microprocessor / Processor লাগে। CPU-কে কম্পিউটারের মস্তিষ্ক বলা হয়। ১৯৭১ সালে ড. টেড হয় Microprocessor তৈরি করেন। CPU তিনটি অংশ নিয়ে গঠিত। যথাঃ Arithmetic Logic Unit (ALU). Control Unit ও Register Array.",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following format is usually used to store data?",
+      "options": [
+        "Decimal",
+        "BCD",
+        "Octal",
+        "Hexadecimal"
+      ],
+      "correctIndex": 1,
+      "explanation": "দশমিক সংখ্যার প্রতিটি অংককে সমতুল্য বাইনারি সংখ্যা দ্বারা প্রকাশ করাকে Binary Coded Decimal (BCD) কোড বলে। IBM এর পুরনো সুপার কম্পিউটারে, কম্পিউটার বায়োস ও ইলেকট্রিক ডিসপ্লে বোর্ডের তারিখ সংরক্ষণে এ কোড ব্যবহৃত হয়। দশমিক পদ্ধতির সংখ্যাকে বাইনারি সংখ্যায় প্রকাশের নিমিত্তে এই কোড ব্যবহৃত হয়। এই পদ্ধতিতে দশমিক সংখ্যা ০ থেকে ৯ এ দশটি অংকের প্রতিটিকে নির্দেশের জন্য ৪টি বাইনারি অংক প্রয়োজন। ৪টি বিট দ্বারা ২n অর্থাৎ ১৬টি ভিন্ন অবস্থা নির্দেশ করা যায়। তাই ১৬টি অবস্থা ব্যবহার করে কয়েক প্রকার বিসিডি কোড সম্ভব।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "For keeping internet activity anonymous and private by users, which one is used?",
+      "options": [
+        "Dark Fiber",
+        "Dark Net",
+        "Dark Web",
+        "None of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "ডার্ক ওয়েব হলো ওয়ার্ল্ড ওয়াইড ওয়েবের একটি অংশ যা ডার্ক নেটে বিদ্যমান। দৈনন্দিন জীবনে ব্যবহৃত ইন্টারনেটের ৫ থেকে ৬ শতাংশ জুড়ে ডার্ক নেটের ব্যপ্তি। উন্মুক্ত ইন্টারনেট ব্যবহারকারীদের কাছে এটি এক প্রকার লুকায়িত নেটওয়ার্ক। এতে প্রবেশ করেত নির্দিষ্ট সফটওয়্যার কনফিগারেশন বা অনুমোদন প্রয়োজন হয়।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 7,
+      "question": "A chatbot or chatterbot is-",
+      "options": [
+        "Hardware",
+        "Firmware",
+        "Humanware",
+        "Software"
+      ],
+      "correctIndex": 3,
+      "explanation": "চ্যাটবট কৃত্রিম বুদ্ধিমত্তাভিত্তিক সফটওয়্যার এপ্লিকেশন যা গ্রাহকদের কাছ থেকে তথ্য সংগ্রহ করে ফিডব্যাক দেয়াসহ একাধিক কাজ সম্পাদন করার জন্য তৈরি করা হয়।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 8,
+      "question": "An offline UPS will typically take ______ to transfer power.",
+      "options": [
+        "15 milliseconds",
+        "8 milliseconds",
+        "4 milliseconds",
+        "None of these"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uninterruptible Power Supply (UPS) এমন একটি ইলেক্ট্রিক্যাল ডিভাইস, যা কিছু সময়ের জন্য বিদ্যুৎ সঞ্চয় করে রাখতে পারে। এটি বিদ্যুৎ চলে যাওয়ার সাথে ব্যাক আপ দিয়ে থাকে। UPS সাধারণত দুই ধরনের- Offline UPS: অফলাইন ইউপিএস মূল সিস্টেমের লোড সরাসরি ইনপুট পাওয়ারের সাথে সংযুক্ত থাকে। যখন মেইন পাওয়ার সাপ্লাই সংযোগ দিতে ব্যর্থ হয় তখন এটি ৮ মিলি সেকেন্ড এর মধ্যে পাওয়ার ব্যাকআপ দেয়। অন্যদিকে, Online UPS: অনলাইন ইউ.পি.এস ডাবল কানভার্সন পদ্ধতি ব্যবহার করে। এটি প্রথমে এসি ভোল্টেজ কে ডিসি ভোল্টেজে রূপান্তর করে। তারপর ইনভার্টিং করে ডিসি ভোল্টেজকে এসি ভোল্টেজে রূপান্তর করতে সময় নেয় না। সাধারণত অনলাইন ইউপিএস ৫ মিনিট থেকে ২ ঘণ্টা পর্যন্ত বিদ্যুৎ সরবরাহ করতে পারে।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "RTGS is a-",
+      "options": [
+        "Payment system",
+        "Governance system",
+        "Right-based group",
+        "An anti-virus software"
+      ],
+      "correctIndex": 0,
+      "explanation": "Real Time Gross Settlement (RTGS) একটি নিরাপদ, সুরক্ষিত এবং দক্ষ আন্তঃব্যাংক পেমেন্ট সিস্টেম। এটি এমন একটি ইলেকট্রনিক ফান্ড ট্রান্সফার সিস্টেম, যেখানে একটি ব্যাংকের একটি অ্যাকাউন্ট থেকে অন্য ব্যাংকের অ্যাকাউন্টে রিয়েল টাইমে অর্থাৎ সময়ের অপেক্ষা ছাড়া অর্থ স্থানান্তর করা যায়।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "কম্পিউটার ও আইসিটি"
+    },
+    {
+      "id": 10,
+      "question": "A Terabyte is equal to-",
+      "options": [
+        "1024 Megabytes.",
+        "1024 Kilobytes",
+        "1024 Gigabytes",
+        "1024 Bytes"
+      ],
+      "correctIndex": 2,
+      "explanation": "- তথ্যের ক্ষুদ্রতম একক হলো বিট (Bit) এবং ১ বাইট (Byte)= ৮ বিট। - কম্পিউটারের মেমোরি বা স্মৃতি পরিমাপের এককগুলো সাধারণত ১০২৪ গুণিতকে বৃদ্ধি পায়। - ১০২৪ বাইট (Bytes) = ১ কিলোবাইট বা KB (Kilobyte)। - ১০২৪ কিলোবাইট (Kilobytes) = ১ মেগাবাইট বা MB (Megabyte)। - ১০২৪ মেগাবাইট (Megabytes) = ১ গিগাবাইট বা GB (Gigabyte)। - ১০২৪ গিগাবাইট (Gigabytes) = ১ টেরাবাইট বা TB (Terabyte)। - ১০২৪ টেরাবাইট (Terabytes) = ১ পেটাবাইট বা PB (Petabyte)।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "The documentary film, based on the liberation war, 'Rupali Shoikot' was directed by-",
+      "options": [
+        "Alamgir Kabir",
+        "Tanvir Mokammel",
+        "Tanvir Kabir",
+        "Tarek Masood"
+      ],
+      "correctIndex": 0,
+      "explanation": "রূপালি সৈকতে সিনেমার পরিচালক আলমগীর কবির। এটি ১৯৭৯ সালে মুক্তি পায়। সিনেমাটি মুক্তিযুদ্ধভিত্তিক দেশের প্রথম আত্মজৈবনিক সিনেমা।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "How many districts are touched by the Sundarbans?",
+      "options": [
+        "4",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "সুন্দরবন (বাদাবন) বাংলাদেশের বৃহত্তম ব-দ্বীপ। বাংলাদেশ ও ভারতে বিস্তৃত সুন্দরবনের মোট আয়তন ১০০০০ বর্গ কি. মি.। সুন্দরবনের মোট আয়তনের ৬২% বাংলাদেশে অবস্থিত। এটি বাংলাদেশের ৫টি (খুলনা, সাতক্ষীরা, বাগেরহাট, পটুয়াখালী ও বরগুনা জেলায় অবস্থিত। সুন্দরবনকে ২১ মে, ১৯৯২ ‘রামসার সাইট’ এবং ৬ ডিসেম্বর, ১৯৯৭ ইউনেস্কো 'বিশ্ব ঐতিহ্য স্থান হিসেবে (৭৯৮তম) ঘোষণা করে।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "What is the name of the country where no prime minister has ever served a full term?",
+      "options": [
+        "Afghanistan",
+        "Lebanon",
+        "Uzbekistan",
+        "Pakistan"
+      ],
+      "correctIndex": 3,
+      "explanation": "১৯৪৭ সালে স্বাধীনতা লাভের পর ২০২২ সাল পর্যন্ত পাকিস্তানে ২২ জন ব্যক্তি প্রধানমন্ত্রী হিসেবে দায়িত্ব পালনা করেন। তবে এদের মধ্যে কোন প্রধানমন্ত্রীই তার নির্ধারিত মেয়াদ পূর্ণ করতে পারেনি।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 14,
+      "question": "What is the position of Bangladesh, according to World Bank, in terms of recipient of Remittance in 2021?",
+      "options": [
+        "5 th",
+        "7 th",
+        "8 th",
+        "6 th"
+      ],
+      "correctIndex": 1,
+      "explanation": "১ ডিসেম্বর, ২০২২ সালে বিশ্বব্যাংকের মাইগ্রেশন অ্যান্ড ডেভেলপমেন্ট ব্রিফ-৩৭ এর প্রতিবেদন অনুযায়ী, ২০২২ সালে প্রবাসী আয়ে বিশ্বে বাংলাদেশের অবস্থান ৭ম। দেশটি ২০২২ সালে ২১ বিলিয়ন ডলার আয় করে। তবে ২০২১ সালের প্রতিবেদন অনুযায়ী, প্রবাসী আয়ে বিশ্বে বাংলাদেশের অবস্থান ৭ম। দেশটি ২০২১ সালে ২২ বিলিয়ন ডলার আয় করে। আর ২০২২ সালে ২১ বিলিয়ন ডলার আয় করে। এ তালিকায় ১ম, ২য় ও ৩য় অবস্থানে যথাক্রমে ভারত (১০০ বি. ড.), মেক্সিকো (৬০ বি.ড.) ও চীন (৫১ বি.ড.) আয় করে।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "Who has written the famous novel 'Pather Panchali'?",
+      "options": [
+        "Satyjit Ray",
+        "Bibhutibhushan Bandyopadhyay",
+        "Chintha Lakshmi Smhaarachchi",
+        "K. Roy and Margaret Chatterjee"
+      ],
+      "correctIndex": 1,
+      "explanation": "বিভূতিভূষণ বন্দ্যোপাধ্যায়ের প্রথম ও শ্রেষ্ঠ উপন্যাস 'পথের পাঁচালী' (১৯২৯)। এটি প্রথম প্রকাশিত হয় 'বিচিত্রা' পত্রিকায়। গ্রন্থাকারে প্রকাশিত হয় সজনীকান্ত দাসের রঞ্জন প্রকাশনালয়, কলকাতা থেকে। ভাগলপুরে চাকরি করার সময় তিনি এ উপন্যাস রচনা করেন। এ উপন্যাসের পটভূমিতে আছে বাংলাদেশের গ্রাম ও পরিচিত মানুষের জীবন। বল্লালী বালাই, আমআঁটির ভেঁপু ও অক্রুর সংবাদ নামে তিনটি ভাগে বিভক্ত এ উপন্যাস। 'পথের পাঁচালী' উপন্যাসের প্রধান অংশই হলো একটি শিশুর চৈতন্যের জাগরণ, প্রকৃতির নিবিড় সান্নিধ্যে শিশুর বেড়ে উঠা। মানুষ ও প্রকৃতির সঙ্গে তাদের পরিচয়। বিশ শতকের শুরুর দিকে বাংলার এক প্রত্যন্ত গ্রামে অপু, অপুর বাবা হরিহর রায়, মা সর্বজয়া, বোন দুর্গা ও দূর সম্পর্কের পিসি ইন্দির ঠাকরুন নিয়ে তাদের জীবন যাত্রার কথাই এ উপন্যাসের মূখ্য বিষয়। উল্লেখযোগ্য চরিত্র: অপু, দুর্গা, সর্বজয়া, ইন্দির ঠাকরুন।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 16,
+      "question": "Who is the world's first wicket keeper to score double century in test cricket?",
+      "options": [
+        "MS Dhoni",
+        "Kumar Sangakkara",
+        "Adam Gilchrist",
+        "Mushfiqur Rahim"
+      ],
+      "correctIndex": 2,
+      "explanation": "উইকেট কিপার ব্যাটসম্যান হিসেবে টেস্টে ডাবল সেঞ্চুরি করেন যথাক্রমে ইমতিয়াজ আহমেদ (পাকিস্তান, ১৯৫৫ সালে)। অ্যাডাম গিলক্রিস্ট (অস্ট্রেলিয়া, ২০০২ সালে)। কুমার সাঙ্গাকারা (শ্রীলংকা, ২০০২ সালে)।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 17,
+      "question": "The southernmost town of the world resides in-",
+      "options": [
+        "Norway",
+        "Australia",
+        "Chile",
+        "New Zealand"
+      ],
+      "correctIndex": 2,
+      "explanation": "পৃথিবীর সর্ব দক্ষিণের নগরী পুয়ের্তো উইলিয়ামস, যা চিলিতে অবস্থিত। আর পৃথিবীর সর্ব উত্তরের নগরী হ্যামারফেস্ট (নরওয়ে)।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 18,
+      "question": "Who is the founder of 'SpaceX'?",
+      "options": [
+        "Eric Yuan",
+        "Elon Musk",
+        "Ray Tomlinson",
+        "Larry Page"
+      ],
+      "correctIndex": 1,
+      "explanation": "SpaceX (Space Exploration Technologies Corporation) যুক্তরাষ্ট্রের বেসরকারি মহাকাশযান প্রস্তুতকারক ও মহাকাশযাত্রা সেবা প্রদানকারী প্রতিষ্ঠান। এর প্রধান কার্যালয় যুক্তরাষ্ট্রের ক্যালিফোর্নিয়া অঙ্গরাজ্যের হর্ধন নগরীতে অবস্থিত। যুক্তরাষ্ট্রের প্রযুক্তি ব্যবসায়ী ও উদ্যোক্তা ইলন মাস্ক ২০০২ সালে SpaceX প্রতিষ্ঠা করে। এটি রকেট ইঞ্জিন তৈরির পাশাপাশি মহাকাশে স্যাটেলাইট পরিবহনে কাজ করে।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 19,
+      "question": "What is the extreme poverty rate of Bangladesh as per the Economics Index, 2022?",
+      "options": [
+        "5.1%",
+        "15.5%",
+        "10.5%",
+        "7.25%"
+      ],
+      "correctIndex": 2,
+      "explanation": "বাংলাদেশ অর্থনৈতিক সমীক্ষা ২০২২ অনুযায়ী, দারিদ্র্যের হার ২০.৫% আর চরম দারিদ্র্যের হার ১০.৫%।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 20,
+      "question": "Which one is the top country in terms of per capita greenhouse gas emission?",
+      "options": [
+        "Japan",
+        "China",
+        "USA",
+        "Brazil"
+      ],
+      "correctIndex": 2,
+      "explanation": "Worldometer- ২০২২ এর তথ্যমতে, বিশ্বে গ্রিনহাউস গ্যাস (কার্বন ডাই-অক্সাইড) নিঃসরণে শীর্ষ দেশ চীন। কিন্তু মাথাপিছু গ্রিনহাউস (কার্বন-ডাই অক্সাইড) নিঃসরণে দ্বিতীয় অবস্থানে চীন। দেশটি মোট মাথাপিছু ৭.৩৮ টন গ্রিনহাউস গ্যাস নিঃসরণ করে। বিশ্বে গ্রিনহাউস গ্যাস (কার্বন ডাই-অক্সাইড) নিঃসরণে দ্বিতীয় অবস্থানে রয়েছে যুক্তরাষ্ট্র কিন্তু দেশটি মাথাপিছু গ্রিনহাউস গ্যাস নিঃসরণে শীর্ষ অবস্থানে রয়েছে। দেশটি মোট মাথাপিছু ১৫.৫২ টন গ্রিনহাউস গ্যাস নিঃসরণ করে।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 21,
+      "question": "Which one is the second highest mountain on the earth?",
+      "options": [
+        "Makalu",
+        "Himalayas",
+        "Annapurna",
+        "K2"
+      ],
+      "correctIndex": 3,
+      "explanation": "কে-২ এভারেস্ট পর্বতের পর বিশ্বের দ্বিতীয় সর্বোচ্চ পর্বতশৃঙ্গ। সমুদ্র পৃষ্ঠ থেকে এর উচ্চতা ৮৬১১ মিটার। হিমালয় পর্বতমালার কারকোরাম পর্বতশ্রেণির অন্তর্গত কে-২ পর্বতশৃঙ্গটি পাকিস্তানের আজাদ কাশ্মীরের গিলগিট- বালতিস্তান ও চীনের জিংজিয়ান সীমান্তে অবস্থিত।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 22,
+      "question": "The third largest economy in the world is-",
+      "options": [
+        "United Kingdom",
+        "China",
+        "Japan",
+        "Germany"
+      ],
+      "correctIndex": 2,
+      "explanation": "আন্তর্জাতিক মুদ্রা তহবিলের (আইএমএফ) ২০২৩ সালের তথ্যমতে, ২০২২ সালে জিডিপির ভিত্তিতে বিশ্বের বৃহৎ পাঁচ অর্থনীতির দেশ যথাক্রমে যুক্তরাষ্ট্র (২৫০৩৫.২ বি. ডলার), চীন (১৮৩২১.২ বি. ডলার), জাপান (৪৩০০.৬ বি. ডলার), জার্মানি (৪০৩১.১ বি. ডলার) ও ভারত ৩৪৬৮.৬ বি. ডলার)।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 23,
+      "question": "The Nobel Prize for Literature in 2022 has been awarded to-",
+      "options": [
+        "Bob Dylan",
+        "Annie Ernaux",
+        "Louise Gluck",
+        "Olga Tokarczuk"
+      ],
+      "correctIndex": 1,
+      "explanation": "শরীর ও যৌনতা, নিবিড় সম্পর্ক, সামাজিক বৈষম্য আর শিক্ষার ভিতর দিয়ে শ্রেণিবদলের অভিজ্ঞতা, সময় ও স্মৃতি এবং যাপিত জীবনের অভিজ্ঞতা নিয়ে সাহিত্য রচনার জন্য ২০২২ সালে অ্যানি এরনো (ফ্রান্স) নোবেল সাহিত্য পুরস্কার লাভ করেন। অ্যানি এরনোর কয়েকটি সাহিত্যকর্ম- লো আমধে' ভিদ; লেজানে; ক্লিনড আউটং আ ম্যানস।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 24,
+      "question": "The 7 th March speech of Bangabandhu was recognized as part of the world's documentary heritage by-",
+      "options": [
+        "UNESCO",
+        "UNICEF",
+        "UNDP",
+        "UNFCCC"
+      ],
+      "correctIndex": 0,
+      "explanation": "৩০ অক্টোবর, ২০১৭ সালে ইউনেস্কোর আন্তর্জাতিক উপদেষ্টা কমিটি Memory of the world Register-এ অন্তর্ভুক্ত করতে ৭৮টি দলিলকে মনোনয়ন দেয়। এ তালিকায় ৪৮ নম্বরে ৭মার্চ, ১৯৭১ সালে রেসকোর্স (সোহরাওয়ার্দী উদ্যান) ময়দানে জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমানের দেওয়া ৭ মার্চ এর ঐতিহাসিক ভাষণকে Worlds Documentary Heritage এর অংশ হিসেবে Memory of the world Register অন্তর্ভুক্ত করে। ১৯৯৭ সাল থেকে ২০১৭ সাল পর্যন্ত মোট ৪২৭টি দলিল ও সংগ্রহ Memory of the register এ অন্তর্ভুক্ত করা হয়েছে। ৪২৭ টি প্রামাণ্য ঐতিহ্যের মধ্যে বঙ্গবন্ধুর ৭ মার্চের ভাষণই একমাত্র অলিখিত ভাষণ। উল্লেখ্য, ১৯৯২ সালে UNESCO Memory of the world Register প্রোগ্রামটি চালু করে।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 25,
+      "question": "A Chronometer in used to measure-",
+      "options": [
+        "Time",
+        "Velocity",
+        "Current",
+        "Temperature"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chronometer — time measure।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 26,
+      "question": "Which of the following has the highest number of green apparel factories in the world?",
+      "options": [
+        "China",
+        "India",
+        "Vietnam",
+        "Bangladesh"
+      ],
+      "correctIndex": 3,
+      "explanation": "যুক্তরাষ্ট্রের ইউএস গ্রিন বিল্ডিং কাউন্সিল (ইউএসজিবিসি) লিডারশিপ ইন ‘লিডারশিপ ইন এনার্জি অ্যান্ড এনভায়রনমেন্টাল ডিজাইন (লিড)' নামে পরিবেশবান্ধব স্থাপনার সনদ দিয়ে থাকে। এ প্রতিষ্ঠানের সনদ পাওয়া বাংলাদেশে বর্তমানে পরিবেশবান্ধব তৈরি পোশাক ও বস্ত্র কারখানার সংখ্যা ১৯২টি, যা বিশ্বের মধ্যে সর্বোচ্চ সংখ্যক সনদ পাওয়া কারখানা।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 27,
+      "question": "Shakib Al Hasan has recently been selected as the best athlete in the history of Bangladesh by-",
+      "options": [
+        "BFF",
+        "BSPA",
+        "FIFA",
+        "ICC"
+      ],
+      "correctIndex": 1,
+      "explanation": "BSPA — best athlete award... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following desert is located in Mongolia?",
+      "options": [
+        "Gobi Desert",
+        "Sahara Desert",
+        "Takla Makan Desert",
+        "Kalahari Desert"
+      ],
+      "correctIndex": 0,
+      "explanation": "গোবি মরুভূমি এশিয়া মহাদেশের সবচেয়ে বড় মরুভূমি। এর আয়তন ১২ লক্ষ ৯৫ হাজার বর্গ কি.মি.। এটি চীনের উত্তর-পশ্চিম ও মঙ্গোলিয়ার দক্ষিণাংশ জুড়ে বিস্তৃত।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 29,
+      "question": "Which country in the world shares its border with the most countries?",
+      "options": [
+        "Brazil",
+        "Germany",
+        "Russia",
+        "Japan"
+      ],
+      "correctIndex": 2,
+      "explanation": "আয়তনে বিশ্বের বৃহত্তম দেশ রাশিয়া। দেশটি পূর্ব ইউরোপ ও উত্তর এশিয়া জুড়ে বিস্তৃত। রাশিয়ার রাজধানী ও বৃহত্তম শহর মস্কো। রাশিয়ার সাথে ১৪টি দেশের স্থলসীমান্ত সংযোগ আছে। দেশগুলো হলো- নরওয়ে, ফিনল্যান্ড, এস্তোনিয়া, লাটভিয়া, লিথুয়ানিয়া, পোল্যান্ড, বেলারুশ, ইউক্রেন, জর্জিয়া, আজারবাইজান, কাজাখস্তান, চীন,মঙ্গোলিয়া ও উত্তর কোরিয়া।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 30,
+      "question": "A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long?",
+      "options": [
+        "80 sec",
+        "89 sec",
+        "90 sec",
+        "95 sec"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$\\frac{240}{24}=10$ মি/সে; $\\frac{650+240}{10}=89$ সেকেন্ড।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 31,
+      "question": "Salam earns Tk. 8.50 per hour on days other than Friday and twice than the rate on Friday. Last week he worked a total of 50 hours including 8 hours on Friday. What is his earning for the week?",
+      "options": [
+        "Tk. 340",
+        "Tk. 398",
+        "Tk. 408",
+        "Tk. 493"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$8.50\\times8+17\\times...$... কী: Tk ৪৯৩।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 32,
+      "question": "The total number obtained by a student in Physics, Chemistry and Mathematics together is 120 more than the marks obtained by him in Chemistry. What is the average mark obtained by him in Physics and Mathematics together?",
+      "options": [
+        "40",
+        "60",
+        "120",
+        "Cannot be determined"
+      ],
+      "correctIndex": 1,
+      "explanation": "total = 3 × 60 = 180; each = 60... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 33,
+      "question": "$$Find the number of zeroes in 10 \\times 20 \\times 30 \\times .............\\times 1000.$",
+      "options": [
+        "100",
+        "124",
+        "130",
+        "154"
+      ],
+      "correctIndex": 1,
+      "explanation": "zeroes in 10×20×...×1000 = $\\lfloor\\frac{1000}{5}\\rfloor+\\lfloor\\frac{1000}{25}\\rfloor+\\lfloor\\frac{1000}{125}\\rfloor=200+40+8=248$... কী: ১২৪... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 34,
+      "question": "A worker was hired for 7 days. Each day, he was paid Tk. 10 more than what he was paid for the previous day of work. The total amount he was paid in the first 4 days of work equaled the total amount he was paid in the last 3 days. What was his starting pay?",
+      "options": [
+        "Tk. 90",
+        "Tk.138",
+        "Tk. 150",
+        "Tk. 160"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$10+16+22+...$ 7 days: sum $=\\frac{7}{2}(20+60)=280$... highest $=90$।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 35,
+      "question": "The present ratio of students to teachers at a certain school is 30 to 1. If the number of students were to increase by 50 and that of teachers were to increase by 5, the ratio of students to teachers would then be 25 to 1. What is the present number of teachers?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$\\frac{30}{x}=\\frac{25}{x+...}$... teachers = 15... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 36,
+      "question": "A man needs money for 120 days. He asked the banker for a loan and the banker charged Tk. 360 @ 6% per annum. What is the amount of loan?",
+      "options": [
+        "Tk. 15000",
+        "Tk. 16000",
+        "Tk. 18000",
+        "None of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "banker discount... Tk 18000... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 37,
+      "question": "The perimeter of a rectangle is 20cm. If the length of the rectangle is 6cm, then its breadth will be-",
+      "options": [
+        "4 cm",
+        "6 cm",
+        "10 cm",
+        "14 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$2(L+W)=20$; $L=W+2$... $W=4$ সেমি।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 38,
+      "question": "The diameter of the driving wheel of a bus is 140 cm. How many revolutions per minute must the wheel make in order to keep a speed of 66 km per hour?",
+      "options": [
+        "200",
+        "250",
+        "300",
+        "350"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$\\pi\\times140=440$ সেমি circumference; $\\frac{110000}{440}=250$ বার।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 39,
+      "question": "What is the total sum of all the interior angles of a parallelogram?",
+      "options": [
+        "180°",
+        "240°",
+        "360°",
+        "540°"
+      ],
+      "correctIndex": 2,
+      "explanation": "parallelogram = 4-sided: $360°$।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 40,
+      "question": "$$If x/y = 1/3, then the value of \\frac{x 2 + y 2}{x 2 - y 2} is$-",
+      "options": [
+        "- 10/9",
+        "5/4",
+        "- 5/3",
+        "- 5/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$\\frac{x}{y}=\\frac{1}{3}$... $\\frac{1+9}{1-9}=-\\frac{10}{8}=-\\frac{5}{4}$।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 41,
+      "question": "A clock seen through a mirror, shows quarter past three. What is the correct time shown by the clock?",
+      "options": [
+        "3 : 15",
+        "7 : 15",
+        "8 : 45",
+        "9 : 45"
+      ],
+      "correctIndex": 2,
+      "explanation": "mirror: 3:15 → actual $=12:00-3:15=8:45$।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 42,
+      "question": "Ruby's height is 5.2\". Ana is taller than Rubby but she is not taller than Pamela. Pamela is shorter than her cousin Rony but she is not shorter than Ruby. Who is the tallest in the group?",
+      "options": [
+        "Ana",
+        "Rony",
+        "Pamela",
+        "Ruby"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rubby 5.2 < Ana < tallest... Rony tallest... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 43,
+      "question": "The average daily wage of 10 workers is Tk. 400. If the lowest wage is Tk. 300, then what is the possible maximum wage?",
+      "options": [
+        "1300",
+        "1200",
+        "1000",
+        "800"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$\\frac{400\\times10-500}{9}=...$... highest wage = $400+900=1300$।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 44,
+      "question": "The area of the floor of an auditorium is 600 sq meter. How many unbroken tiles of dimension 10 x 30 cm 2 will be required to cover the floor completely?",
+      "options": [
+        "200",
+        "15000",
+        "1000",
+        "20000"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$\\frac{600}{0.6\\times0.5}=20000$ tiles।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 45,
+      "question": "M is a girl and has the same number of brothers as sisters. N is a boy and has twice as many sisters as brothers. M and N are the children of Q. How many children does Q have?",
+      "options": [
+        "2",
+        "3",
+        "7",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$b=g-1$; $b=\\frac{g}{2}$... total = $7$... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 46,
+      "question": "In a class, 120 students are male and 100 students are female. 25% of male students and 20% of female students are engineering students. 20% of the male engineering students and 25% of the female engineering students passed the final exam. What percentage of engineering students passed the exam?",
+      "options": [
+        "10%",
+        "16%",
+        "22%",
+        "25%"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$\\frac{30+25}{220}=25\\%$... কী: ২২%... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following resembles STARE : GLANCE?",
+      "options": [
+        "Gulp : Sip",
+        "Scorn : Admire",
+        "Participate : Observe",
+        "Hunt : Stalk"
+      ],
+      "correctIndex": 0,
+      "explanation": "STARE:GLANCE = Gulp:Sip (intense:brief)।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is the analogy of CREASE : FOLDING?",
+      "options": [
+        "Serration : Braiding",
+        "Hole : Perforation",
+        "Dent : Weakening",
+        "Break : Setting"
+      ],
+      "correctIndex": 1,
+      "explanation": "CREASE:FOLDING = Hole:Perforation।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following words is required to make the sentence correct? 'In a debate, it is sometimes necessary to remind speakers about the main points which are considered'.",
+      "options": [
+        "even",
+        "for",
+        "never",
+        "being"
+      ],
+      "correctIndex": 3,
+      "explanation": "being — passive gerund।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following words is required to make the sentence correct? 'The chief guest of the seminar spoke to the audience concerning career'.",
+      "options": [
+        "with",
+        "their",
+        "about",
+        "for"
+      ],
+      "correctIndex": 0,
+      "explanation": "being — passive gerund।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 51,
+      "question": "Identify the correct replacement of the underlined portion of the sentence: ' As contrasted with the honeybee , the yellow jacket can sting repeatedly without dying and carries a potent venom that can cause intense pain.",
+      "options": [
+        "As contrasted with the honeybee",
+        "unlike the honeybee's",
+        "unlike that of the honeybee",
+        "unlike the honeybee"
+      ],
+      "correctIndex": 3,
+      "explanation": "unlike the honeybee...।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 52,
+      "question": "Identify the correct replacement of the underlined portion of the sentence: 'A man has the guts to rise from the occasion and come out successful.'",
+      "options": [
+        "to rise against",
+        "in rising from",
+        "to rise to",
+        "to raise with"
+      ],
+      "correctIndex": 2,
+      "explanation": "unlike the honeybee...।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 53,
+      "question": "Which underlined part of the following sentence has an error? (a) Body temperature is usually (b) highest (c) during the (d) afternoon or evening",
+      "options": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)"
+      ],
+      "correctIndex": 1,
+      "explanation": "(b) — error... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 54,
+      "question": "The synonym of ENIGMA is-",
+      "options": [
+        "Obstruction",
+        "Nonsense",
+        "Flaw",
+        "Puzzle"
+      ],
+      "correctIndex": 3,
+      "explanation": "Enigma = Puzzle।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 55,
+      "question": "The term DISINTER is same as-",
+      "options": [
+        "Bury",
+        "Befool",
+        "Unearth",
+        "Disguise"
+      ],
+      "correctIndex": 2,
+      "explanation": "Disinter = Unearth।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 56,
+      "question": "Choose appropriate preposition and complete: 'He was born______exactly 2am'.",
+      "options": [
+        "at",
+        "of",
+        "by",
+        "in"
+      ],
+      "correctIndex": 0,
+      "explanation": "born at...।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 57,
+      "question": "Pick appropriate preposition and complete: 'The man is absorbed ____ meditation.'",
+      "options": [
+        "for",
+        "by",
+        "of",
+        "in"
+      ],
+      "correctIndex": 3,
+      "explanation": "born at...।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 58,
+      "question": "Choose appropriate option and complete: 'The manager____ to resign because all his proposals were ____ down by his superiors.'",
+      "options": [
+        "offered, thrown",
+        "threatened, turned",
+        "gave, held",
+        "willing, knocked"
+      ],
+      "correctIndex": 1,
+      "explanation": "born at...।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 59,
+      "question": "Fill in the gap of the sentence from the following choices; 'I hope you must have_____ by now that failures are the stepping stones of success.'",
+      "options": [
+        "known",
+        "felt",
+        "decided",
+        "realized"
+      ],
+      "correctIndex": 3,
+      "explanation": "realized — past subjunctive... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 60,
+      "question": "Select from the following and complete the sentence. 'The police_____ to be alert as the criminal was dangerous.'",
+      "options": [
+        "was told",
+        "was telling",
+        "were told",
+        "were telling"
+      ],
+      "correctIndex": 2,
+      "explanation": "were told — plural police... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 61,
+      "question": "Pick appropriate word and complete the sentence. 'Taking the time to eat a good breakfast is simply a way to make the morning ____ and the day______ .'",
+      "options": [
+        "better, easier",
+        "best, easier",
+        "ease, easier",
+        "easy, easier"
+      ],
+      "correctIndex": 0,
+      "explanation": "better, easier।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 62,
+      "question": "Which of the following is the opposite of the word INGENIOUS?",
+      "options": [
+        "Crafty",
+        "Inane",
+        "Incompetent",
+        "Skillful"
+      ],
+      "correctIndex": 2,
+      "explanation": "Smartphones are considered very costly — passive।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 63,
+      "question": "Which of the following contrasts FALLOW?",
+      "options": [
+        "Abundant",
+        "Valuable",
+        "Necessary",
+        "in Use"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fallow × In Use।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 64,
+      "question": "Choose the correct prefix/suffix from the following-",
+      "options": [
+        "Unassuming",
+        "Unabated",
+        "Undaunted",
+        "None of these"
+      ],
+      "correctIndex": 3,
+      "explanation": "None of these... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 65,
+      "question": "'I already told him about the party - Here, already is-",
+      "options": [
+        "an adjective",
+        "an adverb",
+        "a preposition",
+        "an interjection"
+      ],
+      "correctIndex": 1,
+      "explanation": "already — adverb।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 66,
+      "question": "Choose the correct spelling-",
+      "options": [
+        "Amatuer",
+        "Amature",
+        "Amateur",
+        "Ameteur"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক বানানটি হলো Embarrass । এর অর্থ হলো কাউকে বিভ্রান্ত করা বা লজ্জিত করা । সহজে মনে রাখার উপায়: -$em + barr + ass = embarrass$ । বানানটিতে মনে রাখবে সবসময় double 'r' এবং double 's' থাকবে ।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 67,
+      "question": "What is the passive form of the sentence 'Have you played football'?",
+      "options": [
+        "Has been football played by you?",
+        "Has football played by you?",
+        "Has football been played by you?",
+        "Is football played by you?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Has football been played?",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 68,
+      "question": "Find the odd word from the given options-",
+      "options": [
+        "Significant",
+        "Generous",
+        "Ample",
+        "Trifling"
+      ],
+      "correctIndex": 3,
+      "explanation": "Trifling — odd word।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 69,
+      "question": "Which one of the following spelling is correct?",
+      "options": [
+        "Sintillating",
+        "Scintillating",
+        "Scintilating",
+        "Cintillating"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each boy and each girl + singular verb 'has'।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 70,
+      "question": "Habitually silent or talk less is-",
+      "options": [
+        "Taciturn",
+        "Servile",
+        "Unequivocal",
+        "Quiet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Taciturn — কম কথা বলে যে।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 71,
+      "question": "One who knows everything is-",
+      "options": [
+        "Omnipotent",
+        "Omnivorous",
+        "Omniscient",
+        "Omnipresent"
+      ],
+      "correctIndex": 2,
+      "explanation": "Omniscient — সর্বজ্ঞ।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 72,
+      "question": "'চৌ-হদ্দি' শব্দটি কোন কোন ভাষার শব্দযোগে হয়েছে?",
+      "options": [
+        "সংস্কৃত + আরবি",
+        "ফারসি + আরবি",
+        "সংস্কৃত + ফারসি",
+        "বাংলা + আরবি"
+      ],
+      "correctIndex": 1,
+      "explanation": "‘চৌ-হদ্দি’ হলো চৌ + হদ্দি। এখানে ‘চৌ’ অংশটুকু ফারসি এবং ‘হদ্দ’ অংশটুকু আরবি ভাষার শব্দ। ফারসি ‘চৌ’ অর্থ চার এবং ‘হদ্দ’ অর্থ সীমানা। সুতরাং চৌ-হদ্দি শব্দের অর্থ চতুঃসীমা। যেমন- বাড়ি বা জমির চৌহদ্দি।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 73,
+      "question": "রাজা রামমোহন রায় রচিত বাংলা ব্যাকরণের নাম কী?",
+      "options": [
+        "গৌড়ীয় ব্যাকরণ",
+        "মাগধীয় ব্যাকরণ",
+        "ভাষা ও ব্যাকরণ",
+        "মাতৃভাষা"
+      ],
+      "correctIndex": 0,
+      "explanation": "রাজা রামমোহন রায় প্রথম বাঙালি হিসেবে 'গৌড়ীয় ব্যাকরণ' (১৮৩৩) রচনা করেন। তার অন্যান্য রচনা হচ্ছে 'বেদান্তসার' (১৮১৫), 'ভট্টাচার্যের সহিত বিচার' (১৮১৭), 'সহমরণ বিষয়ক প্রবর্তক ও নিবর্তকের সম্বাদ' (১৮১৮) ইত্যাদি।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 74,
+      "question": "কোনটি কাজী নজরুল ইসলাম রচিত গল্প?",
+      "options": [
+        "পদ্মরাগ",
+        "পদ্মপুরাণ",
+        "পদ্মগোখরা",
+        "সবকটি"
+      ],
+      "correctIndex": 2,
+      "explanation": "“বিষের বাঁশি” কাব্যগ্রন্থ কাজী নজরুল ইসলামের। বন্দীর বন্দনা” কাব্য গ্রন্থ বুদ্ধদেব বসুর। ”সন্দ্বীপের চর” কাব্যগ্রন্থ বিষ্ণু দে রচিত। রূপসী বাংলা কাব্যগ্রন্থ জীবনানন্দ দাশের।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 75,
+      "question": "'নীলদর্পণ' নাটকটির মূল বিষয়বস্তু কী?",
+      "options": [
+        "ভাষা আন্দোলন",
+        "নীলকরদের অত্যাচার",
+        "অসহযোগ আন্দোলন",
+        "তেভাগা আন্দোলন"
+      ],
+      "correctIndex": 1,
+      "explanation": "ঊনবিংশ শতাব্দীর মধ্যভাগে নীলকরদের অত্যাচারে পীড়িত সাধারণ কৃষক-জীবনের মর্মন্তুদ ছবি ‘নীল দর্পণ’ নাটক প্রকাশিত হয়। গ্রন্থটির ইংরেজি অনুবাদ করেন মধুসূদন দত্ত এবং তা প্রকাশ করেন রেভারেন্ড জেমস্‌ লঙ। উল্লেখযোগ্য চরিত্র : গোলক বসু, নবীন মাধব, তোরাপ, সাবিত্রী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 76,
+      "question": "'মাটির ময়না' চলচ্চিত্রের নির্মাতা কে?",
+      "options": [
+        "তারেক মাসুদ",
+        "হুমায়ুন আহমেদ",
+        "আলমগীর কবির",
+        "কোনোটিই নয়"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"মাটির ময়না\" — তারেক মাসুদ।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 77,
+      "question": "কোন বাক্যটি শুদ্ধ?",
+      "options": [
+        "দৈন্যতা সর্বদা মহত্ত্বের পরিচায়ক নয়",
+        "দৈন্য সর্বদা মহত্ত্বের পরিচায়ক নয়।",
+        "দৈন্য সর্বদা মহত্বে পরিচায়ক নয়",
+        "দৈন্যতা সর্বদা মহত্বের পরিচায়ক নয়"
+      ],
+      "correctIndex": 1,
+      "explanation": "শুদ্ধ: \"দৈন্য সর্বদা মহত্ত্বের লক্ষণ নয়\"... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 78,
+      "question": "নিচের কোন শব্দে ণ-ত্ব বিধি অনুসারে 'ণ' এর ব্যবহার হয়েছে?",
+      "options": [
+        "বিপণি",
+        "নিক্কন",
+        "প্রবণ",
+        "কল্যাণ"
+      ],
+      "correctIndex": 2,
+      "explanation": "ণ-ত্ব বিধি অনুসারে 'ণ'-এর ব্যবহার হয়েছে প্রবণ শব্দে। 'প্র' উপসর্গের পর (প্র + অব্ + অন) ণ-ত্ব বিধানের নিয়ম অনুযায়ী 'ন' পরিবর্তিত হয়ে 'ণ' হয়েছে। অন্যদিকে 'কল্যাণ', 'নিক্কণ', 'বিপণি' স্বভাবতই 'ণ' হওয়া শব্দ।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 79,
+      "question": "কোনটি মৌলিক শব্দ?",
+      "options": [
+        "মানব",
+        "ধাতব",
+        "একাত্ম",
+        "কোনোটিই নয়"
+      ],
+      "correctIndex": 3,
+      "explanation": "কোনোটিই নয় — সবই উৎপন্ন শব্দ।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 80,
+      "question": "কোন শব্দটি শুদ্ধ বানানে লেখা হয়েছে?",
+      "options": [
+        "ত্রিভুজ",
+        "শূণ্য",
+        "পূণ্য",
+        "ভূবন"
+      ],
+      "correctIndex": 0,
+      "explanation": "শূণ্য, পূন্য ও ভূবন বানান তিনটির শুদ্ধরূপ যথাক্রমে শূন্য, পুণ্য ও ভুবন। শব্দ তিনটিই সংস্কৃত কৃৎ প্রত্যয় সাধিত শব্দ।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 81,
+      "question": "খনার বচন এর মূলভাব কী?",
+      "options": [
+        "সামাজিক মূল্যবোধ",
+        "রাষ্ট্র পরিচালনার নীতি",
+        "শুদ্ধ জীবনযাপন রীতি",
+        "কোনোটিই নয়"
+      ],
+      "correctIndex": 2,
+      "explanation": "খনার বচন — শুদ্ধ জীবনযাপন রীতি।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 82,
+      "question": "'মাগো ভাবনা কেন' গানটির গীতিকার কে?",
+      "options": [
+        "আপেল মাহমুদ",
+        "গৌরীপ্রসন্ন মজুমদার",
+        "আব্দুল গাফফার চৌধুরী",
+        "গাজী মাজহারুল আনোয়ার"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"মাগো ভাবনা কেন\" — গৌরীপ্রসন্ন মজুমদার।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 83,
+      "question": "বাংলা ভাষায় প্রথম সার্থক কমেডি নাটক কোনটি?",
+      "options": [
+        "ভদ্রার্জুন",
+        "পদ্মাবতী",
+        "শর্মিষ্ঠা",
+        "কৃষ্ণকুমারী"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"পদ্মাবতী\" — প্রথম সার্থক কমেডি... কী-অনুযায়ী।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 84,
+      "question": "কোন দ্বিরুক্তি শব্দজুটি বহুবচন সংকেত করে?",
+      "options": [
+        "নরম নরম হাত",
+        "গরম গরম ভাত",
+        "পাকা পাকা আম",
+        "কোনোটিই নয়"
+      ],
+      "correctIndex": 2,
+      "explanation": "বহুবচন নির্দেশক : পাকা পাকা আম। তীব্রতা বা সঠিকতা বোঝাতে : গরম গরম জিলাপী। নরম নরম হাত । সামান্যতা বোঝাতে : উড়ু উড়ু ভাব। ভাবের গভীরতা বোঝাতে : ছি ছি. তুমি এ কি করছ?",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 85,
+      "question": "বিভক্তিযুক্ত ধাতু ও শব্দকে কি বলে?",
+      "options": [
+        "শব্দ",
+        "কারক",
+        "ক্রিয়াপদ",
+        "পদ"
+      ],
+      "correctIndex": 3,
+      "explanation": "বিভক্তিযুক্ত শব্দকে পদ বলে।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 86,
+      "question": "'সংশয়' এর বিপরীতার্থক শব্দ কোনটি?",
+      "options": [
+        "বিস্ময়",
+        "নির্ভর",
+        "প্রত্যয়",
+        "দ্বিধা"
+      ],
+      "correctIndex": 2,
+      "explanation": "সংশয় × প্রত্যয়।",
+      "appearedIn": [
+        "সমন্বিত ৯ ব্যাংক  আর্থিক প্রতিষ্ঠান (সিনিয়র অফিসার)-২০.০১.২০২৩"
+      ],
+      "subject": "বাংলা"
+    }
+  ]
+}

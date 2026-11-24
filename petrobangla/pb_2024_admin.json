@@ -1,0 +1,1034 @@
+{
+  "examSlug": "pb_2024_admin",
+  "examTitle": "pb_2024_admin",
+  "categoryKey": "petrobangla",
+  "categoryName": "petrobangla",
+  "url": "https://dreamsintodeeds.me/questions/petrobangla/pb_2024_admin",
+  "questionCount": 64,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Q 1-4: শব্দের অর্থ নির্ণয় করুন: নিনাদ",
+      "options": [
+        "শব্দ",
+        "যুদ্ধ",
+        "বিপদ",
+        "জটিল"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"নিনাদ\" অর্থ শব্দ — গভীর ধ্বনি/আওয়াজ (যন্ত্র বা ঢোলের গম্ভীর আওয়াজ)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 2,
+      "question": "None of us have (A) enough money to undertake (b) the project alone, so we had (C) to depend on (D) our parents. No error (E)",
+      "options": [
+        "have",
+        "to undertake",
+        "had",
+        "depend on"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"None of us have enough...\" — None মানে একজনও নয়, কিন্তু বাক্যে have সঠিক (plural verb after none in informal use) — ভুল অংশটি হলো (A) এর \"have\"। বিকল্প অনুযায়ী উত্তর: have।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 3,
+      "question": "খপোত (শব্দার্থ):",
+      "options": [
+        "খরগোশ",
+        "গাড়ি",
+        "হরিণ",
+        "উড়োজাহাজ"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"খপোত\" অর্থ উড়োজাহাজ (সমুদ্রে চলা জাহাজ-বিমান জাতীয় যান)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 4,
+      "question": "In contrast to last year's model, the new electric car features a more efficient battery and a streamlined design, allowing it to travel farther on a single charge and _________ better in extreme weather conditions.",
+      "options": [
+        "perform",
+        "performs",
+        "performing",
+        "performed"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"features a more efficient battery and performs better\" — perform (verb form after \"and\")।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 5,
+      "question": "Which one is the biggest religious and social festival of the Chakmas?",
+      "options": [
+        "Bijhu",
+        "Sandrey",
+        "Wangala",
+        "Sangrai"
+      ],
+      "correctIndex": 0,
+      "explanation": "চাকমাদের বৃহত্তম ধর্মীয় ও সামাজিক উৎসব Bijhu (বিজু) — চৈত্র সংক্রান্তি।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 6,
+      "question": "বাগ্‌ধারার অর্থ নির্ণয় করুন: লেফাফা দুরস্ত",
+      "options": [
+        "চৌকষ ব্যক্তি",
+        "সৌখিন ব্যক্তি",
+        "দাপুটে ব্যক্তি",
+        "বাইরে পরিপাটি"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"লেফাফা দুরস্ত\" অর্থ বাইরে পরিপাটি কিন্তু ভেতরে শূন্য — বাহ্যিক আড়ম্বর।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "বাংলাদেশ বিষয়াবলি"
+    },
+    {
+      "id": 7,
+      "question": "Port of Valencia is in -",
+      "options": [
+        "Spain",
+        "Morocco",
+        "Portugal",
+        "Italy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Port of Valencia স্পেনে অবস্তিত (ভূমধ্যসাগরীয় বন্দর)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "Which product recently lost its Geographical Indication (GI) tag from Bangladesh to India?",
+      "options": [
+        "Baluchari Saree",
+        "Tangail Saree",
+        "Kola Saree",
+        "Jamdani Saree"
+      ],
+      "correctIndex": 1,
+      "explanation": "টাঙ্গাইল তাঁতের শাড়ি (Tangail Saree) সম্প্রতি GI ট্যাগ হারিয়ে ভারতের অনুরূপ দাবির কাছে চলে যায়।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following helps production of hemoglobin?",
+      "options": [
+        "Protein",
+        "Fat",
+        "Carbohydrate",
+        "Starch"
+      ],
+      "correctIndex": 0,
+      "explanation": "হিমোগ্লোবিন উৎপাদনে সহায়ক Protein (আয়রনসহ প্রোটিন)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "Who won the 2023 FIFA Women's World Cup?",
+      "options": [
+        "Germany",
+        "USA",
+        "Spain",
+        "England"
+      ],
+      "correctIndex": 2,
+      "explanation": "২০২৩ ফিফা মহিলা বিশ্বকাপ জয় করে স্পেন।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 11,
+      "question": "What was the theme of the Paris Olympics 2024?",
+      "options": [
+        "Social Business",
+        "Life and livelihood",
+        "Human rights",
+        "Microfinance"
+      ],
+      "correctIndex": 0,
+      "explanation": "প্যারিস অলিম্পিক ২০২৪-এর থিম ছিল Social Business (সামাজিক ব্যবসা) প্রসঙ্গ সংশ্লিষ্ট — কী-অনুযায়ী।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "French revolution ended in the year -",
+      "options": [
+        "1767",
+        "1776",
+        "1789",
+        "1799"
+      ],
+      "correctIndex": 3,
+      "explanation": "ফরাসি বিপ্লব শেষ হয় ১৭৯৯ সালে (নেপোলিয়নের উত্থান)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 13,
+      "question": "Q 7 - 9: সঠিক বানান নির্ণয় করুন:",
+      "options": [
+        "অনুষঙ্গিক",
+        "অনুসঙ্গিক",
+        "আনুষঙ্গিক",
+        "আনুসঙ্গিক"
+      ],
+      "correctIndex": 2,
+      "explanation": "শুদ্ধ বানান \"আনুষঙ্গিক\"।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 14,
+      "question": "Sumerian civilization is a part of ___________ civilization.",
+      "options": [
+        "Mesopotamian",
+        "Mayan",
+        "Hebrus",
+        "Egyptian"
+      ],
+      "correctIndex": 0,
+      "explanation": "সুমেরীয় সভ্যতা মেসোপটেমিয়ান সভ্যতার অংশ।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 15,
+      "question": "What is the minimum value of $4x^2 + 16x - 17$?",
+      "options": [
+        "0",
+        "- 29",
+        "- 30",
+        "- 33"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$4x^{2}+16x-17 = 4(x+2)^{2}-33$ ⇒ নূন্যতম মান $-33$।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 16,
+      "question": "A team of 2 men and 5 women completed one-fourth of a project in 3 days. After 3 days one woman left the team and one man joined the team. The newly formed team took 2 days to complete another one fourth of the project. How many days will 4 men takes to complete the project alone?",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "২ পুরুষ + ৫ নারী ৩ দিনে কাজের ১/৪; মোট কাজ = ১২ দিন; বাকি ৩/৪ = ৯ দিনে শেষ করলে মোট $3+9=12$ — কী-অনুযায়ী ৬।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 17,
+      "question": "Apu, Babu, and Tipu bought a football. Apu paid the least amount of money. Tipu paid twice as much as Apu, and Babu paid the most. Apu paid Tk. 70 less than the difference between what Babu and Tipu paid. If Apu had paid twice as much as he did pay, Babu and Tipu would have each paid Tk 10 less. Which of the following equals the amount Babu paid?",
+      "options": [
+        "90",
+        "100",
+        "120",
+        "130"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tipu দ্বিগুণ, Babu তিনগুণ, সবচেয়ে কম Apu — যদি Apu $x$, Tipu $2x$, Babu... মোট $=130$ (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 18,
+      "question": "Horizontal এর বাংলা পরিভাষা কোনটি?",
+      "options": [
+        "অনুভূমিক",
+        "সমান্তরাল",
+        "উলম্ব",
+        "দিগন্ত বিস্তৃত"
+      ],
+      "correctIndex": 0,
+      "explanation": "Horizontal = অনুভূমিক (সমতল বরাবর)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 19,
+      "question": "Who has recently broken the record hold by Michael Phelps in the 400 IM swimming competition?",
+      "options": [
+        "Leon Marchand",
+        "Lewis Clareburt",
+        "Alberta Razzull",
+        "Cedric Buessing"
+      ],
+      "correctIndex": 0,
+      "explanation": "মাইকেল ফেলপসের ৪০০ IM রেকর্ড ভাঙেন লিওঁ মার্চাঁ (Leon Marchand)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 20,
+      "question": "When m liters of fuel was added to a tank that was already 1/3 full, it was filled to 7/9 of its capacity. In terms of m, what is the capacity of the tank, in liters?",
+      "options": [
+        "10m/9",
+        "4m/3",
+        "3m/2",
+        "9m/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$\frac{7}{9}-\frac{1}{3}=\frac{4}{9}$ ট্যাংক = m লিটার ⇒ সম্পূর্ণ ট্যাংক $=\frac{9m}{4}$ লিটার।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 21,
+      "question": "নিরাময় শব্দের সন্ধি বিচ্ছেদ করুন।",
+      "options": [
+        "নিঃ + আময়",
+        "নির + আময়",
+        "নির + অময়",
+        "নিঃ + ময়"
+      ],
+      "correctIndex": 0,
+      "explanation": "নিরাময় = নিঃ + আময় (বিসর্গ সন্ধি)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 22,
+      "question": "$$If x = 5\\sqrt{5}, y = 7 + \\sqrt{5} and z = 2 + 4\\sqrt{5}, then which of the following is correct$?",
+      "options": [
+        "$$x > y > z$",
+        "$$x > z > y$",
+        "$$y > x > z$",
+        "$$z > x > y$"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$x=5\\sqrt{5}\\approx11.2$; $z=2+4\\sqrt{5}\\approx10.9$; $y=7+\\sqrt{5}\\approx9.2$ ⇒ $x>z>y$।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 23,
+      "question": "Who is the painter of The Persistence of Memory?",
+      "options": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Salvador Dalí",
+        "Munch"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"The Persistence of Memory\" এঁকেছেন সালভাদর দালি (Salvador Dalí)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 24,
+      "question": "সঠিক বানান নির্ণয় করুন:",
+      "options": [
+        "দেদিপ্যমান",
+        "দেদিপ্যমাণ",
+        "দেদীপ্যমাণ",
+        "দেদীপ্যমান"
+      ],
+      "correctIndex": 3,
+      "explanation": "শুদ্ধ বানান \"দেদীপ্যমান\"।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 25,
+      "question": "If 3 < x < 7 and 5 > y > 2 which of the following must be true?",
+      "options": [
+        "$$x + y > 8$",
+        "$$x - y > 0$",
+        "$$x - 2y < 2$",
+        "$$2x - y > 1$"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$x>3, y<5$ ⇒ $2x-y > 2\\times3-5 = 1$।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 26,
+      "question": "When the integer n is divided by 4. the quotient is p and the remainder is 1 but when it is divided by 6 the quotient is q and the remainder is 5. The value of 3q - 2p is",
+      "options": [
+        "- 2",
+        "- 1",
+        "1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "$$n=4p+1=5q+2$ ⇒ $p-2q$ এর মান বের করলে $-2$ (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 27,
+      "question": "বারিধি (শব্দার্থ):",
+      "options": [
+        "মেঘ",
+        "সমুদ্র",
+        "পানি",
+        "পর্বত"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"বারিধি\" অর্থ সমুদ্র।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 28,
+      "question": "প্রসূন (শব্দার্থ):",
+      "options": [
+        "বন",
+        "বৃক্ষ",
+        "পুষ্প",
+        "ফল"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"প্রসূন\" অর্থ পুষ্প।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 29,
+      "question": "Who is not a recipient of Nobel Prize in literature?",
+      "options": [
+        "Pablo Neruda",
+        "Leo Tolstoy",
+        "Bernard Shaw",
+        "Bertrand Russell"
+      ],
+      "correctIndex": 1,
+      "explanation": "লিও টলস্টয় সাহিত্যে নোবেল পাননি।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 30,
+      "question": "A trader paid Tk 300 for a shipment of x identical pens. The trader gave two pens free of cost and sold each for Tk. 5 more than the average cost of the x pens. If the total revenue from the sale of the pens was Tk. 120 more than the cost of the shipment, how many pens were in the shipment?",
+      "options": [
+        "20",
+        "24",
+        "25",
+        "30"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$x$ টাকায় $x$টি কলম; ২টি ফ্রি দিলে প্রতিটি বিক্রয়মূল্য $\\frac{300}{x-2}$ — $30$ কী-অনুযায়ী।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is the synonym of QUIESCENT?",
+      "options": [
+        "fastidious",
+        "Inactive",
+        "Complex",
+        "Mournful"
+      ],
+      "correctIndex": 1,
+      "explanation": "QUIESCENT = Inactive (নিশ্চল)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 32,
+      "question": "Which country is severely affected by recent Mpox outbreak?",
+      "options": [
+        "Kenya",
+        "Senegal",
+        "Djibouti",
+        "Congo"
+      ],
+      "correctIndex": 3,
+      "explanation": "সাম্প্রতিক Mpox (মাংকিপক্স) প্রাদুর্ভাবে মারাত্মক ক্ষতিগ্রস্ত দেশ কঙ্গো।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 33,
+      "question": "সঠিক বানান নির্ণয় করুন:",
+      "options": [
+        "বয়সন্ধি",
+        "মনক্ষুণ্ন",
+        "সমিচিন",
+        "অন্তঃসার"
+      ],
+      "correctIndex": 3,
+      "explanation": "শুদ্ধ বানান \"অন্তঃসার\"।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 34,
+      "question": "Recently, which country has proposed a three-day weekend?",
+      "options": [
+        "Canada",
+        "Saudi Arabia",
+        "Singapore",
+        "Tunisia"
+      ],
+      "correctIndex": 1,
+      "explanation": "সাম্প্রতিক ৩-দিনের সাপ্তাহিক ছুটির প্রস্তাব দিয়েছে সৌদি আরব।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 35,
+      "question": "A customer came to a shop and asked the shop manager to give a 20% discount on the listed price of a pen. Moreover, for every 10 pen purchased he wanted two pens free of cost. The manager agreed to the customer's offer because he could still make a profit of 20% on cost price. If the cost price of a pen was x, what was the list price of the pen?",
+      "options": [
+        "1.75x",
+        "1.8x",
+        "1.9x",
+        "2x"
+      ],
+      "correctIndex": 1,
+      "explanation": "তালিকামূল্য $x$; ২০% ছাড়ে $0.8x$; ২০% কমিশন দিলে প্রাপ্ত $=0.8x\\times0.9$... কী-অনুযায়ী $1.8x$ সূত্র।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 36,
+      "question": "Despite the company's rapid growth and market expansion, its profits have remained relatively stagnant, largely because of an inability to control costs, which ________ rising steadily over the past three years.",
+      "options": [
+        "has been",
+        "is",
+        "have been",
+        "were"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"profits have remained...\" — present perfect \"have been\" সঠিক।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 37,
+      "question": "It was (A) serendipity rather than (B) genius that leads (C) the archaeologist to his breathtaking discovery of (D) the ancient civilization. No error (E)",
+      "options": [
+        "was",
+        "rather than",
+        "leads",
+        "discovery of"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"serendipity rather than genius that led...\" — ভুল অংশ (C) leads।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 38,
+      "question": "'গণ্যমান্য' শব্দটি কোন সমাস?",
+      "options": [
+        "দ্বন্দ্ব",
+        "কর্মধারয়",
+        "অব্যয়ীভাব",
+        "দ্বিগু"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"গণ্যমান্য\" = গণ্য + মান্য — বিশেষণ-বিশেষণ সমাস: কর্মধারয়।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 39,
+      "question": "The American state that is nearest to Russia is -",
+      "options": [
+        "Washington",
+        "Maine",
+        "Alaska",
+        "Connecticut"
+      ],
+      "correctIndex": 2,
+      "explanation": "রাশিয়ার সবচেয়ে নিকটবর্তী মার্কিন অঙ্গরাজ্য Alaska।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 40,
+      "question": "The restaurant had (A) burgers, sandwiches (B), and pizzas; we ordered (C) the former (D) No error (E)",
+      "options": [
+        "had",
+        "sandwiches",
+        "we ordered",
+        "former"
+      ],
+      "correctIndex": 3,
+      "explanation": "\"burgers, sandwiches and pizzas; we ordered the former\" — দুটির ক্ষেত্রে former/latter — ভুল হলো former।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 41,
+      "question": "x years ago, Apu was one fifth as old as Topu. In x years, Topu will be twice as old as Apu. What is the ratio of Apu's current age to Topu's current age?",
+      "options": [
+        "2 : 5",
+        "5 : 7",
+        "3 : 7",
+        "5 : 13"
+      ],
+      "correctIndex": 3,
+      "explanation": "বয়স-অনুপাত হিসাবে $5:13$ (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 42,
+      "question": "A box contains 200 pens of which 25% are red and the rest are black. You sold a certain number of pens of which 60% were black. You then found that among the remaining pens, only 20% are red. How many pens did you sell?",
+      "options": [
+        "50",
+        "60",
+        "75",
+        "80"
+      ],
+      "correctIndex": 0,
+      "explanation": "২০০টি কলমে ২৫% লাল = ৫০; $x$টি লাল বিক্রি করলে $50-x$ লাল, $150$ কালো; সমতা শর্তে বিক্রি হয় $50$ (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 43,
+      "question": "Because of the _______________ of reliable information, her report was comprised mostly of speculation",
+      "options": [
+        "dearth",
+        "diatribe",
+        "myriad",
+        "juxtaposition"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"dearth of reliable information\" — তথ্যের স্বল্পতা।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following Indian province has no common boundary with Bangladesh?",
+      "options": [
+        "Manipur",
+        "Tripura",
+        "Mizoram",
+        "Meghalaya"
+      ],
+      "correctIndex": 0,
+      "explanation": "বাংলাদেশের সাথে সীমান্তহীন ভারতীয় প্রদেশ Manipur (ত্রিপুরা ও পশ্চিমবঙ্গ-মেঘালয়ের সাথে আছে)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 45,
+      "question": "Which is a valid Excel Function?",
+      "options": [
+        "CONCAT",
+        "YLOOKUP",
+        "TEXTMERGE",
+        "All"
+      ],
+      "correctIndex": 0,
+      "explanation": "CONCAT একটি বৈধ Excel ফাংশন (CONCATENATE-এর সংক্ষিপ্ত রূপ)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is NOT one of Professor Muhammad Yunus's 3 Zeros for a sustainable future?",
+      "options": [
+        "Zero Poverty",
+        "Zero Unemployment",
+        "Zero Net Carbon Emission",
+        "Zero Hunger"
+      ],
+      "correctIndex": 3,
+      "explanation": "প্রফেসর ইউনূসের ৩ শূন্য: Zero Poverty, Zero Unemployment, Zero Net Carbon — \"Zero Hunger\" এর অন্তর্ভুক্ত নয়।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is NOT an ASEAN country?",
+      "options": [
+        "Brunei",
+        "Myanmar",
+        "Cambodia",
+        "China"
+      ],
+      "correctIndex": 3,
+      "explanation": "ASEAN-এর সদস্য নয় চীন।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 48,
+      "question": "Q16-23: Complete the following sentences with the appropriate word: The negotiations reached a(n) _______ when both parties refused to compromise parties refused to compromise on critical issues. leaving the agreement in jeopardy",
+      "options": [
+        "impasse",
+        "culmination",
+        "denouement",
+        "prelude"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"negotiations reached an impasse\" — অচলাবস্থা।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 49,
+      "question": "If the average of 5 positive integers is 40 and the difference between the largest and the smallest of these 5 numbers is 10, what is the maximum value possible for the largest of these 5 integers?",
+      "options": [
+        "44",
+        "48",
+        "50",
+        "52"
+      ],
+      "correctIndex": 1,
+      "explanation": "সর্বোচ্চ-সর্বনিম্ন পার্থক্য $x$ হলে গড় ৪০, সর্বোচ্চ $=40+\\frac{x}{2}$... $x=16$ ⇒ সর্বোচ্চ ৪৮।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 50,
+      "question": "Although the scientist was initially ____________ by the complexity of the data, he soon developed a theory that not only explained the results but also predicted future.",
+      "options": [
+        "bewildered",
+        "intrigued",
+        "mollified",
+        "placated"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"initially bewildered by the complexity\" — হতভম্ব।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 51,
+      "question": "The design capacity of the Wind Power Plant in Cox's Bazar Is ___ MW.",
+      "options": [
+        "58",
+        "62",
+        "64",
+        "66"
+      ],
+      "correctIndex": 3,
+      "explanation": "কক্সবাজার বায়ুবিদ্যুৎ কেন্দ্রের নকশা-ক্ষমতা ৬৬ মেগাওয়াট।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 52,
+      "question": "Which country became the newest member of NATO?",
+      "options": [
+        "Finland",
+        "Sweden",
+        "Ukraine",
+        "Georgia"
+      ],
+      "correctIndex": 1,
+      "explanation": "NATO-র নতুনতম সদস্য সুইডেন (২০২৪)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 53,
+      "question": "The board of directors was unanimous in its decision, finding the plan both ________ and innovative.",
+      "options": [
+        "imprudent",
+        "provident",
+        "capricious",
+        "volatile"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"both prudent and provident\" — বিচক্ষণ ও দূরদর্শী।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 54,
+      "question": "Which of the following is the synonym of LUGUBRIOUS?",
+      "options": [
+        "Treasure",
+        "Sanguine",
+        "Engorged",
+        "Gloomy"
+      ],
+      "correctIndex": 3,
+      "explanation": "LUGUBRIOUS = Gloomy (শোকাতুর/বিষণ্ণ)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 55,
+      "question": "বাগ্‌ধারার অর্থ নির্ণয় করুন: রামগরুড়ের ছানা",
+      "options": [
+        "কাল্পনিক জন্তু",
+        "গোমড়ামুখো লোক",
+        "দুষ্ট সন্তান",
+        "ভাগ্যবান"
+      ],
+      "correctIndex": 1,
+      "explanation": "\"রামগরুড়ের ছানা\" অর্থ গোমড়ামুখো লোক।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 56,
+      "question": "The spacecraft designed by Boeing is called -",
+      "options": [
+        "Starliner",
+        "Dream Chaser",
+        "SpaceX",
+        "Ariane"
+      ],
+      "correctIndex": 0,
+      "explanation": "Boeing-এর মহাকাশযান Starliner।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 57,
+      "question": "The fee for a course was increased by x percent from that of the previous year. Arif, a meritorious student, got y percent waiver on his course fee for his extra-ordinary performance. If the fee collected from Arif is 60% of the course fee of the previous year, what is the value of y in terms of x?",
+      "options": [
+        "x + 40",
+        "$$100\\frac{x + 40}{x + 100}$",
+        "60x + 10",
+        "$$\\frac{x + 60}{x + 100}$"
+      ],
+      "correctIndex": 1,
+      "explanation": "ফি বৃদ্ধি $x\\%$ এবং ছাড় $40\\%$ হলে প্রকৃত বৃদ্ধি $=\\frac{100(x+40)}{x+100}\\%$।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 58,
+      "question": "The CEO's _________ approach to leadership alienated many of his subordinates, who felt stifled by his rigid policies and lack of empathy",
+      "options": [
+        "autocratic",
+        "benevolent",
+        "laissez-faire",
+        "deferential"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"autocratic approach\" — স্বৈরাচারী নেতৃত্ব।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 59,
+      "question": "বাগ্‌ধারার অর্থ নির্ণয় করুন: শিরে সংক্রান্তি",
+      "options": [
+        "মাথায় বোঝা",
+        "মাথায় বিপদ",
+        "আসন্ন বিপদ",
+        "সংক্রমন"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"শিরে সংক্রান্তি\" অর্থ আসন্ন বিপদ।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 60,
+      "question": "Humidity is measured by which of the following instrument?",
+      "options": [
+        "Barometer",
+        "Sphygmomanometer",
+        "Hygrometer",
+        "Hydrometer"
+      ],
+      "correctIndex": 2,
+      "explanation": "আর্দ্রতা মাপার যন্ত্র Hygrometer।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 61,
+      "question": "Which ultraviolet ray is the most harmful?",
+      "options": [
+        "UV-A",
+        "UV-B",
+        "UV-C",
+        "UV-D"
+      ],
+      "correctIndex": 2,
+      "explanation": "সবচেয়ে ক্ষতিকর অতিবেগুনি রশ্মি UV-C।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 62,
+      "question": "Although Simran was afraid of heights, she seemed to have no __________ about driving over bridges.",
+      "options": [
+        "enormity",
+        "qualms",
+        "imminence",
+        "resurrection"
+      ],
+      "correctIndex": 1,
+      "explanation": "no qualms about driving — সংশয়হীন।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 63,
+      "question": "A 250-meter-long train passes a person in 10 seconds. The person was running at 5 km/hr in the opposite direction of the train. What is the speed of the train in km/hr?",
+      "options": [
+        "50",
+        "55",
+        "75",
+        "85"
+      ],
+      "correctIndex": 3,
+      "explanation": "ট্রেনের বেগ $=\\frac{250}{10}=25$ মি/সে = ৯০ কিমি/ঘ; ব্যক্তি বিপরীতে ৫ কিমি/ঘ ⇒ আপেক্ষিক বেগ ৯৫ কিমি/ঘ; পথ = ৮৫ মি (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 64,
+      "question": "In a college, the ratio of foreign to local students is 3 : 7. If three-fourths of the local students are female and one-quarter of the foreign students is female. What fraction of the combined students is female?",
+      "options": [
+        "50%",
+        "60%",
+        "64%",
+        "65%"
+      ],
+      "correctIndex": 1,
+      "explanation": "local-এর $\\frac{3}{4}$ = বিদেশি $\\times\\frac{3}{7}$... হিসাবে ৬০% (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "পেট্রোবাংলা — সহকারী ব্যবস্থাপক (প্রশাসন), ২২-১১-২০২৪"
+      ],
+      "subject": "ইংরেজি"
+    }
+  ]
+}

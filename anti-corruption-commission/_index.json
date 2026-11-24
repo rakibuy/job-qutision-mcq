@@ -1,0 +1,59 @@
+{
+  "categoryKey": "anti-corruption-commission",
+  "categoryName": "anti-corruption-commission",
+  "sourceUrl": "https://dreamsintodeeds.me/questions/anti-corruption-commission",
+  "totalExams": 7,
+  "totalQuestions": 574,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "acc_assistant-director_2013",
+      "examTitle": "acc_assistant-director_2013",
+      "questionCount": 90,
+      "file": "acc_assistant-director_2013.json",
+      "url": "https://dreamsintodeeds.me/questions/anti-corruption-commission/acc_assistant-director_2013"
+    },
+    {
+      "examSlug": "acc_assistant-director_2020",
+      "examTitle": "দুর্নীতি দমন কমিশন (সহকারী পরিচালক)-২০২০",
+      "questionCount": 90,
+      "file": "acc_assistant-director_2020.json",
+      "url": "https://dreamsintodeeds.me/questions/anti-corruption-commission/acc_assistant-director_2020"
+    },
+    {
+      "examSlug": "acc_assistant-director_2026",
+      "examTitle": "acc_assistant-director_2026",
+      "questionCount": 90,
+      "file": "acc_assistant-director_2026.json",
+      "url": "https://dreamsintodeeds.me/questions/anti-corruption-commission/acc_assistant-director_2026"
+    },
+    {
+      "examSlug": "acc_constable_2025",
+      "examTitle": "দুর্নীতি দমন কমিশন (কনস্টেবল)-২০২৫",
+      "questionCount": 34,
+      "file": "acc_constable_2025.json",
+      "url": "https://dreamsintodeeds.me/questions/anti-corruption-commission/acc_constable_2025"
+    },
+    {
+      "examSlug": "acc_court-inspector_2022",
+      "examTitle": "acc_court-inspector_2022",
+      "questionCount": 90,
+      "file": "acc_court-inspector_2022.json",
+      "url": "https://dreamsintodeeds.me/questions/anti-corruption-commission/acc_court-inspector_2022"
+    },
+    {
+      "examSlug": "acc_deputy-assistant-director_2020",
+      "examTitle": "দুর্নীতি দমন কমিশন (উপ-সহকারী পরিচালক)-২০২০",
+      "questionCount": 90,
+      "file": "acc_deputy-assistant-director_2020.json",
+      "url": "https://dreamsintodeeds.me/questions/anti-corruption-commission/acc_deputy-assistant-director_2020"
+    },
+    {
+      "examSlug": "acc_deputy-assistant-director_2026",
+      "examTitle": "দুর্নীতি দমন কমিশন (উপ-সহকারী পরিচালক)-২০২৬",
+      "questionCount": 90,
+      "file": "acc_deputy-assistant-director_2026.json",
+      "url": "https://dreamsintodeeds.me/questions/anti-corruption-commission/acc_deputy-assistant-director_2026"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "examSlug": "bgfcl_am_2011-04-08",
+  "examTitle": "bgfcl_am_2011-04-08",
+  "categoryKey": "petrobangla",
+  "categoryName": "petrobangla",
+  "url": "https://dreamsintodeeds.me/questions/petrobangla/bgfcl_am_2011-04-08",
+  "questionCount": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "কলার দাম ১৬.৬৭% কমে যাওয়ায় ৭৫ টাকায় আগের চেয়ে ৫টি কলা বেশি পাওয়া যায়। প্রতি ডজন কলার বর্তমান দাম কত?",
+      "options": [
+        "৪৫ টাকা",
+        "৫০ টাকা",
+        "৩০ টাকা",
+        "৬০ টাকা"
+      ],
+      "correctIndex": 2,
+      "explanation": "দাম ১৬.৬৭% (=১/৬) কমে যায়; $\\frac{75}{x}-\\frac{75}{\\frac{5x}{6}}$... প্রতি ডজন $=৩০$ টাকা (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 2,
+      "question": "একটি পুতুল ২৫% লাভে ৩৭৫ টাকায় বিক্রয় করা হলো। পুতুলটির ক্রয়মূল্য কত ছিল?",
+      "options": [
+        "২৭৫ টাকা",
+        "৩০০ টাকা",
+        "২৬০ টাকা",
+        "২৭০ টাকা"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$375=1.25C$ ⇒ $C=300$ টাকা।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 3,
+      "question": "একটি স্কুলে মোট ৫৪০ জন ছাত্রের মধ্যে কোন এক বুধবারে ২৭ জন অনুপস্থিত ছিল। ঐদিন শতকরা কত জন ছাত্র উপস্থিত ছিল?",
+      "options": [
+        "৯৫%",
+        "৫%",
+        "৯৩.৯২%",
+        "৫০%"
+      ],
+      "correctIndex": 0,
+      "explanation": "উপস্থিত $=540-27=513$; $\\frac{513}{540}\\times100\\%=95\\%$।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 4,
+      "question": "আজাদ সাহেবের মাসিক বেতন ১৫,০০০ টাকা। এক বছর পর তার বেতন ৭% বৃদ্ধি পেল। বর্তমানে আজাদ সাহেবের মাসিক বেতন কত?",
+      "options": [
+        "১৬,০৭৫ টাকা",
+        "১৬,০৫০ টাকা",
+        "১৬,০০০ টাকা",
+        "১৭,০০০ টাকা"
+      ],
+      "correctIndex": 1,
+      "explanation": "$$15000\\times1.07=16050$ টাকা।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 5,
+      "question": "আখের নমুনায় ১২.৫% চিনি রয়েছে। ৫০ কেজি চিনি উৎপাদনের জন্য কত কেজি আখ প্রয়োজন?",
+      "options": [
+        "৫০০ কেজি",
+        "২৫০ কেজি",
+        "৪০০ কেজি",
+        "৬০০ কেজি"
+      ],
+      "correctIndex": 2,
+      "explanation": "$$50\\div0.125=400$ কেজি আখ।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 6,
+      "question": "হেলালের মাসিক আয় ৪,২০০ টাকা এবং ব্যয় ২,৯৪০ টাকা। তার মাসিক ব্যয় মাসিক আয়ের শতকরা কত টাকা?",
+      "options": [
+        "৭৫%",
+        "৬৫%",
+        "৮০%",
+        "৭০%"
+      ],
+      "correctIndex": 3,
+      "explanation": "$$\\frac{2940}{4200}\\times100\\%=70\\%$।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "গণিত"
+    },
+    {
+      "id": 7,
+      "question": "I put the camera ------- a tripod so I can take a steady picture.",
+      "options": [
+        "by",
+        "above",
+        "in",
+        "on"
+      ],
+      "correctIndex": 3,
+      "explanation": "camera on a tripod — tripod-এর ওপর।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 8,
+      "question": "Identify the correct spelling.",
+      "options": [
+        "Dilapedated",
+        "Dellapidated",
+        "Dilapidated",
+        "Delapidated"
+      ],
+      "correctIndex": 2,
+      "explanation": "সঠিক বানান Dilapidated।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 9,
+      "question": "It is not difficult to ------ an alarm clock.",
+      "options": [
+        "soothe",
+        "disassemble",
+        "fort",
+        "manual"
+      ],
+      "correctIndex": 0,
+      "explanation": "soothe an alarm clock — থামানো/শান্ত করা (কী-অনুযায়ী)।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 10,
+      "question": "Select the word that best matches the definition provided : A composition that imitates or misrepresents somebody's style, usually in a humorous way -",
+      "options": [
+        "Charade",
+        "Idyll",
+        "Theocracy",
+        "Prototyping"
+      ],
+      "correctIndex": 0,
+      "explanation": "অনুকরণমূলক রচনা — Charade।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 11,
+      "question": "Select the word that best matches the definition provided : Something given or done as an expression of esteem-",
+      "options": [
+        "Verbatim",
+        "Stampede",
+        "Tribute",
+        "Lullaby"
+      ],
+      "correctIndex": 2,
+      "explanation": "প্রদত্ত/উৎসর্গ — Tribute।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "ইংরেজি"
+    },
+    {
+      "id": 12,
+      "question": "You should avail yourself this opportunity. (In each of the following sentences there is one word missing. Your task is to identify the missing word from the given choices so that the sentences become meaningful)",
+      "options": [
+        "of",
+        "to",
+        "in",
+        "from"
+      ],
+      "correctIndex": 0,
+      "explanation": "avail yourself of — সুযোগ গ্রহণ।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "আন্তর্জাতিক বিষয়াবলি"
+    },
+    {
+      "id": 13,
+      "question": "নিচের কোন পুরুষবাচক শব্দের স্ত্রীবাচক শব্দ নেই?",
+      "options": [
+        "চৌধুরী",
+        "কুলটা",
+        "নবীন",
+        "ভাই"
+      ],
+      "correctIndex": -1,
+      "explanation": " (মূল পরীক্ষার ৫ম অপশন \"কোনোটিই নয়\" ছিল সঠিক উত্তর)",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "বাংলা"
+    },
+    {
+      "id": 14,
+      "question": "নিচের কোন গ্রন্থে প্রথম যতিচিহ্নের সার্থক প্রয়োগ করা হয়?",
+      "options": [
+        "কপালকুন্ডলা",
+        "বেতাল পঞ্চবিংশতি",
+        "মুরুশিখা",
+        "মেঘনাদবধ"
+      ],
+      "correctIndex": 1,
+      "explanation": "প্রথম সার্থক যতিচিহ্ন প্রয়োগ \"বেতাল পঞ্চবিংশতি\"।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "সাধারণ জ্ঞান"
+    },
+    {
+      "id": 15,
+      "question": "কোন শাসকদের সময়কে বাংলা সাহিত্যের অন্ধকার যুগ বলা হয়?",
+      "options": [
+        "পাল",
+        "সেন",
+        "গুপ্ত",
+        "তুর্কী"
+      ],
+      "correctIndex": 3,
+      "explanation": "তুর্কি শাসনামলকে বাংলা সাহিত্যের অন্ধকার যুগ বলা হয়।",
+      "appearedIn": [
+        "বাংলাদেশ গ্যাস ফিল্ডস কোম্পানী লিমিটেড — সহকারী ব্যবস্থাপক 2011-04-08"
+      ],
+      "subject": "বাংলা"
+    }
+  ]
+}
