@@ -1,0 +1,94 @@
+{
+  "categoryKey": "nursing",
+  "categoryName": "নার্সিং প্রশ্ন সমাধান (Nursing Career BD)",
+  "sourceUrl": "https://nursingcareerbd.com/question-solution",
+  "totalExams": 12,
+  "totalQuestions": 864,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "diploma-nurse-department-of-prisons-28-04-2025-partial",
+      "examTitle": "ডিপ্লোমা নার্স প্রশ্ন সমাধান ২০২৫ — কারা অধিদপ্তর, সুরক্ষা সেবা বিভাগ (২৮-০৪-২০২৫, আংশিক)",
+      "questionCount": 58,
+      "file": "diploma-nurse-department-of-prisons-28-04-2025-partial.json",
+      "url": "https://nursingcareerbd.com/question-solution/diploma-nurse-department-of-prisons-28-04-2025-partial"
+    },
+    {
+      "examSlug": "o-t-nurse-govt-employees-hospital-bpsc-2026-partial",
+      "examTitle": "ও.টি. নার্স প্রশ্ন সমাধান ২০২৬ — সরকারি কর্মচারী হাসপাতাল (পিএসসি, ২০২৬, আংশিক)",
+      "questionCount": 59,
+      "file": "o-t-nurse-govt-employees-hospital-bpsc-2026-partial.json",
+      "url": "https://nursingcareerbd.com/question-solution/o-t-nurse-govt-employees-hospital-bpsc-2026-partial"
+    },
+    {
+      "examSlug": "senior-staff-nurse-bangladesh-medical-university-2023-partial",
+      "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০২৩ — বাংলাদেশ মেডিকেল বিশ্ববিদ্যালয় (২০২৩, আংশিক)",
+      "questionCount": 33,
+      "file": "senior-staff-nurse-bangladesh-medical-university-2023-partial.json",
+      "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-bangladesh-medical-university-2023-partial"
+    },
+    {
+      "examSlug": "senior-staff-nurse-bpsc-02-09-2023",
+      "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০২৩ — পিএসসি (০২-০৯-২০২৩)",
+      "questionCount": 100,
+      "file": "senior-staff-nurse-bpsc-02-09-2023.json",
+      "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-bpsc-02-09-2023"
+    },
+    {
+      "examSlug": "senior-staff-nurse-bpsc-18-01-2024",
+      "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০২৪ — পিএসসি (১৮-০১-২০২৪)",
+      "questionCount": 116,
+      "file": "senior-staff-nurse-bpsc-18-01-2024.json",
+      "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-bpsc-18-01-2024"
+    },
+    {
+      "examSlug": "senior-staff-nurse-bpsc-24-02-2023",
+      "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০২৩ — পিএসসি (২৪-০২-২০২৩)",
+      "questionCount": 100,
+      "file": "senior-staff-nurse-bpsc-24-02-2023.json",
+      "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-bpsc-24-02-2023"
+    },
+    {
+      "examSlug": "senior-staff-nurse-dgnm-09-02-2018-partial",
+      "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০১৮ — নার্সিং ও মিডওয়াইফারি অধিদপ্তর (০৯-০২-২০১৮, আংশিক)",
+      "questionCount": 48,
+      "file": "senior-staff-nurse-dgnm-09-02-2018-partial.json",
+      "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-dgnm-09-02-2018-partial"
+    },
+    {
+      "examSlug": "senior-staff-nurse-dgnm-2017-partial",
+      "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০১৭ — নার্সিং ও মিডওয়াইফারি অধিদপ্তর (২০১৭, আংশিক)",
+      "questionCount": 47,
+      "file": "senior-staff-nurse-dgnm-2017-partial.json",
+      "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-dgnm-2017-partial"
+    },
+    {
+      "examSlug": "senior-staff-nurse-directorate-of-nursing-services-03-06-2016",
+      "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০১৬ — সেবা পরিদপ্তর, স্বাস্থ্য মন্ত্রণালয় (০৩-০৬-২০১৬)",
+      "questionCount": 88,
+      "file": "senior-staff-nurse-directorate-of-nursing-services-03-06-2016.json",
+      "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-directorate-of-nursing-services-03-06-2016"
+    },
+    {
+      "examSlug": "senior-staff-nurse-dnc-29-08-2025-partial",
+      "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০২৫ — মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর (২৯-০৮-২০২৫, আংশিক)",
+      "questionCount": 55,
+      "file": "senior-staff-nurse-dnc-29-08-2025-partial.json",
+      "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-dnc-29-08-2025-partial"
+    },
+    {
+      "examSlug": "senior-staff-nurse-dns-2021-partial",
+      "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০২১ — নার্সিং সেবা পরিদপ্তর (২০২১, আংশিক)",
+      "questionCount": 60,
+      "file": "senior-staff-nurse-dns-2021-partial.json",
+      "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-dns-2021-partial"
+    },
+    {
+      "examSlug": "senior-staff-nurse-govt-employees-hospital-bpsc-03-08-2026",
+      "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০২৬ — সরকারি কর্মচারী হাসপাতাল (পিএসসি, ০৩-০৮-২০২৬)",
+      "questionCount": 100,
+      "file": "senior-staff-nurse-govt-employees-hospital-bpsc-03-08-2026.json",
+      "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-govt-employees-hospital-bpsc-03-08-2026"
+    }
+  ]
+}

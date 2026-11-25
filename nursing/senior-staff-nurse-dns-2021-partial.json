@@ -1,0 +1,905 @@
+{
+  "examSlug": "senior-staff-nurse-dns-2021-partial",
+  "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০২১ — নার্সিং সেবা পরিদপ্তর (২০২১, আংশিক)",
+  "categoryKey": "nursing",
+  "categoryName": "নার্সিং প্রশ্ন সমাধান (Nursing Career BD)",
+  "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-dns-2021-partial",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": 10645,
+      "number": 1,
+      "question": "’মৈয়মনসিংহ গীতিকা’র সংগ্রাহক ছিলেন কে?",
+      "options": [
+        "চন্দ্রকুমার দে",
+        "দক্ষিণারঞ্জন মিত্র",
+        "আশুতোষ ভট্টাচার্য",
+        "দীনেশচন্দ্র সেন"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) চন্দ্রকুমার দে",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10646,
+      "number": 2,
+      "question": "’ফল পাকলে যে গাছ মনে যায়’ তাকে এক কথায় বলে-",
+      "options": [
+        "ঔষধি",
+        "বনস্পতি",
+        "নিসর্গ",
+        "ওষধি"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ওষধি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10647,
+      "number": 3,
+      "question": "'হরতাল’ কোন ভাষার শব্দ?",
+      "options": [],
+      "correctIndex": null,
+      "correctAnswer": "",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10648,
+      "number": 4,
+      "question": "’বীরবল’ কোন লেখকের ছদ্মনাম?",
+      "options": [
+        "সুনীল গঙ্গোপাধ্যায়",
+        "প্রমথ চৌধুরী",
+        "শামসুল রাহমান",
+        "অন্নদাশংকর রায়"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) প্রমথ চৌধুরী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10649,
+      "number": 5,
+      "question": "মাইকেল মদুসূদন দত্তের ‘ একেই কি বলে সভ্যতা ‘ কোন ধরনের নাটক?",
+      "options": [
+        "সামাজিক প্রহসন",
+        "ট্রাজেডি",
+        "মেলোড্রোমা",
+        "কমেডি"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) সামাজিক প্রহসন",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10650,
+      "number": 6,
+      "question": "'Excise duty' শব্দের বাংলা পরিভাষা কী?",
+      "options": [
+        "অর্পিত দায়িত্ব",
+        "অতিরিক্ত কাজ",
+        "আবগারী শুল্ক",
+        "অতিরিক্ত কর"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) আবগারী শুল্ক",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10651,
+      "number": 7,
+      "question": "জীবের বংশ গতির বৈশিষ্ট্য বহন করে-",
+      "options": [
+        "নিউক্লিয়াস",
+        "নিউক্লিওলাস",
+        "সাইটোপ্লাজম",
+        "ক্রোমোজোম"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ক্রোমোজোম",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10652,
+      "number": 8,
+      "question": "সংক্রামক ব্যাধি কোনটি?",
+      "options": [
+        "ডায়াবেটিস",
+        "রেনাল ফেইলিউর",
+        "এইডস",
+        "উচ্চ রক্তচাপ"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) এইডস",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10653,
+      "number": 9,
+      "question": "মানবদেহে সবচেয়ে বড় অস্থি কোনটি?",
+      "options": [
+        "ফিমার",
+        "টিবিয়া",
+        "স্টেপিস",
+        "রেডিয়াস"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ফিমার",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10654,
+      "number": 10,
+      "question": "ক্যান্সার রোগের কারণ-",
+      "options": [
+        "কোষের অস্বাভাবিক বৃদ্ধি",
+        "কোষের অস্বাভাবিক জমাট বাধা",
+        "সবগুলো",
+        "কোষের অস্বাভাবিক মৃত্যু"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) কোষের অস্বাভাবিক বৃদ্ধি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10655,
+      "number": 11,
+      "question": "Fill in the blank ; He takes a lot of interest ____games.",
+      "options": [
+        "at",
+        "with",
+        "for",
+        "in"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) in",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10656,
+      "number": 12,
+      "question": "Identify the correct spelling:",
+      "options": [
+        "questinaire",
+        "Questionnairee",
+        "questionaire",
+        "Questionnaire"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Questionnaire",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10657,
+      "number": 13,
+      "question": "জাতীত কবি কাজী নজরুল ইসলামকে কোন সালে বাংলাদেশে নিয়ে আসা হয়?",
+      "options": [
+        "১৯৭৫",
+        "১৯৭২",
+        "১৯৭৩",
+        "১৯৭৪"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ১৯৭২",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10658,
+      "number": 14,
+      "question": "‘ভিয়েন আনমেন’ স্কয়ার কোথায় অবস্থিত?",
+      "options": [
+        "ক্যাপ্টন",
+        "বেইজিং",
+        "সাংহাই",
+        "হংকং"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) বেইজিং",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10659,
+      "number": 15,
+      "question": "বাংলাদেশের অস্থায়ী সরকার শপথ গ্রহণ করে-",
+      "options": [
+        "১৭ এপ্রিল, ১৯৭১",
+        "১০ এপ্রিল, ১৯৭১",
+        "৩০ মার্চ, ১৯৭১",
+        "৭ এপ্রিল, ১৯৭১"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ১৭ এপ্রিল, ১৯৭১",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10660,
+      "number": 16,
+      "question": "কারক কত প্রকার?",
+      "options": [
+        "সাত প্রকার",
+        "পাঁচ প্রকার",
+        "ছয় প্রকার",
+        "তিন প্রকার"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) ছয় প্রকার",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10661,
+      "number": 17,
+      "question": "'রূপাই’ জসীমউদ্দীনের কোন কাব্যগ্রন্থের চরিত্র?",
+      "options": [
+        "রাখালী",
+        "বালুচর",
+        "সোজন বাদিয়ার ঘাট",
+        "নক্সী কাঁথার মাঠ"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) নক্সী কাঁথার মাঠ",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10662,
+      "number": 18,
+      "question": "খাঁটি বাংলা উপসর্গ কয়টি?",
+      "options": [
+        "আঠারো",
+        "উনিশ",
+        "বিশ",
+        "একুশ"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) একুশ",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10663,
+      "number": 19,
+      "question": "'ভানু’ শব্দের অর্থ কী?",
+      "options": [
+        "নক্ষত্র",
+        "সূর্য",
+        "চন্দ্র",
+        "ধোকা"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) সূর্য",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10664,
+      "number": 20,
+      "question": "'জজসাহেব’ কোন সমাসের উদাহরণ?",
+      "options": [
+        "কর্ম ধারয়",
+        "দ্বিগু",
+        "দ্বন্দ্ব",
+        "বহুব্রীহি"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) কর্ম ধারয়",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10665,
+      "number": 21,
+      "question": "‘পটল তোলা’ বাগধারাটির সঠিক অর্থ কোনটি?",
+      "options": [
+        "ফেল করা",
+        "পটল গাছ থেকে পটল তোলা",
+        "পটল খাওয়া",
+        "মারা যাওয়া"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) মারা যাওয়া",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10666,
+      "number": 22,
+      "question": "নিচের কোনটি রবীন্দ্রনাথ ঠাকুরের কাব্য গ্রন্থ নয়?",
+      "options": [
+        "সোনার তরী",
+        "চিত্রা",
+        "বলাকা",
+        "অগ্নিবীণা"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) অগ্নিবীণা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10667,
+      "number": 23,
+      "question": "নিচের কোনটি জীবনানন্দ দাশের রচনা?",
+      "options": [
+        "রূপসী বাংলা",
+        "কঙ্কাবতী",
+        "চক্রবাক",
+        "এক পয়সার বাঁশি"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) রূপসী বাংলা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10668,
+      "number": 24,
+      "question": "বাংলা বর্ণমালা ব্যঞ্জনবর্ণের সংখ্যা কয়টি?",
+      "options": [
+        "৪৯টি",
+        "৩৯টি",
+        "১৩টি",
+        "১১টি"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ৩৯টি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10669,
+      "number": 25,
+      "question": "”Pick Up” means-",
+      "options": [
+        "display",
+        "collect",
+        "suspend",
+        "tolerate"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) collect",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10670,
+      "number": 26,
+      "question": "'Apex of a triangle' means its-",
+      "options": [
+        "top",
+        "sides",
+        "perimeter",
+        "angles"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) top",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10671,
+      "number": 27,
+      "question": "The bell had already been- ( Fill in the gap)",
+      "options": [
+        "ranged",
+        "rung",
+        "ringed",
+        "rang"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) rung",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10672,
+      "number": 28,
+      "question": "Which one is not an example of comparative degree?",
+      "options": [
+        "much",
+        "less",
+        "more",
+        "worse"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) much",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10673,
+      "number": 29,
+      "question": "\"Gulliver's Travels ' is written by-",
+      "options": [
+        "Bernard Shaw",
+        "Charles Dickens",
+        "Ernest Hemingway",
+        "Jonathan Swift"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Jonathan Swift",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10674,
+      "number": 30,
+      "question": "Identify the correct sentence?",
+      "options": [
+        "Tell me what is your name?",
+        "Tell me what your name is.",
+        "Tell me what was your name.",
+        "Tell me that what your name is."
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) Tell me what your name is.",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10675,
+      "number": 31,
+      "question": "Which one is a conjunction?",
+      "options": [
+        "up",
+        "or",
+        "very",
+        "for"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) or",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10676,
+      "number": 32,
+      "question": "Which one does not means the opposite of odd'?",
+      "options": [
+        "different",
+        "new",
+        "recent",
+        "young"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) different",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10677,
+      "number": 33,
+      "question": "’Pass away' means-",
+      "options": [
+        "disappear",
+        "erase",
+        "fall",
+        "die"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) die",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10678,
+      "number": 34,
+      "question": "The passive form of the sentence who can do it?",
+      "options": [
+        "By whom it can be done?",
+        "By whom can it be done?",
+        "Who can it be done",
+        "Whom can be done by it?"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) By whom can it be done?",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10679,
+      "number": 35,
+      "question": "Fill in the blank : \"Each of the ladies' told____own story.",
+      "options": [
+        "their",
+        "hers",
+        "its",
+        "her"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) her",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10680,
+      "number": 36,
+      "question": "She is named ____her grandmother . Fill in the blank with-",
+      "options": [
+        "to",
+        "about",
+        "according",
+        "after"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) after",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10681,
+      "number": 37,
+      "question": "I have to differ_____you on this issue. (Fill in the gap)",
+      "options": [
+        "to",
+        "from",
+        "with",
+        "over"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) with",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10682,
+      "number": 38,
+      "question": "কোন জেলায় রেল যোগাযোগ নেই?",
+      "options": [
+        "সাতক্ষীরা",
+        "হবিগঞ্জ",
+        "নোয়াখালী",
+        "টাঙ্গাইল"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) সাতক্ষীরা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10683,
+      "number": 39,
+      "question": "জাতীয় কবি কাজী নজরুল ইসলামের স্ত্রী প্রমীলার সমাধি কোথায়?",
+      "options": [
+        "কুমিল্লা",
+        "মানিক গঞ্জ",
+        "ভারতের চুরুলিয়া",
+        "ঢাকা"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) ভারতের চুরুলিয়া",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10684,
+      "number": 40,
+      "question": "বাংলাদেশি মহিলাদের গড় আয়ু কত?",
+      "options": [
+        "৭৪.৫ বছর",
+        "৮০.৬ বছর",
+        "৫৭.৫ বছর",
+        "৬৪.৪ বছর"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ৭৪.৫ বছর",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10685,
+      "number": 41,
+      "question": "সিরডাপ ( CIRDAP) এর সদর দপ্তর অবিস্থত-",
+      "options": [
+        "ইসলামাবাদ",
+        "ঢাকা",
+        "ব্যাংকক",
+        "দিল্লী"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ঢাকা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10686,
+      "number": 42,
+      "question": "জাতিসংঘ দিবস কোনটি?",
+      "options": [
+        "২৪ নভেম্বর",
+        "২৪ ডিসেম্বর",
+        "২৪ অক্টোবর",
+        "২৪ আগস্ট"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) ২৪ অক্টোবর",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10687,
+      "number": 43,
+      "question": "আন্তর্জাতিক মাতৃভাষা দিবস কোনটি?",
+      "options": [
+        "৮ মার্চ",
+        "১৬ ডিসেম্বর",
+        "২১ ফেব্রুয়ারি",
+        "২১ আগস্ট"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) ২১ ফেব্রুয়ারি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10688,
+      "number": 44,
+      "question": "NATO এর সদর দপ্তর কোথায়?",
+      "options": [
+        "ব্রাসেলস",
+        "হামবুর্গ",
+        "বার্ন",
+        "লিও"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ব্রাসেলস",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10689,
+      "number": 45,
+      "question": "ফ্লোরেন্স নাইটিঙ্গেল নামটি কোন যুদ্ধের সাথে সংশ্লিষ্ট?",
+      "options": [
+        "ক্রিমিয়ার যুদ্ধ",
+        "ওয়াটার লু’র যুদ্ধ",
+        "আমেরিকান গৃহযুদ্ধ",
+        "ফরাসি বিপ্লব"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ক্রিমিয়ার যুদ্ধ",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10690,
+      "number": 46,
+      "question": "’ফা’ হিয়েন কার শাসনামলে বাংলায় আসেন?",
+      "options": [
+        "দ্বিতীয় চন্দ্রগুপ্ত",
+        "আলাউদ্দিন হোসেন শাহ",
+        "প্রথম চন্দ্রগুপ্ত",
+        "হর্ষবর্ধন"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) দ্বিতীয় চন্দ্রগুপ্ত",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10691,
+      "number": 47,
+      "question": "বাংলাদেশের প্রথম ডিজিটাল জেলা কোনটি?",
+      "options": [
+        "বগুড়া",
+        "যশোর",
+        "টাঙ্গাইল",
+        "ঢাকা"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) যশোর",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10692,
+      "number": 48,
+      "question": "সিন্ধু সভ্যতা কোন যুগের সভ্যতা?",
+      "options": [
+        "শহর ভিত্তিক",
+        "তাম্র",
+        "আর্য",
+        "সুমেরীয়"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) তাম্র",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10693,
+      "number": 49,
+      "question": "আয়তনের দিক দিয়ে পৃথিবীর বৃহত্তম দেশ কোনটি?",
+      "options": [
+        "অস্ট্রেলিয়া",
+        "মার্কিন যুক্তরাষ্ট্র",
+        "রাশিয়া",
+        "কানাডা"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) রাশিয়া",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10694,
+      "number": 50,
+      "question": "খাদ্য হজম প্রক্রিয়া শুরু হয়-",
+      "options": [
+        "ক্ষুদ্রান্ত্রে",
+        "মুখগহ্বরে",
+        "বৃহদান্ত্রে",
+        "পাকস্থলীতে"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) মুখগহ্বরে",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10695,
+      "number": 51,
+      "question": "কোন রক্তকণিকা দেহে এন্টিবডি তৈরি করে?",
+      "options": [
+        "লিষ্ফোসাইট",
+        "নিউট্রোফিল",
+        "বেসোফিল",
+        "ইওসিনোফিল"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) লিষ্ফোসাইট",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10696,
+      "number": 52,
+      "question": "রক্তের মাধ্যমে ছড়ায় না কোনটি?",
+      "options": [
+        "ম্যালেরিয়া",
+        "হেপাটাইটিস - C",
+        "হেপাটাইটিস - A",
+        "হেপাটাইটিস- B"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) হেপাটাইটিস - A",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10697,
+      "number": 53,
+      "question": "কোনটি কোষের অংশ নয়?",
+      "options": [
+        "নিউক্লিয়াস",
+        "সেল মেমব্রেন",
+        "সাইটোপ্লাজম",
+        "প্লাজমা"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) প্লাজমা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10698,
+      "number": 54,
+      "question": "পেডিয়াট্রিক সম্পর্কযুক্ত-",
+      "options": [
+        "মহিলা",
+        "শিশু",
+        "বৃদ্ধ",
+        "পুরুষ"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) শিশু",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10699,
+      "number": 55,
+      "question": "মানবদেহে অত্যাবশ্যকীয় ফ্যাটিএসিড কয়টি?",
+      "options": [
+        "১০",
+        "১২",
+        "৩",
+        "৮"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) ৩",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10700,
+      "number": 56,
+      "question": "শতভাগ (১০০%) বিশুদ্ধ অক্সিজেন শরীরের জন্য",
+      "options": [
+        "কোনোটিই নয়",
+        "ক্ষতিকার",
+        "উপকারি",
+        "ক্ষতিকর নয়"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ক্ষতিকার",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10701,
+      "number": 57,
+      "question": "বৃহদান্ত্রের অংশ কোনটি?",
+      "options": [
+        "জেজুনাম",
+        "এপেনডিক্স",
+        "ইলিয়াম",
+        "ডিওডেনাম"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) এপেনডিক্স",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10702,
+      "number": 58,
+      "question": "হৃদস্পন্দন কত বেশী হলে তাকে Tachycardia বলে?",
+      "options": [
+        "60",
+        "90",
+        "72",
+        "40"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) 90",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10703,
+      "number": 59,
+      "question": "স্যালাইন পুস করার জন্য প্রয়োজন-",
+      "options": [
+        "মিডিয়াল কিউটেনিয়াম ভেইন",
+        "মিডিয়াল কিউবিটাল ভেইন",
+        "সবগুলো",
+        "ল্যাটারাল কুউটেনিয়াস ভেইন"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) মিডিয়াল কিউবিটাল ভেইন",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10704,
+      "number": 60,
+      "question": "কোনটি রক্তে অক্সিজেন পরিবহন ক্ষমতা খর্ব করে?",
+      "options": [
+        "কার্বন-ডাই-অক্সাইড",
+        "নাইট্রিক অক্সাইড",
+        "সালফার ডাই-অক্সাইড",
+        "কার্বন মনোক্সাইড"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) কার্বন মনোক্সাইড",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,890 @@
+{
+  "examSlug": "o-t-nurse-govt-employees-hospital-bpsc-2026-partial",
+  "examTitle": "ও.টি. নার্স প্রশ্ন সমাধান ২০২৬ — সরকারি কর্মচারী হাসপাতাল (পিএসসি, ২০২৬, আংশিক)",
+  "categoryKey": "nursing",
+  "categoryName": "নার্সিং প্রশ্ন সমাধান (Nursing Career BD)",
+  "url": "https://nursingcareerbd.com/question-solution/o-t-nurse-govt-employees-hospital-bpsc-2026-partial",
+  "questionCount": 59,
+  "questions": [
+    {
+      "id": 10818,
+      "number": 1,
+      "question": "'একুশে ফেব্রুয়ারি' সংকলনটির সম্পাদক কে ছিলেন?",
+      "options": [
+        "হাসান হাফিজুর রহমান",
+        "শামসুর রাহমান",
+        "আহমদ রফিক",
+        "আবদুল হক"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) হাসান হাফিজুর রহমান",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10819,
+      "number": 2,
+      "question": "'আবার আসিব ফিরে এই বাংলায়'- পঙক্তিটি কে রচনা করেছেন?",
+      "options": [
+        "রবীন্দ্রনাথ ঠাকুর",
+        "সুকান্ত ভট্টাচার্য",
+        "জীবনানন্দ দাশ",
+        "কালিদাস রায়"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) জীবনানন্দ দাশ",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10820,
+      "number": 3,
+      "question": "বাংলা সাহিত্যে 'ভোরের পাখি' কে?",
+      "options": [],
+      "correctIndex": null,
+      "correctAnswer": "",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10821,
+      "number": 4,
+      "question": "Fill in the blank with appropriate preposition: The train arrived ____ time.",
+      "options": [
+        "on",
+        "at",
+        "by",
+        "in"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) on",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10822,
+      "number": 5,
+      "question": "Mount Everest is ____ mountain in the world.",
+      "options": [
+        "high",
+        "highest",
+        "the highest",
+        "higher"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) the highest",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10823,
+      "number": 6,
+      "question": "I am fond of reading novels: here 'reading' is",
+      "options": [
+        "participle",
+        "adjective",
+        "verb",
+        "gerund"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) gerund",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10824,
+      "number": 7,
+      "question": "বাংলাদেশ সবচেয়ে বেশি বৈদেশিক মুদ্রা অর্জন করে কোন দেশ থেকে?",
+      "options": [
+        "আরব আমিরাত",
+        "জাপান",
+        "যুক্তরাজ্য",
+        "যুক্তরাষ্ট্র"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) যুক্তরাষ্ট্র",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10825,
+      "number": 8,
+      "question": "ঢাকা সর্বপ্রথম কখন বাংলার রাজধানী হয়েছিল?",
+      "options": [
+        "১৭৯০ সালে",
+        "১৬১০ সালে",
+        "১৬৭০ সালে",
+        "১৭৫৭ সা"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ১৬১০ সালে",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10826,
+      "number": 9,
+      "question": "'যমুনা রেলসেতু' আনুষ্ঠানিকভাবে উদ্বোধন করা হয় কত তারিখে?",
+      "options": [
+        "১৮ মার্চ ২০২৫",
+        "১২ মার্চ ২০২৫",
+        "১৮ ফেব্রুয়ারি ২০২৫",
+        "১২ ফেব্রুয়ারি ২০২৫"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ১৮ মার্চ ২০২৫",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10827,
+      "number": 10,
+      "question": "Which disinfectant is preferred for cleaning OT floor?",
+      "options": [
+        "Savlon",
+        "Chlorhexidine",
+        "Phenol",
+        "Lysol"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Lysol",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10828,
+      "number": 11,
+      "question": "After operation instrument count is done to",
+      "options": [
+        "Decrease cost",
+        "Save time",
+        "Prevent retention of items",
+        "Clean OT"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Prevent retention of items",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10829,
+      "number": 12,
+      "question": "Nosocomial infection is a/an",
+      "options": [
+        "Wound infection",
+        "Urinary tract infection (UTI)",
+        "Hospital acquired infection",
+        "Surgical site infection"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Hospital acquired infection",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10830,
+      "number": 13,
+      "question": "The best method of sterilization used in operation theater is",
+      "options": [
+        "Antiseptic solution",
+        "Lysol",
+        "Moist heat",
+        "Dry heat under pressure"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Moist heat",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10831,
+      "number": 14,
+      "question": "Which solution is used for Fumigation of operation theater?",
+      "options": [
+        "20% Formaldehyde",
+        "40% Formaldehyde",
+        "50% Formaldehyde",
+        "10% Formaldehyde"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) 40% Formaldehyde",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10832,
+      "number": 15,
+      "question": "প্রবন্ধ কী?",
+      "options": [
+        "সংলাপ নির্ভর আঙ্গিক",
+        "কাহিনী ভিত্তিক রচনা",
+        "ছন্দোবদ্ধ রচনা",
+        "চিন্তামূলক গদ্য রচনা"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) চিন্তামূলক গদ্য রচনা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10833,
+      "number": 16,
+      "question": "রাধা, কৃষ্ণ ও বড়াই কোন সাহিত্যকর্মের চরিত্র?",
+      "options": [
+        "কালকেতু উপাখ্যান",
+        "শ্রীকৃষ্ণকীর্তন",
+        "মানসিংহ ভবানন্দ উপাখ্যান",
+        "মনসামঙ্গল"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) শ্রীকৃষ্ণকীর্তন",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10834,
+      "number": 17,
+      "question": "'বং থেকে বাংলা' কে রচনা করেছেন?",
+      "options": [
+        "জাহানারা ইমাম",
+        "রিজিয়া রহমান",
+        "নীলিমা ইব্রাহিম",
+        "সুফিয়া কামাল"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) রিজিয়া রহমান",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10835,
+      "number": 18,
+      "question": "কাজী নজরুল ইসলামের প্রথম কাব্যগ্রন্থের নাম কী?",
+      "options": [
+        "অগ্নিবীণা",
+        "রৌদ্র করোটিতে",
+        "নবতরঙ্গ",
+        "ঝরা পালক"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) অগ্নিবীণা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10836,
+      "number": 19,
+      "question": "কোনটি বিভূতিভূষণ বন্দ্যোপাধ্যায়ের সৃষ্টি নয়?",
+      "options": [
+        "অপরাজিত",
+        "আরণ্যক",
+        "নদীবক্ষে",
+        "ইছামতী"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) নদীবক্ষে",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10837,
+      "number": 20,
+      "question": "জমিদার দর্পনে'র লেখক কে?",
+      "options": [
+        "বন্দে আলী মিয়া",
+        "মমতাজ উদদীন আহমদ",
+        "মীর মশাররফ হোসেন",
+        "গোলাম মোস্তফা"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) মীর মশাররফ হোসেন",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10838,
+      "number": 21,
+      "question": "'সুলতানার স্বপ্ন' গ্রন্থের লেখক কে?",
+      "options": [
+        "মহাশ্বেতা দেবী",
+        "এস. এম. সুলতান",
+        "রোকেয়া সাখাওয়াত হোসেন",
+        "আশাপূর্ণা দেবী"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) রোকেয়া সাখাওয়াত হোসেন",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10839,
+      "number": 22,
+      "question": "'সঞ্চিতা' কার কাব্য সংকলন?",
+      "options": [
+        "কাজী নজরুল ইসলাম",
+        "জসীম উদ্দীন",
+        "সত্যেন্দ্রনাথ দত্ত",
+        "মোহিতলাল মজুমদার"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) কাজী নজরুল ইসলাম",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10840,
+      "number": 23,
+      "question": "'সংস্কৃত কথা' গ্রন্থের লেখক কে?",
+      "options": [
+        "আহমদ শরীফ",
+        "হায়াৎ মামুদ",
+        "মোতাহের হোসেন চৌধুরী",
+        "আবুল ফজল"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) মোতাহের হোসেন চৌধুরী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10841,
+      "number": 24,
+      "question": "মধ্যযুগের শেষ কবি কে?",
+      "options": [
+        "ভারতচন্দ্র",
+        "শেখ ফয়জুল্লাহ",
+        "মুকুন্দরাম চক্রবর্তী",
+        "চন্ডীদাস"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ভারতচন্দ্র",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10842,
+      "number": 25,
+      "question": "চর্যাপদের রচয়িতা কোন ধর্মের সিদ্ধাচার্য ছিলেন?",
+      "options": [
+        "ব্রাহ্ম",
+        "হিন্দু",
+        "বৌদ্ধ",
+        "জৈন"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) বৌদ্ধ",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10843,
+      "number": 26,
+      "question": "'It is a very beautiful flower.' (Make it exclamatory)",
+      "options": [
+        "How beautiful flower it is!",
+        "How a beautiful flower!",
+        "What beautiful it is!",
+        "What a beautiful flower it is!"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) What a beautiful flower it is!",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10844,
+      "number": 27,
+      "question": "The adverb form of 'Care' is",
+      "options": [
+        "Carefully",
+        "Carelessness",
+        "Careful",
+        "Caring"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Carefully",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10845,
+      "number": 28,
+      "question": "The noun form of 'Decide' is",
+      "options": [
+        "Decidedly",
+        "Deciding",
+        "Decision",
+        "Decisive"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Decision",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10846,
+      "number": 29,
+      "question": "Fill in the blank with appropriate article: Nayeem is ____ M.com graduate.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "none"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) an",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10847,
+      "number": 30,
+      "question": "The antonym of the word 'affluent' is",
+      "options": [
+        "poor",
+        "not much",
+        "rich",
+        "fluent"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) poor",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10848,
+      "number": 31,
+      "question": "The passive form of 'Who completed the work?' is",
+      "options": [
+        "By whom was the work completed?",
+        "By whom did the work complete?",
+        "By whom has the work completed?",
+        "By whom the work completed?"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) By whom was the work completed?",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10849,
+      "number": 32,
+      "question": "Mim has been _____ English for five years.",
+      "options": [
+        "learn",
+        "learning",
+        "learned",
+        "learnt"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) learning",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10850,
+      "number": 33,
+      "question": "Negative form of 'Only Zahid can solve it.'",
+      "options": [
+        "Everybody can solve it",
+        "No one can solve it",
+        "Zahid cannot solve it",
+        "Nobody but Zahid can solve it"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Nobody but Zahid can solve it",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10851,
+      "number": 34,
+      "question": "Which sentence is correctly punctuated?",
+      "options": [
+        "Yes I agree with you",
+        "Yes : I agree with you",
+        "Yes, I agree with you",
+        "Yes ; I agree with you"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Yes, I agree with you",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10852,
+      "number": 35,
+      "question": "'Mily speaks softly' - here, the word 'softly' is",
+      "options": [
+        "Adjective",
+        "Verb",
+        "Noun",
+        "Adverb"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Adverb",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10853,
+      "number": 36,
+      "question": "'At sixes and sevens' means",
+      "options": [
+        "in danger",
+        "in confusion",
+        "in order",
+        "in comfort"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) in confusion",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10854,
+      "number": 37,
+      "question": "Would you mind ____ the door?",
+      "options": [
+        "closed",
+        "closing",
+        "close",
+        "to close"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) closing",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10855,
+      "number": 38,
+      "question": "The primary role of an OT nurse is",
+      "options": [
+        "Ensuring patient's safety",
+        "Economical support",
+        "Risk assessment",
+        "Check the vital signs"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Ensuring patient's safety",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10856,
+      "number": 39,
+      "question": "After surgery linen disposal should be in",
+      "options": [
+        "Red bag",
+        "Yellow bag",
+        "Blue bag",
+        "Black bag"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Red bag",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10857,
+      "number": 40,
+      "question": "Which one is a method of sterilization in operation theater?",
+      "options": [
+        "Fumigation",
+        "Decontamination",
+        "Autoclaving",
+        "Disinfection"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Autoclaving",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10858,
+      "number": 41,
+      "question": "The place where infectious agents live and grow is called",
+      "options": [
+        "Host",
+        "Means of transmission",
+        "Settling",
+        "Reservoir"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Reservoir",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10859,
+      "number": 42,
+      "question": "The ideal temperature in OT room is",
+      "options": [
+        "(15-17)°C",
+        "(25-27)°C",
+        "(28-30)°C",
+        "(20-25)°C"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) (20-25)°C",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10860,
+      "number": 43,
+      "question": "Sim's speculum is used for",
+      "options": [
+        "Ear examination",
+        "Anal examination",
+        "Oral examination",
+        "Vaginal examination"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Vaginal examination",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10861,
+      "number": 44,
+      "question": "The most commonly used blade for intracranial incision is",
+      "options": [
+        "Blade No-10",
+        "Blade No-11",
+        "Blade No-15",
+        "Blade No-12"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) Blade No-11",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10862,
+      "number": 45,
+      "question": "The adverse effect of an opioid analgesic is",
+      "options": [
+        "Bradycardia",
+        "Tachycardia",
+        "Hypertension",
+        "Shock"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Bradycardia",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10863,
+      "number": 46,
+      "question": "In which solution should a surgical specimen for a frozen section examination be sent?",
+      "options": [
+        "Chlorhexidine",
+        "Normal saline",
+        "Formalin",
+        "Without any preservative solution"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Without any preservative solution",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10864,
+      "number": 47,
+      "question": "Gray colour IV Cannula represents",
+      "options": [
+        "20 G",
+        "14 G",
+        "18G",
+        "16 G"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) 16 G",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10865,
+      "number": 48,
+      "question": "দক্ষিণ এশিয়ার কতটি দেশ স্থলবেষ্টিত?",
+      "options": [
+        "২টি",
+        "৫টি",
+        "৪টি",
+        "৩টি"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ৩টি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10866,
+      "number": 49,
+      "question": "'গ্রেট লেকস' কতটি হ্রদ নিয়ে গঠিত?",
+      "options": [
+        "৫টি",
+        "৬টি",
+        "৭টি",
+        "৮টি"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ৫টি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10867,
+      "number": 50,
+      "question": "জাতিসংঘ সাধারণ পরিষদের সভাপতি কতদিনের জন্য নির্বাচিত হন?",
+      "options": [
+        "০৪ বছর",
+        "০১ বছর",
+        "০২ বছর",
+        "০৩ বছর"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ০১ বছর",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10868,
+      "number": 51,
+      "question": "ভাষা শহিদদের স্মরণে নির্মিত 'অমর একুশে' ভাস্কর্যের স্থপতি কে?",
+      "options": [
+        "নভেরা আহমেদ",
+        "মৃণাল হক",
+        "অখিল পাল",
+        "জাহানারা পারভীন"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) জাহানারা পারভীন",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10869,
+      "number": 52,
+      "question": "'ওয়ার্ল্ড ট্রেড সেন্টার' বর্তমানে কী নামে পরিচিত?",
+      "options": [
+        "কোনোটিই নয়",
+        "জিরো পয়েন্ট",
+        "ওয়ার্ল্ড সিমেট্রি",
+        "আমেরিকান পিস সেন্টার"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) জিরো পয়েন্ট",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10870,
+      "number": 53,
+      "question": "পৃথিবীর দীর্ঘতম টানেল কোন দেশে অবস্থিত?",
+      "options": [
+        "সুইজারল্যান্ড",
+        "চীন",
+        "জাপান",
+        "যুক্তরাজ্য"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) সুইজারল্যান্ড",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10871,
+      "number": 54,
+      "question": "২০২৫ সালে শান্তিতে নোবেল পুরস্কার বিজয়ী কোন দেশের নাগরিক?",
+      "options": [
+        "ভেনিজুয়েলা",
+        "চিলি",
+        "হাঙ্গেরি",
+        "জাপান"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ভেনিজুয়েলা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10872,
+      "number": 55,
+      "question": "বীরশ্রেষ্ঠ সিপাহী মোস্তফা কামালের জন্ম কোন জেলায়?",
+      "options": [
+        "ফরিদপুর",
+        "ভোলা",
+        "নরসিংদী",
+        "নড়াইল"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ভোলা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10873,
+      "number": 56,
+      "question": "হেগ- এ অবস্থিত আন্তর্জাতিক আদালত কতজন বিচারক নিয়ে গঠিত?",
+      "options": [
+        "১৫ জন",
+        "১৭ জন",
+        "১১ জন",
+        "১৩ জন"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ১৫ জন",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10874,
+      "number": 57,
+      "question": "মৃত সাগর কোথায় অবস্থিত?",
+      "options": [
+        "ইসরায়েল ও জর্ডান",
+        "মিশর ও জর্ডান",
+        "ইরান ও জর্ডান",
+        "ইরাক ও জর্ডান"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ইসরায়েল ও জর্ডান",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10875,
+      "number": 58,
+      "question": "কোন দেশের পূর্বনাম আবিসিনিয়া?",
+      "options": [
+        "ইথিওপিয়া",
+        "লিবিয়া",
+        "ইরাক",
+        "মিশর"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ইথিওপিয়া",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10876,
+      "number": 59,
+      "question": "বাংলাদেশের একমাত্র নৃতাত্ত্বিক বা জাতিতাত্ত্বিক জাদুঘর কোথায় অবস্থিত?",
+      "options": [
+        "পাহাড়পুর, নওগাঁ",
+        "আগ্রাবাদ, চট্টগ্রাম",
+        "বিরিশিরি, নেত্রকোণা",
+        "ময়নামতি, কুমিল্লা"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) আগ্রাবাদ, চট্টগ্রাম",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    }
+  ]
+}

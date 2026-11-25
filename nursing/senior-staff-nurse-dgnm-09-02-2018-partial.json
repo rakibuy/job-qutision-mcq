@@ -1,0 +1,725 @@
+{
+  "examSlug": "senior-staff-nurse-dgnm-09-02-2018-partial",
+  "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০১৮ — নার্সিং ও মিডওয়াইফারি অধিদপ্তর (০৯-০২-২০১৮, আংশিক)",
+  "categoryKey": "nursing",
+  "categoryName": "নার্সিং প্রশ্ন সমাধান (Nursing Career BD)",
+  "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-dgnm-09-02-2018-partial",
+  "questionCount": 48,
+  "questions": [
+    {
+      "id": 10434,
+      "number": 1,
+      "question": "Many freedom fighters died _____the country.",
+      "options": [
+        "for",
+        "of",
+        "at",
+        "from"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) for",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10435,
+      "number": 2,
+      "question": "This children park _____half an hour before sunset.",
+      "options": [
+        "closes",
+        "stops.",
+        "opens",
+        "starts"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) closes",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10436,
+      "number": 3,
+      "question": "Many people of our country live ____ head to mouth.",
+      "options": [],
+      "correctIndex": null,
+      "correctAnswer": "",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10437,
+      "number": 4,
+      "question": "A mayor is an elected person who runs a _______",
+      "options": [
+        "State",
+        "County",
+        "Country",
+        "City"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) City",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10438,
+      "number": 5,
+      "question": "I was waiting Ushoni ____she never came .",
+      "options": [
+        "while",
+        "as",
+        "but",
+        "and"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) but",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10439,
+      "number": 6,
+      "question": "4a2+1a2=2 হয়, তবে 8a3+1a3 এর মান কত?",
+      "options": [
+        "5",
+        "0",
+        "1",
+        "2"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) 0",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10440,
+      "number": 7,
+      "question": "১ থেকে ১১ পর্যন্ত ক্রমিক স্বাভাবিক সংখ্যার গড় কত?",
+      "options": [
+        "৫",
+        "৬",
+        "৭",
+        "৪"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ৬",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10441,
+      "number": 8,
+      "question": "Heart এর বাইরের আবরণকে বলে_____।",
+      "options": [
+        "Pericardium",
+        "Peritoneum",
+        "Mucosa",
+        "Pleura"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Pericardium",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10442,
+      "number": 9,
+      "question": "নিচের কোনটি বিভিন্ন Organ থেকে রক্ত সংগ্রহ করে?",
+      "options": [
+        "Veins",
+        "Arteries",
+        "Nerves",
+        "Lung"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Veins",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10443,
+      "number": 10,
+      "question": "নিচের কোনটি সংক্রামক ব্যাধি?",
+      "options": [
+        "ডায়াবেটিস",
+        "উচ্চরক্তচাপ",
+        "হাঁপানী",
+        "যক্ষা"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) যক্ষা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10444,
+      "number": 11,
+      "question": "Phagocytosis প্রক্রিয়াটি সাধিত হয় কোথায়?",
+      "options": [
+        "Eosinophil",
+        "Platelet",
+        "Neutrophil",
+        "Red blood cell"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Neutrophil",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10445,
+      "number": 12,
+      "question": "একজন গর্ভবতী মহিলার labour monitoring এর জন্য খুবই প্রয়োজন হলো-",
+      "options": [
+        "Echocardiogram",
+        "ECG",
+        "Ultrasonogram",
+        "Partogram"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Partogram",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10446,
+      "number": 13,
+      "question": "Puerperium period কত দিন?",
+      "options": [
+        "১ সপ্তাহ",
+        "৪ সপ্তাহ",
+        "২ সপ্তাহ",
+        "৬ সপ্তাহ"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ৬ সপ্তাহ",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10447,
+      "number": 14,
+      "question": "'ব্রজবুলি' ভাষার স্রষ্ট্রা কে?",
+      "options": [
+        "বিদ্যাপতি",
+        "মাধবাচার্য",
+        "চণ্ডীদাস",
+        "গোবিন্দ দাস"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) বিদ্যাপতি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10448,
+      "number": 15,
+      "question": "বিধবা বিবাহ আইন প্রচলনে কার অবদান ছিল?",
+      "options": [
+        "রাজা রামমোহন রায়",
+        "দেবেন্দ্রনাথ ঠাকুর",
+        "মৃত্যুঞ্জয় বিদ্যালঙ্কার",
+        "ঈশ্বরচন্দ্র বিদ্যাসাগর"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10449,
+      "number": 16,
+      "question": "রবীন্দ্রনাথ ঠাকুর সাহিত্যে নোবেল পুরস্কার পান কবে?",
+      "options": [
+        "১৯১৪ সালে",
+        "১৯১৯ সালে",
+        "১৯১২ সালে",
+        "১৯১৩ সালে"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ১৯১৩ সালে",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10450,
+      "number": 17,
+      "question": "কবি ঈশ্বরগুপ্ত সম্পাদিত পত্রিকা কোনটি?",
+      "options": [
+        "সম্বাদ কৌমদী",
+        "সমাচার দর্পণ",
+        "সংবাদ প্রভাকর",
+        "বাঙ্গাল গেজেট"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) সংবাদ প্রভাকর",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10451,
+      "number": 18,
+      "question": "বাংলা সাহিত্যে 'ভোরের পাখি ' কে?",
+      "options": [
+        "বিহারীলাল চক্রবর্তী",
+        "ঈশ্বরচন্দ্র গুপ্ত",
+        "রবীন্দ্রনাথ ঠাকুর",
+        "কাজী নজরুল ইসলাম"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) বিহারীলাল চক্রবর্তী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10452,
+      "number": 19,
+      "question": "'ফোর্ট উইলিয়াম কলেজ' কত সালে প্রতিষ্ঠিত হয়?",
+      "options": [
+        "১৮০১",
+        "১৮০২",
+        "১৭৯৯",
+        "১৮০০"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ১৮০০",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10453,
+      "number": 20,
+      "question": "নিচের কোন কাব্যগ্রন্থটি আলাওল রচিত কাব্য?",
+      "options": [
+        "লাইলী মজনু",
+        "ইউসুফ জোলেখা",
+        "পদ্মাবতী",
+        "মনোহর মধুমালতী"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) পদ্মাবতী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10454,
+      "number": 21,
+      "question": "মাইকেল মধুসূদন দত্তের জন্মস্থান কোনটি?",
+      "options": [
+        "যশোর",
+        "খুলনা",
+        "সাতক্ষীরা",
+        "মাগুরা"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) যশোর",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10455,
+      "number": 22,
+      "question": "চণ্ডীমঙ্গল কাব্যের রচয়িতা__",
+      "options": [
+        "মুকুন্দরাম চক্রবর্তী",
+        "ভারতচন্দ্র",
+        "বিপ্রদাস পিপিলাই",
+        "চণ্ডীদাস"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) মুকুন্দরাম চক্রবর্তী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10456,
+      "number": 23,
+      "question": "নিচের কোনটি বঙ্কিমচন্দ্র চট্টোপাধ্যায় রচিত উপন্যাস?",
+      "options": [
+        "কৃষ্ণকান্তের উইল",
+        "কাশবনের কন্যা",
+        "নৌকাডুবি",
+        "ঘরে বাইরে"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) কৃষ্ণকান্তের উইল",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10457,
+      "number": 24,
+      "question": "নিচের কোনটি মুক্তিযুদ্ধভিত্তিক সাহিত্য?",
+      "options": [
+        "নেমেসিস",
+        "কবর",
+        "হাঙর নদী গ্রেনেড",
+        "চিলেকোঠার সেপাই"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) হাঙর নদী গ্রেনেড",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10458,
+      "number": 25,
+      "question": "বাংলা গদ্যের জনক বলা হয় কাকে?",
+      "options": [
+        "বিভূতিভূষণ বন্দ্যোপাধ্যায়কে",
+        "রাজা রামমোহন রায়কে",
+        "ঈশ্বরচন্দ্র বিদ্যাসাগরকে",
+        "প্যারীচাঁদ মিত্রকে"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) ঈশ্বরচন্দ্র বিদ্যাসাগরকে",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10459,
+      "number": 26,
+      "question": "বিদ্যাপতি কোথাকার কবি ছিলেন?",
+      "options": [
+        "চট্রগ্রামের",
+        "মিথিলার",
+        "নেপালের",
+        "গৌড়ের"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) মিথিলার",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10460,
+      "number": 27,
+      "question": "'কাঁদতে আসিনি, ফাঁসির দাবি নিয়ে এসেছি' কবিতাটির রচয়িতা কে?",
+      "options": [
+        "আবু জাফর ওবায়দুল্লাহ্",
+        "শামসুর রাহমান",
+        "মাহবুব-উল-আলম চৌধুরী",
+        "নির্মলেন্দু গুণ"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) মাহবুব-উল-আলম চৌধুরী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10461,
+      "number": 28,
+      "question": "Fill in the blank . We received ___ reply.",
+      "options": [
+        "no",
+        "none",
+        "not",
+        "nothing"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) no",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10462,
+      "number": 29,
+      "question": "I am going to _____USA.",
+      "options": [
+        "an",
+        "the",
+        "none of these",
+        "a"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) the",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10463,
+      "number": 30,
+      "question": "What is the plural of deer'?",
+      "options": [
+        "deers",
+        "deerese",
+        "deeres",
+        "deer"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) deer",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10464,
+      "number": 31,
+      "question": "The passive form of the sentence 'I have killed the bird' is:",
+      "options": [
+        "The bird have been killed by me.",
+        "The bird has been being killed by me.",
+        "The bird has killed by me.",
+        "The bird has been killed by me."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) The bird has been killed by me.",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10465,
+      "number": 32,
+      "question": "A friend ___ need is a friend indeed.",
+      "options": [
+        "for",
+        "at",
+        "in",
+        "to"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) in",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10466,
+      "number": 33,
+      "question": "What is the adjective of the 'tax'?",
+      "options": [
+        "Taxable",
+        "Taxability",
+        "Taxation",
+        "Taxing"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Taxable",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10467,
+      "number": 34,
+      "question": "What type of noun is kindness?",
+      "options": [
+        "Material",
+        "Proper",
+        "Common",
+        "Abstract"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Abstract",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10468,
+      "number": 35,
+      "question": "নিচের কোন সমীকরণের উপর (1,-1) ও (3,5) বিন্দুদ্বয় অবস্থিত?",
+      "options": [
+        "2y = 4x -6",
+        "2y =2x +8",
+        "2y=2x -4",
+        "2y = 6x -8"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) 2y = 6x -8",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10469,
+      "number": 36,
+      "question": "নিচের কোনটি মৌলিক সংখ্যা?",
+      "options": [
+        "৮",
+        "৪",
+        "২",
+        "৯"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) ২",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10470,
+      "number": 37,
+      "question": "1 cm ব্যাসার্ধ বিশিষ্ট গোলকের আয়তন কত?",
+      "options": [
+        "43πcm2",
+        "2π cm3",
+        "4πcm3",
+        "π cm3"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) 43πcm2",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10471,
+      "number": 38,
+      "question": "9x2-9x-4 এর উৎপাদক কোনটি?",
+      "options": [
+        "(3x+1)(3x+4)",
+        "(3+x ) (3x-4)",
+        "(3x+1) (3x-4)",
+        "(3x+1) (4x+3)"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) (3x+1) (3x-4)",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10472,
+      "number": 39,
+      "question": "△ABC এ ∠A=70° এবং ∠B=20° হলে ত্রিভুজটি কোন প্রকৃতির?",
+      "options": [
+        "সূক্ষ্মকোণী",
+        "সমবাহু",
+        "সমকোণী",
+        "সমদ্বিবাহু"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) সমকোণী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10473,
+      "number": 40,
+      "question": "What is the meaning of the word 'post mortem?'",
+      "options": [
+        "Declare dead",
+        "Before death",
+        "Autopsy",
+        "Surgical operation"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Autopsy",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10474,
+      "number": 41,
+      "question": "কোন রোগটি প্রতিষেধক DPT vaccine নয়?",
+      "options": [
+        "Pertussis",
+        "Diphtheria",
+        "Pneumonia",
+        "Tetanus"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Pneumonia",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10475,
+      "number": 42,
+      "question": "Serum creatinine level বেড়ে যায় সাধারনত কোন রোগে?",
+      "options": [
+        "Chronic Kidney disease",
+        "Bronchitis",
+        "Arthritis",
+        "Cervicitis"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Chronic Kidney disease",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10476,
+      "number": 43,
+      "question": "মস্তিঙ্ক আঘাত থেকে রক্ষা করার জন্য যে হাড় আবরণ তৈরি করে তার নাম কি?",
+      "options": [
+        "Clavicle",
+        "Pelvis",
+        "Sternum",
+        "Cranium"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Cranium",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10477,
+      "number": 44,
+      "question": "বুধ, বৃহস্পতি ও শুক্রবারের গড় তাপমাত্রা ৪০°Cশনিবারের তাপমাত্রা ৪২°C হলে বুধবারের তাপমাত্রা কত?",
+      "options": [
+        "৪১°C",
+        "৪২°C",
+        "৩৮°C",
+        "৩৯°C"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ৩৯°C",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10478,
+      "number": 45,
+      "question": "The Protein of breast Milk - কে বলা হয়?",
+      "options": [
+        "Calcium",
+        "Globulin",
+        "Amino acid",
+        "Lacto albumin"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Lacto albumin",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10479,
+      "number": 46,
+      "question": "বাংলাদেশের সর্ববৃহৎ তাপবিদ্যুৎ কেন্দ্র কোথায় অবস্থিত?",
+      "options": [
+        "ভেড়ামারায়",
+        "গোয়ালপাড়ায়",
+        "সিদ্ধিরগঞ্জে",
+        "আশুগঞ্জে"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ভেড়ামারায়",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10480,
+      "number": 47,
+      "question": "নিচের কোনটি মূত্রতন্ত্রের অংশ নয়?",
+      "options": [
+        "Appendix",
+        "Urethra",
+        "Ureter",
+        "Kidney"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Appendix",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10481,
+      "number": 48,
+      "question": "বিশ্ব স্বাস্থ্য সংস্থা সদর দপ্তর কোথায় অবস্থিত?",
+      "options": [
+        "রোম",
+        "লন্ডন",
+        "ভিয়েনা",
+        "জেনেভা"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) জেনেভা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    }
+  ]
+}

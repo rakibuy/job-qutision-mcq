@@ -1,0 +1,710 @@
+{
+  "examSlug": "senior-staff-nurse-dgnm-2017-partial",
+  "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০১৭ — নার্সিং ও মিডওয়াইফারি অধিদপ্তর (২০১৭, আংশিক)",
+  "categoryKey": "nursing",
+  "categoryName": "নার্সিং প্রশ্ন সমাধান (Nursing Career BD)",
+  "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-dgnm-2017-partial",
+  "questionCount": 47,
+  "questions": [
+    {
+      "id": 10598,
+      "number": 1,
+      "question": "৫ টাকায় ২টি কমলা ক্রয় করে ৩৫ টাকায় কয়টি করে কমলা বিক্রয় করলে শতকরা ৪০ টাকা লাভ হবে?",
+      "options": [
+        "১০ টি",
+        "১২ টি",
+        "১৪ টি",
+        "৮ টি"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ১০ টি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10599,
+      "number": 2,
+      "question": "সালাম সালাম হাজার সালাম গানটির গায়ক কে?",
+      "options": [
+        "আবদুল হাদী",
+        "মাহমুদুননবী",
+        "খুরশীদ আলম",
+        "আব্দুল জব্বার"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) আব্দুল জব্বার",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10600,
+      "number": 3,
+      "question": "রেড ইন্ডিয়ান কাদের বলা হয়?",
+      "options": [],
+      "correctIndex": null,
+      "correctAnswer": "",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10601,
+      "number": 4,
+      "question": "”নানা” শব্দের বিপরীত শব্দ কোনটি?",
+      "options": [
+        "এক",
+        "তত",
+        "বহু",
+        "দুই"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) এক",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10602,
+      "number": 5,
+      "question": "কোন শব্দটি ধ্বন্যাত্মক দ্বিরক্তির উদাহরণ?",
+      "options": [
+        "বইটই",
+        "ধনজন",
+        "ঘনঘন",
+        "টনটন"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) টনটন",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10603,
+      "number": 6,
+      "question": "কোন শব্দটি উপসর্গযোগে গঠিত?",
+      "options": [
+        "আগাছা",
+        "আবার",
+        "আরাম",
+        "আনাজ"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) আগাছা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10604,
+      "number": 7,
+      "question": "Mismatched Blood Transfusion-এর তাৎক্ষণিক ব্যবস্থা কি নিতে হবে?",
+      "options": [
+        "Blood দেয়া বন্ধ Steroid দেয়া",
+        "I/V স্যালাইন ও জ্বরের ওষুধ দেয়া",
+        "I/V Lasix স্যালাইন ও Oxygen দেয়া",
+        "Antibiotic ও অক্সিজেন শুরু করা"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Blood দেয়া বন্ধ Steroid দেয়া",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10605,
+      "number": 8,
+      "question": "কোনটি Upper Limb এর বোন নয়?",
+      "options": [
+        "Femur",
+        "Ulna",
+        "Radius",
+        "Humerus"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Femur",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10606,
+      "number": 9,
+      "question": "DIC অর্থ কি?",
+      "options": [
+        "Disseminated Intravascular Coagulation",
+        "Drug Intervention Committee",
+        "Drug Information Centre",
+        "Device Implementation Centre"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Disseminated Intravascular Coagulation",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10607,
+      "number": 10,
+      "question": "কোন মশার কামড়ে চিকুনগুনিয়া জ্বর হয়?",
+      "options": [
+        "এনোফিলিস",
+        "এডিস",
+        "Sand fly",
+        "কিউলেক্স"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) এডিস",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10608,
+      "number": 11,
+      "question": "নিউমোনিয়া রোগে আক্রান্ত হয় মানবদেহের কোন অঙ্গ?",
+      "options": [
+        "হৃৎপিন্ড",
+        "ফুসফুস",
+        "প্লীহা",
+        "কলিজা"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ফুসফুস",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10609,
+      "number": 12,
+      "question": "মানবদেহের স্বাভাবিক তাপমাত্রা কত?",
+      "options": [
+        "৯৬.৪ ডি. ফা.",
+        "৯৮.৪ ডি. ফা.",
+        "৯৭.২ ডি. ফা.",
+        "৯৪.৮ ডি. ফা."
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ৯৮.৪ ডি. ফা.",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10610,
+      "number": 13,
+      "question": "ডায়বেটিস (Diabetes) রোগ হয়---",
+      "options": [
+        "ইস্ট্রোজেনের অভাবে",
+        "গ্রোথ হরমনের অভাবে",
+        "ইনসুলিনের অভাবে",
+        "থাইরোপক্সিনের অভাবে"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) থাইরোপক্সিনের অভাবে",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10611,
+      "number": 14,
+      "question": "খাবার স্যালাইন বানানোর পর খাওয়ানোর যাবে---",
+      "options": [
+        "২ ঘন্টা",
+        "৬ ঘন্টা",
+        "১২ ঘন্টা",
+        "৩ ঘন্টা"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) ১২ ঘন্টা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10612,
+      "number": 15,
+      "question": "”ষ্ণ” যুক্তবর্ণটি গঠিত হয়েছে নিম্নরূপে---",
+      "options": [
+        "ষ্‌+জ",
+        "ষ্‌+ণ",
+        "ষ্‌+ঞ",
+        "য্‌+ঞ"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ষ্‌+ণ",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10613,
+      "number": 16,
+      "question": "কোনগুলো ওষ্ঠ্যধ্বনি?",
+      "options": [
+        "য র ল শ",
+        "চ ছ জ ঝ",
+        "প ফ ব ভ",
+        "ত থ দ ধ"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) প ফ ব ভ",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10614,
+      "number": 17,
+      "question": "কাজী নজরুল ইসলাম রচিত “বিদ্রোহী” কবিতাটি কোন কাব্যগ্রন্থের অন্তর্গত?",
+      "options": [
+        "অগ্নিবীণা",
+        "ভাঙার গান",
+        "বিষের বাঁশি",
+        "সিন্ধু হিন্দোল"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) অগ্নিবীণা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10615,
+      "number": 18,
+      "question": "প্রখ্যাত সাহিত্যিক শওকত ওসমানের প্রকৃত নাম কোনটি?",
+      "options": [
+        "আব্দুল হাই",
+        "কাজেম আল কোরেশী",
+        "শেখ আজিজুর রহমান",
+        "আবুল ফজল"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) শেখ আজিজুর রহমান",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10616,
+      "number": 19,
+      "question": "কোনটি মুক্তিযুদ্ধভিত্তিক উপন্যাস?",
+      "options": [
+        "চিলেকোঠার সেপাই",
+        "হাঙর নদী গ্রেনেড",
+        "শবনম",
+        "আরেক ফাল্গুন"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) হাঙর নদী গ্রেনেড",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10617,
+      "number": 20,
+      "question": "বাংলা সাহিত্যের গদ্যের জনক কে?",
+      "options": [
+        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "প্যারীচাঁদ মিত্র",
+        "রাজা রামমোহন",
+        "ঈশ্বরচন্দ্র বিদ্যাসাগর"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10618,
+      "number": 21,
+      "question": "”সবুজপত্র” পত্রিকার সম্পাদক কে?",
+      "options": [
+        "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+        "প্রমথ চৌধুরী",
+        "ঈশ্বর গুপ্ত",
+        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) প্রমথ চৌধুরী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10619,
+      "number": 22,
+      "question": "কোন বানানটি শুদ্ধ?",
+      "options": [
+        "সহযোগীতা",
+        "প্রতিযোগিতা",
+        "বৈশিষ্ট্যতা",
+        "শ্রদ্ধাঞ্জলী"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) প্রতিযোগিতা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10620,
+      "number": 23,
+      "question": "”পদ্মাবতী” কাব্যের রচয়িতা আলাওল কোন যুগের কবি?",
+      "options": [
+        "আধুনিক যুগের",
+        "উত্তর আধুনিক যুগের",
+        "প্রাচীন যুগের",
+        "মধ্য যুগের"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) মধ্য যুগের",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10621,
+      "number": 24,
+      "question": "কোনটি মহাকাব্য?",
+      "options": [
+        "সারদামঙ্গল",
+        "মহাশ্মশান",
+        "নীল দর্পণ",
+        "দুর্গেশ নন্দিনী"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) মহাশ্মশান",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10622,
+      "number": 25,
+      "question": "রবীন্দ্রনাথ ঠাকুর রচিত নাটক কোনটি?",
+      "options": [
+        "রাজা",
+        "ইডিপাস",
+        "কৃষ্ণকুমারী",
+        "নবান্ন"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) রাজা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10623,
+      "number": 26,
+      "question": "পানিবাহিত রোগ কোনটি?",
+      "options": [
+        "হেপাটাইটিস A",
+        "ম্যালেরিয়া",
+        "কালাজ্বর",
+        "গলগন্ড"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) হেপাটাইটিস A",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10624,
+      "number": 27,
+      "question": "হিমোগ্লোবিনের কাজ ----",
+      "options": [
+        "অক্সিজেন বহন করা",
+        "হিলিয়াম বহন করা",
+        "নাইট্রোজেন বহন করা",
+        "হাইড্রোজেন বহন করা"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) অক্সিজেন বহন করা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10625,
+      "number": 28,
+      "question": "এন্টিবায়োটিকের কাজ ---",
+      "options": [
+        "জীবাণু বহন করা",
+        "জীবাণু ধ্বংস করা",
+        "জীবাণুর বংশ বৃদ্ধি করা",
+        "ভাইরাস ধ্বংস করা"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) জীবাণু ধ্বংস করা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10626,
+      "number": 29,
+      "question": "প্রোটিন বেশি থাকে----",
+      "options": [
+        "ছোলার ডালে",
+        "অড়হর ডালে",
+        "মসূর ডালে",
+        "মাষকলাই ডালে"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) মসূর ডালে",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10627,
+      "number": 30,
+      "question": "মানবদেহে প্রতিদিন পানির প্রয়োজন কত?",
+      "options": [
+        "৬ লিটার",
+        "৩ লিটার",
+        "৫ লিটার",
+        "১ লিটার"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ৩ লিটার",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10628,
+      "number": 31,
+      "question": "সাধারণত রোগীর Pulse দেখা হয় কোথায়?",
+      "options": [
+        "Brachial artery",
+        "Ulnar artery",
+        "Radial artery",
+        "Femoral artery"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Radial artery",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10629,
+      "number": 32,
+      "question": "সংক্রামক ব্যাধি কোনটি?",
+      "options": [
+        "যক্ষ্মা",
+        "হাঁপানী",
+        "ডায়বেটিস",
+        "উচ্চ রক্তচাপ"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) যক্ষ্মা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10630,
+      "number": 33,
+      "question": "একটি সমকোণী ত্রিভুজের অতিভুজ 25 মিটার। অপর বাহুদ্বয়ের একটি অপরটির 3/4 অংশ হলে, অপর বাহুদ্বয়ের দৈর্ঘ্য অনুপাত-",
+      "options": [
+        "3 : 4",
+        "1 : 2",
+        "3: 5",
+        "2 : 1"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) 3 : 4",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10631,
+      "number": 34,
+      "question": "ছয়টি ক্রমিক পূর্ণ সংখ্যার প্রথম তিনটির গড় ৮ হলে, শেষ তিনটির যোগফল-",
+      "options": [
+        "৩৩",
+        "৩৫",
+        "২৯",
+        "৩১"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ৩৩",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10632,
+      "number": 35,
+      "question": "logx127=-3 হলে,x এর মান --",
+      "options": [
+        "-1/3",
+        "1/3",
+        "-3",
+        "3"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) 3",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10633,
+      "number": 36,
+      "question": "x0.09=3 হলে, x এর মান --",
+      "options": [
+        "10",
+        "10/3",
+        "3/10",
+        "1/3"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) 10",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10634,
+      "number": 37,
+      "question": "|x-5| ≤ 4 হলে, নিচের যে ব্যবধি সত্য তা হলো--",
+      "options": [
+        "x∈(1,9)",
+        "x∈[1,9)",
+        "x∈[1,9]",
+        "x∈(1,9]"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) x∈[1,9]",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10635,
+      "number": 38,
+      "question": "∆ABC এর BC বাহুকে D বিন্দু পর্যন্ত বর্ধিত করা হল। ∠A=60°,∠B=90° হলে,∠ACD এর মান--",
+      "options": [
+        "150 ডিগ্রি",
+        "180 ডিগ্রি",
+        "140 ডিগ্রি",
+        "160 ডিগ্রি"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) 150 ডিগ্রি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10636,
+      "number": 39,
+      "question": "০.২৪ এর সমান ভগ্নাংশটি-",
+      "options": [
+        "৭২৪",
+        "৭৭২",
+        "১৩",
+        "৮৩৩"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ৮৩৩",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10637,
+      "number": 40,
+      "question": "Drone কি?",
+      "options": [
+        "যাত্রীবিহীন বিমান",
+        "চালকসহ বিমান",
+        "চালকবিহীন বিমান",
+        "যাত্রীবাহী দ্রূতগাহী বিমান"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) চালকবিহীন বিমান",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10638,
+      "number": 41,
+      "question": "নিশীথ সূর্যের দেশ কোনটি?",
+      "options": [
+        "সুইডেন",
+        "ফিনল্যান্ড",
+        "ইংল্যান্ড",
+        "নরওয়ে"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) নরওয়ে",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10639,
+      "number": 42,
+      "question": "স্বাধীনতা উত্তর মুক্তিযুদ্ধবিষয়ক প্রথম পূর্ণদৈর্ঘ্য বাংলা চলচ্চিত্র কোনটি?",
+      "options": [
+        "ওরা ১১ জন",
+        "অরুণোদয়ের অগ্নিসাক্ষী",
+        "জীবন থেকে নেয়া",
+        "লেট দেয়ার বি লাইট"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ওরা ১১ জন",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10640,
+      "number": 43,
+      "question": "বাংলার আদি অধিবাসীগণ কোন ভাষাভাষী ছিলেন?",
+      "options": [
+        "হিন্দি",
+        "অস্ট্রিক",
+        "সংস্কৃত",
+        "বাংলা"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) অস্ট্রিক",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10641,
+      "number": 44,
+      "question": "ভারতে প্রথম প্রতীক মুদ্রা প্রবর্তন করেন কে?",
+      "options": [
+        "লর্ড কর্নওয়ালিশ",
+        "মুহম্মদ বিন তুঘলক",
+        "ইলতুৎমিশ",
+        "শেরশাহ"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) মুহম্মদ বিন তুঘলক",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10642,
+      "number": 45,
+      "question": "ভারতের বর্তমান রাষ্ট্রপতির নাম কি?",
+      "options": [
+        "এ পি জে আব্দুল কালাম",
+        "মমতা ব্যানার্জী",
+        "দ্রৌপদী মুর্মু",
+        "নরেন্দ্র মোদি"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) দ্রৌপদী মুর্মু",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10643,
+      "number": 46,
+      "question": "যুক্তরাষ্ট্রের নারীগণ কোন সালে ভোটাধিকার অর্জন করেন?",
+      "options": [
+        "১৯০২",
+        "১৯২০",
+        "১৯৩১",
+        "১৯৪৭"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ১৯২০",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10644,
+      "number": 47,
+      "question": "রোহিঙ্গা শরণার্থীগণ মিয়ানমারের কোন অঞ্চলের অধিবাসী?",
+      "options": [
+        "নর্থ রাখাই স্টেট",
+        "রেঙ্গুন",
+        "কোচিন",
+        "শান"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) নর্থ রাখাই স্টেট",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    }
+  ]
+}

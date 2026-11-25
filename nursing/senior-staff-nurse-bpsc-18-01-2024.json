@@ -1,0 +1,1745 @@
+{
+  "examSlug": "senior-staff-nurse-bpsc-18-01-2024",
+  "examTitle": "সিনিয়র স্টাফ নার্স প্রশ্ন সমাধান ২০২৪ — পিএসসি (১৮-০১-২০২৪)",
+  "categoryKey": "nursing",
+  "categoryName": "নার্সিং প্রশ্ন সমাধান (Nursing Career BD)",
+  "url": "https://nursingcareerbd.com/question-solution/senior-staff-nurse-bpsc-18-01-2024",
+  "questionCount": 116,
+  "questions": [
+    {
+      "id": 10482,
+      "number": 1,
+      "question": "রক্ত তরল রাখতে সাহায্য করে",
+      "options": [
+        "Inj Tranexamic acid",
+        "Inj Heparin",
+        "Inj Caprolysin",
+        "Inj Cefuroxime"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) Inj Heparin",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10483,
+      "number": 2,
+      "question": "বিভিন্ন জটিল রোগের কারণ আবিষ্কারে কোন প্রযুক্তি কাজ করছে?",
+      "options": [
+        "ন্যানোটেকলোজি",
+        "জেনেটিক ইঞ্জিনিয়ারিং",
+        "ক্রায়োসার্জারি",
+        "বায়ো ইনফরমেটিক্স"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) বায়ো ইনফরমেটিক্স",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10484,
+      "number": 3,
+      "question": "মানুষের শরীরে রক্ত দেওয়ার ক্ষেত্রে কোন জীবাণুর জন্য Screening test করা হয়?",
+      "options": [],
+      "correctIndex": null,
+      "correctAnswer": "",
+      "difficulty": "",
+      "explanation": ""
+    },
+    {
+      "id": 10485,
+      "number": 4,
+      "question": "নিচের কোন Drug-টি Anticonvulsant?",
+      "options": [
+        "Inj Nalepsin",
+        "Inj Phenytoin",
+        "Caprolysin",
+        "Inj Amikacyn"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Inj Nalepsin",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10486,
+      "number": 5,
+      "question": "Severe anemia, যখন Hb level",
+      "options": [
+        "<10gm/dl",
+        "<7gm/dl",
+        "<9gm/dl",
+        "<3gm/dl"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) <9gm/dl",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10487,
+      "number": 6,
+      "question": "ইনসুলিন ইনজেকশনের জন্য উপযুক্ত সূচের আকারটি হল",
+      "options": [
+        "220, 1\" Long",
+        "22G, 11/2\" Long",
+        "25G,5/8\" Long",
+        "18G, 11/2\" Long"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) 18G, 11/2\" Long",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10488,
+      "number": 7,
+      "question": "Which sentence is correct?",
+      "options": [
+        "I made a complain.",
+        "I lodged a complained.",
+        "I filed a complain.",
+        "I lodged a complaint."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) I lodged a complaint.",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10489,
+      "number": 8,
+      "question": "Fill in the blank with the appropriate preposition: \"The secretary was then called - to read the minutes.",
+      "options": [
+        "over",
+        "at",
+        "for",
+        "on"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) on",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10490,
+      "number": 9,
+      "question": "সর্বজনীন পেনশন স্কিম অনুযায়ী সুরক্ষা স্কিম কোন শ্রেণির মানুষের জন্য প্রযোজ্য?",
+      "options": [
+        "স্বল্প আয়ের ব্যক্তি",
+        "প্রবাসী বাংলাদেশি",
+        "বেসরকারি কর্মচারী/প্রতিষ্ঠান",
+        "স্বকর্ম ও অপ্রাতিষ্ঠানিক কর্মী"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) স্বকর্ম ও অপ্রাতিষ্ঠানিক কর্মী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10491,
+      "number": 10,
+      "question": "SDG Target Maternal Mortality rate কত শতাংশ কমবে?",
+      "options": [
+        "<80%",
+        "<90%",
+        "<100%",
+        "<70%"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) <70%",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10492,
+      "number": 11,
+      "question": "মধুমাস বলা হয় কোন মাসকে?",
+      "options": [
+        "আষাঢ়",
+        "শ্রাবণ",
+        "বৈশাখ",
+        "জৈষ্ঠ"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) জৈষ্ঠ",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10493,
+      "number": 12,
+      "question": "নির্দিষ্ট ডাটা খুঁজতে কোনটি ব্যবহৃত হয়?",
+      "options": [
+        "সার্চিং",
+        "ইন্ডেন্সিং",
+        "কুয়েরী",
+        "সর্টিং"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) কুয়েরী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10494,
+      "number": 13,
+      "question": "'পরিচয়ে আমি বাঙালি, আমার আছে ইতিহাস গর্বের।' এটি কোন কবিতার চরণ?",
+      "options": [
+        "পরিচয়",
+        "আমার পরিচয়",
+        "আমি বাঙালি",
+        "বাংলা ভাষা"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) আমার পরিচয়",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10495,
+      "number": 14,
+      "question": "'জ্ঞ' যুক্তব্যঞ্জন গঠিত হয়েছে কোন দুটি ধ্বনিযোগে?",
+      "options": [
+        "জ্+ঞ",
+        "ঞ+জ",
+        "ঞ+গ",
+        "গ+ঞ"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) জ্+ঞ",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10496,
+      "number": 15,
+      "question": "বিদ্যাপতি কোন ভাষায় পদাবলি লিখেছেন?",
+      "options": [
+        "ব্রজবুলি",
+        "হিন্দি",
+        "বাংলা",
+        "মৈথিলি"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ব্রজবুলি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10497,
+      "number": 16,
+      "question": "জাহানারা ইমামের 'একাত্তরের দিনগুলি' কোন ধরনের রচনা?",
+      "options": [
+        "প্রবন্ধ",
+        "উপন্যাস",
+        "গল্প",
+        "দিনলিপি"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) দিনলিপি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10498,
+      "number": 17,
+      "question": "'কাকভূষণ্ডী' বাগধারার অর্থ-",
+      "options": [
+        "বিরলপ্রজ",
+        "ক্ষণজীবী",
+        "দীর্ঘজীবী",
+        "ক্ষণজন্মা"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) দীর্ঘজীবী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10499,
+      "number": 18,
+      "question": "'রেস্তোরাঁ' শব্দের উৎস ভাষা-",
+      "options": [
+        "ফরাসি",
+        "ইংরেজি",
+        "তুর্কি",
+        "ফারসি"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ফরাসি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10500,
+      "number": 19,
+      "question": "'সমুদ্র' শব্দের সমার্থক শব্দ-",
+      "options": [
+        "স্রোতস্বিনী",
+        "তটিনী",
+        "অর্ণব",
+        "অবনী"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) অর্ণব",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10501,
+      "number": 20,
+      "question": "কোনটি কাজী নজরুল ইসলামের উপন্যাস নয়?",
+      "options": [
+        "ব্যথার দান",
+        "বাঁধনহারা",
+        "মৃত্যুক্ষুধা",
+        "কুহেলিকা"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ব্যথার দান",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10502,
+      "number": 21,
+      "question": "বাংলা সাহিত্যের 'উদাসীন পথিক' কে?",
+      "options": [
+        "কাজী নজরুল ইসলাম",
+        "মীর মশাররফ হোসেন",
+        "জসীমউদ্দীন",
+        "দীনবন্ধু মিত্র"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) মীর মশাররফ হোসেন",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10503,
+      "number": 22,
+      "question": "সাহিত্যিক শওকত ওসমানের প্রকৃত নাম-",
+      "options": [
+        "শওকত আলী",
+        "শেখ আজিজুর রহমান",
+        "ওসমান গনি",
+        "আজিজুল হক"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) শেখ আজিজুর রহমান",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10504,
+      "number": 23,
+      "question": "'ইন্দ্রিয়কে জয় করেছে যে'-",
+      "options": [
+        "সংশপ্তক",
+        "জিতেন্দ্রিয়",
+        "অরিজিৎ",
+        "ইন্দ্রজিৎ"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) জিতেন্দ্রিয়",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10505,
+      "number": 24,
+      "question": "রোকেয়া সাখাওয়াত হোসেনের গ্রন্থ-",
+      "options": [
+        "জোহরা",
+        "রজনী",
+        "অবরোধবাসিনী",
+        "আনোয়ারা"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) অবরোধবাসিনী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10506,
+      "number": 25,
+      "question": "'বনফুল' কোন লেখকের ছদ্মনাম?",
+      "options": [
+        "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+        "সুনীল গঙ্গোপাধ্যায়",
+        "বিনয়কৃষ্ণ মুখোপাধ্যায়",
+        "বলাইচাঁদ মুখোপাধ্যায়"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) বলাইচাঁদ মুখোপাধ্যায়",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10507,
+      "number": 26,
+      "question": "'চর্যাপদ' কত সালে আবিষ্কৃত হয়?",
+      "options": [
+        "১৯২০ সালে",
+        "১৯০৭ সালে",
+        "১৯১০ সালে",
+        "১৯১৬ সালে"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ১৯০৭ সালে",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10508,
+      "number": 27,
+      "question": "'জজসাহেব' কোন সমাসভুক্ত?",
+      "options": [
+        "কর্মধারয়",
+        "দ্বন্দ্ব",
+        "অব্যয়ীভাব",
+        "বহুব্রীহি"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) কর্মধারয়",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10509,
+      "number": 28,
+      "question": "Select the sentence is which 'down' is an adjective:",
+      "options": [
+        "We watched as the sun went down.",
+        "Tears ran down her face.",
+        "The system was down all morning.",
+        "Down with the tyrant!"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) The system was down all morning.",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10510,
+      "number": 29,
+      "question": "'I tried to persuade him, but he wouldn't come.' In this sentence the verb 'Come' is-",
+      "options": [
+        "causative",
+        "transitive",
+        "intransitive",
+        "modal"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) intransitive",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10511,
+      "number": 30,
+      "question": "Fill in the blank with the right option: 'I - my prayers before I go to bed.'",
+      "options": [
+        "say",
+        "make",
+        "tell",
+        "utter"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) say",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10512,
+      "number": 31,
+      "question": "Choose the correct indirect speech: She said to me, \"Are you happy in your new job?\"",
+      "options": [
+        "She asked me if I was happy in my new job.",
+        "She asked me if I had been happy in my new job.",
+        "She asked me if I have been happy in my new job.",
+        "She asked me whether I am happy in my new job."
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) She asked me if I was happy in my new job.",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10513,
+      "number": 32,
+      "question": "Select the correct sentence:",
+      "options": [
+        "One of my friends' are getting married today.",
+        "One of my friend is getting married today.",
+        "One of my friends are getting married today",
+        "One of my friends is getting married today."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) One of my friends is getting married today.",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10514,
+      "number": 33,
+      "question": "'Shakespeare is a playwright'. Here 'playwright' is used as-",
+      "options": [
+        "complement",
+        "object",
+        "subject",
+        "adverb"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) complement",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10515,
+      "number": 34,
+      "question": "What kind of noun is 'army'?",
+      "options": [
+        "material",
+        "proper",
+        "common",
+        "collective"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) collective",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10516,
+      "number": 35,
+      "question": "The word 'sibling' means:",
+      "options": [
+        "a brother and a sister",
+        "a brother",
+        "a sister",
+        "a brother or sister"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) a brother or sister",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10517,
+      "number": 36,
+      "question": "Which has the identical singular and plural form?",
+      "options": [
+        "spectrum",
+        "dice",
+        "stimulus",
+        "basis"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) dice",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10518,
+      "number": 37,
+      "question": "'Don't go out while it rains' In this sentence \"while\" is a/an -",
+      "options": [
+        "adverb",
+        "verb",
+        "interjection",
+        "conjunction"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) conjunction",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10519,
+      "number": 38,
+      "question": "'He enjoyed sleeping in the open air. Here 'sleeping' is a/a-",
+      "options": [
+        "verb",
+        "infinitive",
+        "participle",
+        "gerund"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) gerund",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10520,
+      "number": 39,
+      "question": "The King left ... heir.",
+      "options": [
+        "zero article",
+        "a",
+        "the",
+        "an"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) an",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10521,
+      "number": 40,
+      "question": "'A blooming flower is beautiful to look at.' Here 'blooming' is a/an-",
+      "options": [
+        "infinitive",
+        "gerund",
+        "participle",
+        "verbal noun"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) participle",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10522,
+      "number": 41,
+      "question": "Neonate কাকে বলে?",
+      "options": [
+        "0-1 month",
+        "1 month - 5 years",
+        "0-1 year",
+        "1 year- 5 years"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) 0-1 month",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10523,
+      "number": 42,
+      "question": "Emergency Contraceptive Pill কোনটি?",
+      "options": [
+        "IUCD",
+        "Inj DMPA",
+        "Implant",
+        "OCD"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) IUCD",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10524,
+      "number": 43,
+      "question": "বৃহদান্ত্রের অংশ কোনটি?",
+      "options": [
+        "জেজুনাম",
+        "এপেনডিক্স",
+        "ইলিয়াম",
+        "ডিওভেনাম"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) এপেনডিক্স",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10525,
+      "number": 44,
+      "question": "Puerperal Period:",
+      "options": [
+        "10 weeks",
+        "12 weeks",
+        "4 weeks",
+        "6 weeks"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) 6 weeks",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10526,
+      "number": 45,
+      "question": "নীচের কোন পদ্ধতিতে Bacteria spore ধ্বংস হয়?",
+      "options": [
+        "Boiling",
+        "Fumigation",
+        "Autoclave",
+        "Cidex Solution"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Autoclave",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10527,
+      "number": 46,
+      "question": "WHO Schedule অনুযায়ী Antenatal Check up শুরু হয় কত সপ্তাহ থেকে?",
+      "options": [
+        "16",
+        "18",
+        "12",
+        "14"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) 12",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10528,
+      "number": 47,
+      "question": "ডেঙ্গুর ভয়াবহতা নির্ধারিত হয় নীচের কোন উপাদানের মাধ্যমে?",
+      "options": [
+        "Lymphocyte বেড়ে যায়",
+        "Hematocrit বেড়ে যায়",
+        "Hematocrit কমে যায়",
+        "Neutrophil বেড়ে যায়"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) Hematocrit বেড়ে যায়",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10529,
+      "number": 48,
+      "question": "Tuberculosis রোগের Vaccine কোনটি?",
+      "options": [
+        "BCG",
+        "DPT",
+        "TT",
+        "MRT"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) BCG",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10530,
+      "number": 49,
+      "question": "বাংলাদেশের পাঁচ টাকার নোটে কোন মসজিদের ছবি আছে?",
+      "options": [
+        "কুসুম্বা মসজিদ",
+        "বাঘা মসজিদ",
+        "ষাট গম্বুজ মসজিদ",
+        "ছোট সোনা মসজিদ"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) কুসুম্বা মসজিদ",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10531,
+      "number": 50,
+      "question": "বাংলাদেশের জলসীমায় উৎপত্তি ও সমাপ্তি কোন নদীর?",
+      "options": [
+        "হালদা",
+        "মেঘনা",
+        "পদ্মা",
+        "যমুনা"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) হালদা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10532,
+      "number": 51,
+      "question": "ডেঙ্গুজ্বরের বাহক কোন মশা?",
+      "options": [
+        "অ্যানোফিলিস",
+        "সব ধরনের মশা",
+        "কিউলেক্স",
+        "এডিস"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) এডিস",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10533,
+      "number": 52,
+      "question": "সুয়েজ খাল কোন দেশে অবস্থিত?",
+      "options": [
+        "তুরস্ক",
+        "গ্রীস",
+        "মিশর",
+        "সৌদি আরব"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) মিশর",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10534,
+      "number": 53,
+      "question": "কার্বন প্রভাবমুক্ত প্রথম দেশ কোনটি?",
+      "options": [
+        "চীন",
+        "ভুটান",
+        "কানাডা",
+        "জাপান"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ভুটান",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10535,
+      "number": 54,
+      "question": "ইউরোপিয় ইউনিয়নে ব্যবহৃত মুদ্রার নাম কি?",
+      "options": [
+        "ডলার",
+        "পাউন্ড",
+        "ইয়েন",
+        "ইউরো"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ইউরো",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10536,
+      "number": 55,
+      "question": "২০২৩ সালে সাহিত্যে নোবেল পুরস্কার পেয়েছেন-",
+      "options": [
+        "লুইস গ্লুক",
+        "অ্যানি এরনাক্স",
+        "উইলিয়াম ডি, নর্ডহাউস",
+        "ইয়েন ফসে"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ইয়েন ফসে",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10537,
+      "number": 56,
+      "question": "বাঙালি জাতির মুক্তি সনদ হলোঃ",
+      "options": [
+        "ছয় দফা",
+        "এগারো দফা",
+        "৭ই মার্চের ভাষণ",
+        "২১ দফা"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ছয় দফা",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10538,
+      "number": 57,
+      "question": "কোন দেশটি G-8 (Group of Eight) সদস্যভুক্ত নয়?",
+      "options": [
+        "চীন",
+        "ফ্রান্স",
+        "রাশিয়া",
+        "জাপান"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) চীন",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10539,
+      "number": 58,
+      "question": "কোনটি রাষ্ট্রায়াত্ত বাণিজ্যিক ব্যাংক নয়?",
+      "options": [
+        "পূবালী ব্যাংক",
+        "অগ্রণী ব্যাংক",
+        "জনতা ব্যাংক",
+        "রূপালী ব্যাংক"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) পূবালী ব্যাংক",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10540,
+      "number": 59,
+      "question": "কনফুসিয়াস কী ছিলেন?",
+      "options": [
+        "দার্শনিক",
+        "সম্রাট",
+        "রাষ্ট্রনেতা",
+        "বিজ্ঞানী"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) দার্শনিক",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10541,
+      "number": 60,
+      "question": "মানুষের শরীরে পটাশিয়ামের পরিমাণ কত?",
+      "options": [
+        "2-2.5 m mol/L",
+        "3.9 - 8 m mol/L",
+        "7-8 m mol/L",
+        "3.5-5 m mol/L"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) 3.5-5 m mol/L",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10542,
+      "number": 61,
+      "question": "মানুষের শরীরে দৈনিক কত গ্রাম Calcium প্রয়োজন?",
+      "options": [
+        "২০০০ mg",
+        "৮০০ mg",
+        "১০০০ mg",
+        "১২০০ mg"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) ১০০০ mg",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10543,
+      "number": 62,
+      "question": "নীচের কোন জীবানুটি রক্তের মাধ্যমে ছড়ায়?",
+      "options": [
+        "TB",
+        "Covid-19",
+        "Measles",
+        "Hepatitis C"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Hepatitis C",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10544,
+      "number": 63,
+      "question": "শরীরে অতিরিক্ত মেদ জমা হয়",
+      "options": [
+        "এডিপোস টিস্যু",
+        "এক্রোসোম",
+        "কানেকটিভ টিস্যু",
+        "বোন মেরো"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) এডিপোস টিস্যু",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10545,
+      "number": 64,
+      "question": "মাতৃমৃত্যু হারের প্রধান কারণ?",
+      "options": [
+        "Obstructed labour",
+        "PPH",
+        "Eclampsia",
+        "Abortion"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Eclampsia",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10546,
+      "number": 65,
+      "question": "Septic shock এর কারণ?",
+      "options": [
+        "ট্রমা",
+        "রক্তে অক্সিজেন এর অভাব",
+        "নিউমোনিয়া",
+        "উচ্চ রক্তচাপ"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) নিউমোনিয়া",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10547,
+      "number": 66,
+      "question": "মানব দেহে সবচেয়ে বড় হাড় কোনটি?",
+      "options": [
+        "Femur",
+        "Humerus",
+        "Fibula",
+        "Tibia"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Femur",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10548,
+      "number": 67,
+      "question": "গ্রন্থির রাজা কোনটি?",
+      "options": [
+        "Thyroid gland",
+        "Adrenal gland",
+        "Hypothalamus",
+        "Pituitary gland"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Pituitary gland",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10549,
+      "number": 68,
+      "question": "বিলিরুবিন কোথায় তৈরি হয়?",
+      "options": [
+        "যকৃতে",
+        "পাকস্থলীতে",
+        "অস্থিতে",
+        "রক্তে"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) যকৃতে",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10550,
+      "number": 69,
+      "question": "পানিতে দ্রবণীয় ভিটামিন হলো-",
+      "options": [
+        "Vit-A",
+        "Vit-E",
+        "Vit-B",
+        "Vit-D"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Vit-B",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10551,
+      "number": 70,
+      "question": "মানব দেহে কোষের Chromosome এর সংখ্যা?",
+      "options": [
+        "২৩ জোড়া",
+        "২৪ জোড়া",
+        "১৩ জোড়া",
+        "২২ জোড়া"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ২৩ জোড়া",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10552,
+      "number": 71,
+      "question": "বৃক্কের একক কী?",
+      "options": [
+        "ফাইব্রোব্লাস্ট",
+        "নিউরন",
+        "নেফ্রন",
+        "অ্যান্টিওব্লস্ট"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) নেফ্রন",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10553,
+      "number": 72,
+      "question": "গণপ্রজাতন্ত্রী বাংলাদেশের মনোগ্রামে কয়টি তারকা চিহ্ন রয়েছে?",
+      "options": [
+        "৪টি",
+        "৩টি",
+        "৫টি",
+        "২টি"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ৪টি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10554,
+      "number": 73,
+      "question": "“জয় বাংলা\" বাংলাদেশের জাতীয় স্লোগান গেজেটে প্রকাশিত হয় কোন তারিখে?",
+      "options": [
+        "০৭ মার্চ, ২০২২",
+        "০৩ মার্চ, ২০২২",
+        "০২ মার্চ, ২০২২",
+        "০৪ মার্চ, ২০২২"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) ০২ মার্চ, ২০২২",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10555,
+      "number": 74,
+      "question": "২০২২ বিশ্বকাপ ফুটবলে \"গোল্ডেন বুট\" পাওয়া খেলোয়াড়ের নাম কী?",
+      "options": [
+        "পাওলো দিবালা (Paulo Dybala)",
+        "লিওনেল মেসি (Lionel Messi)",
+        "এমবাপ্পে (Mbappe)",
+        "এমিলিয়ানো মার্টিনেজ (Emiliana Martinez)"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) এমবাপ্পে (Mbappe)",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10556,
+      "number": 75,
+      "question": "রাজবন্দীর জবানবন্দী' লিখেছেন -",
+      "options": [
+        "কাজী নজরুল ইসলাম",
+        "জীবনানন্দ দাশ",
+        "সুকান্ত ভট্টাচার্য",
+        "রবীন্দ্রনাথ ঠাকুর"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) কাজী নজরুল ইসলাম",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10557,
+      "number": 76,
+      "question": "'কিরণ' শব্দের অর্থ কী?",
+      "options": [
+        "রশ্মি",
+        "অভ্র",
+        "ধবলী",
+        "জ্যোৎস্না"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) রশ্মি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10558,
+      "number": 77,
+      "question": "নিচের কোন্ শব্দটি শুদ্ধ?",
+      "options": [
+        "ঘৃনা",
+        "তৃন",
+        "কস্ট",
+        "স্টিমার"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) স্টিমার",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10559,
+      "number": 78,
+      "question": "গণিতে ব্যবহৃত চিহ্ন কোনটি?",
+      "options": [
+        "দাঁড়ি",
+        "কমা",
+        "বন্ধনী",
+        "প্রশ্নবোধক"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) বন্ধনী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10560,
+      "number": 79,
+      "question": "'অন্যপুষ্ট' কোন্ পাখিকে বলা হয়?",
+      "options": [
+        "কোকিল",
+        "কাক",
+        "ময়ূর",
+        "কবুতর"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) কোকিল",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10561,
+      "number": 80,
+      "question": "'মোদাচ্ছের পীর' চরিত্রটিকে কোন্ গ্রন্থে পাওয়া যায়?",
+      "options": [
+        "নীল দর্পণ",
+        "লালসালু",
+        "বহিপীর",
+        "তরঙ্গভঙ্গ"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) লালসালু",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10562,
+      "number": 81,
+      "question": "Identify the correct spelling:",
+      "options": [
+        "committe",
+        "commite",
+        "comittee",
+        "committee"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) committee",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10563,
+      "number": 82,
+      "question": "Fill in the gap :I saw ___________ one eyed man yesterday.",
+      "options": [
+        "on",
+        "at",
+        "an",
+        "a"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) a",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10564,
+      "number": 83,
+      "question": "What is the opposite of 'punctual'?",
+      "options": [
+        "Late",
+        "Prompt",
+        "Timely",
+        "Early"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Late",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10565,
+      "number": 84,
+      "question": "Verb form of the word knowledge :",
+      "options": [
+        "knowledgeable",
+        "know",
+        "knowing",
+        "known"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) know",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10566,
+      "number": 85,
+      "question": "Which one is an adjective?",
+      "options": [
+        "Healthfully",
+        "Healthy",
+        "Healthfulness",
+        "Health"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) Healthy",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10567,
+      "number": 86,
+      "question": "'Virology' means-",
+      "options": [
+        "scientific study of plants.",
+        "scientific study of animals.",
+        "scientific study of insects.",
+        "a branch of science that deals with virus and viral diseases."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) a branch of science that deals with virus and viral diseases.",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10568,
+      "number": 87,
+      "question": "'উর্মি' শব্দের সমার্থক কোন্টি?",
+      "options": [
+        "সোজা",
+        "বাতাস",
+        "আলো",
+        "ঢেউ"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ঢেউ",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10569,
+      "number": 88,
+      "question": "'মতিচুর' কার লেখা?",
+      "options": [
+        "কুসুমকুমারী দাশ",
+        "বেগম রোকেয়া",
+        "কামিনী রায়",
+        "সুফিয়া কামাল"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) বেগম রোকেয়া",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10570,
+      "number": 89,
+      "question": "মধ্যযুগের বাংলা সাহিত্যের আদি নিদর্শন কোনটি?",
+      "options": [
+        "পদ্মাবতী",
+        "শ্রীকৃষ্ণকীর্তন",
+        "বৈষ্ণব পদাবলী",
+        "লাইলি মজনু"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) শ্রীকৃষ্ণকীর্তন",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10571,
+      "number": 90,
+      "question": "'আমার সন্তান যেন থাকে দুধে ভাতে'-কার লেখা?",
+      "options": [
+        "ঈশ্বরগুপ্ত",
+        "মুকুন্দরাম",
+        "দীনবন্ধু মিত্র",
+        "ভারতচন্দ্র"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ভারতচন্দ্র",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10572,
+      "number": 91,
+      "question": "'মতৈক্য' শব্দটির সঠিক সন্ধিবিচ্ছেদ কোন্টি?",
+      "options": [
+        "মতঃ+এক",
+        "মতঃ+ঐক্য",
+        "মত+এক",
+        "মত+ঐক্য"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) মত+ঐক্য",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10573,
+      "number": 92,
+      "question": "'কবিকঙ্কণ' কে?",
+      "options": [
+        "বিদ্যাপতি",
+        "কোরেশি মাগন ঠাকুর",
+        "ভারতচন্দ্র",
+        "মুকুন্দরাম চক্রবর্তী"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) মুকুন্দরাম চক্রবর্তী",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10574,
+      "number": 93,
+      "question": "কোনটি দ্বন্দ্ব সমাসের উদাহরণ?",
+      "options": [
+        "মহাবীর",
+        "নিটোল",
+        "প্রতিদিন",
+        "দম্পতি"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) দম্পতি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10575,
+      "number": 94,
+      "question": "প্রখ্যাত সাহিত্যিক শওকত ওসমানের প্রকৃত নাম ছিলো -",
+      "options": [
+        "আবুল ফজল",
+        "আব্দুল হাই",
+        "কাজেম আল কুরায়েশী",
+        "শেখ অজিজুর রহমান"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) শেখ অজিজুর রহমান",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10576,
+      "number": 95,
+      "question": "কোনটি রবি ঠাকুরের কাব্যগ্রন্থ?",
+      "options": [
+        "চতুরঙ্গ",
+        "বউ ঠাকুরাণীর হাট",
+        "নৈবেদ্য",
+        "ডাকঘর"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) নৈবেদ্য",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10577,
+      "number": 96,
+      "question": "'A Doll's House' is a play by-",
+      "options": [
+        "Ibsen",
+        "Oscar Wilde",
+        "William Shakespeare",
+        "George Bernard Shaw"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) Ibsen",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10578,
+      "number": 97,
+      "question": "Identify the correct sentence:",
+      "options": [
+        "He is good in health.",
+        "He is good with health.",
+        "He is good of health.",
+        "He is in good health."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) He is in good health.",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10579,
+      "number": 98,
+      "question": "'Come round' means:",
+      "options": [
+        "come by a round way",
+        "go round something",
+        "different way",
+        "recover"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) recover",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10580,
+      "number": 99,
+      "question": "'সকাল থেকে বৃষ্টি হচ্ছে।'-Appropriate English translation:",
+      "options": [
+        "It is raining from morning.",
+        "It has been raining till morning.",
+        "It is raining since morning.",
+        "It has been raining since morning."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) It has been raining since morning.",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10581,
+      "number": 100,
+      "question": "Which is the superlative degree of 'beautiful'?",
+      "options": [
+        "Beautifullest",
+        "Beautiest",
+        "Most beautiful",
+        "Beautifulest"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) Most beautiful",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10582,
+      "number": 101,
+      "question": "'Hamlet' is written by-",
+      "options": [
+        "Bernard Shaw",
+        "Harold Pinter",
+        "William Shakespeare",
+        "John Donne"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) William Shakespeare",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10583,
+      "number": 102,
+      "question": "Fill in the blank : We believe __________ God.",
+      "options": [
+        "at",
+        "in",
+        "into",
+        "on"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) in",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10584,
+      "number": 103,
+      "question": "Which one is a 'Noun'?",
+      "options": [
+        "Beautiful",
+        "Bad",
+        "Good",
+        "Honesty"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) Honesty",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10585,
+      "number": 104,
+      "question": "The passive form of the sentence- 'I knew the man.'",
+      "options": [
+        "The man was known at me.",
+        "The man was known to me.",
+        "The man is known by me.",
+        "The man was known with me."
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) The man was known to me.",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10586,
+      "number": 105,
+      "question": "আন্তর্জাতিক ও দ্বিপাক্ষিক অনুষ্ঠানে ব্যবহারের জন্য টেবিল পতাকার মাপ কী?",
+      "options": [
+        "১২ ইঞ্চি × ৮ ইঞ্চি",
+        "১৪ ইঞ্চি × ১০ ইঞ্চি",
+        "১০ ইঞ্চি × ৬ ইঞ্চি",
+        "৮ ইঞ্চি × ৬ ইঞ্চি"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) ১০ ইঞ্চি × ৬ ইঞ্চি",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10587,
+      "number": 106,
+      "question": "\"Stop Genocide\" চলচ্চিত্রের পরিচালক কে ছিলেন?",
+      "options": [
+        "হুমায়ুন আহমেদ",
+        "জহির রায়হান",
+        "তারেক মাসুদ",
+        "চাষী নজরুল ইসলাম"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) জহির রায়হান",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10588,
+      "number": 107,
+      "question": "১ (এক) নটিক্যাল মাইলে কত কিলোমিটার?",
+      "options": [
+        "১.৫৫২ কি.মি.",
+        "১.৭৫২ কি.মি.",
+        "১.৬৫২ কি.মি.",
+        "১.৮৫২ কি.মি."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ১.৮৫২ কি.মি.",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10589,
+      "number": 108,
+      "question": "সাগরকন্যা কুয়াকাটা কোন উপজেলার অন্তর্গত?",
+      "options": [
+        "গলাচিপা",
+        "মহিপুর",
+        "আমতলী",
+        "কলাপাড়া"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) কলাপাড়া",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10590,
+      "number": 109,
+      "question": "শিশু দিবাযত্ন কেন্দ্র আইন, ২০২১ কার্যকর হয় কোন তারিখ হতে?",
+      "options": [
+        "০৩ সেপ্টেম্বর, ২০২১",
+        "০৪ সেপ্টেম্বর, ২০২১",
+        "০১ সেপ্টেম্বর, ২০২১",
+        "০২ সেপ্টেম্বর, ২০২১"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "গ) ০১ সেপ্টেম্বর, ২০২১",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10591,
+      "number": 110,
+      "question": "ফ্লোরেন্স নাইটএঙ্গেল (Florence Nightingale) এর জন্ম তারিখ-",
+      "options": [
+        "মে ১৬, ১৮২০",
+        "মে ১২, ১৮২০",
+        "মে ১৬, ১৭২০",
+        "মে ১২, ১৭২০"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) মে ১২, ১৮২০",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10592,
+      "number": 111,
+      "question": "বিশ্ব স্বাস্থ্য সংস্থা (WHO) কোন বছরকে নার্স ও মিউওয়াইফারী বছর হিসাবে ঘোষণা করেছে?",
+      "options": [
+        "২০২০",
+        "২০২১",
+        "২০১৯",
+        "২০১৮"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ২০২০",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10593,
+      "number": 112,
+      "question": "বাংলাদেশে শহীদ বুদ্ধিজীবী দিবস পালিত হয়-",
+      "options": [
+        "১৬ ডিসেম্বর",
+        "১৪ ডিসেম্বর",
+        "২১ ফেব্রুয়ারি",
+        "২৬ মার্চ"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "খ) ১৪ ডিসেম্বর",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10594,
+      "number": 113,
+      "question": "বাংলাদেশ জাতীয় সংসদের ১নং (এক) আসনটি কোন জেলার?",
+      "options": [
+        "পঞ্চগড়",
+        "দিনাজপুর",
+        "সিলেট",
+        "সুনামগঞ্জ"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) পঞ্চগড়",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10595,
+      "number": 114,
+      "question": "বাংলাদেশ জাতিসংঘের সদস্যপদ লাভ করে কোন তারিখে?",
+      "options": [
+        "২ সেপ্টেম্বর ১৯৭২",
+        "৮ সেপ্টেম্বর ১৯৭২",
+        "৯ সেপ্টেম্বর ১৯৭৩",
+        "১৭ সেপ্টেম্বর ১৯৭৪"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ঘ) ১৭ সেপ্টেম্বর ১৯৭৪",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10596,
+      "number": 115,
+      "question": "ইউনেস্কো ৭ মার্চের ভাষণকে বিশ্ব-প্রামাণ্য ঐতিহ্য ঘোষণা করে-",
+      "options": [
+        "৩০ অক্টোবর ২০১৭",
+        "২৬ অক্টোবর ২০১৭",
+        "৩০ অক্টোবর ২০১৬",
+        "২৬ অক্টোবর ২০১৬"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ৩০ অক্টোবর ২০১৭",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    },
+    {
+      "id": 10597,
+      "number": 116,
+      "question": "জাতীয় স্মৃতিসৌধের উচ্চতা কত মিটার?",
+      "options": [
+        "৪৬.৫ মিটার",
+        "৪২.৫ মিটার",
+        "৪৮.৫ মিটার",
+        "৪৪.৫ মিটার"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ক) ৪৬.৫ মিটার",
+      "difficulty": "মাঝারি",
+      "explanation": ""
+    }
+  ]
+}
