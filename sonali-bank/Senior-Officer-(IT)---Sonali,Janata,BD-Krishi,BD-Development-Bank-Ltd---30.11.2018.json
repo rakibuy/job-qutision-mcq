@@ -1,0 +1,1060 @@
+{
+  "examSlug": "Senior-Officer-(IT)---Sonali,Janata,BD-Krishi,BD-Development-Bank-Ltd---30.11.2018",
+  "examTitle": "Senior Officer (IT) - Sonali,Janata,BD Krishi,BD Development Bank Ltd - 30.11.2018 প্রশ্ন ও সমাধান",
+  "categoryKey": "sonali-bank",
+  "source": "bdmerit.com",
+  "url": "https://bdmerit.com/question-bank-details/bank-job/Senior-Officer-%28IT%29---Sonali%2CJanata%2CBD-Krishi%2CBD-Development-Bank-Ltd---30.11.2018",
+  "questionCount": 75,
+  "questions": [
+    {
+      "id": 30423,
+      "number": 1,
+      "question": "USB Stands for-",
+      "options": [
+        "Uniform Serial Bus",
+        "Universal Standard Bus",
+        "Universal Serial Bus",
+        "Universal Serial Bitrate"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "Universal Serial Bus",
+      "explanation": "Universal Serial Bus (USB) is an industry standard that establishes specifications for cables and connectors and protocols for connection, communication and power supply (interfacing) between computers, peripherals and other computers."
+    },
+    {
+      "id": 31746,
+      "number": 2,
+      "question": "which operator is used to declare the destructor in C++ ?",
+      "options": [
+        "#",
+        "~",
+        "@",
+        "$"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "~",
+      "explanation": "A destructor is a member function that is invoked automatically when the object goes out of scope or is explicitly destroyed by a call to delete. A destructor has the same name as the class, preceded by a tilde (~). For example, the destructor for class String is declared: ~String()."
+    },
+    {
+      "id": 31748,
+      "number": 3,
+      "question": "which alternative can replace the throw statement in C++ ?",
+      "options": [
+        "for",
+        "break",
+        "return",
+        "exit"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "return",
+      "explanation": "Throw and return does the same job as return a value . so it can be replaced ."
+    },
+    {
+      "id": 31752,
+      "number": 4,
+      "question": "what type of reference should be used in vector arithmetic in C++ =?",
+      "options": [
+        "Dynamic",
+        "Const",
+        "both dynamic & const",
+        "static"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "both dynamic & const",
+      "explanation": "As we are using the vector and it will give accurate result if we use const reference ."
+    },
+    {
+      "id": 31755,
+      "number": 5,
+      "question": "which of these data types is used by operating system to manage the Recursion in Java?",
+      "options": [
+        "Array",
+        "Stack",
+        "Queue",
+        "Tree"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "Stack",
+      "explanation": "In computer science, a Stack is an abstract data type that serves as a collection of elements, with two main principal operations:\nPush, which adds an element to the collection, and\nPop, which removes the most recently added element that was not yet removed."
+    },
+    {
+      "id": 31758,
+      "number": 6,
+      "question": "which of the following is an incorrect statement about packages?",
+      "options": [
+        "Package defines a namespace in which classes are stored",
+        "A package can contain other packages within it",
+        "Java uses file system directories to store packages",
+        "A package can be renamed without renaming the directory in which the classes are stored."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "A package can be renamed without renaming the directory in which the classes are stored.",
+      "explanation": "A package can be renamed only after renaming the directory in which the classes are stored."
+    },
+    {
+      "id": 31760,
+      "number": 7,
+      "question": "A derived class inherits attributes from a __ .",
+      "options": [
+        "Super class",
+        "Sub class",
+        "Inner class",
+        "Upper class"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "Super class",
+      "explanation": "A class can inherit attributes and behaviour methods from another class, called the supper class. A class which inherits from a super is class is called a sub class, also called heir class or child class."
+    },
+    {
+      "id": 31763,
+      "number": 8,
+      "question": "Multiple inheritance in Java can be implemented using which of the following ?",
+      "options": [
+        "Inter faces",
+        "Multithreading",
+        "Protected methods",
+        "Private methods"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "Inter faces",
+      "explanation": ""
+    },
+    {
+      "id": 31767,
+      "number": 9,
+      "question": "which component is used to compile , debug and execute java program?",
+      "options": [
+        "JVM",
+        "JDK",
+        "JTT",
+        "JRE"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "JDK",
+      "explanation": "JDK is a core component of java Environment and provides all the tools, executables and binaries required to compile, debug and execute a java Program ."
+    },
+    {
+      "id": 31769,
+      "number": 10,
+      "question": "which of the following statements is the negation of the statements '4 is odd or -9 is positive'?",
+      "options": [
+        "4 is even or - 9 is not negative",
+        "4 is odd or 9 is not negative",
+        "4 is even and - 9 is negative",
+        "4 is odd and - 9 is not negative"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "4 is even and - 9 is negative",
+      "explanation": ""
+    },
+    {
+      "id": 31773,
+      "number": 11,
+      "question": "If determinant of a matrix A is Zero than :",
+      "options": [
+        "A is a Singular matrix",
+        "A is a non - Singular Matrix",
+        "First and last rows of the matrix must be same",
+        "First and last columns of the matrix must be same"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A is a Singular matrix",
+      "explanation": "যদি কোনো বর্গ ম্যাট্রিক্স - এর determinate এর মান শূন্য হয় তাহলে ম্যাট্রিক্সটি অবশ্যই Singular matrix হবে।"
+    },
+    {
+      "id": 31775,
+      "number": 12,
+      "question": "The complexity of Binary search algorithm is ___",
+      "options": [
+        "O (n)",
+        "O (log n)",
+        "O ( n 2 )",
+        "O ( n log n )"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "O (log n)",
+      "explanation": "Binary search runs in at worst logarithmic time, making O ( log n) comparison , where n is the number of elements in the array, the O is Big O notation, and log is the logarithm ."
+    },
+    {
+      "id": 31777,
+      "number": 13,
+      "question": "A nonstandard HTML extension that causes scrolling text to appear as part of a Web page is :",
+      "options": [
+        "DHCP",
+        "mask off",
+        "Dhrystone",
+        "marquce"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "marquce",
+      "explanation": "The < marquee> is a non - standard HTML tag which was used to creat a scrolling text or an image .It was used to make the text /image scroll horizontally accross or vertically down the web page."
+    },
+    {
+      "id": 31778,
+      "number": 14,
+      "question": "Object being passed to a copy constructor __",
+      "options": [
+        "Must be passed by reference",
+        "Must be passed by value",
+        "Must be passed with integer type",
+        "Must not be mentioned in parameter list"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "Must be passed by value",
+      "explanation": ""
+    },
+    {
+      "id": 31779,
+      "number": 15,
+      "question": "why do we need to handle exceptions?",
+      "options": [
+        "To prevent abnormal termination of program",
+        "To encourage exception prone program",
+        "To avoid syntax errors",
+        "To save memory"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "To avoid syntax errors",
+      "explanation": "The exceptions should be handled to prevent any abnormal termination of a program. The program should keep running even if it gets interrupted in between."
+    },
+    {
+      "id": 31780,
+      "number": 16,
+      "question": "If same message is passed to objects of several different classes and all of those can respond in a different way, what is this feature called?",
+      "options": [
+        "Inheritance",
+        "Overloading",
+        "Polymorphism",
+        "Overriding"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "Polymorphism",
+      "explanation": "The feature defined in question defines polymorphism features. Here the different objects are capable of responding to the same message in different ways, hence polymorphism."
+    },
+    {
+      "id": 31783,
+      "number": 17,
+      "question": "Does constructor overloading include different return types for constructors to be overloaded ?",
+      "options": [
+        "Yes, If return types are different, signature becomes different",
+        "Yes, because return types can differentiate two functions",
+        "No, return type can't differentiate two functions",
+        "No, constructors doesn't have any return type"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "No, constructors doesn't have any return type",
+      "explanation": "The constructors doesn't have any return type. When we can't have return type of a constructor, overloading based on the return type is not possible."
+    },
+    {
+      "id": 31786,
+      "number": 18,
+      "question": "2019 is Binary :",
+      "options": [
+        "0000011111100010",
+        "0000001111110010",
+        "0000001111110011",
+        "0000011111100011"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "0000011111100011",
+      "explanation": ""
+    },
+    {
+      "id": 31787,
+      "number": 19,
+      "question": "An array contains the following letters. Color ={ E, L,E,C,T,I,O,N} The value of the variable, E =3 , color [E] points to which value?",
+      "options": [
+        "E",
+        "C",
+        "T",
+        "L"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "L",
+      "explanation": ""
+    },
+    {
+      "id": 31789,
+      "number": 20,
+      "question": "How to access the overridden method of base class from the derived class?",
+      "options": [
+        "Using arrow operator",
+        "using dot operator",
+        "using scope resolution operator",
+        "Can't be accessed once overridden"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "using scope resolution operator",
+      "explanation": ""
+    },
+    {
+      "id": 31792,
+      "number": 21,
+      "question": "11100010 has a decimal value of __",
+      "options": [
+        "252",
+        "225",
+        "226",
+        "220"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "226",
+      "explanation": ""
+    },
+    {
+      "id": 31795,
+      "number": 22,
+      "question": "when two variables are logically compared , the logic gate that tests the equivalence is ___",
+      "options": [
+        "XNOR",
+        "XOR",
+        "AND",
+        "NOR"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "XOR",
+      "explanation": "This explains why \"EQ\" is often called \"XNOR\" in the combinational logic of circuit engineers, since it is the negation of the XOR operation; \"NXOR\" is a less commonly used alternative.\nAnother rationalization of the admittedly circuitous name \"XNOR\" is that one begins with the \"both false\" operator NOR and then adds the eXception \"or both true\"."
+    },
+    {
+      "id": 31797,
+      "number": 23,
+      "question": "which of the following is not a malware?",
+      "options": [
+        "Virus",
+        "Worm",
+        "Bug",
+        "Trojan horse"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "Bug",
+      "explanation": "Human ware is something which is worn by the human beings which is not a malware. where as virus, worm and adware are something related to computers they all are a part of class software called \"malware\"."
+    },
+    {
+      "id": 31799,
+      "number": 24,
+      "question": "Dark data represents __",
+      "options": [
+        "Unused data",
+        "Harmful data",
+        "Highlighted data",
+        "Important data"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "Unused data",
+      "explanation": "Dark data is data which is acquired through various computer network operations but not used in any manner to derive insights or for decision making.\nThe ability of an organisation to collect data can exceed the throughput at which it can analyse the data. In some cases the organisation may not even be aware that the data is being collected.\nIBM estimate that roughly 90 percent of data generated by sensors and analog - to - digital conversions never get used."
+    },
+    {
+      "id": 31801,
+      "number": 25,
+      "question": "Source code is (n)",
+      "options": [
+        "Program",
+        "List of commands",
+        "source of variables",
+        "Explanation of the algorithm"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "Program",
+      "explanation": "In computing, source code is any collection of code, with or without comments, written using a human - readable programming language, usually as plain text.\nThe source code of a program is specially designed to facilitate the work of computer programmers, who specify the actions to be performed by a computer mostly by writing source code.\nThe source code is often transformed by an assembler or compiler into binary machine code that can be executed by the computer.\nThe machine code might then be stored for execution at a later time. Alternatively, source code may be interpreted and thus immediately executed."
+    },
+    {
+      "id": 31804,
+      "number": 26,
+      "question": "which of the following defines the addressing capabilities of the networking",
+      "options": [
+        "OSL",
+        "NAT",
+        "TCP",
+        "UDP"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "NAT",
+      "explanation": "NAT = Network address translation\nTCP = Transmission Control Protocol\nUDP = User Datagram Protocol"
+    },
+    {
+      "id": 31806,
+      "number": 27,
+      "question": "How many layers are there in the software part of networking framework",
+      "options": [
+        "Three",
+        "seven",
+        "Four",
+        "Five"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "seven",
+      "explanation": "7 Layers\nOSI Model: The 7 Layers of Network Architecture. The Open Systems Interconnection (OSI) Reference Model is a conceptual framework that describes functions of the networking or telecommunication system independently from the underlying technology infrastructure."
+    },
+    {
+      "id": 31808,
+      "number": 28,
+      "question": "AR refers to which of the following environment",
+      "options": [
+        "Artificial Reality",
+        "Augmented Report",
+        "Artificial Report",
+        "Augmented Reality"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "Augmented Reality",
+      "explanation": ""
+    },
+    {
+      "id": 31811,
+      "number": 29,
+      "question": "Memory management scheme by which a computer stores and retrieves data from secondary storage for use in main memory is __",
+      "options": [
+        "paging",
+        "scheduling",
+        "batch processing",
+        "virtual storage"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "paging",
+      "explanation": "memory paging\nIn computer operating systems, memory paging is a memory management scheme by which a computer stores and retrieves data from secondary storage for use in main memory. In this scheme, the operating system retrieves data from secondary storage in same - size blocks called pages."
+    },
+    {
+      "id": 31813,
+      "number": 30,
+      "question": "A single communication system that transfers and connects the data between major components inside a computer is :",
+      "options": [
+        "Address Bus",
+        "Data Bus",
+        "System Bus",
+        "Control Bus"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "System Bus",
+      "explanation": "In computer architecture, a bus (a contraction of the Latin omnibus, and historically also called data highway) is a communication system that transfers data between components inside a computer, or between computers. This expression covers all related hardware components (wire, optical fiber, etc.)"
+    },
+    {
+      "id": 31817,
+      "number": 31,
+      "question": "A Primary key must also be __",
+      "options": [
+        "Foreign key",
+        "Unique",
+        "Identical",
+        "Case sensitive"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "Unique",
+      "explanation": "A primary key is a field in a table which uniquely identifies each row/record in a database table. Primary keys must contain unique values. A primary key column cannot have NULL values. A table can have only one primary key, which may consist of single or multiple fields."
+    },
+    {
+      "id": 31823,
+      "number": 32,
+      "question": "which of the following is the smallest size in the list?",
+      "options": [
+        "Zettabyte",
+        "Gigabyte",
+        "Petabyte",
+        "Terabyte"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "Gigabyte",
+      "explanation": "Gigabyte Technology is a Taiwanese manufacturer and distributor of computer hardware. Gigabyte's principal business is motherboards.\nIt shipped 4.8 million motherboards in the first quarter of 2015, which allowed it to become the leading motherboard vendor."
+    },
+    {
+      "id": 31828,
+      "number": 33,
+      "question": "Int C = 10 , system out println (C-) , gives a output of",
+      "options": [
+        "10",
+        "11",
+        "9",
+        "8"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "10",
+      "explanation": "এখানে C একটি ভেরিএবল যার ডেটাটাইপ হলো int বা পূর্ণসংখ্যা এবং এর value হলো 10 এখন প্রিন্ট কমান্ডে printf(c - - ) বয়বহৃত হয়েছে এর মানে আমরা output এ 10 ই দেখব।। c - - এর অর্থ প্রথমে c এর মান 10 Print করবে পরে 1 বিয়োগ করবে।\nআর - - c এর মানে প্রথমে - 1 তারপর C এর value অর্থাৎ যদি - - C থাকত তাহলে  9 print হত।"
+    },
+    {
+      "id": 31832,
+      "number": 34,
+      "question": "All of the following are considered gaming engines except",
+      "options": [
+        "Hex editor",
+        "Unity",
+        "HTML5",
+        "Adobe Flash"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "Hex editor",
+      "explanation": ""
+    },
+    {
+      "id": 31834,
+      "number": 35,
+      "question": "what represents a row in a relational database?",
+      "options": [
+        "variable q",
+        "tuple",
+        "entity",
+        "field"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tuple",
+      "explanation": "In the context of a relational database, a row—also called a tuple—represents a single, implicitly structured data item in a table. In simple terms, a database table can be thought of as consisting of rows and columns."
+    },
+    {
+      "id": 31837,
+      "number": 36,
+      "question": "All of the following logical connectives are included in SQL except.",
+      "options": [
+        "and",
+        "or",
+        "nor",
+        "not"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "nor",
+      "explanation": ""
+    },
+    {
+      "id": 31863,
+      "number": 37,
+      "question": "Bit coin uses __ technology.",
+      "options": [
+        "P2p",
+        "Neural",
+        "AL",
+        "Datamining"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "P2p",
+      "explanation": ""
+    },
+    {
+      "id": 96482,
+      "number": 38,
+      "question": "The full form of `Wi-Fi' is",
+      "options": [
+        "Wireless Facility",
+        "Wireless Field",
+        "Wireless Fidelity",
+        "Wireless Fiction"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "Wireless Fidelity",
+      "explanation": "Wi - Fi এর পূর্ণরূপ Wireless Fidelity ওয়াইফাই বা ওয়্যারলেস ফডারিলিটি হচ্ছে এক ধরনের জনপ্রিয় তারবিহীন প্রযুক্তি বা রেডিও ওয়েব ব্যবহার করে কোন ইলেকট্রনিক ডিভাইসকে উচ্চগতির ইন্টারনেট সংযোগ কিংবা কম্পিউটার নেটওয়ার্কের মাধ্যমে ডেটা - আদান প্রদান করতে পারে। এর স্ট্যান্ডার্ড হলো - IEEE 802.11"
+    },
+    {
+      "id": 121139,
+      "number": 39,
+      "question": "which of the following options suitable, if A is '10110110'. B is '1110000' and C is '10100000' ?",
+      "options": [
+        "C=A or B",
+        "C =A",
+        "C =B",
+        "C = A and B"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "C = A and B",
+      "explanation": ""
+    },
+    {
+      "id": 31638,
+      "number": 40,
+      "question": "নিচের কোন বানানটি শুদ্ধ ?",
+      "options": [
+        "প্রসংশা",
+        "পরাধিন",
+        "রপ্তনী",
+        "দুঃশীল"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "দুঃশীল",
+      "explanation": ""
+    },
+    {
+      "id": 31645,
+      "number": 41,
+      "question": "কারক ও বিভক্তি নির্ণয় করুন : 'সারারাত বৃষ্টি হয়েছে'",
+      "options": [
+        "করণে ৩য়া",
+        "কর্তৃকারকে ৩য়া",
+        "অধিকরণে শূণ্য",
+        "কর্মে শূণ্য"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "অধিকরণে শূণ্য",
+      "explanation": ""
+    },
+    {
+      "id": 31650,
+      "number": 42,
+      "question": "'মস্যাধার' এর সঠিক সন্ধি বিচ্ছেদ হলো:",
+      "options": [
+        "মৎস + ধার",
+        "মসী + আধার",
+        "মৎস + আধার",
+        "মাছ + আধার"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "মসী + আধার",
+      "explanation": ""
+    },
+    {
+      "id": 31658,
+      "number": 43,
+      "question": "'গুদাম' কোন শব্দ?",
+      "options": [
+        "ইংরেজি",
+        "তুর্কি",
+        "পর্তুগিজ",
+        "ফারসি"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "পর্তুগিজ",
+      "explanation": "সঠিক উত্তর: পর্তুগিজ। 'গুদাম' শব্দটি পর্তুগিজ ভাষা থেকে এসেছে। আরও কিছু পর্তুগিজ শব্দ: আলমারি, আনারস, বালতি, চাবি, পাউরুটি, পাদ্রি, গির্জা।"
+    },
+    {
+      "id": 31661,
+      "number": 44,
+      "question": "কাজী নজরুল ইসলামের ছদ্মনাম হলো _",
+      "options": [
+        "বীরবল",
+        "ধূমকেতু",
+        "গাজী মিঞা",
+        "নীলা উপাধ্যায়"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "ধূমকেতু",
+      "explanation": ""
+    },
+    {
+      "id": 31667,
+      "number": 45,
+      "question": "মামাগো ! নাটকটির রচয়িতা কে?",
+      "options": [
+        "আসাদ চৌধুরী",
+        "কাজী নজরুল ইসলাম",
+        "সুকুমার রায়",
+        "শামসুর রাহমান"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "সুকুমার রায়",
+      "explanation": "সুকুমার রায় চৌধুরী (৩০ অক্টোবর ১৮৮৭ - ১০ সেপ্টেম্বর ১৯২৩) ছিলেন একজন বাঙালি শিশুসাহিত্যিক ও ভারতীয় সাহিত্যে \"ননসেন্স ছড়া\"র প্রবর্তক।\nতিনি একাধারে লেখক, ছড়াকার, শিশুসাহিত্যিক, রম্যরচনাকার, প্রাবন্ধিক, নাট্যকার ও সম্পাদক।\nতিনি ছিলেন জনপ্রিয় শিশুসাহিত্যিক উপেন্দ্রকিশোর রায়চৌধুরীর সন্তান এবং তার পুত্র খ্যাতিমান ভারতীয় চলচ্চিত্রকার সত্যজিৎ রায়।\nমামাগো নাটকটির রচয়িতা হলেন সুকুমার রায়।"
+    },
+    {
+      "id": 43006,
+      "number": 46,
+      "question": "‘অপমান’ শব্দের ‘অপ’ উপসর্গটি কোন অর্থে ব্যবহৃত ?",
+      "options": [
+        "বিপরীত",
+        "নিকৃষ্ট",
+        "অভাব",
+        "বিকৃত"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "বিপরীত",
+      "explanation": "‘উপসর্গ’ কথাটির মূল অর্থ ‘উপসৃষ্ট’। এর কাজ হলো নতুন শব্দ গঠন করা। উপসর্গের নিজস্ব কোন অর্থ নেই, তবে এগুলো অন্য শব্দের সাথে যুক্ত হয়ে বিশেষ অর্থ প্রকাশ করে থাকে। মনে রাখতে হবে, উপসর্গ সব সময় মূল শব্দ বা ধাতুর পূর্বে যুক্ত হয়"
+    },
+    {
+      "id": 88097,
+      "number": 47,
+      "question": "'চাঁদমুখ' ---এর ব্যাসবাক্য হলো -----",
+      "options": [
+        "চাঁদমুখের ন্যায়",
+        "চাঁদের মত মুখ",
+        "চাঁদ মুখ যার",
+        "চাঁদরূপ মুখ"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "চাঁদের মত মুখ",
+      "explanation": "'চাঁদমুখ' ---এর ব্যাসবাক্য হলো -----সাধারণ গুণের উল্লেখ ব্যতীত উপমেয়র সাথে উপমান পদের যে সমাস হয়। তাকে বলে উপমিত কর্মধারয় সমাস। 'চাঁদমুখ - এর ব্যাসবাক্য হলো 'মুখ চাঁদের ন্যায়।' এটি উপমিত কর্মধারয় সমাসের অন্তর্গত।"
+    },
+    {
+      "id": 118045,
+      "number": 48,
+      "question": "একাদশে বৃহস্পতি' বলতে কি বোঝায়?",
+      "options": [
+        "বিরাট আয়োজন",
+        "গুরুত্বহীন কথা",
+        "হঠাৎ গরিব হওয়া",
+        "সৌভাগ্যের বিষয়"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "সৌভাগ্যের বিষয়",
+      "explanation": "ব্যখাঃ একাদশে বৃহস্পতি বাগধারাটির অর্থ হচ্ছে\n\" সোভাগ্যের বিষয়\""
+    },
+    {
+      "id": 137721,
+      "number": 49,
+      "question": "'ভূত' শব্দের বিপরীত শব্দ কোনটি?",
+      "options": [
+        "ভবিষৎ",
+        "প্রেত",
+        "পেতনি",
+        "ভীরু"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ভবিষৎ",
+      "explanation": "ভূত : (বিশেষণ পদ) অতীত।\nভবিষ্যৎ : (বিশেষণ পদ) আগামী, পরে ঘটবে এমন।"
+    },
+    {
+      "id": 31671,
+      "number": 50,
+      "question": "He has no good cause __ complaint. Darkness was the cause ___ his losing his way.",
+      "options": [
+        "for , of",
+        "in , of",
+        "at , in",
+        "of , in"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "for , of",
+      "explanation": ""
+    },
+    {
+      "id": 31674,
+      "number": 51,
+      "question": "He agreed __ my proposal . He agreed ___ me on that question . They could not agree __ themselves.",
+      "options": [
+        "among , to with",
+        "for , about ,in",
+        "to , with , among",
+        "in ,to, by"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "to , with , among",
+      "explanation": ""
+    },
+    {
+      "id": 31694,
+      "number": 52,
+      "question": "Translate into English : চুন খেয়ে গাল পোড়ে, দই দেখলে ভয় করে ।",
+      "options": [
+        "A still tongue makes a wise head .",
+        "A scalded dog fears cold water.",
+        "A square peg in a round hole.",
+        "A pet lamb makes a cross ram ."
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "A scalded dog fears cold water.",
+      "explanation": ""
+    },
+    {
+      "id": 31698,
+      "number": 53,
+      "question": "Choose the correct spelling :",
+      "options": [
+        "Seychcles",
+        "Seychelles",
+        "Sayshelles",
+        "sayshells"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "Seychelles",
+      "explanation": "The Seychelles is an archipelago of 115 islands in the Indian Ocean, off East Africa. It's home to numerous beaches, coral reefs and nature reserves, as well as rare animals such as giant Aldabra tortoises. Mahé, a hub for visiting the other islands, is home to capital Victoria. It also has the mountain rainforests of Morne Seychellois National Park and beaches, including Beau Vallon and Anse Takamaka. Capital: Victoria Area: 459 km² Currency: Seychellois rupee Population: 96,762 (2018)"
+    },
+    {
+      "id": 31701,
+      "number": 54,
+      "question": "Choose the correct spelling :",
+      "options": [
+        "Reminisce",
+        "Reminise",
+        "Reminis",
+        "Reminces"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "Reminisce",
+      "explanation": "Reminisce is a dreamy way of saying \"remember the past.\" If you're swapping old stories with friends and remembering all the silly things you used to do, then you're reminiscing. Reminiscing is all about happy recollections and thinking back to stories from the past."
+    },
+    {
+      "id": 107860,
+      "number": 55,
+      "question": "The timely rain_good crops.",
+      "options": [
+        "brings in",
+        "brings about",
+        "brings up",
+        "brings forth"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "brings forth",
+      "explanation": "bring forth - (synonym) to give birth to; deliver; bear: to bring forth a son. to give rise to; introduce: to bring forth a proposal for reducing costs."
+    },
+    {
+      "id": 121134,
+      "number": 56,
+      "question": "synonym of 'Fastidious'?",
+      "options": [
+        "finicky",
+        "Quarrelsome",
+        "Meteoric",
+        "Modulate"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "finicky",
+      "explanation": "finicky (adjective) (of a person) fussy about their needs or requirements. \"a finicky eater\" Similar: fussy, fastidious, punctilious, over - particular, hard to please, overcritical, difficult, awkward, exacting, demanding, perfectionist, pass - remarkable, picky, choosy, pernickety, pernickety, nice, showing or requiring great attention to detail. \"His finicky copperplate hand\"."
+    },
+    {
+      "id": 121135,
+      "number": 57,
+      "question": "Antonym of 'Myopia'",
+      "options": [
+        "Naive",
+        "Narcotic",
+        "Farsighted",
+        "Formidable"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "Farsighted",
+      "explanation": "Antonyms for (noun) myopia Main entry: myopia, nearsightedness, shortsightedness. Definition: (ophthalmology) eyesight abnormality resulting from the eye's faulty refractive ability; distant objects appear blurred. Antonyms: longsightedness, farsightedness, hypermetropia, hypermetropy, hyperopia."
+    },
+    {
+      "id": 183179,
+      "number": 58,
+      "question": "What is the meaning of 'White Elephant'?",
+      "options": [
+        "An elephant of white colour",
+        "A very costly or troublesome possession",
+        "A black marketer",
+        "A hoarder"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "A very costly or troublesome possession",
+      "explanation": "The correct meaning is A very costly or troublesome possession. The idiom \"white elephant\" refers to something that is a burden to maintain, expensive, and often has little practical use, originating from a legend where a Siamese king would gift sacred albino elephants to courtiers he disliked, knowing the immense cost of caring for the animal would ruin them.\nCostly and troublesome: The possession is expensive to maintain and provides little value or utility.\nThe origin: The term comes from a legend where kings of Siam (now Thailand) gave white elephants to courtiers as a seemingly prestigious gift that would actually lead to their financial ruin due to the high cost of care"
+    },
+    {
+      "id": 31704,
+      "number": 59,
+      "question": "'In spite of all his brag he had to eat humble pie. choose the correct meaning of the idiom to eat humble pie.",
+      "options": [
+        "To force someone",
+        "To yield humiliating circumstances",
+        "To eat a tasty pic",
+        "To say negative things about someone"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "To yield humiliating circumstances",
+      "explanation": "phrase. If you eat humble pie, you speak or behave in a way which tells people that you admit you were wrong about something. Anson was forced to eat humble pie and publicly apologise to her."
+    },
+    {
+      "id": 31851,
+      "number": 60,
+      "question": "first Cyber city of Bangladesh is :",
+      "options": [
+        "chittagong",
+        "Sylhet",
+        "Rajshahi",
+        "Khulna"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "Sylhet",
+      "explanation": ""
+    },
+    {
+      "id": 31855,
+      "number": 61,
+      "question": "Kukri Mukri is an island located in __ district .",
+      "options": [
+        "Cox's Bazar",
+        "Bhola",
+        "Noakhali",
+        "Chittagong"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "Bhola",
+      "explanation": ""
+    },
+    {
+      "id": 31858,
+      "number": 62,
+      "question": "The Hall of Fame Championships is popular in __ Sport .",
+      "options": [
+        "Cricket",
+        "Basketball",
+        "Football",
+        "Tennis"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "Tennis",
+      "explanation": ""
+    },
+    {
+      "id": 31860,
+      "number": 63,
+      "question": "Subarnagram is __",
+      "options": [
+        "A police station in Noakhali",
+        "Ancient name of chittagong",
+        "Ancient name of Sonargaon",
+        "Ancient in Teenage Girl"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "Ancient name of Sonargaon",
+      "explanation": "The name Sonargaon originated with the ancient term of Suvarnagrama. Sonargaon was ruled by Vanga and Samatata Kingdoms during antiquity. The Sena dynasty used the area as a base. The Deva dynasty King Dasharathadeva shifted his capital from Bikrampur to Suvarnagrama in the middle of the 13th century."
+    },
+    {
+      "id": 31865,
+      "number": 64,
+      "question": "According to International Diabetes Federation . which day is observed as 'World Diabetes Day's ?",
+      "options": [
+        "4th April",
+        "7th June",
+        "14th November",
+        "9th May"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "14th November",
+      "explanation": ""
+    },
+    {
+      "id": 31868,
+      "number": 65,
+      "question": "The parliament of __ is well known as Westminster Parliament.",
+      "options": [
+        "Norway",
+        "USA",
+        "UK",
+        "Poland"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "UK",
+      "explanation": ""
+    },
+    {
+      "id": 148942,
+      "number": 66,
+      "question": "which of the following is full form of BIDA?",
+      "options": [
+        "Bangladesh International disaster authority",
+        "Bangladesh International Diabetic Association",
+        "Bangladesh Investment Department & Authority",
+        "Bangladesh Investment Development Authority"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "Bangladesh Investment Development Authority",
+      "explanation": ""
+    },
+    {
+      "id": 31710,
+      "number": 67,
+      "question": "If Tk. 5,000 is invested at 12% annual rate of interest, how much will the investment be worth after 2 years?",
+      "options": [
+        "5785",
+        "6272",
+        "7190",
+        "8225"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "6272",
+      "explanation": ""
+    },
+    {
+      "id": 31718,
+      "number": 68,
+      "question": "If 62 =34 + 4x. what is x ?",
+      "options": [
+        "x =16",
+        "x = -16",
+        "x =7",
+        "x =5"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "x =7",
+      "explanation": "62 = 34 + 4x\n4x = 62 - 34\nx = 28/4\nx = 7"
+    },
+    {
+      "id": 31721,
+      "number": 69,
+      "question": "If an investor gets Tk. 19500 as interest after 5 years on his savings of Tk. 13,000. what is the rate of interest ?",
+      "options": [
+        "8%",
+        "5%",
+        "10%",
+        "30%"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "30%",
+      "explanation": ""
+    },
+    {
+      "id": 31723,
+      "number": 70,
+      "question": "A person saves Tk. 5000 in his bank account . If the bank gives 10% annual profit , how much will be his balance after 6 years?",
+      "options": [
+        "Tk. 3000",
+        "Tk. 5000",
+        "Tk. 7000",
+        "Tk. 8000"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "Tk. 8000",
+      "explanation": ""
+    },
+    {
+      "id": 31726,
+      "number": 71,
+      "question": "If 18 is 15 percent of 30 percent of a certain number , what is the number?",
+      "options": [
+        "36",
+        "40",
+        "81",
+        "400"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "400",
+      "explanation": ""
+    },
+    {
+      "id": 31730,
+      "number": 72,
+      "question": "If a cube has a length of 8 cm , what is its total surface area?",
+      "options": [
+        "64",
+        "96",
+        "384",
+        "256"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "384",
+      "explanation": ""
+    },
+    {
+      "id": 31735,
+      "number": 73,
+      "question": "what is the ratio of 3/4 to the product 4 (3/4)?",
+      "options": [
+        "1/3",
+        "1/4",
+        "4/9",
+        "9/4"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "1/4",
+      "explanation": ""
+    },
+    {
+      "id": 31739,
+      "number": 74,
+      "question": "If A = { 1,2,3} And B = { 1, 2,5} then A -B .",
+      "options": [
+        "{1}",
+        "{5}",
+        "{3}",
+        "{2}"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "{3}",
+      "explanation": ""
+    },
+    {
+      "id": 121141,
+      "number": 75,
+      "question": "If set A = {1,2} and C = { 3,4} then A×B (Cartesian product of set A and B ) is",
+      "options": [
+        "{1,2,3,4}",
+        "{(1,3), (2,4)}",
+        "{(1,3), (2,4), (1,4),(2,3)}",
+        "Try your self"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "Try your self",
+      "explanation": ""
+    }
+  ]
+}

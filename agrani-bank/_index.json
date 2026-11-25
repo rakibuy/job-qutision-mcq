@@ -1,0 +1,37 @@
+{
+  "categoryKey": "agrani-bank",
+  "sourceUrl": "https://bdmerit.com/question-bank/agrani-bank",
+  "totalExams": 4,
+  "totalQuestions": 397,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "Agrani-Bank-Ltd.-Recruitment-Test-for-Senior-Officer-12.02.2010",
+      "examTitle": "Agrani Bank Ltd. Recruitment Test for Senior Officer 12.02.2010 প্রশ্ন ও সমাধান",
+      "questionCount": 73,
+      "file": "Agrani-Bank-Ltd.-Recruitment-Test-for-Senior-Officer-12.02.2010.json",
+      "url": "https://bdmerit.com/question-bank-details/bank-job/Agrani-Bank-Ltd.-Recruitment-Test-for-Senior-Officer-12.02.2010"
+    },
+    {
+      "examSlug": "Sonali,-Janata,-Agrani-&-Rupali-Bank-Ltd.-&-RAKUB-Officer-Recruitment-28.03.2008",
+      "examTitle": "Sonali, Janata, Agrani & Rupali Bank Ltd. & RAKUB Officer Recruitment 28.03.2008 প্রশ্ন ও সমাধান",
+      "questionCount": 119,
+      "file": "Sonali,-Janata,-Agrani-&-Rupali-Bank-Ltd.-&-RAKUB-Officer-Recruitment-28.03.2008.json",
+      "url": "https://bdmerit.com/question-bank-details/bank-job/Sonali%2C-Janata%2C-Agrani-%26-Rupali-Bank-Ltd.-%26-RAKUB-Officer-Recruitment-28.03.2008"
+    },
+    {
+      "examSlug": "Sonali,-Janata,-Agrani-&-Rupali-Bank-Ltd.-Senior-Officer-Recruitment-14.03.2008",
+      "examTitle": "Sonali, Janata, Agrani & Rupali Bank Ltd. Senior Officer Recruitment 14.03.2008 প্রশ্ন ও সমাধান",
+      "questionCount": 98,
+      "file": "Sonali,-Janata,-Agrani-&-Rupali-Bank-Ltd.-Senior-Officer-Recruitment-14.03.2008.json",
+      "url": "https://bdmerit.com/question-bank-details/bank-job/Sonali%2C-Janata%2C-Agrani-%26-Rupali-Bank-Ltd.-Senior-Officer-Recruitment-14.03.2008"
+    },
+    {
+      "examSlug": "Sonali,-Janata-&-Agrani-Bank-Offier-(Cash-Recruitment)-22.02.2008",
+      "examTitle": "Sonali, Janata & Agrani Bank Offier (Cash Recruitment) 22.02.2008 প্রশ্ন ও সমাধান",
+      "questionCount": 107,
+      "file": "Sonali,-Janata-&-Agrani-Bank-Offier-(Cash-Recruitment)-22.02.2008.json",
+      "url": "https://bdmerit.com/question-bank-details/bank-job/Sonali%2C-Janata-%26-Agrani-Bank-Offier-%28Cash-Recruitment%29-22.02.2008"
+    }
+  ]
+}

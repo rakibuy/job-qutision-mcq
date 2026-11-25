@@ -1,0 +1,51 @@
+{
+  "categoryKey": "rupali-bank",
+  "sourceUrl": "https://bdmerit.com/question-bank/rupali-bank",
+  "totalExams": 6,
+  "totalQuestions": 525,
+  "errors": [],
+  "exams": [
+    {
+      "examSlug": "Assit.-Programmer-_-Sonali-Bank,-Rubali-Bank,-BD-Krishi-Bank---16.11.2018",
+      "examTitle": "Assit. Programmer – Sonali Bank, Rubali Bank, BD Krishi Bank - 16.11.2018 প্রশ্ন ও সমাধান",
+      "questionCount": 74,
+      "file": "Assit.-Programmer-_-Sonali-Bank,-Rubali-Bank,-BD-Krishi-Bank---16.11.2018.json",
+      "url": "https://bdmerit.com/question-bank-details/bank-job/Assit.-Programmer-%7C-Sonali-Bank%2C-Rubali-Bank%2C-BD-Krishi-Bank---16.11.2018"
+    },
+    {
+      "examSlug": "Sonali,-Janata,-Agrani-&-Rupali-Bank-Ltd.-&-RAKUB-Officer-Recruitment-28.03.2008",
+      "examTitle": "Sonali, Janata, Agrani & Rupali Bank Ltd. & RAKUB Officer Recruitment 28.03.2008 প্রশ্ন ও সমাধান",
+      "questionCount": 119,
+      "file": "Sonali,-Janata,-Agrani-&-Rupali-Bank-Ltd.-&-RAKUB-Officer-Recruitment-28.03.2008.json",
+      "url": "https://bdmerit.com/question-bank-details/bank-job/Sonali%2C-Janata%2C-Agrani-%26-Rupali-Bank-Ltd.-%26-RAKUB-Officer-Recruitment-28.03.2008"
+    },
+    {
+      "examSlug": "Sonali,-Janata,-Agrani-&-Rupali-Bank-Ltd.-Senior-Officer-Recruitment-14.03.2008",
+      "examTitle": "Sonali, Janata, Agrani & Rupali Bank Ltd. Senior Officer Recruitment 14.03.2008 প্রশ্ন ও সমাধান",
+      "questionCount": 98,
+      "file": "Sonali,-Janata,-Agrani-&-Rupali-Bank-Ltd.-Senior-Officer-Recruitment-14.03.2008.json",
+      "url": "https://bdmerit.com/question-bank-details/bank-job/Sonali%2C-Janata%2C-Agrani-%26-Rupali-Bank-Ltd.-Senior-Officer-Recruitment-14.03.2008"
+    },
+    {
+      "examSlug": "Sonali,-Rupali,-Bangladesh-Krishi,-Rajshahi-krishi-unnayn,Investment-Corporation-of-Bangladesh-_-30.11.2018",
+      "examTitle": "Sonali, Rupali, Bangladesh Krishi, Rajshahi krishi unnayn,Investment Corporation of Bangladesh – 30.11.2018 প্রশ্ন ও সমাধান",
+      "questionCount": 79,
+      "file": "Sonali,-Rupali,-Bangladesh-Krishi,-Rajshahi-krishi-unnayn,Investment-Corporation-of-Bangladesh-_-30.11.2018.json",
+      "url": "https://bdmerit.com/question-bank-details/bank-job/Sonali%2C-Rupali%2C-Bangladesh-Krishi%2C-Rajshahi-krishi-unnayn%2CInvestment-Corporation-of-Bangladesh-%7C-30.11.2018"
+    },
+    {
+      "examSlug": "অফিসার-(ক্যাশ-)---Sonali-_-Rupali-_-BD-Krishi-_-Rajshahi-Krishi-Unnayn-_-Investment-Corporation-Of-Bangladesh---২৯.-০৩.২০১৯",
+      "examTitle": "অফিসার (ক্যাশ ) - Sonali – Rupali – BD Krishi – Rajshahi Krishi Unnayn – Investment Corporation Of Bangladesh - ২৯. ০৩.২০১৯ প্রশ্ন ও সমাধান",
+      "questionCount": 78,
+      "file": "অফিসার-(ক্যাশ-)---Sonali-_-Rupali-_-BD-Krishi-_-Rajshahi-Krishi-Unnayn-_-Investment-Corporation-Of-Bangladesh---২৯.-০৩.২০১৯.json",
+      "url": "https://bdmerit.com/question-bank-details/bank-job/%E0%A6%85%E0%A6%AB%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%B0-%28%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6-%29---Sonali-%7C-Rupali-%7C-BD-Krishi-%7C-Rajshahi-Krishi-Unnayn-%7C-Investment-Corporation-Of-Bangladesh---%E0%A7%A8%E0%A7%AF.-%E0%A7%A6%E0%A7%A9.%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AF"
+    },
+    {
+      "examSlug": "জনতা-ও-রূপালী-ব্যাংক--অফিসার-১৩.১২.২০১৯",
+      "examTitle": "জনতা ও রূপালী ব্যাংক- অফিসার ১৩.১২.২০১৯ প্রশ্ন ও সমাধান",
+      "questionCount": 77,
+      "file": "জনতা-ও-রূপালী-ব্যাংক--অফিসার-১৩.১২.২০১৯.json",
+      "url": "https://bdmerit.com/question-bank-details/bank-job/%E0%A6%9C%E0%A6%A8%E0%A6%A4%E0%A6%BE-%E0%A6%93-%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95--%E0%A6%85%E0%A6%AB%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A7%A7%E0%A7%A9.%E0%A7%A7%E0%A7%A8.%E0%A7%A8%E0%A7%A6%E0%A7%A7%E0%A7%AF"
+    }
+  ]
+}
